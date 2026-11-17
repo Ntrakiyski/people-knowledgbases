@@ -1,5 +1,5 @@
 # Evidence and review manifests use byte hashes; never normalize their line endings.
 knowledgebase/** -text
 # Imported bundles retain provider whitespace in transcripts, quotes and generated exports.
-knowledgebase/creator-knowledge-bases/** -whitespace
-knowledgebase/sharran-knowledge-base/** -whitespace
+knowledgebase/operations/peer-collection/** -whitespace
+knowledgebase/creators/** -whitespace

@@ -1,11 +1,14 @@
 {
-  "verified_at": "2026-11-17T07:22:46.725632+00:00",
+  "verified_at": "2026-11-17T07:58:54.160212+00:00",
   "migration": {
-    "original_files_verified_after_move": 2615,
+    "layout": "All six creator collections are siblings under knowledgebase/creators/; shared snapshot operations live under knowledgebase/operations/peer-collection/.",
+    "original_files_verified_after_move": 2642,
     "missing_original_files": 0,
-    "raw_and_export_files_verified_unchanged": 582,
-    "legacy_bundles_kept_separate": true,
-    "previous_local_paths": "compatibility symlinks; not required by the repository"
+    "immutable_evidence_and_checkpoint_files_verified_unchanged": 949,
+    "citation_formats_preserved": true,
+    "authored_navigation_links_checked": 11204,
+    "broken_authored_links": 0,
+    "previous_local_paths": "Updated compatibility symlinks; repository tools resolve paths without them"
   },
   "skills": {
     "validated": 4,
@@ -22,8 +25,8 @@
     "sharran_lint": "passed; 0 errors and warnings",
     "unit_tests": "23 passed: 14 incremental, 5 peer, 4 Sharran",
     "python_compilation": "passed",
-    "raw_and_export_integrity": "passed",
-    "new_documentation_links": "passed",
+    "raw_and_export_integrity": "passed; raw, exports, provider responses, extraction checkpoints and archived drafts unchanged",
+    "new_documentation_links": "passed; maintained Markdown navigation resolves after relocation",
     "credential_pattern_scan": "no findings; credentials and session files excluded"
   },
   "live_discovery_test": {

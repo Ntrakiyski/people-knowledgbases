@@ -5,9 +5,11 @@ description: Answer questions, compare creators and create research or decision 
 
 # Use the people knowledge base
 
+All people live under `knowledgebase/creators/<slug>/`, including Sharran. Shared five-creator tools and analysis live under `knowledgebase/operations/peer-collection/`; incremental tools remain under `knowledgebase/scripts/`.
+
 Start with [the library guide](../../../knowledgebase/README.md) and `knowledgebase/people.json`. This skill researches saved material; it does not fetch new posts or change the corpus unless the user also requests an update.
 
-Read applicable collection-local instructions, schema and current status. For the five-creator bundle read `coverage.json`; for Sharran read its `index.md`, `SCHEMA.md` and `status.md`. Include `knowledgebase/updates/index.md` and relevant incremental reviews: the legacy exports are snapshot datasets.
+Read applicable collection-local instructions, schema and current status. For the five-creator snapshot read `knowledgebase/operations/peer-collection/AGENTS.md`, `SCHEMA.md` and `coverage.json`; for Sharran read its `index.md`, `SCHEMA.md` and `status.md`. Include `knowledgebase/updates/index.md` and relevant incremental reviews: the legacy exports are snapshot datasets.
 
 Use profiles and cross-creator comparison as navigation, then support conclusions from source notes and captured original text. Search with `rg` before loading whole corpora. The five-creator `analysis/insights.jsonl` supports quoted-idea analysis; `analysis/video-reviews.jsonl` preserves whole-source context and limits. Sharran has a separate timestamped schema. Check the `review_scope` of the evidence you use.
 

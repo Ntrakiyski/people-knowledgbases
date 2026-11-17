@@ -1,0 +1,24 @@
+{
+  "cross_video_synthesis_complete": true,
+  "entity_synthesis_complete": true,
+  "reviewer": "Codex",
+  "review_date": "2026-11-16",
+  "scope": "Newest 40 Videos-tab uploads; scoped profile and entity-context synthesis, updated after the completed 99-source deeper pass. Source notes retain the direct-reading or NotebookLM draft scope recorded below; no independent fact checking.",
+  "independent_factual_verification": false,
+  "human_review": false,
+  "exhaustive_transcript_interpretation": false,
+  "entity_extraction_exhaustive": false,
+  "source_review_scopes": {
+    "complete-transcript-read-by-Codex": 40
+  },
+  "artifacts": {
+    "creator-profile.md": "3664598238055b77d89bdaea0997679ab3811166a5694834e0ebbf7a1fac2f8d",
+    "profile-notes.md": "aa446d39786458b973fb0a7726df29b898dbd98237f2260d3e6dad3043788b12",
+    "entities/review.md": "3c49741d0de08c44441aa0639853fba3da5f8448eeb9c35ab5f6085beda6cb02"
+  },
+  "deeper_review": {
+    "completed": 5,
+    "remaining": 0,
+    "target": 5
+  }
+}

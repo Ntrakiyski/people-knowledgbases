@@ -135,7 +135,7 @@ class MaterialsTests(unittest.TestCase):
         self.assertEqual(m.validate(self.root), [])
 
     def test_caption_capture_preserves_native_segments_and_skips_duplicate_download(self):
-        backend = self.root / 'sharran-knowledge-base/scripts/fetch_transcripts.py'
+        backend = self.root / 'creators/sharran-srivatsaa/scripts/fetch_transcripts.py'
         backend.parent.mkdir(parents=True)
         backend.write_text("def ytdlp(video_id):\n    return [{'start': 0.0, 'text': 'This fixture has enough words to support a quoted insight.'}]\n")
         m.queue(self.root, self.source)
@@ -149,7 +149,7 @@ class MaterialsTests(unittest.TestCase):
         self.assertEqual(m.validate(self.root), [])
 
     def test_blocked_caption_access_keeps_the_source_pending(self):
-        backend = self.root / 'sharran-knowledge-base/scripts/fetch_transcripts.py'
+        backend = self.root / 'creators/sharran-srivatsaa/scripts/fetch_transcripts.py'
         backend.parent.mkdir(parents=True)
         backend.write_text("def ytdlp(video_id):\n    raise RuntimeError('Access blocked')\n")
         m.queue(self.root, self.source)

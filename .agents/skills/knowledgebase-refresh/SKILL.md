@@ -5,6 +5,8 @@ description: Run a repeatable refresh of registered social accounts, discover ne
 
 # Refresh social materials
 
+All people live under `knowledgebase/creators/<slug>/`, including Sharran. Shared five-creator tools and analysis live under `knowledgebase/operations/peer-collection/`; incremental tools remain under `knowledgebase/scripts/`.
+
 Read [MAINTENANCE.md](../../../knowledgebase/MAINTENANCE.md) and the [people registry](../../../knowledgebase/people.json). This is an end-to-end agent workflow, not just a discovery command. Run serially. A scheduler may invoke this skill, but creating or invoking it does not install a recurring job; only schedule when the user requests it and supplies or accepts a cadence.
 
 ## Discover and reconcile

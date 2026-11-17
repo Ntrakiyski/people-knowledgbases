@@ -4,7 +4,7 @@ Run commands from the repository root unless a working directory is shown. Pytho
 
 ## Storage and scope
 
-`people.json` maps stable person slugs to official accounts and relative collection paths. The original bundles remain `creator-knowledge-bases/` and `sharran-knowledge-base/`; do not merge their different citation schemas. A new person's authored collection lives under `people/<slug>/` and is registered using the same metadata contract. Its baseline catalog uses `channel_id` and `videos` rows containing `youtube_id`, `title` and `url`.
+`people.json` maps stable person slugs to official accounts and relative collection paths. All six collections are peers under `creators/<slug>/`. Shared five-creator scripts, tests, schema, coverage, analysis and provider audit files live under `operations/peer-collection/`. Sharran retains its local schema and tools inside `creators/sharran-srivatsaa/`; preserve the two citation formats. A new person's authored collection lives under `creators/<slug>/` and is registered using the same metadata contract. Its baseline catalog uses `channel_id` and `videos` rows containing `youtube_id`, `title` and `url`.
 
 Preserve original catalogs, raw/manifest files and newest-40 selections. They describe the 2026-11-16 snapshot. A normal refresh adds material in `updates/`, including material for existing people, rather than redefining historical coverage. To expand the old archive selection, treat that as a separate explicit task.
 
@@ -105,7 +105,7 @@ After a legacy render changes reviewed artifacts, refresh hashes from the actual
 ```python
 import hashlib, json
 from pathlib import Path
-root = Path('knowledgebase/creator-knowledge-bases')
+root = Path('knowledgebase/creators')
 for path in root.glob('*/review.json'):
     review = json.loads(path.read_text())
     for relative in review['artifacts']:
@@ -130,7 +130,7 @@ python3 knowledgebase/scripts/materials.py validate
 python3 -m unittest discover -s knowledgebase/tests
 ```
 
-For the five-creator bundle, from `knowledgebase/creator-knowledge-bases/`:
+For the five-creator bundle, from `knowledgebase/operations/peer-collection/`:
 
 ```bash
 python3 scripts/render.py
@@ -143,7 +143,7 @@ python3 -m py_compile scripts/*.py
 
 `--require-complete` is the frozen selected scope, not the full 2,394-video archive or later social updates. All 99 target deeper reviews are complete, but 64 original NotebookLM drafts have not received complete direct readings. The `deepen.py` command is specific to the already finished selected-passage pass.
 
-For the Sharran bundle, from `knowledgebase/sharran-knowledge-base/`:
+For the Sharran bundle, from `knowledgebase/creators/sharran-srivatsaa/`:
 
 ```bash
 # After corpus changes, rebuild indexes/status using its local instructions.

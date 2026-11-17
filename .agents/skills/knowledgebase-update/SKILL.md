@@ -5,6 +5,8 @@ description: Add supplied materials, correct synthesis or deepen existing review
 
 # Update the knowledge base
 
+All people live under `knowledgebase/creators/<slug>/`, including Sharran. Shared five-creator tools and analysis live under `knowledgebase/operations/peer-collection/`; incremental tools remain under `knowledgebase/scripts/`.
+
 Read [MAINTENANCE.md](../../../knowledgebase/MAINTENANCE.md), the affected collection's `AGENTS.md`, schema and status. Find identity and collection paths in `knowledgebase/people.json`. Use `knowledgebase-refresh` when the task is to discover new publications; this workflow handles the actual evidence and synthesis changes.
 
 ## New material

@@ -4,8 +4,10 @@ Evidence-backed research on Sharran Srivatsaa, Alex Hormozi, Codie Sanchez, Dan 
 
 The repository has two main folders:
 
-- [`.agents/skills/`](.agents/skills/): skills to create, update, research and refresh the collections.
+- [`.agents/skills/`](.agents/skills): skills to create, update, research and refresh the collections.
 - [`knowledgebase/`](knowledgebase/README.md): all six people's collections, source evidence, analysis, datasets and maintenance scripts.
+
+All six creators are peers under [`knowledgebase/creators/`](knowledgebase/creators/index.md). Shared operations, scripts, tests and update records sit alongside that folder.
 
 The original snapshot contains 240 YouTube transcripts: 40 Sharran videos plus 40 videos for each of five related creators. In the five-creator collection, 136 of 200 source notes have complete-transcript readings and 64 retain NotebookLM drafts. The 99-source deeper pass is complete. Source wording is checked; creator claims are not independently verified. X account links do not mean X posts were imported.
 

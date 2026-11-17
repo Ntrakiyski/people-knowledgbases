@@ -222,7 +222,7 @@ def capture(root, creator_slug, source_id, provider):
     queued = next((row for row in catalog(root)['items'] if material_key(row) == material_key(identity)), None)
     if queued is None:
         raise ValueError('Discover or explicitly queue this video before capturing it')
-    spec = importlib.util.spec_from_file_location('caption_backend', root / 'sharran-knowledge-base/scripts/fetch_transcripts.py')
+    spec = importlib.util.spec_from_file_location('caption_backend', root / 'creators/sharran-srivatsaa/scripts/fetch_transcripts.py')
     backend = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(backend)
     if provider == 'supadata':
