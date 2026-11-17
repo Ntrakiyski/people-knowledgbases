@@ -1,0 +1,50 @@
+{
+  "youtube_id": "m5N4KEpAG-s",
+  "thesis": "Selected opportunity advice favors real-world exposure and action, including a strong preference for saying yes.",
+  "summary": "The reviewed passages promote in-person meetings, unfamiliar environments, and acting on ideas encountered through others. The creator explicitly challenges blanket boundary-setting advice. That position contrasts with other creators' emphasis on declining opportunities and should remain contextual. Numerical meeting targets and guaranteed growth claims are not validated.",
+  "insights": [
+    {
+      "slug": "in-person-exposure",
+      "title": "Consider whether direct contact improves a particular relationship",
+      "explanation": "The creator strongly prefers in-person meetings. That preference does not establish accessibility or superiority for every purpose.",
+      "quote": "meetings that you're having one-on-one with people to be in person",
+      "character_start": 1525,
+      "character_end": 1591,
+      "tags": [
+        "relationships",
+        "communication"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "constructive-friction",
+      "title": "Choose some environments that require learning or social effort",
+      "explanation": "The source favors discomfort as part of growth. Not every difficult environment is useful or safe.",
+      "quote": "choose environments that actually create discomfort for you",
+      "character_start": 9994,
+      "character_end": 10053,
+      "tags": [
+        "learning",
+        "agency"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "opportunity-exposure",
+      "title": "Keep this source's expansionary stance distinct from focus advice",
+      "explanation": "The creator argues for more participation and exposure. It is a contextual position, not a universal rule against boundaries.",
+      "quote": "i want you to say yes more",
+      "character_start": 12026,
+      "character_end": 12052,
+      "tags": [
+        "opportunity",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "066cdd5e-9194-405f-82be-a040c420f8fb",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

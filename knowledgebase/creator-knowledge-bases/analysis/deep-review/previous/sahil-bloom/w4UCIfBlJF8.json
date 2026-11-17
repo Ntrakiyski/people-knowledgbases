@@ -1,0 +1,50 @@
+{
+  "youtube_id": "w4UCIfBlJF8",
+  "thesis": "The day-in-the-life source aligns important work with energy and treats large projects as accumulated sessions.",
+  "summary": "Reviewed passages describe early quiet writing, repeated small contributions to a book, and matching work to periods of useful energy. The vlog is a personal schedule, not proof that the same hours or lifestyle resources suit another person. This is a selected-passages review of a longer source.",
+  "insights": [
+    {
+      "slug": "energy-work-alignment",
+      "title": "Match demanding work to personally useful energy windows",
+      "explanation": "The creator asks when focus or creativity is strongest and assigns the corresponding work there.",
+      "quote": "make sure you're doing that type of work during that window",
+      "character_start": 17436,
+      "character_end": 17495,
+      "tags": [
+        "time-management",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "creation-before-reactivity",
+      "title": "Protect creative work before the day becomes reactive",
+      "explanation": "His early start is explained by a desire for quiet creative time, not as a universal requirement to wake early.",
+      "quote": "a few hours of quiet creative work prior to the chaos of life",
+      "character_start": 1111,
+      "character_end": 1172,
+      "tags": [
+        "creation",
+        "attention"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "project-compounding",
+      "title": "Break a large project into repeated sessions",
+      "explanation": "The book example shifts attention from finishing in a day to making another focused contribution.",
+      "quote": "you're not going to write an entire book in a day",
+      "character_start": 2513,
+      "character_end": 2562,
+      "tags": [
+        "writing",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "fa449f3a-0a10-4bee-a840-c1b3ddcf9177",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

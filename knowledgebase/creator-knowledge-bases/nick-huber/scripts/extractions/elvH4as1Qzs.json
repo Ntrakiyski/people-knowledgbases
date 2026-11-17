@@ -1,0 +1,63 @@
+{
+  "youtube_id": "elvH4as1Qzs",
+  "thesis": "Delegation should protect growth work while reflecting the owner's goals, cash position, and risk tolerance.",
+  "summary": "The participant proposes protecting a quarter of working time for important but nonurgent activities as a personal hiring heuristic. He contrasts owner-dependent businesses with organizations that can make decisions without the founder, while acknowledging that some people deliberately prefer a smaller operation. Cash constraints and the risks of hiring ahead of demand qualify the advice. The interview ends by promoting Somewhere, a recruiting business in which he says he is involved. Reported international salaries and overhead savings are his commercial claims rather than independently verified comparisons.",
+  "insights": [
+    {
+      "slug": "growth-time-delegation",
+      "title": "Track whether urgent delivery displaces future growth",
+      "explanation": "The suggested 25 percent allocation is the speaker's rule of thumb. It prompts a capacity review when a full workweek leaves no space for selling, recruiting, strategy, or development.",
+      "quote": "as soon as you're not spending 25% of your working hours on things that are important but not urgent",
+      "character_start": 579,
+      "character_end": 679,
+      "tags": [
+        "delegation",
+        "time-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "owner-goal-fit",
+      "title": "Choose the organization around the life and business desired",
+      "explanation": "The discussion allows that not every owner wants acquisitions or a large enterprise. Delegation decisions therefore depend partly on desired autonomy and scale, rather than one mandatory model of success.",
+      "quote": "I think it depends on what you want",
+      "character_start": 2019,
+      "character_end": 2054,
+      "tags": [
+        "life-design",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "cash-constrained-hiring",
+      "title": "Include cash availability in delegation decisions",
+      "explanation": "The speaker recognizes that hiring is difficult when the business cannot pay people. This qualification matters because a time-allocation rule alone does not establish affordable staffing.",
+      "quote": "running a business without cash is really freaking hard and nobody talks about that",
+      "character_start": 2701,
+      "character_end": 2784,
+      "tags": [
+        "cash-flow",
+        "hiring"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "international-staffing",
+      "title": "Separate a staffing tactic from its seller's cost claims",
+      "explanation": "The participant advocates international back-office staffing and discloses involvement in Somewhere. His portfolio figures illustrate his claimed economics, not guaranteed savings for another employer.",
+      "quote": "i got involved in a business four years ago called somewhere.com",
+      "character_start": 3500,
+      "character_end": 3564,
+      "tags": [
+        "hiring",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "48f77d76-df43-4c01-97b0-a2f2b9b5a478",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

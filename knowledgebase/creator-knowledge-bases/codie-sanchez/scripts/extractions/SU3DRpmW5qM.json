@@ -1,0 +1,81 @@
+{
+  "youtube_id": "SU3DRpmW5qM",
+  "thesis": "Match financial tactics to resources while preserving debt discipline, liquidity and operating capacity.",
+  "summary": "The wealth-elevator metaphor starts with financial literacy, manual expense tracking and automated low-cost investing. Lower floors emphasize survival costs, emergency reserves, skills and expensive-debt payoff, including avalanche and snowball options. Later floors add employer matches, retirement and taxable investments, minority ownership, conditional alternatives and delegation. Full ownership is proposed after investment cash flow covers living costs; the upper level mixes concentrated business attention, other streams, preservation and legacy.",
+  "insights": [
+    {
+      "slug": "paycheck-automation",
+      "title": "Build a conventional investing foundation",
+      "explanation": "She positively describes automatically buying low-cost index funds rather than uniformly rejecting public markets.",
+      "quote": "put it in the market at the lowest cost index funds you can find",
+      "tags": [
+        "investing",
+        "automation"
+      ],
+      "character_start": 1922,
+      "character_end": 1986,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "debt-method-fit",
+      "title": "Choose a payoff method that will be followed",
+      "explanation": "She favors the high-interest avalanche mathematically but allows the small-balance snowball for adherence.",
+      "quote": "The best debt payoff method is the one you'll actually stick to",
+      "tags": [
+        "debt",
+        "habits"
+      ],
+      "character_start": 12401,
+      "character_end": 12464,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "illiquid-allocation-limits",
+      "title": "Keep liquid resources and understand alternatives",
+      "explanation": "Her alternatives section names limited access and higher risk, and gives a personal allocation cap.",
+      "quote": "If you can't explain how the investment makes you money in three sentences or less",
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "character_start": 27273,
+      "character_end": 27355,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "productive-delegation",
+      "title": "Reinvest purchased time deliberately",
+      "explanation": "She conditions the money/time flywheel on using recovered hours for the intended purpose.",
+      "quote": "don't do them if you're not going to spend your time actually accelerating it",
+      "tags": [
+        "delegation",
+        "time"
+      ],
+      "character_start": 30394,
+      "character_end": 30471,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "cashflow-before-exit",
+      "title": "Use sustained investment income as an exit condition",
+      "explanation": "The proposal keeps employment until cash flow covers basic living needs; it does not establish that income will stay stable.",
+      "quote": "Keep your job Use your salary to fund them",
+      "tags": [
+        "income",
+        "ownership"
+      ],
+      "character_start": 19927,
+      "character_end": 19969,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "e6695c5e-0487-43c9-989d-25e2e674583d",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Income bands are a presentation device, not validated eligibility criteria or a guaranteed path to $10 million. Tax limits, retirement treatment, employer matches, withdrawal rules and quoted returns require current independent review. Her 0.5%-equity/10x/$500,000 example lacks a starting valuation and grant terms; it is not established by the stated inputs. Minority stakes do not guarantee distributions or information rights. She explicitly notes illiquidity, loss risk, cash cushions and delegating only if time is productively reused.",
+  "review_changes": "Adds conventional-investing support despite the opening contrast, risk and liquidity constraints, debt-method flexibility, and the difference between illustrative acquisition leverage and an investment return.",
+  "deep_review_date": "2026-11-16T20:54:08.588513+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/SU3DRpmW5qM.json",
+  "previous_draft_sha256": "5ffcb0ab1db93736bd5de73fde78370c99de0b2e789d9b553ea6acdf83f55343"
+}

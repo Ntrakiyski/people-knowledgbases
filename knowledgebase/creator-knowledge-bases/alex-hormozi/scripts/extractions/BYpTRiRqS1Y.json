@@ -1,0 +1,81 @@
+{
+  "youtube_id": "BYpTRiRqS1Y",
+  "thesis": "Educational businesses scale through the right market, offer economics, coordinated acquisition and customer activation.",
+  "summary": "Four owners ask about local real-estate education, motocross camps, real-estate-agent coaching and adviser sales training. Alex separates a local operator's impact goal from national delivery, proposing free content plus stronger local sales. He advises the camp operator to emphasize profitable multi-day camps rather than copy a low-profit competitor, recounting his own damaging defensive price cut. For a coaching brand he recommends in-house brand capability and coordinated paid ads/sales suited to colder buyers. For the adviser business he separates a valuable one-time skill from ongoing consumables and works backward from better-retained customers to selection and activation.",
+  "insights": [
+    {
+      "slug": "local-operations-broad-impact",
+      "title": "Separate operating geography from audience reach",
+      "explanation": "The local founder can distribute educational content broadly while improving a geographically bounded operation. National operating expansion is not the only way to pursue impact.",
+      "quote": "it would be far easier for you to just make content about the stuff you're doing",
+      "tags": [
+        "focus",
+        "distribution"
+      ],
+      "character_start": 4355,
+      "character_end": 4435,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "competitor-price-cut-cost",
+      "title": "Avoid copying a competitor's weak economics",
+      "explanation": "Alex says his defensive price cut and extra service reduced profit without reducing churn. This personal account supports testing economics rather than treating a competitor's offer as a model.",
+      "quote": "my churn changed zero so I just cut my top line",
+      "tags": [
+        "pricing",
+        "competition"
+      ],
+      "character_start": 11973,
+      "character_end": 12020,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "cold-traffic-sales-motion",
+      "title": "Paid reach can require a different sales process",
+      "explanation": "A funnel built around an enthusiastic organic audience may convert less well when colder buyers enter. He recommends developing sales and advertising together.",
+      "quote": "it's totally different selling to cold than is to to warm",
+      "tags": [
+        "advertising",
+        "sales"
+      ],
+      "character_start": 18698,
+      "character_end": 18755,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "separate-skill-from-consumables",
+      "title": "Price one-time learning separately from ongoing value",
+      "explanation": "Once a customer learns the core skill, continuing fees need a distinct continuing benefit such as leads or support. The right price and delivery cost remain context dependent.",
+      "quote": "you have to separate out the consumables from the one-time things",
+      "tags": [
+        "education",
+        "retention"
+      ],
+      "character_start": 22445,
+      "character_end": 22510,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "activation-and-customer-selection",
+      "title": "Compare who activates and what they do",
+      "explanation": "He proposes examining retained customers' characteristics and early behavior, then improving selection and onboarding. The pattern is a hypothesis for testing, not causal proof.",
+      "quote": "what did the other people who look like them not do",
+      "tags": [
+        "activation",
+        "segmentation"
+      ],
+      "character_start": 25985,
+      "character_end": 26036,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6584b4de-3837-4539-a17d-7ff94b8a67ad",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Coaching suggestions and revenue capacities are proposals, not demonstrated results. The owner supplies figures; Alex's price-cut loss and valuation impact are unverified retrospective estimates. The statement that customer focus prevents business failure is an overgeneralization. Paid-media uplift is explicitly not guaranteed. Customer behavior associated with retention may reflect selection rather than cause. Alex is commercially interested in Skool and his advisory workshops.",
+  "review_changes": "Adds the impact-versus-delivery distinction, the costly competitor-response story, cold-traffic sales changes, and separation of one-time instruction from ongoing value.",
+  "deep_review_date": "2026-11-16T21:02:23.210436+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/BYpTRiRqS1Y.json",
+  "previous_draft_sha256": "1f89e9ca69f03abfa487f050c2b8e25eb6e69f4afdcfbb1afb4e2f215799af47"
+}

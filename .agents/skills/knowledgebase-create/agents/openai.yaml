@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create a people knowledge base"
+  short_description: "Build a cited collection for a new person"
+  default_prompt: "Use $knowledgebase-create to create a transcript-grounded knowledge base for this person using their confirmed social accounts."

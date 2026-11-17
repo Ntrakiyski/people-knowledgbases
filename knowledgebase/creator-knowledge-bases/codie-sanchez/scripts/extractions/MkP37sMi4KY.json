@@ -1,0 +1,67 @@
+{
+  "youtube_id": "MkP37sMi4KY",
+  "thesis": "Codie Sanchez shares twenty years of career and wealth building lessons, advocating for self-advocacy, in-person collaboration, rapid decision velocity, and high-performance talent standards.",
+  "summary": "Building long-term wealth demands taking calculated career risks and committing to relentless self-advocacy. While well-meaning family members often encourage comfortable paths, substantial growth requires placing oneself in high-opportunity environments. Working in physical proximity with driven peers accelerates learning and networking far more effectively than remote comfort. Career advancement relies on linking compensation to measurable business outcomes rather than passive attendance. Furthermore, maintaining rapid decision velocity—preferring fast, reversible mistakes over slow indecision—enables entrepreneurs to adapt quickly. Finally, building high-performing teams requires hiring exceptional talent while swiftly parting ways with underperforming staff.",
+  "insights": [
+    {
+      "slug": "perceived-risk",
+      "title": "Growth initiatives look reckless to stationary observers",
+      "explanation": "Codie Sanchez observes that pursuing ambitious career leaps often appears unnecessarily risky to comfortable observers. Taking calculated risks remains essential for achieving substantial financial growth.",
+      "quote": "risk always looks reckless to the people standing still it only stops looking crazy once you can start lifting them with you",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "risk",
+        "life-design",
+        "leadership"
+      ],
+      "character_start": 3111,
+      "character_end": 3235
+    },
+    {
+      "slug": "in-person-friction",
+      "title": "In person work creates competitive learning and networking advantages",
+      "explanation": "Codie Sanchez argues that remote work prioritizes short-term comfort over rapid professional development. Being physically present with high performers fosters spontaneous opportunities and accelerates career progression.",
+      "quote": "remote work optimizes for your comfort growth is not about comfort and you don't get that friction that difficulty from sitting on your couch",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "productivity",
+        "operations",
+        "learning"
+      ],
+      "character_start": 4286,
+      "character_end": 4427
+    },
+    {
+      "slug": "decision-velocity",
+      "title": "Fast reversible decisions outperform slow analysis",
+      "explanation": "Codie Sanchez contends that making rapid choices allows businesses to gather feedback and course-correct quickly. Prolonged indecision carries higher hidden costs than making reversible mistakes.",
+      "quote": "a fast wrong answer is almost always cheaper than a slow right one",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "productivity",
+        "leadership",
+        "risk"
+      ],
+      "character_start": 19573,
+      "character_end": 19639
+    },
+    {
+      "slug": "seasonal-intensity",
+      "title": "Enterprise building requires distinct seasons of focused work intensity",
+      "explanation": "Codie Sanchez challenges the concept of constant work-life balance during early growth phases. Building significant enterprises requires periods of intense, concentrated effort before operational stability is achieved.",
+      "quote": "work life balance is largely a lie and I'm going to be honest with you guys about this",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "productivity",
+        "life-design",
+        "operations"
+      ],
+      "character_start": 22928,
+      "character_end": 23014
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "83524aa3-c105-4eb8-bc8c-a52d2d4e027e",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

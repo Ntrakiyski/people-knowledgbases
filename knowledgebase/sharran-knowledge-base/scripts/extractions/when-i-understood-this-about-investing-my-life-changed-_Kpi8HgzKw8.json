@@ -1,0 +1,173 @@
+{
+  "slug": "when-i-understood-this-about-investing-my-life-changed-_Kpi8HgzKw8",
+  "thesis": "Sharran’s investment system compares after-cost economics, repayment priority, counterparties, and the investor’s own role instead of chasing headlines.",
+  "summary": "Sharran begins with consistency and compounding, arguing that waiting in cash or repeatedly interrupting investments can undermine long-term results. He says taxes and fees reduce the return that actually reaches the investor and discusses tax-advantaged vehicles in simplified US examples. He then explains capital-stack repayment order and recounts losing a million dollars despite structuring most of the investment as debt, leading to his four-goods due-diligence framework.\n\nThe comparison tool is a subjective scorecard across capital preservation, tax efficiency, cash flow, and growth, each allocated twenty-five points. He next distinguishes active, thematic, and passive investors by the work they actually do and says passive investors must identify the active operator behind their returns. His description of funding his children’s Roth IRAs differs from the whole-life-instead-of-Roth account in the millionaire-kids video; both are retained as source-specific statements. Historical return studies and tax claims remain attributed to the speaker.",
+  "tags": [
+    "investing",
+    "due-diligence",
+    "decision-making"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:01:14",
+      "note": "Consistent investing and time."
+    },
+    {
+      "ts": "0:02:24",
+      "note": "Taxes and fees as friction."
+    },
+    {
+      "ts": "0:04:14",
+      "note": "Business understanding and capital-stack risk."
+    },
+    {
+      "ts": "0:07:34",
+      "note": "Four goods and mutual background checks."
+    },
+    {
+      "ts": "0:09:13",
+      "note": "Four-part investment scorecard."
+    },
+    {
+      "ts": "0:11:07",
+      "note": "Active, thematic, and passive roles."
+    },
+    {
+      "ts": "0:14:39",
+      "note": "After-tax, after-fee returns and repayment priority."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "capital-stack",
+      "name": "Capital stack",
+      "one_liner": "The hierarchy of debt and equity claims determining who is repaid first when a business fails.",
+      "explanation": "Sharran explains senior debt, intermediate claims, and equity through a simplified company example, then compares them with a mortgage lender being paid before a homeowner. The key question is where the investor stands in the repayment line. His own fraud-loss story complicates the apparent protection: lending most of the money did not save it when the operator disappeared. Thus priority matters, but it does not replace understanding the underlying business and counterparty.",
+      "tags": [
+        "investing",
+        "due-diligence",
+        "decision-making"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:33",
+          "text": "whoever is on top gets paid first and whoever is on bottom gets paid last."
+        }
+      ],
+      "related": [
+        "four-goods",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "four-goods",
+      "name": "Four goods",
+      "one_liner": "A sequence of people, intentions, rationale, and contracts used to evaluate a deal.",
+      "explanation": "After describing an investment loss, Sharran develops the filter in more detail. Good people includes references and a mutual background check. Good intentions examines why the deal exists, incentives, and what the operator stands to lose. Good rationale requires a usable financial model, which he treats as evidence of actual planning. Only after these checks does he finalize contracts. His story stresses that paperwork and apparent debt protection cannot compensate for a fraudulent operator.",
+      "tags": [
+        "investing",
+        "due-diligence",
+        "decision-making"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:13",
+          "text": "Good people, good intentions, good rationale, and only then good contracts."
+        }
+      ],
+      "related": [
+        "capital-stack",
+        "investment-x-ray",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "investment-x-ray",
+      "name": "Investment x-ray",
+      "one_liner": "A subjective four-factor scorecard for comparing competing investment opportunities.",
+      "explanation": "Sharran scores capital preservation, tax efficiency, cash flow, and growth at up to twenty-five points apiece. His Apple and Bitcoin examples produce different totals by revealing tradeoffs between income, perceived safety, and growth potential. He explicitly calls the scoring arbitrary and says it is not the final answer. The usefulness lies in making the investor articulate dimensions consistently rather than implying that a score independently measures true expected performance or risk.",
+      "tags": [
+        "investing",
+        "due-diligence",
+        "decision-making"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:45",
+          "text": "even though it's an arbitrary score, it allows me to quickly understand how to analyze an investment."
+        }
+      ],
+      "related": [
+        "four-goods",
+        "after-cost-returns",
+        "investor-roles"
+      ]
+    },
+    {
+      "slug": "investor-roles",
+      "name": "Investor roles",
+      "one_liner": "Distinguishing active operation, thematic exposure, and delegation to active investment managers.",
+      "explanation": "Sharran asks what responsibility the investor has in making an investment work. Active investors find, research, manage, or operate assets as a substantial job. Thematic investors express a view about areas such as technology, AI, countries, or gold. Passive investors select active managers or operators who do the work on their behalf. He warns against chains of supposedly passive participants when no one is visibly responsible for producing the underlying returns.",
+      "tags": [
+        "investing",
+        "due-diligence",
+        "decision-making"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:07",
+          "text": "There are three types of investors. Active, thematic, and passive."
+        }
+      ],
+      "related": [
+        "passive-income",
+        "risk-and-control",
+        "investment-x-ray"
+      ]
+    },
+    {
+      "slug": "after-cost-returns",
+      "name": "After-cost returns",
+      "one_liner": "Investment results measured after tax and fee friction rather than by headline performance.",
+      "explanation": "Sharran argues that a strong advertised return can leave much less actual wealth once taxes and fees are considered over time. His proposed responses include understanding account structures, tax treatment, and investment costs before buying. He mentions retirement accounts, opportunity zones, and depreciation as US examples, with simplified benefits attributed to him. The central comparison is what the investor keeps, not the most exciting gross number or the asset receiving the most publicity.",
+      "tags": [
+        "investing",
+        "due-diligence",
+        "decision-making"
+      ],
+      "quotes": [
+        {
+          "ts": "0:14:39",
+          "text": "After tax returns and after fee returns are actually the real returns."
+        }
+      ],
+      "related": [
+        "investment-x-ray",
+        "compound-growth"
+      ]
+    },
+    {
+      "slug": "financial-education-for-children",
+      "name": "Financial education for children",
+      "one_liner": "Connect real paid work with early ownership and time for compounding.",
+      "explanation": "Sharran describes his children doing legitimate paid work in his business, including graphic design and AI-related tasks. He says he directs their earnings into Roth IRAs so that compounding can begin early. Unlike the millionaire-kids video’s emphasis on policies instead of Roth or education accounts, this account explicitly names Roth contributions. The corpus does not explain whether these refer to separate funding streams or periods, so the accounts remain distinct rather than being reconciled by inference.",
+      "tags": [
+        "family",
+        "financial-education",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:56",
+          "text": "And I take all their income and put it into a Roth IRA."
+        }
+      ],
+      "related": [
+        "compound-growth",
+        "invest-first",
+        "whole-life-banking"
+      ]
+    }
+  ],
+  "entities": []
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "the-most-underrated-skill-that-could-make-you-rich-cLyDlUG55mk",
+  "thesis": "Srivatsaa recommends grouping ideas in threes, packaging them visually, and sequencing communication as why, what, how, and now.",
+  "summary": "Srivatsaa argues that communication can influence career outcomes and teaches three techniques drawn from his own speaking practice. First, the one, two, three, too many rule limits an explanation to three main ideas, as in reducing, deferring, or eliminating taxes. Second, he recommends using simple geometric shapes to turn a complex web of ideas into a visual framework that listeners can remember and repeat. He credits speaking coach Richard Green, as rendered in the transcript, with helping him learn this packaging technique.\n\nThe third technique is the process transcribed as format: why, what, how, and now. Why establishes relevance, urgency, and credibility; what provides an overview; how explains implementation; now identifies the first actionable step. He applies this sequence to presentations and everyday meeting updates, warning against jumping into procedural detail before listeners have context. As a practical aid, he suggests speaking a rough idea into AI and requesting that structure explicitly. Autobiographical claims about coaching cost and the general superiority of communication to technical skill remain the speaker’s framing, rather than demonstrated universal career rules.",
+  "tags": [
+    "communication",
+    "presentations",
+    "learning",
+    "career"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:32",
+      "note": "Introduces the one two three too many rule."
+    },
+    {
+      "ts": "0:02:30",
+      "note": "Introduces geometric packaging of ideas."
+    },
+    {
+      "ts": "0:05:18",
+      "note": "Explains using circles, triangles, and squares."
+    },
+    {
+      "ts": "0:07:38",
+      "note": "Defines the why what how now sequence."
+    },
+    {
+      "ts": "0:09:38",
+      "note": "Explains the high level what frame."
+    },
+    {
+      "ts": "0:11:00",
+      "note": "Defines now as the first domino."
+    },
+    {
+      "ts": "0:12:32",
+      "note": "Suggests having AI restructure a rough idea."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "rule-of-three",
+      "name": "Rule of Three",
+      "one_liner": "Group an explanation into three memorable main ideas before adding detail.",
+      "explanation": "Srivatsaa says overwhelming audiences with many points caused attention to fade in both keynotes and conversations. His one, two, three, too many rule is a packaging discipline: use three top level ideas, then explain each. The tax example becomes reduce, defer, or eliminate, providing categories for later detail. He cites familiar three part titles and frameworks to emphasize recall. The principle is organizing the explanation, not claiming every subject inherently contains only three components.",
+      "tags": [
+        "communication",
+        "presentations",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:59",
+          "text": "They call it the rule of threes."
+        }
+      ],
+      "related": [
+        "visual-frameworks",
+        "why-what-how-now"
+      ]
+    },
+    {
+      "slug": "visual-frameworks",
+      "name": "Visual Frameworks",
+      "one_liner": "Simple geometric diagrams can make a complex idea easier to remember and share.",
+      "explanation": "Srivatsaa recounts a coach explaining that an interconnected idea must be packaged before it can move into someone else’s understanding. He suggests a divided circle, labeled triangle, or square as containers, with a cash flow quadrant as his example of remembered structure. He says this improved whiteboards and slides and encouraged listeners to reuse his diagrams. The teaching focuses on a simple visual relationship that carries the idea, rather than decorating a presentation.",
+      "tags": [
+        "communication",
+        "presentations",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:18",
+          "text": "use a simple shape like a circle where you can divide it into four parts or a triangle"
+        }
+      ],
+      "related": [
+        "rule-of-three",
+        "why-what-how-now"
+      ]
+    },
+    {
+      "slug": "why-what-how-now",
+      "name": "Why, What, How, and Now",
+      "one_liner": "Sequence an explanation from relevance through overview and implementation to the immediate next action.",
+      "explanation": "The process transcribed as format has four stages. Why answers why the topic matters, why now, and why the speaker is credible, helping a distracted listener refocus. What supplies a bird’s eye roadmap before how gives actual steps. Now selects the first domino, such as a report being sent tomorrow. Srivatsaa also suggests asking AI to reorganize spoken rough notes into these stages, preserving the structure rather than accepting an arbitrary generated script.",
+      "tags": [
+        "communication",
+        "presentations",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:38",
+          "text": "The why, the what, the how, and the now."
+        }
+      ],
+      "related": [
+        "rule-of-three",
+        "visual-frameworks"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "richard-greene",
+      "name": "Richard Greene",
+      "subtype": "person",
+      "one_liner": "Speaking coach credited with teaching the speaker to package ideas visually.",
+      "explanation": "The transcript spells the coach’s surname Green. Srivatsaa identifies him as Tony Robbins’s speaking coach and recounts exercises that exposed how many ideas he was trying to communicate at once. The geometric packaging lesson is attributed to that coaching session.",
+      "resource": "",
+      "quotes": [
+        {
+          "ts": "0:04:24",
+          "text": "Richard Green, Tony Robbins, speaking coach, explained to me"
+        }
+      ]
+    }
+  ]
+}

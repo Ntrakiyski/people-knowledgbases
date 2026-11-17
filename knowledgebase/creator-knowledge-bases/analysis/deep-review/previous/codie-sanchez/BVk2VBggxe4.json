@@ -1,0 +1,50 @@
+{
+  "youtube_id": "BVk2VBggxe4",
+  "thesis": "Selected money-mindset passages distinguish avoidance and dissatisfaction from employment itself.",
+  "summary": "The creator uses archetypes to discuss financial avoidance, an unhappy employee, and a savings-supported exit plan. She explicitly says employment is not inherently wrong and presents mindsets as changeable. These are reflection categories rather than diagnoses, and the psychological framing does not establish that beliefs alone determine wealth.",
+  "insights": [
+    {
+      "slug": "financial-avoidance",
+      "title": "Notice avoidance rather than treating money anxiety as incapacity",
+      "explanation": "The source suggests fear can underlie postponing financial tasks. It does not diagnose a viewer or supply a complete remedy.",
+      "quote": "it doesn't always mean you're bad at money you're scared of it",
+      "character_start": 7853,
+      "character_end": 7915,
+      "tags": [
+        "personal-finance",
+        "mindset"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "employment-fit",
+      "title": "Separate being employed from being persistently unhappy at work",
+      "explanation": "The creator's criticism concerns a particular experience of employment rather than all jobs.",
+      "quote": "there is nothing wrong with being an employee",
+      "character_start": 15614,
+      "character_end": 15659,
+      "tags": [
+        "career",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "exit-option-planning",
+      "title": "Connect a desired work change with a concrete financial plan",
+      "explanation": "The source proposes naming a possible exit date and building toward it. Savings needs and alternatives require individual assessment.",
+      "quote": "write down what your liberation day could be",
+      "character_start": 17559,
+      "character_end": 17603,
+      "tags": [
+        "career",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6873f0b6-8669-4b23-8346-f2984fd21ce2",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

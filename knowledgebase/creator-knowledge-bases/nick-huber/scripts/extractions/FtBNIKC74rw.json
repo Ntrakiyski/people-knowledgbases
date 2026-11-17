@@ -1,0 +1,50 @@
+{
+  "youtube_id": "FtBNIKC74rw",
+  "thesis": "The speaker attributes audience growth to relevant experience, writing, transparency, and favorable platform timing.",
+  "summary": "The interview describes building an audience by sharing actual business experience and developing strong copy. The participant says writing comes readily to him, while acknowledging the difficulty of tolerating judgment. He also says similar posts attracted far more followers in 2021 than later, explicitly crediting timing. Sharing business details is presented as both an exposure risk and a source of trust, friendships, customers, and mentors. This is a retrospective account of his creator strategy; it does not establish a general growth formula or prove that transparency is appropriate for every business.",
+  "insights": [
+    {
+      "slug": "experience-backed-content",
+      "title": "Use real experience as source material",
+      "explanation": "The speaker sees his operating background as material worth sharing. This describes one basis for business education content, without proving that only wealthy or already famous people can create useful work.",
+      "quote": "I had built some self- storage facilities I had built a business",
+      "character_start": 1341,
+      "character_end": 1405,
+      "tags": [
+        "creator-strategy",
+        "writing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "platform-timing",
+      "title": "Include platform conditions in audience-growth stories",
+      "explanation": "The participant compares follower gains from similar posts across periods and explicitly credits timing. The reported numbers are anecdotal, but they qualify claims that his earlier results are readily repeatable.",
+      "quote": "I got very lucky with my timing on X",
+      "character_start": 2788,
+      "character_end": 2824,
+      "tags": [
+        "distribution",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "transparent-business-content",
+      "title": "Evaluate both trust and exposure from public detail",
+      "explanation": "The speaker connects openness to relationships and purchases while acknowledging downside. This records his claimed tradeoff, not consent to disclose another person's confidential information.",
+      "quote": "the upside is that people begin to trust you",
+      "character_start": 3417,
+      "character_end": 3461,
+      "tags": [
+        "trust",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "f254547a-e651-4e88-a15a-9aaa700af0c4",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

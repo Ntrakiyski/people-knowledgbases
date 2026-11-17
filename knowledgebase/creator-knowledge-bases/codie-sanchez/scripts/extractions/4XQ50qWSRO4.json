@@ -1,0 +1,66 @@
+{
+  "youtube_id": "4XQ50qWSRO4",
+  "thesis": "Prioritizing immediate order value over speculative lifetime customer metrics prevents business insolvency and ensures sustainable operating margins.",
+  "summary": "A speaker explains that relying on projected customer lifetime values creates false confidence and drains operating capital. Because many buyers fail to make recurring purchases, businesses must structure initial transactions to achieve immediate profitability. Raising baseline pricing to reflect delivered value rather than copying competitor rates expands gross margins. Furthermore, offering tiered service options, priority scheduling, and complementary solutions increases upfront revenue without requiring additional customer acquisition expenditures.",
+  "insights": [
+    {
+      "slug": "immediate-order-profitability",
+      "title": "Structure initial customer transactions for immediate profitability",
+      "explanation": "A speaker cautions against relying on long-term customer projections to offset upfront acquisition expenses. Structuring initial transactions to generate immediate profit protects operating capital.",
+      "quote": "if you're profitable on the first order you never need a projection to save you You win even when you mess up",
+      "speaker": "Codie",
+      "tags": [
+        "cash-flow",
+        "operations",
+        "sales"
+      ],
+      "character_start": 3444,
+      "character_end": 3553
+    },
+    {
+      "slug": "value-based-pricing-expansion",
+      "title": "Set prices based on outcome value rather than competitor rates",
+      "explanation": "A speaker advises determining prices by assessing the tangible value delivered to clients rather than copying market standards. Value-based pricing captures higher margins while avoiding arbitrary rate limits.",
+      "quote": "the number should follow the disaster it prevented or it should follow the opportunity it created not the minutes it took to prevent it",
+      "speaker": "Codie",
+      "tags": [
+        "sales",
+        "operations"
+      ],
+      "character_start": 9875,
+      "character_end": 10010
+    },
+    {
+      "slug": "tiered-service-upselling",
+      "title": "Expand transaction size through premium service tiers and options",
+      "explanation": "A speaker recommends introducing premium service options, priority access, and add-on solutions to increase transaction size. Expanding client choices allows businesses to serve diverse customer needs effectively.",
+      "quote": "Tier one is going to be free slash lowcost right tier two is going you're going to pay for speed and depth",
+      "speaker": "Codie",
+      "tags": [
+        "sales",
+        "marketing",
+        "operations"
+      ],
+      "character_start": 13062,
+      "character_end": 13168
+    },
+    {
+      "slug": "owned-media-acquisition",
+      "title": "Build organic audience channels to reduce customer acquisition costs",
+      "explanation": "A speaker notes that relying exclusively on paid advertising exposes businesses to rising acquisition costs. Cultivating owned media channels and direct referrals creates durable, cost-effective customer acquisition.",
+      "quote": "The channel with the highest documented return on this logic What do you think it is of all the ones you've got",
+      "speaker": "Codie",
+      "tags": [
+        "marketing",
+        "cash-flow",
+        "communication"
+      ],
+      "character_start": 23898,
+      "character_end": 24009
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "d034dcab-e1f3-4068-9806-ac41bbc78be5",
+  "extraction_response": "extraction-responses/4XQ50qWSRO4-yveLqk3DCNs-DZNhrv5sv_0-ZvAwqGH_79Q-1CLeSVVDqFg-NOxLzAh-gUc-ksRcFGLPoSk-nSlZZ7TxNM8-PVb0YJVZp2c-PbBdBpBsP_s.json"
+}

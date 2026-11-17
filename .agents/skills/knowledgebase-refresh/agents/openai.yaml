@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refresh social source materials"
+  short_description: "Check social accounts and ingest new materials"
+  default_prompt: "Use $knowledgebase-refresh to check the registered accounts for new materials, import accessible sources, and update the knowledge base."

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "nOlFdbMaIk8",
+  "thesis": "Turn repeated friction into a tested default, template or delegated process.",
+  "summary": "Using business anecdotes and behavioral claims, Sanchez argues repeated small choices accumulate. Her MICRO sequence is notice the moment, identify the lever, constrain or cut, reinforce results, and offload. Examples include agendas, email boundaries, meeting batching, automatic savings, onboarding recordings, meal preparation, dictation and assistants. She shows AI-built dashboard and meeting-tracking examples and promotes a domain provider.",
+  "insights": [
+    {
+      "slug": "micro-framework",
+      "title": "Convert an annoyance into a durable rule",
+      "explanation": "The framework starts with noticing repeated friction and identifying a small lever.",
+      "quote": "what's the smallest change with the biggest payoff",
+      "tags": [
+        "systems",
+        "decisions"
+      ],
+      "character_start": 9743,
+      "character_end": 9793,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reinforce-measured-benefit",
+      "title": "Check whether a change helped before making it default",
+      "explanation": "Her reinforcement question names time, money and energy as possible outcomes.",
+      "quote": "Did this save time money or energy",
+      "tags": [
+        "systems",
+        "measurement"
+      ],
+      "character_start": 10373,
+      "character_end": 10407,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "offload-repeat-work",
+      "title": "Template or delegate a stable explanation",
+      "explanation": "An onboarding recording is her example of eliminating the need to repeat the same account.",
+      "quote": "Can I delegate this template it or delete it permanently",
+      "tags": [
+        "delegation",
+        "documentation"
+      ],
+      "character_start": 10704,
+      "character_end": 10760,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "friction-in-spending",
+      "title": "Change payment defaults as well as intentions",
+      "explanation": "She contrasts easy app purchases with automatic savings and investment.",
+      "quote": "we spend more when paying is easy",
+      "tags": [
+        "finances",
+        "defaults"
+      ],
+      "character_start": 5714,
+      "character_end": 5747,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "63b460cc-ad0c-4841-83d7-cab1919a424c",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "UPS, Phelps, Costco, customer revenue and attention statistics are reported, not verified or causal evidence. The transcript verbally mislabels a list of positive habits as negative; context indicates an apparent speech/transcription error. The recursive Pareto percentages are not a measured personal productivity result. Demonstrated tools and delegated examples do not establish independently verified savings.",
+  "review_changes": "Adds result-checking before reinforcement, the literal list-label inconsistency and the distinction between a prototype, claimed benefit and audited outcome.",
+  "deep_review_date": "2026-11-16T20:51:51.296403+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/nOlFdbMaIk8.json",
+  "previous_draft_sha256": "48e7b41a0064fb3ca9b4cb6a91f1f927f5afda188ac8c310e7c8c337ccba4dba"
+}

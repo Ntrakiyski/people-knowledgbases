@@ -1,0 +1,42 @@
+{
+  "youtube_id": "0eR-Hv6zg-c",
+  "thesis": "A short work-trip vlog combines enjoyment, movement and a brief family-time reminder.",
+  "summary": "Bloom travels to Venice for a LinkedIn speaking event, jokes with a videographer, eats local food, visits a gym and runs through the city. A short event exchange repeats his finite-time-with-children theme. Most content is travel footage, banter and tasting reactions rather than a new business or wealth framework.",
+  "insights": [
+    {
+      "slug": "movement-while-traveling",
+      "title": "Use a run to explore a place",
+      "explanation": "He describes seeing different parts of Venice by varying his running route; this is a personal travel preference.",
+      "quote": "it's the best way to go experience and feel the vibe of a new place",
+      "tags": [
+        "travel",
+        "movement"
+      ],
+      "character_start": 7441,
+      "character_end": 7508,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "finite-family-time",
+      "title": "Remember ordinary family moments are temporary",
+      "explanation": "A brief conversation invokes a last-time reminder; numerical time shares remain attributed.",
+      "quote": "there's going to be a last time that you do all of these things",
+      "tags": [
+        "family",
+        "time"
+      ],
+      "character_start": 5647,
+      "character_end": 5710,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "95d1622a-1b6c-466f-bd3a-e7590258894c",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Edited entertainment with multiple speakers, music and repeated teaser clips. Gondola-taking and flight banter should not be extracted as instructions. Family-time percentages and food/health jokes are unverified. Title duration and third-morning narration are not reconciled; do not infer an exact itinerary.",
+  "review_changes": "Reduces overinterpretation of a travel source; separates modest observed habits from jokes and numerical family claims.",
+  "deep_review_date": "2026-11-16T20:50:23.342744+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/0eR-Hv6zg-c.json",
+  "previous_draft_sha256": "fc1bd405675a514bbe285c0b79196058705e61d5af1f7879709763c31fd70e35"
+}

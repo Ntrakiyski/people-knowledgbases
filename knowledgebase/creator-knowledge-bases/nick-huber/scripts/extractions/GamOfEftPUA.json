@@ -1,0 +1,50 @@
+{
+  "youtube_id": "GamOfEftPUA",
+  "thesis": "A qualified advisory conversation can demonstrate expertise before asking for a paid relationship.",
+  "summary": "The participant recalls a wealth manager reviewing his business, taxes, and succession exposures during a free introductory meeting. The advisor gave concrete next steps without immediately pitching fees. In the story, this approach built trust with well-qualified prospective clients and sometimes led to later work. The participant explicitly limits the lesson: unpaid advice can waste time or invite exploitation in other sales environments. Reported conversion percentages and tax savings are claims within the anecdote, not independently measured results or advice applicable to another taxpayer.",
+  "insights": [
+    {
+      "slug": "demonstrated-expertise",
+      "title": "Show relevant competence through useful diagnosis",
+      "explanation": "The advisor's review connected the prospect's actual business to concrete planning needs. The lesson is the demonstration of useful judgment, rather than a promise that free consulting always converts.",
+      "quote": "there's a whiteboard full of all this advice",
+      "character_start": 2530,
+      "character_end": 2574,
+      "tags": [
+        "sales",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "qualified-value-first-sales",
+      "title": "Match value-first selling to qualified prospects",
+      "explanation": "The advisor says the people entering his office have meaningful business problems and resources. That qualification is part of the strategy and should not be omitted when repeating it.",
+      "quote": "they have business problems which guess what that means Nick they have money",
+      "character_start": 3401,
+      "character_end": 3477,
+      "tags": [
+        "sales",
+        "qualification"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "value-first-limits",
+      "title": "Retain the explicit limits of free advisory work",
+      "explanation": "The speaker warns that this method is inappropriate in some environments. That qualification prevents turning a successful relationship-selling anecdote into a universal instruction to work without compensation.",
+      "quote": "it's not a sales strategy you can use for everything",
+      "character_start": 4258,
+      "character_end": 4310,
+      "tags": [
+        "sales",
+        "boundaries"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "27090905-604f-4b4b-a4bb-e1198f2e287d",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

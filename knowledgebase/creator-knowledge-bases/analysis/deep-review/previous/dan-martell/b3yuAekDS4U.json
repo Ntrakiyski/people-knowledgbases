@@ -1,0 +1,50 @@
+{
+  "youtube_id": "b3yuAekDS4U",
+  "thesis": "Selected AI-business advice starts with a bottleneck and retains human review at the end.",
+  "summary": "The reviewed passages diagnose constraints in a customer journey, describe automated follow-up, and reserve the final stage for review and personal judgment. Claims that AI can do everything, eliminate burnout, or produce a zero-employee business at a stated revenue level are not demonstrated by the selected evidence.",
+  "insights": [
+    {
+      "slug": "customer-flow-bottleneck",
+      "title": "Locate the constraint before choosing an automation",
+      "explanation": "The creator describes stages where customer or revenue flow stops. A specific diagnosis is needed before assuming technology is the answer.",
+      "quote": "something that's going to stop the flow of the customer the flow of revenue",
+      "character_start": 3283,
+      "character_end": 3358,
+      "tags": [
+        "operations",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "follow-up-workflow",
+      "title": "Distinguish a proposed automated sequence from proven sales lift",
+      "explanation": "The source describes triggering personalized messages after nonresponse. Consent, suitability, and actual effectiveness remain separate questions.",
+      "quote": "if someone doesn't respond he messages them email trigger automatically",
+      "character_start": 6417,
+      "character_end": 6488,
+      "tags": [
+        "sales",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "final-human-review",
+      "title": "Keep a deliberate review and integration stage",
+      "explanation": "The creator describes adding calls and advice and checking whether the result works as intended.",
+      "quote": "this is where I review the work",
+      "character_start": 10066,
+      "character_end": 10097,
+      "tags": [
+        "quality",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a264b45a-de86-447d-a492-319cb35041d2",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

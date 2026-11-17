@@ -1,0 +1,63 @@
+{
+  "youtube_id": "RoTui9BCW4k",
+  "thesis": "The move from student storage to property ownership is described as a comparison of operating burden and opportunity.",
+  "summary": "The participant recounts dividing responsibilities with a partner: one maintained the service business while the other worked on financing a storage development. A successful property deal reportedly made later fundraising easier and prompted a comparison with the service company's stress and returns. The eventual sale to a competitor required months of negotiation and an arrangement to retain a key employee. Financial outcomes are self-reported, and refinancing is borrowed liquidity rather than operating profit. This account also conflicts with another clip's broad statement that he had never sold a business; the discrepancy should remain visible rather than silently reconciled.",
+  "insights": [
+    {
+      "slug": "partner-role-division",
+      "title": "Separate new-opportunity work from maintaining the current business",
+      "explanation": "The story describes a functional split while retaining mutual involvement and guarantees. It illustrates how a partnership supported a transition without implying the existing business stopped needing work.",
+      "quote": "Dan was tasked with you know running our main business and putting cash in our accounts",
+      "character_start": 907,
+      "character_end": 994,
+      "tags": [
+        "partnerships",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fundraising-track-record",
+      "title": "Treat demonstrated execution as part of fundraising credibility",
+      "explanation": "The speaker says a completed successful deal made future fundraising easier. It is an anecdotal credibility mechanism, not proof that past performance assures future results.",
+      "quote": "once you have that on your resume things get way way way easier",
+      "character_start": 3157,
+      "character_end": 3220,
+      "tags": [
+        "fundraising",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "business-burden-comparison",
+      "title": "Compare operating burden as well as reported financial outcomes",
+      "explanation": "The participant's decision to pivot uses both stress and the property's reported proceeds. Borrowed refinancing cash should not be equated directly with profit when evaluating that comparison.",
+      "quote": "storage squad is 80% of our headache 90% of our stress",
+      "character_start": 4008,
+      "character_end": 4062,
+      "tags": [
+        "strategy",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "key-person-transition",
+      "title": "Include employee retention in an ownership transition",
+      "explanation": "The sale story says a key employee's continued service was important enough to receive part of the price. This highlights transition dependencies beyond finding a buyer.",
+      "quote": "they needed a key employee of ours to stay on",
+      "character_start": 4866,
+      "character_end": 4911,
+      "tags": [
+        "acquisitions",
+        "hiring"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "ad93551d-45dc-4051-b665-5dd9d3f6b387",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

@@ -1,0 +1,66 @@
+{
+  "youtube_id": "LCBdKzfS578",
+  "thesis": "The short checklist combines priorities, offline connection, movement, digital boundaries, service, and sleep.",
+  "summary": "Bloom presents nine everyday habits: getting up without snoozing, choosing three priorities, socializing offline, moving, intentional eating, limiting digital inputs, helping others, a phone-free walk, and early sleep. The sequence links daytime execution to evening preparation and attention management. Several lines use absolute winner-versus-loser language and dramatic outcome promises. The practical content is a collection of routine suggestions, not evidence that a specific wake time or checklist causes success.",
+  "insights": [
+    {
+      "slug": "daily-priorities",
+      "title": "Constrain the daily task list",
+      "explanation": "The checklist proposes a small number of key priorities instead of an endless task list. No universal optimal number is established.",
+      "quote": "write down three key priorities for the day no endless to-do lists",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 626,
+      "character_end": 692,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "offline-connection",
+      "title": "Make room for ordinary in-person contact",
+      "explanation": "The suggested third place can be a gym, cafe, or park. The point is participating in everyday life rather than staying entirely on screens.",
+      "quote": "find a third home a gym cafe park socialize observe engage with the real world instead of your screen",
+      "tags": [
+        "life-design",
+        "communication"
+      ],
+      "character_start": 780,
+      "character_end": 881,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "outward-attention",
+      "title": "Include giving and reflection in the routine",
+      "explanation": "The checklist combines small acts of kindness with a phone-free walk. These are recommended attention shifts, not demonstrated treatments for psychological problems.",
+      "quote": "send a kind message do something for someone get out of your own head",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 1413,
+      "character_end": 1482,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "evening-preparation",
+      "title": "Treat sleep preparation as part of tomorrow's routine",
+      "explanation": "Bloom discourages late-night scrolling in favor of winding down. The transcript does not substantiate a universal early waking requirement.",
+      "quote": "tomorrow starts tonight no doom scrolling no 2 a.m youtube rabbit holes",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 1656,
+      "character_end": 1727,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "018f9480-c77a-421e-bd99-1391794418ff",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Claims about being ahead of nearly everyone or becoming unstoppable are promotional rhetoric. Sleep needs and food choices vary; the transcript is not individualized health guidance.",
+  "review_changes": "Adds social connection, service to others, and evening preparation, and flags the unsupported early-waking generalization.",
+  "deep_review_date": "2026-11-16T19:23:26.475880+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/LCBdKzfS578.json",
+  "previous_draft_sha256": "5eac5339c4075eb0b7477a907f977279a7ed02e301eb10d6443ab87c7e9b4cf8"
+}

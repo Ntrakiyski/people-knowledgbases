@@ -1,0 +1,24 @@
+{
+  "youtube_id": "d2Ws2SfhW-c",
+  "thesis": "A rice-and-chessboard story serves as a metaphor for repeated investment.",
+  "summary": "The source uses a doubling-rice folktale to illustrate exponential growth and encourages regular investment in money, relationships, health, and learning. The tale is presented as an illustration, not verified history. Human outcomes do not literally follow the story's fixed doubling rate.",
+  "insights": [
+    {
+      "slug": "compounding-metaphor",
+      "title": "Distinguish a mathematical illustration from a life prediction",
+      "explanation": "The story motivates repetition across several domains, while leaving their actual growth mechanisms and limits unspecified.",
+      "quote": "harness the power of compounding in your money your relationships your health and your mind",
+      "character_start": 1061,
+      "character_end": 1152,
+      "tags": [
+        "compounding",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "7f484a1f-1185-4d50-8d14-d7d807000114",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

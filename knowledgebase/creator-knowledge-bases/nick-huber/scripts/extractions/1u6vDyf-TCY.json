@@ -1,0 +1,63 @@
+{
+  "youtube_id": "1u6vDyf-TCY",
+  "thesis": "Partnerships and diversification require judgment about contribution, business quality, and distraction.",
+  "summary": "The participant credits partners while admitting poor choices and luck. He distinguishes dishonesty from an imbalance between contribution and equity, warning against splitting a small business so widely that it cannot support the owners. He also says a few companies dominate his portfolio while others may close. The focus-versus-expansion discussion remains conditional: concentrating on a good business can work, but changing from a difficult model may be sensible. His claims about wealthy acquaintances and portfolio concentration are personal observations, not statistical evidence that one path has higher odds for every founder.",
+  "insights": [
+    {
+      "slug": "partnership-value-balance",
+      "title": "Assess contribution as well as trust in a partnership",
+      "explanation": "The speaker separates moral failure from an inequitable value exchange. That distinction suggests reviewing both reliability and the continuing contribution expected for an ownership stake.",
+      "quote": "somebody is taking more from the business than they are adding to the company",
+      "character_start": 1925,
+      "character_end": 2002,
+      "tags": [
+        "partnerships",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "portfolio-concentration",
+      "title": "Do not confuse many companies with evenly distributed success",
+      "explanation": "The participant reports that a few businesses dominate his wealth and several others may shut down. This qualifies the apparent safety or ease of owning many ventures.",
+      "quote": "four of the 11 businesses are not profitable and likely to be shut down",
+      "character_start": 2935,
+      "character_end": 3006,
+      "tags": [
+        "risk",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "business-quality-focus",
+      "title": "Evaluate the quality of the business being focused on",
+      "explanation": "The speaker contrasts concentrating on a strong model with remaining trapped in difficult moving-and-storage operations. The lesson is conditional judgment, not blanket permission to chase every new idea.",
+      "quote": "the richest people I know focus on one business but generally speaking it was very good businesses",
+      "character_start": 5053,
+      "character_end": 5151,
+      "tags": [
+        "focus",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "opportunity-distraction",
+      "title": "Retain the downside of taking many opportunities",
+      "explanation": "The interview recognizes improved deal flow with experience while admitting that multiple pursuits can produce little progress. It does not resolve the tradeoff with a universal diversification rule.",
+      "quote": "many other people get distracted and end up doing a whole lot of nothing because they're trying to do 10 things at once",
+      "character_start": 5859,
+      "character_end": 5978,
+      "tags": [
+        "focus",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "d52f2ebb-cda9-4e96-a404-c65d88d752c9",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

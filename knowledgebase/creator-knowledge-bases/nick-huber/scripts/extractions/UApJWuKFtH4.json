@@ -1,0 +1,63 @@
+{
+  "youtube_id": "UApJWuKFtH4",
+  "thesis": "Reducing phone access and batching communication are presented as ways to protect attention and relationships.",
+  "summary": "One participant reports switching his phone off overnight after noticing effects on sleep and family attention. The conversation distinguishes caring for people from being instantly reachable and describes batching replies into a daily window. A paper notebook captures tasks that would otherwise trigger phone use. Swapping phones with a spouse interrupts familiar checking routines, while business notifications illustrate how work can reinforce compulsive checking. These are personal experiments and reported improvements rather than evidence for a universal schedule or a clinical treatment for addiction.",
+  "insights": [
+    {
+      "slug": "phone-access-boundaries",
+      "title": "Experiment with a defined period without phone access",
+      "explanation": "The reported 7 p.m. to 7 a.m. shutdown created discomfort but helped the participant notice habitual checking. The exact window is his experiment, rather than a required schedule for others.",
+      "quote": "I'm going to turn my phone off at 7:00 p.m i'm gonna turn it back on at 7 a.m.",
+      "character_start": 334,
+      "character_end": 412,
+      "tags": [
+        "attention",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "communication-batching",
+      "title": "Separate responsiveness from constant availability",
+      "explanation": "The participants discuss allowing delayed replies and scheduling inbox clearance. The idea is to preserve attention while still maintaining relationships, not to ignore urgent obligations.",
+      "quote": "every time somebody sends you a note a message you don't have to respond",
+      "character_start": 1138,
+      "character_end": 1210,
+      "tags": [
+        "attention",
+        "communication"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "offline-task-capture",
+      "title": "Capture the reminder without opening the phone",
+      "explanation": "A notebook offers another place to record purchases, replies, and ideas. It removes one stated reason for entering the device and then drifting into unrelated applications.",
+      "quote": "take a note of them and don't reach for the phone",
+      "character_start": 3090,
+      "character_end": 3139,
+      "tags": [
+        "attention",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "notification-rewards",
+      "title": "Notice when useful business data also encourages checking",
+      "explanation": "The conversation values team visibility into sales but acknowledges its motivational pull. The analytical tradeoff is between useful operating information and repeated interruption.",
+      "quote": "it's highly motivating for everybody in the team to see when we're making money",
+      "character_start": 5370,
+      "character_end": 5449,
+      "tags": [
+        "operations",
+        "attention"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "9e7e3384-86bf-4dbb-a020-c7bb9606553e",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

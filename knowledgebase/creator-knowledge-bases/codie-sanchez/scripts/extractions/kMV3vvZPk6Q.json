@@ -1,0 +1,67 @@
+{
+  "youtube_id": "kMV3vvZPk6Q",
+  "thesis": "Codie Sanchez explains psychological principles of sales, demonstrating how framing, social proof, environmental visual cues, and deliberate communication close high-value transactions.",
+  "summary": "Mastering sales requires understanding how prospect brains process choices and evaluate risk across distinct cognitive functions. Buyers rely heavily on psychological shortcuts such as expert authority, social proof, and genuine scarcity when deciding whether to trust a offer. Environmental priming and visual presentation influence client perceptions before verbal negotiations begin. Furthermore, framing prices against larger reference points or potential financial losses reduces price resistance. By eliminating soft or hesitant language and incorporating authentic anti-selling techniques, sales professionals build rapid credibility and guide clients toward confident purchasing decisions.",
+  "insights": [
+    {
+      "slug": "pre-sale-priming",
+      "title": "Environmental setup shapes prospect perception before negotiations",
+      "explanation": "Codie Sanchez explains that environmental visual cues quietly direct buyer attention during sales presentations. Designing sales environments thoughtfully establishes subtle context that influences customer decision making.",
+      "quote": "the setup before the sale actually matters more than the sale itself and I want to tell you how you can control this",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "marketing",
+        "communication"
+      ],
+      "character_start": 6194,
+      "character_end": 6310
+    },
+    {
+      "slug": "precise-pricing",
+      "title": "Precise pricing numbers convey thorough calculation and authority",
+      "explanation": "Codie Sanchez notes that using precise, non-rounded figures during pricing proposals increases client trust. Specific numbers suggest rigorous cost calculation, whereas rounded estimates often invite price pushback.",
+      "quote": "stop using round numbers fascinating studies showing don't quote 450K quote 437,500",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "communication",
+        "cash-flow"
+      ],
+      "character_start": 4016,
+      "character_end": 4099
+    },
+    {
+      "slug": "trust-foundation",
+      "title": "Establishing buyer trust forms the core prerequisite for sales",
+      "explanation": "Codie Sanchez emphasizes that effective sales interactions depend entirely on establishing genuine trust with prospects. Without authentic credibility and buyer confidence, advanced closing tactics fail to yield results.",
+      "quote": "you will not sell if you can't build trust i want to show you how to do it",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "communication",
+        "leadership"
+      ],
+      "character_start": 20298,
+      "character_end": 20372
+    },
+    {
+      "slug": "direct-communication",
+      "title": "Respecting prospect time builds immediate professional rapport",
+      "explanation": "Codie Sanchez recommends bypassing forced small talk and directly addressing client objectives during sales conversations. High-value buyers appreciate straightforward communication that respects their schedule.",
+      "quote": "people with money don't like having their time wasted and they also don't typically like small talk",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "communication",
+        "productivity"
+      ],
+      "character_start": 21578,
+      "character_end": 21677
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "be4e2464-0132-4caa-b674-b4b012c68e53",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

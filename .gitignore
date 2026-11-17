@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.cookies.txt
+storage_state.json
+**/storage_state*.json
+**/token.json
+**/credentials.json
+**/raw/.subs_tmp/
+*.tmp
+**/.writer.lock

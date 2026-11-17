@@ -1,0 +1,50 @@
+{
+  "youtube_id": "pD7TO-Pwlzk",
+  "thesis": "The biographical narrative organizes business growth as successive forms of leverage.",
+  "summary": "Selected passages present Wayne Huizenga's businesses through a ladder from labor and skill to systems, capital, people, and attention. Acquisitions and ownership incentives are part of the story. Historical transaction values and causal explanations are the creator's account and are not independently verified here.",
+  "insights": [
+    {
+      "slug": "leverage-ladder",
+      "title": "Separate the forms of leverage being used",
+      "explanation": "The framework describes changing how effort is multiplied, rather than only working longer hours.",
+      "quote": "sweat to skill skill to systems systems to capital",
+      "character_start": 12506,
+      "character_end": 12556,
+      "tags": [
+        "leverage",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "capital-as-input",
+      "title": "Treat capital as a means rather than the final objective",
+      "explanation": "The source describes money as enabling further activity. That framing does not remove financing risk or prove an acquisition strategy works.",
+      "quote": "money isn't the finish line it's a force multiplier",
+      "character_start": 7298,
+      "character_end": 7349,
+      "tags": [
+        "capital",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ownership-incentives",
+      "title": "Notice the incentive design within a scaling narrative",
+      "explanation": "The account links systems and people with ownership-based rewards. Its effectiveness in this case is not established by the excerpt.",
+      "quote": "he put in incentivized performance with ownership",
+      "character_start": 9932,
+      "character_end": 9981,
+      "tags": [
+        "leadership",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "3855919d-b59d-4a10-8b3b-498eeb6e7be7",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

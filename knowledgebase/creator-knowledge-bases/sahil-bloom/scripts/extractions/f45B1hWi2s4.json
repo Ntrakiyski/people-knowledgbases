@@ -1,0 +1,68 @@
+{
+  "youtube_id": "f45B1hWi2s4",
+  "thesis": "Agency combines repeated action with the ability to stop and change.",
+  "summary": "Thirty-five aphorisms connect reinvention, uncertainty tolerance, enthusiasm, rapid application of information, resourcefulness, intuition, quiet work, finishing, authenticity, relationships and daily standards. Bloom also endorses stopping draining commitments and enjoying ordinary life now, alongside hard work and a year of focused effort.",
+  "insights": [
+    {
+      "slug": "uncertainty-tolerance",
+      "title": "Act without guaranteed rewards",
+      "explanation": "He makes willingness to work through uncertainty central to agency; the eventual-win claim remains motivational.",
+      "quote": "shows up every day without guaranteed rewards",
+      "tags": [
+        "agency",
+        "uncertainty"
+      ],
+      "character_start": 772,
+      "character_end": 817,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "beneficial-over-optimal",
+      "title": "Do useful imperfect work",
+      "explanation": "Consistency above zero is presented as preferable to delaying until conditions are optimal.",
+      "quote": "ambitious people allow optimal to get in the way of beneficial",
+      "tags": [
+        "habits",
+        "action"
+      ],
+      "character_start": 2795,
+      "character_end": 2857,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "stopping-wisdom",
+      "title": "Persistence requires a stopping judgment",
+      "explanation": "He explicitly says to stop arguing, chasing draining relationships and grinding on things that do not matter.",
+      "quote": "stop saying yes when you mean no stopping isn't weakness it's wisdom",
+      "tags": [
+        "decisions",
+        "boundaries"
+      ],
+      "character_start": 6899,
+      "character_end": 6967,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "resilient-confidence",
+      "title": "Define confidence as recovery capacity",
+      "explanation": "Confidence means believing in adaptation after failure rather than certainty of winning.",
+      "quote": "confidence is about knowing you'll bounce back even if you don't",
+      "tags": [
+        "confidence",
+        "resilience"
+      ],
+      "character_start": 5714,
+      "character_end": 5778,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "27a7a9cb-bcdd-472c-bf51-553278eff38e",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Personal maxims and reported achievements, not established laws. Claims that action removes anxiety, early exercise prevents being a loser, or success necessarily follows consistency are rhetorical and not clinical or causal findings. Gut instinct can err. Stop/change advice qualifies the persistence message.",
+  "review_changes": "Adds the coexistence of persistence and stopping, relational criteria, and the difference between uncertainty tolerance and guaranteed victory.",
+  "deep_review_date": "2026-11-16T20:48:57.267166+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/f45B1hWi2s4.json",
+  "previous_draft_sha256": "7d77b5381837567f5d0b78492dded1521e312a62bc1a5194d710bb274bc87ec0"
+}

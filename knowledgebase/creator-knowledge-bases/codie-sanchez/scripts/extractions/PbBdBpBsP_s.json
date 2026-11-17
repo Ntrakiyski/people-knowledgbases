@@ -1,0 +1,69 @@
+{
+  "youtube_id": "PbBdBpBsP_s",
+  "thesis": "Institutional wealth principles emphasize limiting personal risk, ruthlessly auditing performance, maintaining absolute integrity, and participating in compounding partnerships.",
+  "summary": "A speaker shares core financial and operational lessons learned from working inside a major investment bank. High-performing organizations minimize personal risk exposure by utilizing institutional capital and resources during early skill development. Conducting annual audits to eliminate lagging habits, non-productive relationships, and inefficient clients maintains high organizational velocity. Absolute transparency when facing setbacks builds long-term professional credibility. Furthermore, building wealth over time requires participating in compounding equity partnerships and investing in off-market private deals.",
+  "insights": [
+    {
+      "slug": "institutional-risk-buffering",
+      "title": "Develop core skills using institutional capital before solo risk",
+      "explanation": "A speaker advises gaining early professional experience within established firms to make inevitable learning mistakes on institutional budgets. Limiting personal capital exposure prevents panic decisions while building competence.",
+      "quote": "Your first half a million dollars of an investing experience is for losing",
+      "speaker": "Codie",
+      "tags": [
+        "learning",
+        "investing",
+        "risk"
+      ],
+      "character_start": 579,
+      "character_end": 653
+    },
+    {
+      "slug": "annual-bottom-audit",
+      "title": "Prune underperforming habits and client relationships annually",
+      "explanation": "A speaker highlights institutional practices of releasing underperforming assets and team members annually. Regularly pruning low-value commitments creates operational bandwidth for high-leverage growth.",
+      "quote": "an annual audit of everything you're carrying your clients your habits your circle cut the bottom 20% each year every year",
+      "speaker": "Codie",
+      "tags": [
+        "operations",
+        "productivity",
+        "leadership"
+      ],
+      "character_start": 3393,
+      "character_end": 3515
+    },
+    {
+      "slug": "transparent-setback-ownership",
+      "title": "Own operational failures openly to preserve long-term reputation",
+      "explanation": "A speaker observes that attempting to conceal performance gaps destroys professional trust. Owning setbacks transparently and presenting corrective action plans builds lasting credibility with partners and clients.",
+      "quote": "people are actually going to have more respect for you when you say \"I'm failing at this here's why here's what I'm doing about it.\"",
+      "speaker": "Codie",
+      "tags": [
+        "leadership",
+        "communication",
+        "risk"
+      ],
+      "original_extracted_quote": "People are actually going to have more respect for you when you say I'm failing at this here's why here's what I'm doing about it",
+      "quote_review": "Exact source wording selected after reading the surrounding passage; omitted punctuation and changed pronouns restored.",
+      "character_start": 4692,
+      "character_end": 4824
+    },
+    {
+      "slug": "compounding-partnership-equity",
+      "title": "Participate in compounding partnership economics for long-term wealth",
+      "explanation": "A speaker notes that enduring wealth accrues from performance-linked equity partnerships rather than fixed salary alone. Structure agreements to share in deal upside and compounding enterprise growth.",
+      "quote": "the partnership model is the real wealth vehicle and our entire generation is asleep on it",
+      "speaker": "Codie",
+      "tags": [
+        "ownership",
+        "investing",
+        "cash-flow"
+      ],
+      "character_start": 14369,
+      "character_end": 14459
+    }
+  ],
+  "review_status": "machine-extracted; quote wording checked",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "07037a44-82f1-451d-a1b6-864a10713b8d",
+  "extraction_response": "extraction-responses/4XQ50qWSRO4-yveLqk3DCNs-DZNhrv5sv_0-ZvAwqGH_79Q-1CLeSVVDqFg-NOxLzAh-gUc-ksRcFGLPoSk-nSlZZ7TxNM8-PVb0YJVZp2c-PbBdBpBsP_s.json"
+}

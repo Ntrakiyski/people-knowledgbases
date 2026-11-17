@@ -1,0 +1,192 @@
+{
+  "slug": "chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM",
+  "thesis": "Sharran uses a speculative account of OpenAI’s Peter Steinberger deal to teach flexible deal terms and rapid movement from opportunity to plan to action.",
+  "summary": "Sharran presents an account of OpenAI hiring OpenClaw creator Peter Steinberger while leaving the open-source project independent. He frames the strategic rationale as competition shifting from chatbots toward agents, and argues that a deal can target a creator’s attention and capabilities without acquiring a codebase. He analyzes terms, capital, and risks through Deal DNA. Crucially, he explicitly says the financial details and capital stack are not public, so compensation estimates, participation units, investor allocations, and other reconstructed terms remain speculation within the video.\n\nThe general teaching is his speed formula: recognize an opportunity, make a workable plan, execute, and compress the time between those steps. Flexibility about the other party’s nonnegotiable goals can matter more than offering the highest price. He also discusses compute costs, regulatory scrutiny, open-source competition, and talent departure as risks. Viewers are encouraged to identify a market gap, prepare useful skills, ask what must be true for success, and adapt their plan as new information arrives; millionaire outcomes are promotional possibilities, not demonstrated guarantees.",
+  "tags": [
+    "deal-analysis",
+    "speed",
+    "ai",
+    "execution",
+    "talent"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:03:47",
+      "note": "Introduces the speaker’s AI-development stages."
+    },
+    {
+      "ts": "0:07:56",
+      "note": "Explains why terms matter beyond price."
+    },
+    {
+      "ts": "0:09:44",
+      "note": "Labels the capital-stack reconstruction as assumed."
+    },
+    {
+      "ts": "0:12:34",
+      "note": "Begins financial, legal, and product-risk analysis."
+    },
+    {
+      "ts": "0:16:10",
+      "note": "Introduces the speed formula."
+    },
+    {
+      "ts": "0:19:35",
+      "note": "Offers planning questions."
+    },
+    {
+      "ts": "0:20:05",
+      "note": "Argues for adapting plans and reducing delay."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "speed-formula",
+      "name": "Speed formula",
+      "one_liner": "Move from opportunity to plan to action while minimizing unnecessary delay.",
+      "explanation": "Sharran reverse engineers four elements from his deal narrative: opportunity, plan, action, and time. Opportunity means noticing a market gap; planning asks what must be true and which steps enable it; action executes while adapting to new information. Time measures how quickly those stages connect. He argues that a workable plan executed promptly can beat prolonged perfectionism. Claims that this creates millionaires are promotional, while the concrete operating lesson is to shorten the distance between recognition and execution.",
+      "tags": [
+        "speed",
+        "execution",
+        "opportunity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:16:10",
+          "text": "We call it the speed formula"
+        }
+      ],
+      "related": [
+        "decision-framework",
+        "skill-stacking"
+      ]
+    },
+    {
+      "slug": "deal-structure",
+      "name": "Deal structure",
+      "one_liner": "A transaction can satisfy nonprice goals through flexible terms.",
+      "explanation": "Sharran describes keeping OpenClaw independent and open source as Steinberger’s nonnegotiable condition. In his telling, OpenAI secured the creator’s attention and skills while respecting that preference rather than simply buying the project. He uses the case to argue that the highest cash offer may lose if terms conflict with the other party’s values or reputation. Exact compensation and participation details are acknowledged as unknown, so the teaching concerns a negotiation pattern rather than verified contract analysis.",
+      "tags": [
+        "deals",
+        "terms",
+        "negotiation"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:56",
+          "text": "the terms are the hidden layers of the deal"
+        }
+      ],
+      "related": [
+        "acquihire",
+        "capital-stack"
+      ]
+    },
+    {
+      "slug": "acquihire",
+      "name": "Acquihire",
+      "one_liner": "A deal can prioritize acquiring a team’s capabilities and attention over buying its product.",
+      "explanation": "Sharran distinguishes the ordinary purchase of a company for its people from his account of hiring a creator while the open-source project stays independent. He describes strategic value as expertise, focused attention, and links to a user community. This creates a retention risk: the benefit may leave if the creator departs before knowledge transfers. He also notes possible regulatory scrutiny of arrangements that resemble acquisitions despite a different formal structure. The specific legal and contract claims remain his interpretation.",
+      "tags": [
+        "talent",
+        "acquisitions",
+        "ai"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:16",
+          "text": "ownership of Peter Steinberger's full attention, his experience"
+        }
+      ],
+      "related": [
+        "deal-structure",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "risk-management",
+      "name": "Risk management",
+      "one_liner": "Assess operating economics, legal exposure, and dependence on key people alongside strategic upside.",
+      "explanation": "Sharran groups risks into compute-driven margins, regulatory scrutiny, and product or talent dependence. He argues that agents may cost more to operate than simple chat interactions, open code remains available to rivals, and a key hire could leave. His token multipliers and financial estimates are claims in the video, not independently established benchmarks. The analysis demonstrates why a seemingly modest payment can still carry substantial continuing costs and uncertainty beyond the headline purchase figure.",
+      "tags": [
+        "risk",
+        "ai",
+        "acquisitions"
+      ],
+      "quotes": [
+        {
+          "ts": "0:15:35",
+          "text": "the strategic value of this deal [music] goes with him."
+        }
+      ],
+      "related": [
+        "acquihire",
+        "deal-structure"
+      ]
+    },
+    {
+      "slug": "skill-stacking",
+      "name": "Skill stacking",
+      "one_liner": "Combine complementary capabilities to make an emerging opportunity actionable.",
+      "explanation": "Sharran says seeing a market gap is insufficient without preparation. His example combines AI product creation with the ability to sell to a mass market, suggesting that the combination can be more valuable than either isolated skill. This connects personal development to the opportunity stage of his speed formula: build relevant high-income capabilities before the moment arrives. His million-dollar characterization is promotional; the durable idea is matching a combination of execution and distribution skills to a real unmet need.",
+      "tags": [
+        "skills",
+        "opportunity",
+        "execution"
+      ],
+      "quotes": [
+        {
+          "ts": "0:19:02",
+          "text": "combining them in ways that the market [music] has just never seen before."
+        }
+      ],
+      "related": [
+        "skill-development",
+        "speed-formula"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "openai",
+      "name": "OpenAI",
+      "subtype": "organization",
+      "one_liner": "The company in Sharran’s speculative talent-deal analysis.",
+      "explanation": "Sharran analyzes OpenAI’s purported strategic interest in agent development and Steinberger’s capabilities. He explicitly acknowledges that financial terms and the capital stack are not public, making his payout and equity reconstruction speculative. This page should preserve that uncertainty rather than repeat his estimates as established company facts.",
+      "quotes": [
+        {
+          "ts": "0:09:44",
+          "text": "the OpenAI capital stack isn't public"
+        }
+      ],
+      "resource": "https://openai.com/"
+    },
+    {
+      "slug": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "subtype": "person",
+      "one_liner": "The developer whose priorities and expertise anchor the deal narrative.",
+      "explanation": "Sharran portrays Steinberger as valuing continued open-source availability and community reputation above simply accepting the largest offer. He uses the account to discuss negotiation flexibility, capability acquisition, and retention. Compensation and participation details are speculative in the video.",
+      "quotes": [
+        {
+          "ts": "0:08:11",
+          "text": "Steinberger had made OpenClaw staying open source"
+        }
+      ],
+      "resource": "https://steipete.me/"
+    },
+    {
+      "slug": "openclaw",
+      "name": "OpenClaw",
+      "subtype": "tool",
+      "one_liner": "The open-source agent project in Sharran’s business case study.",
+      "explanation": "The video describes OpenClaw as evidence of a shift toward action-taking AI agents and as a project left independent while its creator joined OpenAI. Technical priority claims and market-history assertions are the speaker’s account. The substantive use is explaining why talent access and code ownership are different deal objectives.",
+      "quotes": [
+        {
+          "ts": "0:11:59",
+          "text": "OpenClaw was already released as open source by Peter Steinberger"
+        }
+      ]
+    }
+  ]
+}

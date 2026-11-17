@@ -1,0 +1,50 @@
+{
+  "youtube_id": "Fj8HsHqyMA0",
+  "thesis": "Selected money lessons emphasize pace, liquidity, and deliberate expectations.",
+  "summary": "This long source contains more lessons than this selected review covers. The checked passages warn about rushing wealth creation and discuss emergency savings, unexpected expenses, and expectations. Money is framed as serving a broader life rather than an endless scoreboard. No portfolio outcome or savings target is independently validated.",
+  "insights": [
+    {
+      "slug": "wealth-time-horizon",
+      "title": "Examine risks hidden in rapid-wealth promises",
+      "explanation": "The source argues that speed can conceal poorly understood risk. This is a caution rather than proof that every fast-growing venture is unsound.",
+      "quote": "you're going to chase some short-term enormously risky thing",
+      "character_start": 2590,
+      "character_end": 2650,
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "financial-contingency",
+      "title": "Plan for an unexpected expense before it occurs",
+      "explanation": "The creator asks how a large surprise cost would be handled. The exercise emphasizes readiness without prescribing a universal reserve size.",
+      "quote": "doing that upfront will make you prepared for that chaos",
+      "character_start": 16978,
+      "character_end": 17034,
+      "tags": [
+        "liquidity",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "expectations-audit",
+      "title": "Choose the comparison set behind lifestyle expectations",
+      "explanation": "The source proposes reviewing expectations rather than allowing them to be set by default.",
+      "quote": "Regularly audit the expectations you have",
+      "character_start": 19078,
+      "character_end": 19119,
+      "tags": [
+        "personal-finance",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "ec96600f-a2fa-4a90-8747-f46e52778b30",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

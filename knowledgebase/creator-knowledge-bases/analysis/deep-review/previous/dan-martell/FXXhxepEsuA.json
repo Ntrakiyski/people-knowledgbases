@@ -1,0 +1,50 @@
+{
+  "youtube_id": "FXXhxepEsuA",
+  "thesis": "Selected money principles favor time leverage, ownership, and contribution to others.",
+  "summary": "The reviewed passages contrast leverage with status purchases, discuss investing earned income into assets, and describe giving time and money. Broad claims that equity is the only route to substantial wealth or pays regardless of involvement are not established. The note does not treat the five laws as validated financial rules.",
+  "insights": [
+    {
+      "slug": "leverage-before-status",
+      "title": "Compare purchases by the capacity they create",
+      "explanation": "The creator favors buying time or leverage before possessions. The appropriate tradeoff depends on resources and obligations.",
+      "quote": "spending money on leverage first over things",
+      "character_start": 2108,
+      "character_end": 2152,
+      "tags": [
+        "personal-finance",
+        "leverage"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "income-to-ownership",
+      "title": "Separate earning from allocating the proceeds",
+      "explanation": "The source describes earning more with time and investing on an ownership side. Asset risks and suitability remain separate.",
+      "quote": "increase how much you make with your time and then invest it",
+      "character_start": 8362,
+      "character_end": 8422,
+      "tags": [
+        "ownership",
+        "investing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "nonfinancial-giving",
+      "title": "Recognize contribution beyond money",
+      "explanation": "The source names time, influence, and strategies as things that can be shared. Its claimed effects on abundance are not proven.",
+      "quote": "give your time if you have money give both",
+      "character_start": 16727,
+      "character_end": 16769,
+      "tags": [
+        "values",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e51d3100-9c8e-4545-92f6-7d6a0aa06301",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

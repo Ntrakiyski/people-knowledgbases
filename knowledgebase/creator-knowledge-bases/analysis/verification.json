@@ -1,0 +1,62 @@
+{
+  "verified_at": "2026-11-16T21:07:52.494022+00:00",
+  "selected_videos": 200,
+  "transcripts": 200,
+  "source_notes": 200,
+  "exact_quote_insights": 854,
+  "review_scopes": {
+    "NotebookLM-source-restricted-draft": 64,
+    "complete-transcript-read-by-Codex": 136
+  },
+  "optional_archive_catalog": 2394,
+  "checks": {
+    "selected_scope_validation": "passed",
+    "raw_and_export_hashes": "passed",
+    "quote_and_entity_offsets": "passed",
+    "local_markdown_links": "passed",
+    "reviewed_artifact_hashes": "15 passed across 5 creator manifests",
+    "unit_tests": "5 passed",
+    "python_compilation": "passed",
+    "archived_draft_hashes": "99 passed",
+    "whole_video_review_export": "200 unique source records; 99 expanded reviews with context and revision notes",
+    "review_scope_consistency": "passed: coverage, whole-video export and all 5 review manifests agree"
+  },
+  "limits": [
+    "Source notes remain editorial drafts, not independently verified claims.",
+    "136 source notes have complete local transcript readings by Codex; 64 retain NotebookLM source-restricted drafts outside the completed deeper pass.",
+    "Complete reading does not establish exhaustive interpretation, resolved speaker identity or independent factual verification.",
+    "Entity indexing is curated and first-match only; context guides review selected roles.",
+    "X/Twitter account links are supplied, but X posts were not imported.",
+    "NotebookLM supplied no timestamps; evidence uses exact character offsets.",
+    "The 99-source deeper pass is complete with zero pending; older uploads and the 64 NotebookLM drafts were not added to that frozen review target."
+  ],
+  "deeper_review": {
+    "status": "complete",
+    "target_videos": 99,
+    "completed": 99,
+    "remaining": 0,
+    "complete_transcripts_read_words": 285079,
+    "by_creator": {
+      "alex-hormozi": {
+        "completed": 18,
+        "remaining": 0
+      },
+      "codie-sanchez": {
+        "completed": 18,
+        "remaining": 0
+      },
+      "dan-martell": {
+        "completed": 20,
+        "remaining": 0
+      },
+      "nick-huber": {
+        "completed": 5,
+        "remaining": 0
+      },
+      "sahil-bloom": {
+        "completed": 38,
+        "remaining": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "PTlE4pRylcs",
+  "thesis": "Delegation is framed as a way to restore growth capacity, with international staffing promoted as one cost option.",
+  "summary": "The interviewer describes administrative work crowding out revenue-producing activities and says an assistant can release time. The participant promotes international hiring and compares his reported overhead with competitors. Both favor hiring when daily tasks prevent selling and business development. The proposed allocation differs from another interview's quarter-of-time heuristic: this discussion mentions half of working time. The participant owns a recruiting business, and the salary, savings, and low-risk claims are commercially interested anecdotes rather than guaranteed economics. Hiring still requires role design, supervision, compliance, and affordable cash commitments.",
+  "insights": [
+    {
+      "slug": "growth-time-delegation",
+      "title": "Use lost growth capacity as a hiring signal",
+      "explanation": "The proposed trigger is not being able to devote substantial time to selling and development. This interview uses a different percentage from other clips, so the numbers should be read as heuristics rather than a fixed rule.",
+      "quote": "as soon as you can't spend half your time selling and doing business development it's time to hire",
+      "character_start": 4470,
+      "character_end": 4568,
+      "tags": [
+        "delegation",
+        "growth"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delegation-opportunity-cost",
+      "title": "Compare administrative work with the work freed capacity could support",
+      "explanation": "The interviewer contrasts uploading replays and initial editing with sponsorship production and client outreach. The examples expose an opportunity-cost question, not proof that all freed hours become revenue.",
+      "quote": "I just freed up like 15 to 20 hours a week for myself",
+      "character_start": 3412,
+      "character_end": 3465,
+      "tags": [
+        "productivity",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "staffing-commercial-context",
+      "title": "Read staffing claims in their commercial context",
+      "explanation": "The participant's recruiting-business ownership is explicit. Cost comparisons are his reported experience and should be tested for role quality, full employment costs, and another business's actual needs.",
+      "quote": "you own somewhere.com which is a staffing and recruiting agency",
+      "character_start": 0,
+      "character_end": 63,
+      "tags": [
+        "hiring",
+        "business-models"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "d353f163-5847-451b-9f00-63838539bf53",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

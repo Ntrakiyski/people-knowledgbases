@@ -1,0 +1,68 @@
+{
+  "youtube_id": "RYLrfpMSkoY",
+  "thesis": "Specific action and dependable follow-through are his response to fear and comparison.",
+  "summary": "Fifteen tough-love lessons move from the spotlight effect and criticism to following energy, testing advice, creating opportunity through volume and follow-through, competing against one’s prior self, defining concrete actions and asking after earning help. He urges quick hard conversations, persistence, outcome ownership and rejection tolerance, then frames some career changes as reversible.",
+  "insights": [
+    {
+      "slug": "energy-developed",
+      "title": "Interest can grow through doing",
+      "explanation": "He describes writing energy developing with practice rather than discovering a pre-existing passion.",
+      "quote": "it wasn't found it was built",
+      "tags": [
+        "career",
+        "learning"
+      ],
+      "character_start": 2507,
+      "character_end": 2535,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "specific-progress",
+      "title": "Translate aspirations into observable actions",
+      "explanation": "Newsletter frequency, outreach and saving amounts illustrate operational specificity.",
+      "quote": "Progress doesn't happen in the clouds It happens in the specific",
+      "tags": [
+        "goals",
+        "execution"
+      ],
+      "character_start": 5497,
+      "character_end": 5561,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "earned-ask",
+      "title": "Ask after building a case",
+      "explanation": "The promotion example couples direct asking with prior work rather than treating entitlement as sufficient.",
+      "quote": "If you want something and you've done the work to earn it go ask for it",
+      "tags": [
+        "career",
+        "communication"
+      ],
+      "character_start": 6283,
+      "character_end": 6354,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ownership-without-fault",
+      "title": "Separate fault from response responsibility",
+      "explanation": "His response-oriented stance explicitly allows real bad luck and unfairness.",
+      "quote": "It might not be your fault but it's still your problem",
+      "tags": [
+        "agency",
+        "resilience"
+      ],
+      "character_start": 8132,
+      "character_end": 8186,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "13e078bb-76af-4d0c-ba91-6f3f83322fca",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Anecdotes, borrowed quotations and psychological labels are not independently checked. He acknowledges that unfair circumstances and valid excuses exist; ownership is a response, not proof people cause all outcomes. Career reversibility varies. Advice to ignore critics or persist can conflict with his elsewhere-endorsed feedback and stopping rules.",
+  "review_changes": "Adds the earned-ask condition, concrete publishing example and qualification on fault; separates possibility of reversibility from a guarantee.",
+  "deep_review_date": "2026-11-16T20:48:57.271612+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/RYLrfpMSkoY.json",
+  "previous_draft_sha256": "90018777fbacc4db97e03e8ec19ba9fd706b56fffec4d26242770b3379abf8f6"
+}

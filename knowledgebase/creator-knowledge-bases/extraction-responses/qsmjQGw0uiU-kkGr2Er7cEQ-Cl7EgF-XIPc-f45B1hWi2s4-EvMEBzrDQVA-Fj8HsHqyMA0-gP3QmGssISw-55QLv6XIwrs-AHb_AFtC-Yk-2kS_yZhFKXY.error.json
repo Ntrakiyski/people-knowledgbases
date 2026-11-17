@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "youtube_id": "qsmjQGw0uiU",
+      "title": "13 Innocent Mistakes Quietly Destroying Your 20s",
+      "source_id": "374aa713-bfce-4b81-95e0-660314c9f4b4"
+    },
+    {
+      "youtube_id": "kkGr2Er7cEQ",
+      "title": "Feel Behind? (Do This For 30 Days)",
+      "source_id": "c6b11c67-aae3-4e0e-bb9c-0bce278a3d6e"
+    },
+    {
+      "youtube_id": "Cl7EgF-XIPc",
+      "title": "11 Habits That Cost Me 30 Years",
+      "source_id": "4a88915c-53f4-4d23-82b7-4b1b66316f54"
+    },
+    {
+      "youtube_id": "f45B1hWi2s4",
+      "title": "It took me 35 years to learn this. I\u2019ll teach it to you in 10 minutes.",
+      "source_id": "27a7a9cb-bcdd-472c-bf51-553278eff38e"
+    },
+    {
+      "youtube_id": "EvMEBzrDQVA",
+      "title": "Stop Setting Goals. Do This Instead.",
+      "source_id": "cee67c85-9f5c-424b-9a08-6d215874c660"
+    },
+    {
+      "youtube_id": "Fj8HsHqyMA0",
+      "title": "34 money lessons (no one talks about these)",
+      "source_id": "ec96600f-a2fa-4a90-8747-f46e52778b30"
+    },
+    {
+      "youtube_id": "gP3QmGssISw",
+      "title": "What I learned on Richard Branson\u2019s Private Island",
+      "source_id": "43f9e51e-49ee-4b2b-8df4-82b9f5a10b3f"
+    },
+    {
+      "youtube_id": "55QLv6XIwrs",
+      "title": "5 Harsh Truths Nobody Told You About Entrepreneurship",
+      "source_id": "9647e4b1-c938-4e31-b289-bd250f30bf2d"
+    },
+    {
+      "youtube_id": "AHb_AFtC-Yk",
+      "title": "The AI Boom Will Break Us (unless we fix this)",
+      "source_id": "1e3fa177-09ac-4e00-a876-c14e461752c1"
+    },
+    {
+      "youtube_id": "2kS_yZhFKXY",
+      "title": "How I Eat for 10% Body Fat",
+      "source_id": "a08ac701-95c3-42b9-8a31-3dbdf0ad2ae8"
+    }
+  ],
+  "error": "NotebookLM extraction command failed (exit 1)"
+}

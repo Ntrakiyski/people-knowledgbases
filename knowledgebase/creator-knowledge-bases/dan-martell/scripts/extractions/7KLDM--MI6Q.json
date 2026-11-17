@@ -1,0 +1,68 @@
+{
+  "youtube_id": "7KLDM--MI6Q",
+  "thesis": "Deploy resources toward time, long-horizon creation and giving during life.",
+  "summary": "Martell combines identity with the buyback-rate formula, longer horizons and generosity. His delegation threshold divides annual income by two thousand and then four; the expected fourfold value assumes productive replacement of time. A twenty-five-year vision is worked back to a next action within forty-eight hours. Die empty means using money, time and relationships for people and experiences now, including a giving habit and shared prosperity.",
+  "insights": [
+    {
+      "slug": "buyback-rate",
+      "title": "Estimate a conservative delegation threshold",
+      "explanation": "His annual-income formula uses assumed work hours and a fourfold buffer; apply it as a decision aid rather than measured return.",
+      "quote": "divide that number by four because we want to make sure that we get a four times ROI",
+      "tags": [
+        "delegation",
+        "economics"
+      ],
+      "character_start": 2415,
+      "character_end": 2499,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "vision-as-direction",
+      "title": "A long vision can be provisional",
+      "explanation": "He explicitly allows the distant vision to be wrong while retaining it as a direction for sequencing.",
+      "quote": "you don't have to be right you just have to have one done",
+      "tags": [
+        "planning",
+        "vision"
+      ],
+      "character_start": 7209,
+      "character_end": 7266,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "most-important-next-step",
+      "title": "Turn a distant plan into a near action",
+      "explanation": "The MINS exercise asks for one action that unlocks progress, followed by a forty-eight-hour commitment.",
+      "quote": "most important next step see everybody gets overwhelmed",
+      "tags": [
+        "action",
+        "planning"
+      ],
+      "character_start": 7773,
+      "character_end": 7828,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "die-empty",
+      "title": "Use resources to help while alive",
+      "explanation": "His account includes generosity, shared wealth, relationships and meaningful experiences rather than merely consuming all assets.",
+      "quote": "Why wouldn't you want to be there when you give the money to the person",
+      "tags": [
+        "giving",
+        "wealth"
+      ],
+      "character_start": 10111,
+      "character_end": 10182,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "341daf9a-02b9-4d97-9cd4-4f0e28f36747",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Income/8,000 is a heuristic threshold, not guaranteed marginal earnings or realized ROI. The long-term studio valuation is a forecast, not current wealth. Identity, abundance and giving-causes-riches claims express belief, not causal evidence. He says the long vision need not be right; it supplies direction, which matters when comparing with rigid-planning critiques.",
+  "review_changes": "Adds the real assumptions behind the hourly formula, the provisional vision caveat and relational/giving meaning of wealth beyond asset accumulation.",
+  "deep_review_date": "2026-11-16T20:56:09.862851+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/7KLDM--MI6Q.json",
+  "previous_draft_sha256": "94d5ed95f05c75ae6b7bf928fb2d3eecf4fb4a264dfceb79721be3e019716078"
+}

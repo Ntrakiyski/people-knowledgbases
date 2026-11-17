@@ -1,0 +1,94 @@
+{
+  "youtube_id": "zzleYxkf39k",
+  "thesis": "Differentiate a moving offer and its referral process before trying to replicate it across locations.",
+  "summary": "Nas describes a roughly 300,000-revenue moving company with available capacity but insufficient leads, and realtor referrals yielding larger jobs than Google. Alex starts with offer and sales rather than buying more traffic: a VIP tier, clear materials/insurance/cost-cap elements and a standard fallback, while retaining hourly pricing as an interim compromise. Realtor benefits shift from cash discounts to customer upgrades; a successful individual move becomes an introduction to an entire brokerage. He proposes before/after proof, staff review incentives and tested personalized outreach. The competition verdict is fail because Alex does not yet see a suitable year-long scaling partnership; he explicitly distinguishes that from predicting business failure. Nas describes intended execution, with no measured 90-day result shown.",
+  "insights": [
+    {
+      "slug": "back-to-front-business-design",
+      "title": "Fix the offer before increasing distribution",
+      "explanation": "Alex works from what is sold to sales method, customer segment and traffic. In this case he diagnoses lost deals as a differentiation/sales issue rather than assuming that every lead source is poor.",
+      "quote": "I always fix things from back to front",
+      "tags": [
+        "offers",
+        "sequencing"
+      ],
+      "character_start": 5124,
+      "character_end": 5162,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "service-value-dimensions",
+      "title": "Give buyers concrete dimensions beyond hourly price",
+      "explanation": "The proposed offer makes materials, service level, insurance and a cost cap visible. Coverage and competitor comparisons remain claims requiring support; invented percentages are not evidence.",
+      "quote": "customers will always go to price if you don't give them any other variables to consider",
+      "tags": [
+        "pricing",
+        "differentiation"
+      ],
+      "character_start": 19165,
+      "character_end": 19253,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "realtor-reputation-value",
+      "title": "A referral offer can improve the partner's reputation",
+      "explanation": "A VIP upgrade for referred clients is proposed as more compelling to the realtor than a small cash benefit, because it improves the client experience associated with the introduction.",
+      "quote": "their customer has to see them better because they have the hookup",
+      "tags": [
+        "referrals",
+        "incentives"
+      ],
+      "character_start": 25602,
+      "character_end": 25668,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "brokerage-workflow-integration",
+      "title": "Turn an individual referral into a brokerage relationship",
+      "explanation": "He proposes meeting colleagues after a successful move and becoming part of the brokerage's client materials, with a named relationship manager as volume grows.",
+      "quote": "you want integration because as soon as you get integrated in their sales process",
+      "tags": [
+        "partnerships",
+        "distribution"
+      ],
+      "character_start": 28577,
+      "character_end": 28658,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "show-full-service-evidence",
+      "title": "Document the whole service arc",
+      "explanation": "Before/after material at both locations and a customer review are proposed to show what was delivered. Such material is selected promotional evidence rather than independent quality measurement.",
+      "quote": "it literally shows the full art right end to end",
+      "tags": [
+        "proof",
+        "content"
+      ],
+      "character_start": 35787,
+      "character_end": 35835,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "competition-fit-versus-failure",
+      "title": "A competition rejection is not a business outcome",
+      "explanation": "Alex says the business needs model refinement before multi-location expansion and that his fail verdict concerns the year-long partnership. No subsequent growth result is established.",
+      "quote": "the fail has nothing to do with whether or not the business will fail",
+      "tags": [
+        "business-model",
+        "evidence"
+      ],
+      "character_start": 42110,
+      "character_end": 42179,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a32be700-d438-40d9-8901-e7eabb0ceacd",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Business numbers, comparisons and predicted growth are unverified. The stated six realtor jobs/15,000 imply 2,500 average, inconsistent with the spoken over-3,000 claim; no repair is assumed. The proposed internal master-mover credential must not be mistaken for external accreditation. Criminal-record and breakage percentages appear as suggested sales rhetoric, not substantiated competitor statistics. Hypothetical safety, coverage and price-cap claims require actual support and clear conditions. Personalization does not establish messaging consent or deliverability, and five-star review incentives can bias the resulting evidence. Assurances that the plan will succeed are predictions, not outcomes.",
+  "review_changes": "Adds the full offer-to-referral sequence, limits of suggested competitor claims and internal credentials, the interim hourly compromise, and the precise meaning of the fail verdict.",
+  "deep_review_date": "2026-11-16T21:04:15.280021+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/zzleYxkf39k.json",
+  "previous_draft_sha256": "f8d5d15050def3c74a0ced3d5e44f8e1305e8dd440b9769f10ea785780070710"
+}

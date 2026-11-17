@@ -1,0 +1,50 @@
+{
+  "youtube_id": "msHqw2aRIjQ",
+  "thesis": "The speaker frames health attention as protecting a valued life while seeking balance with enjoyment.",
+  "summary": "Asked why his content increasingly covers longevity, the participant points to family, employees, businesses, and the life he wants to preserve. He describes seeking an executive health service and investigating screening, while saying he still wants flexibility for social drinking and food. A friend's reported heart findings support his concern about unseen risks. Specific disease prevalence, sex differences, predictive timelines, and screening recommendations in this discussion are not independently validated. The source records his motivation and health beliefs, not clinical advice or proof that a particular test improves outcomes.",
+  "insights": [
+    {
+      "slug": "protecting-life-quality",
+      "title": "Connect prevention motivation to what is worth preserving",
+      "explanation": "The participant describes family and work responsibilities as reasons to pay attention to health. This is a values-based explanation for his interest, not a medical conclusion.",
+      "quote": "i have businesses that I'm proud of i have people that depend on me",
+      "character_start": 1134,
+      "character_end": 1201,
+      "tags": [
+        "health",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "health-enjoyment-balance",
+      "title": "Make the desired balance explicit",
+      "explanation": "The speaker wants both health attention and an enjoyable social life. Recording that preference helps distinguish his position from an extreme optimization program without validating any particular lifestyle choice.",
+      "quote": "I want to I want to have both sides",
+      "character_start": 2340,
+      "character_end": 2375,
+      "tags": [
+        "health",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "health-claim-boundaries",
+      "title": "Keep personal screening stories separate from clinical evidence",
+      "explanation": "The story about a fit friend's cardiovascular findings motivates the speaker's concern. It cannot establish the benefits, harms, or appropriate timing of screening for another person.",
+      "quote": "these things can be going on for people and you don't even know it",
+      "character_start": 4559,
+      "character_end": 4625,
+      "tags": [
+        "health",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c0aafa60-4524-418c-b266-17987d7fb642",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

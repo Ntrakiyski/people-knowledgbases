@@ -1,0 +1,68 @@
+{
+  "youtube_id": "rMvTyvbLoy0",
+  "thesis": "Respond to AI disruption by demonstrating useful outcomes and solving local bottlenecks.",
+  "summary": "Sanchez combines alarming layoff and labor-market claims with a practical plan: experiment with several AI tools, evaluate each task for assistance, seek leadership that invests in adoption and build demonstrable work. Her proposed local implementation service starts with an owner’s bottleneck, builds a targeted tool, and includes training. Distribution and ownership are portrayed as defenses, with promotions for her workshop and education business.",
+  "insights": [
+    {
+      "slug": "ai-outcomes-over-pedigree",
+      "title": "Show useful work rather than relying on credentials",
+      "explanation": "Her hiring anecdote favors a candidate demonstrating AI work; it does not establish a general labor-market law.",
+      "quote": "she actually showed me what she was building",
+      "tags": [
+        "ai",
+        "hiring"
+      ],
+      "character_start": 8943,
+      "character_end": 8987,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "bottleneck-first-ai",
+      "title": "Ask about the business problem first",
+      "explanation": "The local-service proposal begins with operational pain rather than selling a generic AI label.",
+      "quote": "ask the owner what their biggest bottleneck is not do you want AI",
+      "tags": [
+        "ai",
+        "services"
+      ],
+      "character_start": 12079,
+      "character_end": 12144,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "implementation-handoff",
+      "title": "Train the customer after building",
+      "explanation": "She explicitly includes adoption support rather than abandoning a tool after delivery.",
+      "quote": "don't just build it and leave train them",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 12444,
+      "character_end": 12484,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "distribution-under-abundance",
+      "title": "Distribution may matter more as creation becomes easier",
+      "explanation": "Her claim links cheap creation with harder selling and promotes audience, reputation and network.",
+      "quote": "as AI lowers the barrier to creating things it raises the barrier to selling things",
+      "tags": [
+        "distribution",
+        "ai"
+      ],
+      "character_start": 10200,
+      "character_end": 10283,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "d97e28d0-1b39-40d5-aa40-24d3ab28636f",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Employment numbers, layoff causes, task-automation shares, price collapse and referral guarantees are unverified claims or forecasts. Task exposure does not equal job elimination. Keeping a good salary job coexists with urging exit from non-adopting companies; individual circumstances are unresolved. Workshop promotion is a material interest.",
+  "review_changes": "Adds implementation handoff, the distinction between credential and demonstrated output, and tension in her employment recommendations.",
+  "deep_review_date": "2026-11-16T20:51:51.292987+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/rMvTyvbLoy0.json",
+  "previous_draft_sha256": "04925dd72f7c6ee369d37be514be60aaf38b2e7f22a16dd3851766f12e1b6a2d"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "crMQX981PYU",
+  "thesis": "The selected education critique presents succession and learning a trade as alternatives to a costly credential.",
+  "summary": "The source challenges MBA value and uses a story of a business owner seeking a successor. It frames continued operation as requiring someone to learn the trade and take responsibility. Tuition figures, employment statistics, and the free-business anecdote are not independently verified. The selected evidence does not establish that all degrees are poor investments or that trades guarantee security.",
+  "insights": [
+    {
+      "slug": "education-investment-question",
+      "title": "Evaluate a credential as an investment rather than status alone",
+      "explanation": "The opening asks whether the price and teaching justify the investment. Its accusation is a position to assess, not a demonstrated conclusion.",
+      "quote": "if education is supposed to be an investment",
+      "character_start": 163,
+      "character_end": 207,
+      "tags": [
+        "education",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "succession-operating-condition",
+      "title": "Include the work required in a succession opportunity",
+      "explanation": "The story's condition is moving, learning, and operating. A low transfer price does not mean no cost or obligation.",
+      "quote": "learn the trade keep it running",
+      "character_start": 11491,
+      "character_end": 11522,
+      "tags": [
+        "succession",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ownership-skill-transfer",
+      "title": "Treat continuity as requiring acquired operating capability",
+      "explanation": "The baton metaphor emphasizes learning what is needed to continue the business.",
+      "quote": "if you actually learn how to take up the baton",
+      "character_start": 12730,
+      "character_end": 12776,
+      "tags": [
+        "learning",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "44811650-56d1-495d-ac2c-972ce464ea18",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

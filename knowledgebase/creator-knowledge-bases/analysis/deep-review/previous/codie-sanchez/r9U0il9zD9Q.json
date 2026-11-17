@@ -1,0 +1,50 @@
+{
+  "youtube_id": "r9U0il9zD9Q",
+  "thesis": "The selected AI scenario stresses asset ownership and durable operating relationships.",
+  "summary": "The creator predicts a post-labor economy and concentrated control of systems, then proposes assets and durable networks as responses. These are forecasts and strategic opinions, not established facts about the future. The note preserves the distinction between the scenario and the actions the creator favors.",
+  "insights": [
+    {
+      "slug": "post-labor-scenario",
+      "title": "Identify the forecast underlying the recommended action",
+      "explanation": "The creator's ownership argument rests partly on a speculative future in which labor is less needed. That premise remains uncertain.",
+      "quote": "we are on a path into a post- labor economy",
+      "character_start": 893,
+      "character_end": 936,
+      "tags": [
+        "ai",
+        "scenario-planning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "durable-network",
+      "title": "Distinguish operating coalitions from audience alone",
+      "explanation": "The source points to organizations and groups that operate assets, rather than equating a personal brand with institutional capacity.",
+      "quote": "embed ourselves into durable networks not just personal brands",
+      "character_start": 12581,
+      "character_end": 12643,
+      "tags": [
+        "relationships",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "asset-labor-exposure",
+      "title": "Inspect the balance between labor income and ownership",
+      "explanation": "The creator presents this as a source of control. Ownership also carries capital and operating risks not resolved by the passage.",
+      "quote": "what you control is what you own assets versus pure labor",
+      "character_start": 14942,
+      "character_end": 14999,
+      "tags": [
+        "ownership",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c01bfd1d-361b-4c8e-88ba-d4fe238f600d",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

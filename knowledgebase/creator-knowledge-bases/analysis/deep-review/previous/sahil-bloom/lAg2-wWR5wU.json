@@ -1,0 +1,50 @@
+{
+  "youtube_id": "lAg2-wWR5wU",
+  "thesis": "A calendar audit is proposed to distinguish reactive management from creation, learning, and thinking.",
+  "summary": "The source divides professional time into four categories and asks the viewer to color-code a week in half-hour increments. It then recommends protecting creation and making room for consumption and ideation. Selected passages support the procedure; broad claims about dopamine, typical time use, or guaranteed growth remain unverified. The note records a diagnostic exercise rather than a proven productivity treatment.",
+  "insights": [
+    {
+      "slug": "calendar-audit",
+      "title": "Make actual time allocation visible",
+      "explanation": "Color coding is presented as a way to inspect where time went before redesigning the week.",
+      "quote": "think through all the tasks you do in a day in 30 minute increments",
+      "character_start": 4085,
+      "character_end": 4152,
+      "tags": [
+        "time-management",
+        "measurement"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "creation-windows",
+      "title": "Distinguish creating from processing incoming work",
+      "explanation": "The examples include a presentation, project, writing, or video. The distinction helps identify output work that reactive tasks may crowd out.",
+      "quote": "creation time writing building coding making net new progress",
+      "character_start": 1570,
+      "character_end": 1631,
+      "tags": [
+        "productivity",
+        "creation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "attention-boundaries",
+      "title": "Protect the chosen creation block from incoming channels",
+      "explanation": "The source gives concrete exclusions for focused work. The proposed block still needs to fit the responsibilities of the role.",
+      "quote": "no email no Slack no meetings during that window",
+      "character_start": 5031,
+      "character_end": 5079,
+      "tags": [
+        "attention",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "89e70f1d-5977-4f64-94bb-d15bf3f79e5b",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

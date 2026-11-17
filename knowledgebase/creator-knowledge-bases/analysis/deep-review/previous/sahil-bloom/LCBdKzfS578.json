@@ -1,0 +1,37 @@
+{
+  "youtube_id": "LCBdKzfS578",
+  "thesis": "Selected habits use offline reflection and evening boundaries as small daily actions.",
+  "summary": "The short source presents a larger nine-habit list. The reviewed ending recommends a walk without technology, checking direction, and ending late-night scrolling to prepare for the following day. Strong promises about outperforming others or becoming unstoppable are not established.",
+  "insights": [
+    {
+      "slug": "offline-reflection",
+      "title": "Use a walk as a prompt to inspect direction",
+      "explanation": "The source pairs separation from distractions with a question about where current actions lead.",
+      "quote": "a tech-free walk no distractions just you and your thoughts",
+      "character_start": 1521,
+      "character_end": 1580,
+      "tags": [
+        "attention",
+        "reflection"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "evening-attention-boundary",
+      "title": "Put a stopping point around late-night scrolling",
+      "explanation": "The source links ending online activity with preparing for tomorrow. The note does not validate a universal bedtime.",
+      "quote": "no doom scrolling no 2 a.m youtube rabbit holes",
+      "character_start": 1680,
+      "character_end": 1727,
+      "tags": [
+        "habits",
+        "sleep"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "018f9480-c77a-421e-bd99-1391794418ff",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

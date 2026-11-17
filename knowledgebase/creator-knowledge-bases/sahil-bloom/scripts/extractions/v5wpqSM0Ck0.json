@@ -1,0 +1,68 @@
+{
+  "youtube_id": "v5wpqSM0Ck0",
+  "thesis": "Bloom links income growth to value creation and leverage while favoring simple investing and restrained spending.",
+  "summary": "The seven habits cover value creation in an energizing area of competence, rapid action and adjustment, automated index-fund investing, tolerance for rejection, relationships, living below one's means, and leverage through systems, distribution, and teams. The financial structure separates income-building work from investment complexity: he recommends focusing effort on earning capacity and automating investing. The spending gap supplies investable resources. Personal success claims and assertions that all wealthy people created proportionately greater value are not substantiated, and the advice is not an individualized investment plan.",
+  "insights": [
+    {
+      "slug": "value-and-focus",
+      "title": "Focus earning effort on useful strengths",
+      "explanation": "The proposed starting point combines energy and competence to create value. The claim that money always tracks value created is broader than the evidence supports.",
+      "quote": "Find the intersection of what gives you energy and what you're good at",
+      "tags": [
+        "learning",
+        "sales"
+      ],
+      "character_start": 950,
+      "character_end": 1020,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "simple-investing",
+      "title": "Keep investment complexity from consuming income-building attention",
+      "explanation": "Automated index investing is recommended so attention can go toward earning capacity. This is the speaker's general preference, not a risk-free prescription.",
+      "quote": "Set your investments on autopilot and invest your energy in growing your income",
+      "tags": [
+        "investing",
+        "productivity"
+      ],
+      "character_start": 2420,
+      "character_end": 2499,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "savings-gap",
+      "title": "Expenses determine how much income becomes investable",
+      "explanation": "The video distinguishes earning more from retaining resources. It recommends slower expense growth rather than treating a large salary alone as financial freedom.",
+      "quote": "what matters most isn't income It's the gap between income and expenses",
+      "tags": [
+        "cash-flow",
+        "investing"
+      ],
+      "character_start": 3866,
+      "character_end": 3937,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "operating-leverage",
+      "title": "Identify systems, distribution, and teams as different leverage sources",
+      "explanation": "The final habit moves beyond selling hours. It names concrete categories but does not establish the advertised output multipliers.",
+      "quote": "creating systems by scaling your distribution advantages and by building teams",
+      "tags": [
+        "operations",
+        "hiring"
+      ],
+      "character_start": 4501,
+      "character_end": 4579,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "20cd649e-49b1-41dc-badd-c46cb9e0bc32",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The Einstein attribution and universal claims about wealth creation are unverified. Index funds carry risk. Creating value is distinct from capturing payment; the transcript does not analyze bargaining power, luck, or unequal starting resources.",
+  "review_changes": "Adds the income/investing separation, spending gap, and distinct forms of leverage rather than treating the video as generic motivation.",
+  "deep_review_date": "2026-11-16T19:23:26.482419+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/v5wpqSM0Ck0.json",
+  "previous_draft_sha256": "3c11758b9c2211ca265b5d3fc398ddf4437108dc1f6fbeb4c69f46f693aa37f9"
+}

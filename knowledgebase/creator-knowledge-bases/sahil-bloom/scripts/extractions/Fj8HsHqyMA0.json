@@ -1,0 +1,94 @@
+{
+  "youtube_id": "Fj8HsHqyMA0",
+  "thesis": "Evaluate money through security, liquidity, time costs and a concrete enough life.",
+  "summary": "Thirty-four lessons span focus over distracting side hustles, slow durable accumulation, recurring-expense audits, saving the income/expense gap and resourcefulness. Bloom distinguishes financial security from status escalation, values emergency cash for psychological optionality, discusses partner alignment and downside simulations, and treats investment liquidity as both protection and a panic-selling risk. He counts time/hassle alongside returns, favors passive market exposure over amateur outperformance, allows affordable luxury financing, and combines automated bills with periodic audits. The conclusion treats money as a tool for time, experiences, purpose, health and generosity.",
+  "insights": [
+    {
+      "slug": "cash-optionality",
+      "title": "Cash reserves can support risk-taking elsewhere",
+      "explanation": "He values emergency savings for calm and capacity to pursue opportunities, using a brakes analogy rather than a literal yield comparison.",
+      "quote": "The downside protection is what allows you to fully go after the upside",
+      "tags": [
+        "cash",
+        "risk"
+      ],
+      "character_start": 10185,
+      "character_end": 10256,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "liquidity-tradeoff",
+      "title": "Balance access with protection from impulsive selling",
+      "explanation": "Liquidity aids downturn resilience but can enable rash exits; he wants some practical friction for himself.",
+      "quote": "liquidity can also be a bug in a highly emotionally charged situation",
+      "tags": [
+        "investing",
+        "liquidity"
+      ],
+      "character_start": 20415,
+      "character_end": 20484,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "return-on-hassle",
+      "title": "Include the time demanded by an investment",
+      "explanation": "The comparison between index funds and active property ownership explicitly counts labor, not just a headline percentage.",
+      "quote": "the additional return that you are perceiving this new opportunity to have has to justify the amount of time",
+      "tags": [
+        "investing",
+        "time"
+      ],
+      "character_start": 24474,
+      "character_end": 24582,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "status-purchase-test",
+      "title": "Test a purchase without an audience",
+      "explanation": "He proposes asking whether the same object would appeal if nobody could be told about it.",
+      "quote": "Would I buy this watch if I couldn't tell a single person about it",
+      "tags": [
+        "spending",
+        "status"
+      ],
+      "character_start": 26898,
+      "character_end": 26964,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "enough-life",
+      "title": "Define enough as a life rather than a moving number",
+      "explanation": "A concrete picture of place, people and activities is intended to guide action and spending.",
+      "quote": "Enough needs to be a life",
+      "tags": [
+        "enough",
+        "wealth"
+      ],
+      "character_start": 39290,
+      "character_end": 39315,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "automation-with-audits",
+      "title": "Automate routine bills but still audit subscriptions",
+      "explanation": "He pairs below-threshold autopay with periodic review, rather than recommending permanent inattention.",
+      "quote": "you're going to do the audit on a you know quarterly or semianual or maybe annual basis",
+      "tags": [
+        "finances",
+        "systems"
+      ],
+      "character_start": 36538,
+      "character_end": 36625,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "ec96600f-a2fa-4a90-8747-f46e52778b30",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Personal financial opinions and illustrative returns are not verified performance or individualized advice. Exceptions matter: meaningful passion projects differ from distracting hustles; housing is excluded from his luxury-debt rule; liquidity can harm emotional investors; family presence is balanced against modeling meaningful work. His cash return means psychological/option value, not superior measured yield. Claims about happiness studies, divorce, markets and investment outcomes remain unverified.",
+  "review_changes": "Adds the substantial internal qualifications, explicit time cost of active investments, conditional luxury financing, and the difference between cash yield and optionality.",
+  "deep_review_date": "2026-11-16T20:50:23.347244+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/Fj8HsHqyMA0.json",
+  "previous_draft_sha256": "dbcf23b8eb81338a98a48dc3d958360bdaa630b5f5ded8ab56752dac0929327d"
+}

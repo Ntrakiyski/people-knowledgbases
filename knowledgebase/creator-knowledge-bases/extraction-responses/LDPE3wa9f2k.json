@@ -1,0 +1,22 @@
+{
+  "answer": "{\n  \"videos\": [\n    {\n      \"youtube_id\": \"LDPE3wa9f2k\",\n      \"thesis\": \"The speaker presents six core strategic levers to accelerate business growth beyond traditional advertising, emphasizing value-based pricing, new distribution channels, cost reduction, business acquisitions, customer re-engagement, and hiring talent with established client relationships.\",\n      \"summary\": \"The speaker outlines six strategic levers to accelerate business growth without relying exclusively on digital marketing. Business owners can expand margins by raising prices to reflect unique value and filtering out price-sensitive customers. Growth can also be achieved by adding new distribution channels, auditing expenses to eliminate non-revenue-generating costs, and acquiring cash-flowing businesses using seller financing. Furthermore, companies can increase revenue by offering complementary products to existing customers and hiring experienced talent who bring established client relationships.\",\n      \"insights\": [\n        {\n          \"slug\": \"value-pricing\",\n          \"title\": \"Raising prices filters out price sensitive customers\",\n          \"explanation\": \"The speaker argues that undercharging attracts demanding clients who leave when cheaper options appear. Increasing prices allows businesses to filter for loyal customers who prioritize overall value over lowest cost.\",\n          \"quote\": \"By raising prices you actually filter all those people out You find your fans Then they'll say tell me if this is you thinking in your head\",\n          \"speaker\": \"Codie Sanchez\",\n          \"tags\": [\n            \"sales\",\n            \"cash-flow\",\n            \"marketing\"\n          ]\n        },\n        {\n          \"slug\": \"distribution-expansion\",\n          \"title\": \"Adding new distribution channels reaches adjacent buyers\",\n          \"explanation\": \"The speaker advises expanding beyond core sales channels by establishing repeatable systems such as partnerships, wholesale arrangements, or direct channels to place products in front of new customer segments.\",\n          \"quote\": \"But distribution is actually a repeatable system to put your product in front of a new type of buyer So if you're a cleaning company that partners\",\n          \"speaker\": \"Codie Sanchez\",\n          \"tags\": [\n            \"marketing\",\n            \"operations\",\n            \"sales\"\n          ]\n        },\n        {\n          \"slug\": \"cost-elimination\",\n          \"title\": \"Auditing operational expenses uncovers hidden enterprise profit\",\n          \"explanation\": \"The speaker emphasizes that cutting non-essential operational expenses increases profit margins and business valuation. Leaders should regularly review spending to eliminate or renegotiate costs that fail to generate direct revenue.\",\n          \"quote\": \"Now you cut renegotiate or replace CR R at least three of them in the next week Yeah Week Otherwise you'll just put it off\",\n          \"speaker\": \"Codie Sanchez\",\n          \"tags\": [\n            \"operations\",\n            \"cash-flow\",\n            \"productivity\"\n          ]\n        },\n        {\n          \"slug\": \"talent-acquisition\",\n          \"title\": \"Hiring talent with existing client relationships accelerates growth\",\n          \"explanation\": \"The speaker suggests recruiting experienced industry professionals who bring established customer relationships. Hiring key operators with existing books of business expands client bases faster than traditional recruiting methods.\",\n          \"quote\": \"I call this the rain maker rule because you hire customers that are attached to talent Most people find a business first then go find someone to work in it\",\n          \"speaker\": \"Codie Sanchez\",\n          \"tags\": [\n            \"hiring\",\n            \"leadership\",\n            \"sales\"\n          ]\n        }\n      ]\n    }\n  ]\n}",
+  "conversation_id": "7170d4ba-53dd-4ffd-80df-b27744e7c528",
+  "turn_number": 11,
+  "is_follow_up": true,
+  "references": [],
+  "turn_key": {
+    "session_id": "7170d4ba-53dd-4ffd-80df-b27744e7c528",
+    "turn_id": "91b75e5f-8073-42a9-852b-47d9b01698b6",
+    "turn_code": 253250230
+  },
+  "next_steps": [
+    {
+      "question": "Let's explore pricing strategies",
+      "type_code": 9
+    },
+    {
+      "question": "How do I find bolt-on acquisitions?",
+      "type_code": 9
+    }
+  ]
+}

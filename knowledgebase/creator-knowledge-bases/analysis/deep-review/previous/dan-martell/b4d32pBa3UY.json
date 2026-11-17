@@ -1,0 +1,50 @@
+{
+  "youtube_id": "b4d32pBa3UY",
+  "thesis": "The selected digital-brain framework emphasizes persistent files, structured context, and maintenance.",
+  "summary": "Reviewed passages propose a readable file store, people and project records, and a process for reviewing new information. The creator argues that agent behavior depends on context. These are design proposals, not evidence that a vault automatically becomes accurate or that all personal information should be connected.",
+  "insights": [
+    {
+      "slug": "persistent-readable-context",
+      "title": "Keep information in a durable structure tools can read",
+      "explanation": "The source emphasizes the user's files and structure rather than relying only on a transient conversation.",
+      "quote": "your files in your structure that anyi can read",
+      "character_start": 856,
+      "character_end": 903,
+      "tags": [
+        "knowledge-management",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "entity-context-files",
+      "title": "Organize context around people and projects",
+      "explanation": "The creator proposes dedicated files to reduce scattered information. Accurate identity and appropriate access still need care.",
+      "quote": "every person in your life has a people file",
+      "character_start": 5697,
+      "character_end": 5740,
+      "tags": [
+        "knowledge-management",
+        "organization"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "context-maintenance",
+      "title": "Treat new information as something to review and integrate",
+      "explanation": "The suggested daily refinement process is a maintenance step. It does not show that autonomous edits will always be correct.",
+      "quote": "Read everything that you've added to my vault",
+      "character_start": 10298,
+      "character_end": 10343,
+      "tags": [
+        "knowledge-management",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "bfb43da4-026a-4fa8-a7cd-95e9fc24fc98",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

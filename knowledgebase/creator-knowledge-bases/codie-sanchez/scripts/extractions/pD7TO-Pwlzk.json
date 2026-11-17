@@ -1,0 +1,94 @@
+{
+  "youtube_id": "pD7TO-Pwlzk",
+  "thesis": "A narrated Huizenga case study presents a leverage ladder from personal work to repeatable systems, financing, people, and attention.",
+  "summary": "Sanchez narrates Wayne Huizenga's rise through a six-part leverage ladder: sweat, skill, systems, capital, people, and attention. The operating ideas include learning customer preferences, spreading effective practices across acquired businesses, combining routes with disposal assets, using seller financing or stock for acquisitions, and retaining capable local operators. The narrative applies the pattern to waste collection, video rental, and car retailing. It closes by connecting the framework to Sanchez's acquisition teaching. The biography and results are narrated claims, not independently established evidence, and several numerical and chronological statements require checking.",
+  "insights": [
+    {
+      "slug": "skill-before-scale",
+      "title": "Convert repeated customer contact into operating knowledge",
+      "explanation": "The narrated early stage includes learning why customers switch and where competitors disappoint. The framework treats those observations as reusable skills rather than merely more hours worked.",
+      "quote": "he studied his customers what made them switch providers",
+      "tags": [
+        "sales",
+        "operations"
+      ],
+      "character_start": 2320,
+      "character_end": 2376,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "acquisition-playbook-transfer",
+      "title": "Spread effective local practices across a network",
+      "explanation": "The routing and maintenance examples illustrate a proposed benefit of acquisition: reusing a discovered practice across more operations. The anecdotes do not quantify integration costs or demonstrate that every practice transfers.",
+      "quote": "a company in Ohio figured out a more efficient routing system oh they just stole that homework and applied it to their entire business",
+      "tags": [
+        "acquisitions",
+        "operations"
+      ],
+      "character_start": 4194,
+      "character_end": 4328,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "infrastructure-control",
+      "title": "Consider complementary assets as well as added customers",
+      "explanation": "The narration emphasizes landfill ownership alongside collection routes. The claimed advantage comes from control of a necessary input, not simply having more trucks.",
+      "quote": "he didn't just merge the routes he merged landfill assets",
+      "tags": [
+        "acquisitions",
+        "strategy"
+      ],
+      "character_start": 3837,
+      "character_end": 3894,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "equity-financing",
+      "title": "Separate conserving cash from eliminating acquisition cost",
+      "explanation": "Using shares is presented as an alternative to paying cash. The transcript's enthusiasm should not hide dilution, valuation risk, or integration obligations, which are not analyzed.",
+      "quote": "instead of paying cash for every acquisition Wayne started offering stock",
+      "tags": [
+        "acquisitions",
+        "investing"
+      ],
+      "character_start": 5694,
+      "character_end": 5767,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "retained-operators",
+      "title": "Retain local knowledge and align operator incentives",
+      "explanation": "Keeping proven owners is framed as preserving relationships and expertise while sharing ownership. The story supports a people-and-systems model, not an effortless hire-great-people shortcut.",
+      "quote": "retain proven operators align incentives with equity free up your own time to focus on strategy",
+      "tags": [
+        "hiring",
+        "leadership"
+      ],
+      "character_start": 8218,
+      "character_end": 8313,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delegation-learning",
+      "title": "Managing at distance is itself a learned capability",
+      "explanation": "Even the favorable narrative includes difficulty learning to manage remotely and let go. That qualifies the ladder's apparent simplicity.",
+      "quote": "it's awkward phone calls missed targets it's learning to let go when you want to do it yourself",
+      "tags": [
+        "leadership",
+        "learning"
+      ],
+      "character_start": 8935,
+      "character_end": 9030,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "3855919d-b59d-4a10-8b3b-498eeb6e7be7",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "This is Sanchez's narrated interpretation, not a Huizenga interview. The assertion that ninety acquisitions over four years equals one every three days is arithmetically inconsistent: the interval is roughly sixteen days. The narration discusses post-IPO activity before saying 'then came' the IPO, so order of presentation is not reliable chronology. Stock consideration can dilute ownership and transfer risk; describing it as paper without cash cost does not make it economically free.",
+  "review_changes": "Adds systems transfer, infrastructure control, retained local operators, equity incentives, and internal evidence problems. Separates the useful framework from unverified biography and exaggerated free-capital language.",
+  "deep_review_date": "2026-11-16T19:25:07.687833+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/pD7TO-Pwlzk.json",
+  "previous_draft_sha256": "24ffe618f097495c2111759ae834e8ecd5c8de577583b4530c6f4cf3fb1169bd"
+}

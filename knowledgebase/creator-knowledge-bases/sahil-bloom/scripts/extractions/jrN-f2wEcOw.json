@@ -1,0 +1,94 @@
+{
+  "youtube_id": "jrN-f2wEcOw",
+  "thesis": "Inventory existing skills, connect them to paid problems, and combine earnings growth with a financial buffer and simple investing.",
+  "summary": "The game of threes asks what friends request help with, what one does better than peers, and what one does for free. Bloom then recommends talking to people to find paid problems those skills can solve and adding complementary capabilities as needs grow. Four supporting gears cover confidence through action, an initial client, value-led networking, and managing money. His suggested allocation splits surplus between cash savings and index funds until a stated reserve target, then directs surplus toward investing. The ending explicitly says the process takes patience and consistency, qualifying the opening promise to end money worries.",
+  "insights": [
+    {
+      "slug": "skill-inventory",
+      "title": "Look for strengths already visible to other people",
+      "explanation": "The exercise uses ordinary requests and unpaid activity as clues, then requires problem discovery rather than assuming every skill has a market.",
+      "quote": "what are three things friends always ask you to help with",
+      "tags": [
+        "learning",
+        "sales"
+      ],
+      "character_start": 1366,
+      "character_end": 1423,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "customer-problem-discovery",
+      "title": "Ask people what is holding them back",
+      "explanation": "The video encourages direct conversations with possible customers. This is a more specific demand-discovery step than merely selecting a fashionable skill.",
+      "quote": "ask people \"What's holding them back in business or life?\"",
+      "tags": [
+        "sales",
+        "learning"
+      ],
+      "character_start": 1723,
+      "character_end": 1781,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "complementary-skills",
+      "title": "Add skills in response to larger solvable problems",
+      "explanation": "The proposed iteration is to identify needs, then build complementary capabilities. The enterprise-contract example illustrates a possible direction rather than an observed result.",
+      "quote": "continue to identify new and bigger problems more scalable ways to solve them and the skills you need to build",
+      "tags": [
+        "learning",
+        "strategy"
+      ],
+      "character_start": 2918,
+      "character_end": 3028,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "value-led-networking",
+      "title": "Relationships are framed around useful contribution",
+      "explanation": "Bloom rejects simply collecting contacts in favor of being useful and showing work publicly. Attention and valuable relationships are not guaranteed outcomes.",
+      "quote": "you don't build a network by gathering business cards or handing out a fancy resume you build a network by being valuable",
+      "tags": [
+        "communication",
+        "marketing"
+      ],
+      "character_start": 4331,
+      "character_end": 4452,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "buffer-before-investing",
+      "title": "Keep a cash safety net distinct from growth investments",
+      "explanation": "The recommendation distinguishes liquidity for expenses from money exposed to investment risk. The exact buffer target is the speaker's rule, not a universal optimum.",
+      "quote": "the savings account is your cash safety net",
+      "tags": [
+        "cash-flow",
+        "investing"
+      ],
+      "character_start": 5373,
+      "character_end": 5416,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "wealth-building-time",
+      "title": "Retain the explicit warning against an easy shortcut",
+      "explanation": "The ending tempers the opening promise: skill, clients, savings, and investing are described as a patient process.",
+      "quote": "building a wealth machine takes time it requires patience and consistency",
+      "tags": [
+        "investing",
+        "life-design"
+      ],
+      "character_start": 5900,
+      "character_end": 5973,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "742ac38f-3b44-40f9-b9ce-e9a0139b4d2b",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The client-value escalation example is hypothetical, not a demonstrated contract. Three stacked skills do not make someone impossible to compete with. Reserve size and investment allocation are general suggestions without a suitability assessment. Compounding is described loosely, not with a complete financial formula.",
+  "review_changes": "Adds the full skills-to-problems discovery process, four supporting gears, explicit savings sequence, and the closing patience caveat.",
+  "deep_review_date": "2026-11-16T19:27:04.643043+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/jrN-f2wEcOw.json",
+  "previous_draft_sha256": "f3882aae5e32fdaeb82692e1fed13bd8ab7e68380ef0936381f2e012e6594380"
+}

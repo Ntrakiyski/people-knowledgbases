@@ -1,0 +1,66 @@
+{
+  "youtube_id": "9JpbWkZPh5c",
+  "thesis": "Bloom's focus routine combines planned single-task blocks, preparation rituals, and breaks away from scrolling.",
+  "summary": "Bloom describes three daily deep-work blocks and five habits that he credits with sustained focus: enjoying effort, calendar protection, a repeatable setup, exercise, and walking during breaks. His setup removes the phone, closes messaging and social media, and uses headphones and music. The emphasis is on designing conditions for attention instead of relying solely on effort. The claimed work capacity and freedom from burnout are personal reports. Explanations involving dopamine, neurochemistry, and brain rewiring are asserted without evidence in this transcript.",
+  "insights": [
+    {
+      "slug": "process-enjoyment",
+      "title": "Reframe demanding work as part of the reward",
+      "explanation": "Bloom describes using self-talk to enjoy effort rather than only completion. The practice is reported; the proposed dopamine mechanism is not established.",
+      "quote": "I trained myself to love the process instead",
+      "tags": [
+        "productivity",
+        "learning"
+      ],
+      "character_start": 953,
+      "character_end": 997,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "calendar-protection",
+      "title": "Put single-task work on the calendar",
+      "explanation": "The routine reserves blocks for one task, showing an implementation choice rather than merely stating that focus matters.",
+      "quote": "no multitasking just one task done extremely well",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 1535,
+      "character_end": 1584,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "focus-environment",
+      "title": "Repeat a setup that removes competing inputs",
+      "explanation": "Phone separation, closed messages, and a consistent ritual are meant to make attention easier. Their precise contribution is not measured.",
+      "quote": "phone on do not disturb or in another room noise cancelling headphones on",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 1821,
+      "character_end": 1894,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "restorative-breaks",
+      "title": "Separate breaks from another stream of stimulation",
+      "explanation": "The speaker recommends walking rather than scrolling between blocks. The recommendation should not be read as a scientifically established universal break prescription.",
+      "quote": "every break walk no phone no scrolling",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 2630,
+      "character_end": 2668,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "ac9b8265-4452-44e7-9a26-3ac7c14b7407",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "This is a personal routine, not proof that eight focused hours is a generally sustainable target. Caffeine, exercise, and schedules depend on individual circumstances. Neuroscience claims remain unverified.",
+  "review_changes": "Adds the exact role of preparation and restorative breaks while qualifying the video's productivity and neuroscience promises.",
+  "deep_review_date": "2026-11-16T19:23:26.477164+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/9JpbWkZPh5c.json",
+  "previous_draft_sha256": "4d9963d80517b1eb28c7dbd1bcf46f430872bba70593d86703398f23cac281b6"
+}

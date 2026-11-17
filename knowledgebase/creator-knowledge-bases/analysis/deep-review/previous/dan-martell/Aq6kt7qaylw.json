@@ -1,0 +1,50 @@
+{
+  "youtube_id": "Aq6kt7qaylw",
+  "thesis": "Selected consistency advice combines identity with environmental changes and accountability.",
+  "summary": "The reviewed passages ask who the person needs to become but explicitly say identity statements are insufficient without changes to daily life. They also propose public commitment and celebrating milestones. The source's fixed compounding timeline and claims that inconsistency is always an identity problem are not established.",
+  "insights": [
+    {
+      "slug": "identity-plus-action",
+      "title": "Do not confuse an identity statement with a working system",
+      "explanation": "The source explicitly qualifies its identity framing by requiring real changes.",
+      "quote": "telling yourself I am this I am that won't get you anywhere",
+      "character_start": 2064,
+      "character_end": 2123,
+      "tags": [
+        "habits",
+        "identity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "environment-design",
+      "title": "Change conditions around the desired behavior",
+      "explanation": "The creator describes the environment as helping or hindering. Specific effects need to be assessed for the activity.",
+      "quote": "we need to design our environment",
+      "character_start": 2188,
+      "character_end": 2221,
+      "tags": [
+        "habits",
+        "environment-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "milestone-recognition",
+      "title": "Recognize sustained execution along the way",
+      "explanation": "Celebration is proposed as support for persistence. The excerpt does not establish a universal point where exponential growth begins.",
+      "quote": "celebrate each milestone like it's a big moment",
+      "character_start": 14306,
+      "character_end": 14353,
+      "tags": [
+        "habits",
+        "motivation"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "caa07009-0510-4126-89be-82a7dc57579c",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

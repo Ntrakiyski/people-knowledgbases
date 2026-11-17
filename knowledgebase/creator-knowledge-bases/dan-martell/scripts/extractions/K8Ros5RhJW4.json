@@ -1,0 +1,81 @@
+{
+  "youtube_id": "K8Ros5RhJW4",
+  "thesis": "His opportunity ranking favors agent implementation and validates paid demand before productizing.",
+  "summary": "Fourteen models are rated on profitability, competition and longevity. Martell favors agent development, managed security, AI consulting and lead generation; voices reservations about generic writing/design, faceless channels and trading bots. He treats venture studios and marketplaces as promising but advanced. His preferred launch sequence is a focused landing page, network referrals and willingness-to-pay questions, presales, manual concierge delivery, distribution partners and only then productization.",
+  "insights": [
+    {
+      "slug": "opportunity-three-criteria",
+      "title": "Evaluate earning potential alongside competition and duration",
+      "explanation": "The ranking asks whether a model can keep creating value as underlying tools improve.",
+      "quote": "the third is longevity how long will this be relevant in the future",
+      "tags": [
+        "ai",
+        "business-models"
+      ],
+      "character_start": 1679,
+      "character_end": 1746,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "paid-validation",
+      "title": "Ask whether people will pay now",
+      "explanation": "The launch example seeks financial commitment rather than relying only on waitlist counts.",
+      "quote": "ask if they would pay to solve that problem today",
+      "tags": [
+        "validation",
+        "sales"
+      ],
+      "character_start": 26154,
+      "character_end": 26203,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "concierge-before-product",
+      "title": "Deliver value before investing in core technology",
+      "explanation": "He explicitly says manual delivery can precede an agent product, allowing the actual problem to be observed.",
+      "quote": "prove a real transaction deliver real value before you build or automate anything",
+      "tags": [
+        "validation",
+        "systems"
+      ],
+      "character_start": 27402,
+      "character_end": 27483,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "partner-distribution",
+      "title": "Partner with people already reaching the intended buyers",
+      "explanation": "The proposal tracks referral links and pays on resulting purchases rather than requiring an existing audience.",
+      "quote": "unless you already have an audience partner with somebody who does",
+      "tags": [
+        "distribution",
+        "partnerships"
+      ],
+      "character_start": 28152,
+      "character_end": 28218,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "studio-prerequisites",
+      "title": "A studio requires capabilities beyond building an app",
+      "explanation": "He names distribution, business experience, leadership and capital as constraints behind its advanced ranking.",
+      "quote": "the business background the marketing background the leadership background the capital",
+      "tags": [
+        "venture-studio",
+        "constraints"
+      ],
+      "character_start": 19214,
+      "character_end": 19300,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "03626d99-73df-4a0b-9904-41e0942c85cb",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Rankings, prices, margins, platform counts and market forecasts are unverified. He promotes Apex and references portfolio investments. Automated contacts are not necessarily warm qualified demand, despite some loose lead-gen wording. Platform-wide demonetization claims are not verified policy. The temporary S rating for trading bots is an explicit joke, immediately reversed. Paid deposits validate some intent, not fulfillment economics, security or retention.",
+  "review_changes": "Adds five-step sequencing, distribution partnership mechanics, prerequisites for advanced models and handling of the trading-bot joke without turning it into an endorsement.",
+  "deep_review_date": "2026-11-16T20:58:22.939733+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/K8Ros5RhJW4.json",
+  "previous_draft_sha256": "59703608f6421fbd61979ab78abb796e776223e20d1d0710f7c1b84273ceef2d"
+}

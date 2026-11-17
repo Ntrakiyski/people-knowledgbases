@@ -1,0 +1,68 @@
+{
+  "youtube_id": "mydzICwDb6c",
+  "thesis": "Validate a real problem manually before using AI to scale a documented workflow.",
+  "summary": "Five truths frame AI as a tool rather than automatic income, ask what problem matters, repeat the GAME matrix, and propose manual service, documentation, a minimum product and only then scale. Martell advocates humans owning workflow outcomes and upskilling staff toward judgment and leadership while agents execute tasks. He uses a YouTube-production chain and company hackathon as illustrations.",
+  "insights": [
+    {
+      "slug": "manual-validation",
+      "title": "Solve the customer problem before automating it",
+      "explanation": "The proposed sequence starts with real service and observed workflow, not an elaborate untested agent system.",
+      "quote": "first solve the problem manually i'm talking with your fingers",
+      "tags": [
+        "validation",
+        "ai"
+      ],
+      "character_start": 8883,
+      "character_end": 8945,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "document-before-mvp",
+      "title": "Record what worked as implementation input",
+      "explanation": "He describes documenting steps while delivering service, then using that record as a specification.",
+      "quote": "create a process create a checklist in real time",
+      "tags": [
+        "documentation",
+        "systems"
+      ],
+      "character_start": 9126,
+      "character_end": 9174,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "workflow-accountability",
+      "title": "Assign a human owner to the output",
+      "explanation": "His human side includes accountability, vision, taste and sequencing rather than transferring responsibility to the AI.",
+      "quote": "I am accountable for that output the AI is not accountable",
+      "tags": [
+        "ai",
+        "ownership"
+      ],
+      "character_start": 13275,
+      "character_end": 13333,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "upskill-before-displacement",
+      "title": "He advocates retraining while also consolidating roles",
+      "explanation": "The stated preference is stronger existing staff, though the staffing example leaves employment implications uncertain.",
+      "quote": "my philosophy is that AI should make your team 10x better not replace them",
+      "tags": [
+        "ai",
+        "teams"
+      ],
+      "character_start": 11110,
+      "character_end": 11184,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "b0fcbfee-390e-4ecb-9813-d5e1ef628a1c",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Business success and productivity claims are unverified. His Wizard-of-Oz example says customers may believe a manual service is AI; this is reported, not endorsed as transparent practice. The assertion AI does not replace people sits beside a one-operator-versus-many-roles example and a claim AI-using people will take jobs; workforce effects are unresolved. Accountability stays with humans and output still needs evaluation.",
+  "review_changes": "Restores validation sequence and economic limits, flags the manual-service representation issue, and preserves tension between upskilling rhetoric and implied role consolidation.",
+  "deep_review_date": "2026-11-16T20:55:21.060259+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/mydzICwDb6c.json",
+  "previous_draft_sha256": "75b8b2663606eef7f7e27faec6be13958409976703f7c84631dc4a6bb8383a04"
+}

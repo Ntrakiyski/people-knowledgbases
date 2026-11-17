@@ -1,0 +1,50 @@
+{
+  "youtube_id": "7_wq5V7-cB4",
+  "thesis": "The selected discussion extends entrepreneurial skills beyond founders and emphasizes learning delegation and persuasion.",
+  "summary": "The source presents practical entrepreneurial thinking as relevant to careers and families as well as company creation. It argues that ordinary education provides little practice in delegation and describes persuasion as a recurring social task. These are the speaker's broad observations, not an assessment of all education or a claim that every interaction is transactional.",
+  "insights": [
+    {
+      "slug": "career-entrepreneurial-skills",
+      "title": "Apply value-creation skills within employment too",
+      "explanation": "The passage explicitly includes adding value to a company and developing a well-paid career.",
+      "quote": "adding value to a company getting paid well for it building a career",
+      "character_start": 1752,
+      "character_end": 1820,
+      "tags": [
+        "career",
+        "skills"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delegation-practice",
+      "title": "Notice delegation as a distinct learned capability",
+      "explanation": "The classroom example is used to illustrate a perceived practice gap. It does not establish that no educational setting teaches collaboration or delegation.",
+      "quote": "you lead other people you manage them you delegate",
+      "character_start": 2676,
+      "character_end": 2726,
+      "tags": [
+        "delegation",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "persuasion-in-leadership",
+      "title": "Consider the other person's willingness to act",
+      "explanation": "The source frames leadership and selling around motivating participation rather than only issuing instructions.",
+      "quote": "make other people want to do what you need them to do",
+      "character_start": 3543,
+      "character_end": 3596,
+      "tags": [
+        "sales",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "1eaab13b-039c-4d22-b668-2e0b920af600",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,221 @@
+{
+  "slug": "pok-mon-s-140b-deal-will-make-you-rich-here-s-how-YHigza2n5wU",
+  "thesis": "Sharran uses Pokémon’s rescue-financing story to explain ownership, deal terms, and the proof, relationships, and commitment that attract opportunity.",
+  "summary": "Sharran presents Pokémon’s early development as a financing and ownership case study. In his account, milestone funding from Nintendo and outside contract work failed to cover Game Freak’s prolonged development costs; emergency financing from Creatures helped finish the game. His Deal DNA analysis separates capital, creative work, intellectual-property ownership, distribution, and future upside. His figures and historical details are his account, with some funding amounts explicitly described as undisclosed.\n\nHe distinguishes check equity from sweat equity and examines each participant’s risks, including family support outside the formal transaction. The broader lesson is a proof stack of demonstrated delivery, relationships built before crisis, and visible commitment. Founders can show prototypes, users, revenue, and case studies; job seekers can solve a company problem before being hired. His 10–10–forever rule calls for deeply supporting ten people over ten years.",
+  "tags": [
+    "deal-analysis",
+    "equity",
+    "relationships",
+    "intellectual-property",
+    "proof"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:55",
+      "note": "Explains milestone funding."
+    },
+    {
+      "ts": "0:07:24",
+      "note": "Examines rescue financing and rights."
+    },
+    {
+      "ts": "0:11:15",
+      "note": "Maps capital and ownership."
+    },
+    {
+      "ts": "0:13:29",
+      "note": "Distinguishes check and sweat equity."
+    },
+    {
+      "ts": "0:18:00",
+      "note": "Introduces the proof stack."
+    },
+    {
+      "ts": "0:23:05",
+      "note": "Explains the relationship rule."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "deal-structure",
+      "name": "Deal structure",
+      "one_liner": "A transaction’s terms distribute control, ownership, obligations, and future upside.",
+      "explanation": "Using Pokémon as his case, Sharran argues that rescue cash secured survival while negotiated terms shaped decades of value. He separates Game Freak’s creation work, Creatures’ rescue financing and creative rights, and Nintendo’s publishing, platform, and trademark control. The historical allocations are his claims, and initial funding amounts are undisclosed. The lesson is to analyze who controls distribution and future rights alongside who supplied money, rather than evaluating a transaction by price alone.",
+      "tags": [
+        "deals",
+        "equity",
+        "control"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:15",
+          "text": "the cash bought Game [music] Freak's survival, but the terms are what created the conditions"
+        }
+      ],
+      "related": [
+        "capital-stack",
+        "intellectual-property-ownership"
+      ]
+    },
+    {
+      "slug": "capital-stack",
+      "name": "Capital stack",
+      "one_liner": "The capital stack maps the financing and ownership contributions supporting a deal.",
+      "explanation": "Sharran calls the capital stack a money map for ownership and operations. He mentions debt, mezzanine, and equity as standard layers, while expressly noting that Pokémon’s arrangement is not a clean example containing all three. His reconstruction distinguishes development funding, emergency rescue capital, and founders’ time and creative labor. He also identifies family financial support outside the formal stack. Different contributions buy different claims on control, survival, and upside.",
+      "tags": [
+        "finance",
+        "deals",
+        "equity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:15",
+          "text": "money map for ownership and operations"
+        }
+      ],
+      "related": [
+        "deal-structure",
+        "sweat-equity"
+      ]
+    },
+    {
+      "slug": "intellectual-property-ownership",
+      "name": "Intellectual property ownership",
+      "one_liner": "Reusable creative rights can participate in many future revenue streams.",
+      "explanation": "In Sharran’s account, Pokémon’s value extends beyond its original game: cards, merchandise, anime, spin-offs, and later products create repeated uses of the same intellectual property. He uses the George Lucas merchandising example to reinforce exchanging immediate cash for future upside. He distinguishes shared economic ownership from Nintendo’s claimed trademark and publishing control. These are his interpretations of specific arrangements, used to explain why rights and distribution deserve separate attention during negotiation.",
+      "tags": [
+        "intellectual-property",
+        "equity",
+        "deals"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:04",
+          "text": "piece of Pokémon's IP doesn't just mean owning the game."
+        }
+      ],
+      "related": [
+        "deal-structure"
+      ]
+    },
+    {
+      "slug": "sweat-equity",
+      "name": "Sweat equity",
+      "one_liner": "Ownership can be earned by contributing work and capability rather than only cash.",
+      "explanation": "Sharran distinguishes writing a check for ownership from earning a stake through work that creates the asset. He describes Game Freak’s game development as its contribution, contrasted with funding from Nintendo and Creatures. He connects the principle to his own offer to do real-estate work for a 10% share. Labor is not presented as free or riskless: the case emphasizes years of unpaid effort, founder dependence, and the possibility that the venture fails.",
+      "tags": [
+        "equity",
+        "entrepreneurship",
+        "work"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:29",
+          "text": "the second is sweat equity, where you do the work and the work itself becomes your stake."
+        }
+      ],
+      "related": [
+        "capital-stack",
+        "proof-stack"
+      ]
+    },
+    {
+      "slug": "proof-stack",
+      "name": "Proof stack",
+      "one_liner": "Proof, relationships, and commitment reduce the risk of backing someone.",
+      "explanation": "Sharran derives three elements from his Pokémon story: evidence of prior delivery, trust built before crisis, and continued effort when conditions become difficult. For founders he recommends prototypes, users, revenue, and case studies; for job seekers he recommends solving an employer problem. Proof reduces the decision maker’s downside rather than merely promoting upside. Commitment must be observable in preparation and consistency, and should be built before a person urgently needs help.",
+      "tags": [
+        "proof",
+        "relationships",
+        "execution"
+      ],
+      "quotes": [
+        {
+          "ts": "0:20:20",
+          "text": "the three proof elements that closed this deal are exactly what you can use"
+        }
+      ],
+      "related": [
+        "relationship-capital",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "relationship-capital",
+      "name": "Relationship capital",
+      "one_liner": "Long-term support creates trust before opportunities or crises arise.",
+      "explanation": "Sharran links the rescue transaction to existing trust, then proposes his 10–10–forever rule: invest deeply in ten people over ten years with the intention of lasting relationships. Support includes buying their products, promoting their work, and making useful introductions. He attributes much of his own wealth to a few relationships. The concept is about making other people successful consistently before asking for help, rather than treating a contact database as a substitute for trust.",
+      "tags": [
+        "relationships",
+        "trust",
+        "opportunity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:23:38",
+          "text": "relationships built before a crisis become your greatest asset during a crisis."
+        }
+      ],
+      "related": [
+        "proof-stack"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "nintendo",
+      "name": "Nintendo",
+      "subtype": "organization",
+      "one_liner": "The publisher and platform owner in the Pokémon financing case.",
+      "explanation": "Sharran portrays Nintendo as development financier, distributor, and holder of strategic trademark and publishing control. He uses its position to distinguish ownership from distribution power. Specific rights and percentages are the speaker’s account.",
+      "quotes": [
+        {
+          "ts": "0:08:42",
+          "text": "Nintendo publishes, distributes, and scales that brand globally."
+        }
+      ],
+      "resource": "https://www.nintendo.com/"
+    },
+    {
+      "slug": "game-freak",
+      "name": "Game Freak",
+      "subtype": "organization",
+      "one_liner": "The developer illustrating sweat equity and founder risk.",
+      "explanation": "The video centers on Game Freak’s prolonged development, funding shortfall, and rescue. Sharran treats creative labor as sweat equity and prior shipped games as evidence that made others willing to provide backing.",
+      "quotes": [
+        {
+          "ts": "0:08:42",
+          "text": "Game Freak creates the game, Creatures Inc. supports and shares in the IP"
+        }
+      ],
+      "resource": "https://www.gamefreak.co.jp/"
+    },
+    {
+      "slug": "creatures",
+      "name": "Creatures Inc.",
+      "subtype": "organization",
+      "one_liner": "The rescue-financing participant in Sharran’s deal analysis.",
+      "explanation": "Sharran describes Creatures as supplying emergency money for ownership and creative rights. He contrasts financial exposure with the developer’s personal risk while acknowledging undisclosed funding amounts.",
+      "quotes": [
+        {
+          "ts": "0:12:29",
+          "text": "Creatures Inc.'s rescue capital that saved the game for Nintendo to distribute."
+        }
+      ],
+      "resource": "https://www.creatures.co.jp/"
+    },
+    {
+      "slug": "satoshi-tajiri",
+      "name": "Satoshi Tajiri",
+      "subtype": "person",
+      "one_liner": "Pokémon’s creator, illustrating commitment and sweat equity.",
+      "explanation": "Sharran presents Tajiri as continuing development through unpaid work and a funding crisis with family support. The lesson concerns proof, relationships, and sacrifice rather than a guarantee that persistence produces success.",
+      "quotes": [
+        {
+          "ts": "0:03:01",
+          "text": "Satoshi Tajiri, the founder of"
+        }
+      ]
+    }
+  ]
+}

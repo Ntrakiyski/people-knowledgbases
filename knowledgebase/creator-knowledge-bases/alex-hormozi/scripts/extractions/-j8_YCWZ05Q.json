@@ -1,0 +1,81 @@
+{
+  "youtube_id": "-j8_YCWZ05Q",
+  "thesis": "Retention improves through cohort diagnosis, faster value, less overwhelm and relevant relationships.",
+  "summary": "Hormozi explicitly credits Skool and Sam’s shared platform learnings. Thirteen tactics include joins-versus-cancels tracking, context-specific benchmarks, early-tenure cohorts, cancellation and survivor interviews, price tiers for ideal customers, feature subtraction, busy-user and power-user paths, front-loaded activation, daily care, weekly contact, annual plans and peer introductions. He recommends implementing one change consistently at a time.",
+  "insights": [
+    {
+      "slug": "cohort-retention",
+      "title": "Examine tenure cohorts before reacting to an aggregate",
+      "explanation": "He notes a young community lacks long-tenure customers who would otherwise lower its aggregate churn.",
+      "quote": "don't overhaul your entire business because your month one churn sucks",
+      "tags": [
+        "retention",
+        "cohorts"
+      ],
+      "character_start": 5383,
+      "character_end": 5453,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "patterned-feedback",
+      "title": "Collect patterns across exits and loyal customers",
+      "explanation": "Cancellation reasons and reasons for staying inform different improvements; a single complaint should not determine the strategy.",
+      "quote": "for every 20 cancels or so review the top one or two reasons",
+      "tags": [
+        "feedback",
+        "retention"
+      ],
+      "character_start": 7473,
+      "character_end": 7533,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ideal-customer-price",
+      "title": "Use price feedback from the intended customer",
+      "explanation": "A lower tier is conditional on price excluding ideal users, rather than automatically responding to every objection.",
+      "quote": "if your ideal customers say the price is the issue",
+      "tags": [
+        "pricing",
+        "fit"
+      ],
+      "character_start": 10248,
+      "character_end": 10298,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "less-overwhelm",
+      "title": "Remove low-value material rather than always adding more",
+      "explanation": "He proposes finding the one thing members would retain and increasing value per unit of attention.",
+      "quote": "value per second not seconds of value",
+      "tags": [
+        "retention",
+        "simplicity"
+      ],
+      "character_start": 13736,
+      "character_end": 13773,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "activation-and-belonging",
+      "title": "Bring the sticky experience forward and connect members",
+      "explanation": "Fast first value and introductions to regulars are distinct practical retention proposals.",
+      "quote": "new members hit that value ideally within the first 24 hours",
+      "tags": [
+        "onboarding",
+        "community"
+      ],
+      "character_start": 15252,
+      "character_end": 15312,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6947d674-f299-447f-bc82-8a9e7c49e8f7",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Platform counts, benchmark churn, cohort changes and reported case outcomes are not independently verified experiments. Lower later-tenure churn may reflect selection, not the causal effect of merely delaying cancellation. Simple inverse-churn LTV assumes stable rates/price and differs from profit value. Joins versus cancels predicts MRR only with suitable revenue assumptions. Annual billing changes observation and selection as well as behavior; he acknowledges several such mechanisms.",
+  "review_changes": "Adds cohort-selection caution, credits Sam/Skool, distinguishes ideal-customer pricing feedback and restores annual-plan qualifications and manageable implementation pace.",
+  "deep_review_date": "2026-11-16T20:59:28.063449+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/-j8_YCWZ05Q.json",
+  "previous_draft_sha256": "358a588c3b3a5bdaa3b597822d24db98cb6cb16a3b3be7d68039c6d2a90e0bcc"
+}

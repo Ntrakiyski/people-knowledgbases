@@ -1,0 +1,37 @@
+{
+  "youtube_id": "mseVr7PBOl0",
+  "thesis": "The selected funding discussion introduces business incentives while acknowledging entrepreneurial risk.",
+  "summary": "Reviewed passages name grants, tax credits, training support, wage reimbursements, and loans as mechanisms to investigate. The creator frames them as incentives for business activity. Amounts, eligibility, availability, interest rates, and tax benefits are not verified; the source is not proof that a particular applicant qualifies. The selected review does not substantiate all tax strategies in the automatic guide.",
+  "insights": [
+    {
+      "slug": "incentive-research",
+      "title": "Distinguish the categories of support before evaluating eligibility",
+      "explanation": "The source lists several different instruments. A grant, credit, reimbursement, and loan have different conditions and obligations.",
+      "quote": "tax credits wage reimbursements training grants",
+      "character_start": 1358,
+      "character_end": 1405,
+      "tags": [
+        "funding",
+        "business"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "incentives-and-risk",
+      "title": "Keep business risk visible despite available support",
+      "explanation": "The creator explicitly acknowledges risk before describing incentives. Support does not establish that a venture is viable or risk-free.",
+      "quote": "entrepreneurship is really risky especially now",
+      "character_start": 4544,
+      "character_end": 4591,
+      "tags": [
+        "risk",
+        "funding"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "49311994-1f86-4073-ba0a-314956223b7a",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

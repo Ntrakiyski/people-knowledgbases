@@ -1,0 +1,148 @@
+{
+  "slug": "if-you-give-me-12-minutes-you-ll-become-financially-free-wgvB_oMFHmI",
+  "thesis": "Sharran’s money factory converts earned-income surplus into assets that can cover lifestyle expenses.",
+  "summary": "Sharran describes three financial zones: active income, lifestyle expenses, and passive income. He discusses trust ownership, LLC separation, and S-corporation tax treatment before introducing a quarterback account that automatically routes fixed living and tax amounts and sends the remaining cash to investments. His trust-protection, tax-rate, and setup-cost statements are the speaker’s legal and financial claims rather than independently verified guidance.\n\nHe defines passive income as income prefunded with effort or capital and says it is passive for the owner only when someone else performs the active management. He describes his personal income-oriented cash portfolio and its claimed yield, recalls living on his wife’s income while investing his, and gives milestones from covering bills to working by choice. His portfolio is offered as a personal model to discuss with an adviser.",
+  "tags": [
+    "financial-freedom",
+    "cash-flow",
+    "investing"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:31",
+      "note": "Active income zone."
+    },
+    {
+      "ts": "0:01:08",
+      "note": "Trust and legal-structure claims."
+    },
+    {
+      "ts": "0:04:59",
+      "note": "Quarterback routing account."
+    },
+    {
+      "ts": "0:06:42",
+      "note": "Passive-income zone."
+    },
+    {
+      "ts": "0:08:31",
+      "note": "Personal cash-management portfolio."
+    },
+    {
+      "ts": "0:10:54",
+      "note": "Five financial milestones."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "money-factory",
+      "name": "Money factory",
+      "one_liner": "A three-zone system that converts earned income into assets that fund living expenses.",
+      "explanation": "Sharran organizes money into active earnings, lifestyle spending, and passive income. Each zone has a different role: earnings power the system, spending limits determine available surplus, and invested surplus builds future income. He argues that increasing earnings alone does little when there is no route into the third zone. His family example uses one spouse’s income for living costs and commits the other’s earnings to the passive-income machine.",
+      "tags": [
+        "financial-freedom",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:17",
+          "text": "I call that system the money factory"
+        }
+      ],
+      "related": [
+        "automated-money-routing",
+        "passive-income",
+        "financial-freedom"
+      ]
+    },
+    {
+      "slug": "automated-money-routing",
+      "name": "Automated money routing",
+      "one_liner": "Assigning incoming cash to spending, tax, and investment destinations through a dedicated account.",
+      "explanation": "The quarterback account is Sharran’s mechanism for protecting surplus before lifestyle spending absorbs it. It receives active income, distributes fixed amounts for expenses and taxes, and sends everything remaining toward passive-income assets. He stresses that the account routes money rather than accumulates a large idle balance. The purpose is to make allocation automatic and visible, preventing a general checking account from letting expenses consume funds that were intended for investment.",
+      "tags": [
+        "financial-freedom",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:32",
+          "text": "never holds money. It just routes money."
+        }
+      ],
+      "related": [
+        "money-factory",
+        "lifestyle-inflation",
+        "income-margin"
+      ]
+    },
+    {
+      "slug": "lifestyle-inflation",
+      "name": "Lifestyle inflation",
+      "one_liner": "Increasing spending alongside earnings until little income remains available for investment.",
+      "explanation": "Sharran identifies lifestyle creep as the reason many high earners fail to reach financial freedom. Bigger homes and newer cars precommit the next raise before investment assets receive funding. His response is to hold lifestyle transfers to a fixed amount and route additional cash elsewhere automatically. The focus is not merely cutting isolated purchases, but preventing the expense zone from continuously expanding to consume improvements in the active-income zone.",
+      "tags": [
+        "financial-freedom",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:41",
+          "text": "Lifestyle creep is the number one reason most high earners never reach financial freedom."
+        }
+      ],
+      "related": [
+        "automated-money-routing",
+        "income-margin"
+      ]
+    },
+    {
+      "slug": "passive-income",
+      "name": "Passive income",
+      "one_liner": "Income prefunded with capital or effort that does not require the recipient’s continuing labor.",
+      "explanation": "Sharran defines passive income as prefunded income rather than effortless money. Dividend stocks, private investments, and rentals can fit only when the owner is not personally doing the active management. He says something passive for one participant should be active work for another. Small, consistent investments matter because waiting for a future business exit postpones construction of the income system; the third zone must exist and receive money now.",
+      "tags": [
+        "financial-freedom",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:42",
+          "text": "Passive income is pre-funded income."
+        }
+      ],
+      "related": [
+        "money-factory",
+        "financial-freedom",
+        "compound-growth"
+      ]
+    },
+    {
+      "slug": "financial-freedom",
+      "name": "Financial freedom",
+      "one_liner": "The crossing point at which passive income covers ongoing lifestyle expenses.",
+      "explanation": "The video defines freedom as a relationship between recurring passive income and monthly expenses rather than a prestigious net-worth figure. Sharran places it within milestones: income stability, a year of liquid runway, the passive-income crossing point, asset abundance, and working for enjoyment. He says the crossing is often the hardest transition. Because spending sets the target, routing surplus and restraining lifestyle growth are integral to reaching it rather than separate budgeting concerns.",
+      "tags": [
+        "financial-freedom",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:33",
+          "text": "The moment passive income is greater than your monthly expenses, you are financially free."
+        }
+      ],
+      "related": [
+        "passive-income",
+        "lifestyle-inflation",
+        "transition-fund"
+      ]
+    }
+  ],
+  "entities": []
+}

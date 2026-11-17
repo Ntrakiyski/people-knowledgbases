@@ -1,0 +1,50 @@
+{
+  "youtube_id": "vbJtX8ljqT4",
+  "thesis": "The speaker recommends choosing a business around available resources and market demand rather than passion alone.",
+  "summary": "The participant groups business ideas by required skill, investment, and risk, then proposes a shortlist spanning three levels. Calling local competitors and asking about prices and availability is his suggested way to test apparent gaps. He strongly criticizes following passion, instead treating time as scarce capital to allocate toward a defined income goal. Stories about owners enjoying hobbies outside their work illustrate his preference. These are selection heuristics, not demonstrated odds of success; personal interest, competence, regulation, and fit still require judgment.",
+  "insights": [
+    {
+      "slug": "resource-matched-entry",
+      "title": "Match entry options to skills, experience, and capital",
+      "explanation": "The three-level classification distinguishes simpler services from equipment-intensive or specialized ventures. It is the speaker's organizing scheme rather than an exhaustive taxonomy of business risk.",
+      "quote": "what business you start all depends on your skill and your experience and the amount of capital you have",
+      "character_start": 540,
+      "character_end": 644,
+      "tags": [
+        "strategy",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "local-demand-research",
+      "title": "Check local competition before treating an idea as an opportunity",
+      "explanation": "The proposed calls compare pricing and availability across providers. They generate preliminary market evidence, but do not replace a full view of demand, costs, licensing, or customer acquisition.",
+      "quote": "you call all the competitors in town and figure out what the competitive landscape is like",
+      "character_start": 1650,
+      "character_end": 1740,
+      "tags": [
+        "market-research",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "goal-based-business-choice",
+      "title": "Define the financial goal before allocating founder time",
+      "explanation": "The poker metaphor treats time as a limited stake and income as a chosen objective. This clarifies the speaker's decision criterion without proving passion is always harmful or money the only valid goal.",
+      "quote": "those chips are my time and the pot",
+      "character_start": 3174,
+      "character_end": 3209,
+      "tags": [
+        "decision-making",
+        "focus"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e7beafea-4be9-4218-88cb-d41586e7d879",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

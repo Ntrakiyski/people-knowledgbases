@@ -1,0 +1,50 @@
+{
+  "youtube_id": "AHb_AFtC-Yk",
+  "thesis": "The creator applies a collective-action lens to AI incentives and asks how long-term thinking could become easier.",
+  "summary": "The reviewed passages compare AI development with a tragedy of the commons, identify nations, builders, companies, and individuals as actors, and propose changing the incentives for long-term decisions. Predictions of large societal harms remain the creator's concerns rather than established outcomes. This note does not exhaustively assess the argument or its proposed remedies.",
+  "insights": [
+    {
+      "slug": "ai-collective-action",
+      "title": "Examine system effects of individually rational choices",
+      "explanation": "The commons analogy focuses on how self-interested action can damage a shared resource. Its application to AI is an argument to evaluate.",
+      "quote": "individuals acting in their own rational self-interest end up leading to the destruction of the shared commons",
+      "character_start": 1034,
+      "character_end": 1144,
+      "tags": [
+        "ai",
+        "incentives"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ai-actor-map",
+      "title": "Separate the actors whose incentives shape development",
+      "explanation": "The source distinguishes four actor groups. This provides a starting map rather than a complete governance model.",
+      "quote": "nations builders companies and then individuals",
+      "character_start": 2092,
+      "character_end": 2139,
+      "tags": [
+        "ai",
+        "systems"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "long-term-incentives",
+      "title": "Ask what makes long-term choices less costly",
+      "explanation": "The central question concerns making future-oriented action easier, more rewarding, or less risky. The passage does not itself establish a workable policy.",
+      "quote": "how can we lower the cost of long-term thinking",
+      "character_start": 17074,
+      "character_end": 17121,
+      "tags": [
+        "ai",
+        "incentives"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "1e3fa177-09ac-4e00-a876-c14e461752c1",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

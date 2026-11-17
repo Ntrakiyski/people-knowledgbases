@@ -1,0 +1,169 @@
+{
+  "slug": "i-ll-delete-your-financial-anxiety-just-give-me-18-mins-OcH0864CLPs",
+  "thesis": "Sharran addresses fear of exposure, loss, and error with staged action, advance decision rules, and structured learning from mistakes.",
+  "summary": "Sharran interprets failure through three fears. Fear of exposure appears as endless preparation or waiting to feel ready; he proposes gradually increasing exposure and deciding a date for a hard decision. Fear of loss often protects status or identity, so he recommends asking whether one would choose the same asset or path today, writing exit criteria, and specifying what would make a project successful. His personal and company stories illustrate these ideas rather than establish their universal causes.\n\nFear of error leads people to defend bad choices instead of correcting them. He recommends an after-action review comparing plans with results, then requiring expensive mistakes to produce a reusable principle or checklist. His account of losing a million dollars to a fraudulent investment leads to the four goods: people, intentions, rationale, and contracts. Finally, a memorable image or story can become a quick trigger for applying a learned rule when temptation returns.",
+  "tags": [
+    "decision-making",
+    "fear",
+    "learning"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:29",
+      "note": "Three forms of fear."
+    },
+    {
+      "ts": "0:03:28",
+      "note": "Graded exposure ladder."
+    },
+    {
+      "ts": "0:04:18",
+      "note": "Set a decision deadline."
+    },
+    {
+      "ts": "0:08:45",
+      "note": "Zero-based question."
+    },
+    {
+      "ts": "0:10:03",
+      "note": "Kill criteria."
+    },
+    {
+      "ts": "0:12:30",
+      "note": "After-action review."
+    },
+    {
+      "ts": "0:15:37",
+      "note": "Four goods investment filter."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "graded-exposure",
+      "name": "Graded exposure",
+      "one_liner": "Building tolerance for judgment by moving from low-stakes practice to broader exposure.",
+      "explanation": "Sharran treats fear of being found out as a barrier that often disguises itself as preparation. His content-creator example progresses from sending work to one trusted person, to sharing in a small channel, to publishing publicly. Each step supplies survivable experience and feedback before the next increase in stakes. He connects the method to his own repeated finance-job interviews and argues that practice reduces fear more reliably than waiting for confidence.",
+      "tags": [
+        "decision-making",
+        "fear",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:03:28",
+          "text": "There are three steps: low stakes, medium stakes, and full exposure."
+        }
+      ],
+      "related": [
+        "skill-development",
+        "decision-deadlines"
+      ]
+    },
+    {
+      "slug": "zero-based-question",
+      "name": "Zero-based question",
+      "one_liner": "Asking whether one would choose an existing commitment again without its history.",
+      "explanation": "Sharran asks whether the listener would buy, build, or identify with the same thing today if they did not already own it. His investment example concerns a founder receiving concentrated Google shares: would the founder invest an equivalent cash windfall entirely in that stock? The question separates the next decision from sunk cost and identity. He recommends repeating it whenever emotional attachment obscures whether continuing ownership is still an intentional choice.",
+      "tags": [
+        "decision-making",
+        "fear",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:31",
+          "text": "If you got $100 million in cash today, would you put all of it in Google stock?"
+        }
+      ],
+      "related": [
+        "kill-criteria",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "kill-criteria",
+      "name": "Kill criteria",
+      "one_liner": "Advance evidence thresholds that determine when a project or commitment should stop.",
+      "explanation": "Before a major commitment, Sharran recommends writing the conditions that would justify ending it. His deliberately hypothetical advertising example sets a spending limit and a minimum number of qualified leads. The rule is meant to create permission to commit fully rather than an excuse for stopping at the first discomfort. Defining success through what would need to be true serves a related purpose: it replaces vague anxiety with explicit observable outcomes.",
+      "tags": [
+        "decision-making",
+        "fear",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:03",
+          "text": "Your job is to decide what evidence would make you stop."
+        }
+      ],
+      "related": [
+        "zero-based-question",
+        "investment-rationale"
+      ]
+    },
+    {
+      "slug": "after-action-review",
+      "name": "After-action review",
+      "one_liner": "Comparing intended and actual results to identify a gap and change the next attempt.",
+      "explanation": "Sharran introduces a four-question review: what should have happened, what happened, whether a gap existed, and what changes next time. His hiring example discovers that a candidate valued a workable childcare schedule more than extra pay, leading to a new logistics question early in recruiting. The process redirects attention from defending the decision maker’s credibility to changing a repeatable practice. He says he learned this review while working with the US Navy.",
+      "tags": [
+        "decision-making",
+        "fear",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:46",
+          "text": "what was supposed to happen? Number two, what actually happened? Number three, was there a gap?"
+        }
+      ],
+      "related": [
+        "four-goods",
+        "learning-from-mistakes"
+      ]
+    },
+    {
+      "slug": "four-goods",
+      "name": "Four goods",
+      "one_liner": "An investment filter requiring good people, intentions, rationale, and contracts.",
+      "explanation": "Sharran says conventional financial and legal due diligence failed to reveal fraud in an investment that cost him a million dollars. His response was to require four independent goods: vetted people, sound intentions, spreadsheet logic, and appropriate contracts. If any is missing, he says the answer is no. The account emphasizes turning a painful error into a reusable decision rule rather than treating professional identity or past experience as protection against deception.",
+      "tags": [
+        "decision-making",
+        "fear",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:15:37",
+          "text": "Number one, good people. Did you vet the person and their background?"
+        }
+      ],
+      "related": [
+        "risk-management",
+        "after-action-review"
+      ]
+    },
+    {
+      "slug": "decision-deadlines",
+      "name": "Decision deadlines",
+      "one_liner": "Separating the timing of a difficult decision from pressure to know its answer immediately.",
+      "explanation": "Sharran suggests deciding when a decision will be made rather than forcing instant certainty. In the expensive-hire example, the founder keeps the candidate informed, sets a defined window, reruns the economics, and makes the call at the chosen point. The method is intended to reduce the feeling that one should already know. It preserves room for thought while preventing indefinite delay from disguising fear as additional preparation.",
+      "tags": [
+        "decision-making",
+        "fear",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:18",
+          "text": "decide when you're going to make the decision."
+        }
+      ],
+      "related": [
+        "graded-exposure",
+        "kill-criteria"
+      ]
+    }
+  ],
+  "entities": []
+}

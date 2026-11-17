@@ -1,0 +1,50 @@
+{
+  "youtube_id": "yb2cLMMuMdQ",
+  "thesis": "The selected progress argument normalizes awkward beginnings and compares work at similar stages.",
+  "summary": "Reviewed passages describe early documentation, warn against comparing a beginner's current work with someone else's mature work, and present willingness to be poor initially as part of practice. These are motivational principles rather than evidence that embarrassment or persistence guarantees mastery.",
+  "insights": [
+    {
+      "slug": "stage-matched-comparison",
+      "title": "Compare beginnings with beginnings",
+      "explanation": "The creator directs attention to his first ad instead of only later professional work. That supplies context for a developmental comparison.",
+      "quote": "compare that to my first professional",
+      "character_start": 6217,
+      "character_end": 6254,
+      "tags": [
+        "learning",
+        "comparison"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "early-documentation",
+      "title": "Keep evidence of the beginning",
+      "explanation": "The creator recounts intentionally documenting after a setback. The story is his report, not a requirement to publish private hardship.",
+      "quote": "the moment that I actually started documenting purposefully",
+      "character_start": 4700,
+      "character_end": 4759,
+      "tags": [
+        "creator-strategy",
+        "reflection"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "beginner-tolerance",
+      "title": "Allow an imperfect learning period",
+      "explanation": "The source links improvement to willingness to perform poorly for a while, without specifying a reliable time to mastery.",
+      "quote": "the only way to get good is to be willing to be bad",
+      "character_start": 7437,
+      "character_end": 7488,
+      "tags": [
+        "learning",
+        "practice"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "e75e619d-dee8-4ace-9c05-7d415bb6583b",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

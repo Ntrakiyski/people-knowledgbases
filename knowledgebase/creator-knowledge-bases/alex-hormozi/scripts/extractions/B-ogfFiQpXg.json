@@ -1,0 +1,64 @@
+{
+  "youtube_id": "B-ogfFiQpXg",
+  "thesis": "Healthcare and high-ticket service practices can scale rapidly by transforming patient appointments into structured referral touchpoints and hosting regular event-based giveaways.",
+  "summary": "In a strategic coaching session, Alex advises Zad on scaling a specialized medical practice through targeted referral mechanisms and event marketing. Alex identifies client acquisition as the primary growth constraint and recommends replacing passive word-of-mouth with a systematic referral process during routine client check-ins. By offering high-value promotional service passes, existing clients have compelling reasons to introduce colleagues without feeling sales pressure. Integrating informative video sales letters during service waiting periods educates prospects prior to enrollment calls. Hosting regular community events featuring promotional giveaways builds rapid brand exposure.",
+  "insights": [
+    {
+      "slug": "socially-valuable-referral-offers",
+      "title": "Structure referral incentives to provide genuine social value",
+      "explanation": "Alex suggests designing referral programs that grant existing clients high-value passes to share with acquaintances. Offering substantial experiences rather than minor discounts gives clients a compelling reason to introduce friends.",
+      "quote": "you want every referral to have a great reason to tell a friend",
+      "speaker": "Alex",
+      "tags": [
+        "marketing",
+        "sales"
+      ],
+      "character_start": 4122,
+      "character_end": 4185
+    },
+    {
+      "slug": "systematic-referral-touchpoints",
+      "title": "Incorporate referral requests into standard client review meetings",
+      "explanation": "Alex recommends assuming that clients will bring guests to scheduled milestone appointments. Standardizing referral inquiries at designated review intervals turns ordinary client interactions into predictable customer acquisition channels.",
+      "quote": "assume that you're going to bring someone with you every time because that's how we do it",
+      "speaker": "Alex",
+      "tags": [
+        "sales",
+        "operations"
+      ],
+      "character_start": 8329,
+      "character_end": 8418
+    },
+    {
+      "slug": "high-value-event-marketing",
+      "title": "Leverage major promotional giveaways to attract prospective clients",
+      "explanation": "Alex advises using high-ticket service giveaways during community events to generate rapid interest. Offering premium experiences introduces prospects to core services without creating aggressive sales friction.",
+      "quote": "this is marketing we have to be willing to give things away um and know our math",
+      "speaker": "Alex",
+      "tags": [
+        "marketing",
+        "sales"
+      ],
+      "character_start": 15875,
+      "character_end": 15955
+    },
+    {
+      "slug": "demographic-demand-capitalization",
+      "title": "Capitalize on expanding demographic demand in essential service sectors",
+      "explanation": "Alex highlights that demographic shifts create expanding demand for specialized health and longevity services. Positioning high-end service offerings to meet essential human needs provides long-term business resilience and pricing power.",
+      "quote": "all the people who have money are getting old and there's way few we're not making as many people um and the people who have it don't want to die",
+      "speaker": "Alex",
+      "tags": [
+        "investing",
+        "marketing",
+        "operations"
+      ],
+      "character_start": 29241,
+      "character_end": 29386
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "10ee0993-d0e6-4967-9c94-dabc4c148d4d",
+  "extraction_response": "extraction-responses/mRlSb0O5QNU-OHu1FY1R-x0-ZTSI3DDP_4A-138y93ywE_g-B-ogfFiQpXg-fj5uxdv_j5Y-aRVv5NLVRwE-8VqSFBMMS4M.json"
+}

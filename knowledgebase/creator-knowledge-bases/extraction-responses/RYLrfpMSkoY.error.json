@@ -1,0 +1,10 @@
+{
+  "videos": [
+    {
+      "youtube_id": "RYLrfpMSkoY",
+      "title": "15 harsh realities that separate winners from losers",
+      "source_id": "13e078bb-76af-4d0c-ba91-6f3f83322fca"
+    }
+  ],
+  "error": "NotebookLM extraction command failed (exit 1)"
+}

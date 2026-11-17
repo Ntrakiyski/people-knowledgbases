@@ -1,0 +1,11 @@
+Sharran treats compounding as the bridge between earning money and accumulating assets that increasingly contribute their own returns. The first contribution still has to come from somewhere: a surplus, earlier business proceeds, or existing capital. What changes over time is that growth can apply to both the original investment and previously accumulated gains.
+
+His example starts with $100,000 and assumes a constant 10% annual return. The balance becomes $110,000 after one year and $121,000 after two, without another contribution. That illustrates the mechanism rather than a dependable annual outcome. His shorthand expressions about capital, returns, and time describe the ingredients; they are not complete mathematical formulas.
+
+The behavioral requirement is continuity. Selling because of headlines, fear, or a luxury purchase can interrupt the intended holding period. Repeated transactions may also introduce taxes and fees. His comparisons between property flipping and retaining rentals emphasize this difference between receiving cash quickly and continuing to own something valuable. These retrospective stories do not isolate time from market conditions or investment selection.
+
+Speed and patience therefore serve different jobs. He recommends acting promptly when a sound opportunity is understood, while warning that fast action does not produce fast results. The decision can be quick even when its payoff needs years.
+
+He also recommends entering personal age, savings, and monthly contributions into a calculator. This makes assumptions visible and connects an abstract curve to an actual plan. His encouragement that older earners can enter the middle of the curve rests on contributing more capital; it does not recover returns that were never earned.
+
+One arithmetic inconsistency matters: his stated rule of 72 divides 72 by an annual percentage return, but a later example associates 7% with seven-year doubling. Those statements do not agree. The rule gives roughly ten years at 7%. Neither the rule nor his illustrative 7–10% assumptions establish future returns.

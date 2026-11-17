@@ -1,0 +1,107 @@
+{
+  "youtube_id": "oB5zo5G7KRg",
+  "thesis": "The AI buyback loop audits time, documents and transfers repeatable work, then deliberately reinvests recovered hours.",
+  "summary": "Martell adapts his buyback loop to AI: provide relevant context, audit the calendar against goals, transfer repeatable tasks, and fill the space with activities that both create income and supply energy. Suggested workflows include calendar review, shorter or fewer meetings, recorded task demonstrations, email-pattern analysis, and AI drafting. He says to try AI before adding a full-time hire, with documented instructions available for a human if needed. Crucially, he explicitly directs recovered hours toward building the business rather than a four-hour workweek. Claimed time savings and client results are anecdotal or projected, not measured evidence for the viewer.",
+  "insights": [
+    {
+      "slug": "context-aware-audit",
+      "title": "Compare the actual calendar with stated goals",
+      "explanation": "The proposed audit uses past meetings and a goals document, then asks clarifying questions. This ties efficiency analysis to a chosen objective instead of assuming every removed meeting is beneficial.",
+      "quote": "audit the last two weeks of my calendar based on my quarterly goals doc in notion",
+      "tags": [
+        "ai",
+        "productivity"
+      ],
+      "character_start": 3780,
+      "character_end": 3861,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "audit-to-action",
+      "title": "Turn diagnosis into an explicit change plan",
+      "explanation": "The prompt asks for involved team members, impact, and a plan. The recurring audit is meant to sustain changes rather than produce a one-off calendar critique.",
+      "quote": "tell me the top three things I need to focus on to make this change happen and be specific who on my team is involved",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 4452,
+      "character_end": 4569,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "capture-task-reasoning",
+      "title": "Document decisions while demonstrating the work",
+      "explanation": "The camcorder method records both actions and explanations, making implicit judgment available for a draft process. The video does not prove a recording alone is sufficient for reliable automation.",
+      "quote": "you record yourself doing your emails you talk out loud",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 7012,
+      "character_end": 7067,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "progressive-automation",
+      "title": "Start with limited assistance when full handoff is unsuitable",
+      "explanation": "Sorting and drafting are named as useful starting points. That narrower suggestion qualifies the sweeping claim that AI can do any task that can be described.",
+      "quote": "I might just start by sorting and writing drafts for you that's better than nothing",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 8339,
+      "character_end": 8422,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "human-fallback-playbook",
+      "title": "A failed automation attempt can still produce human training material",
+      "explanation": "If a human is needed, the documented instructions are reused as a playbook. The recommendation concerns sequencing experiments before hiring, not proof that staff are unnecessary.",
+      "quote": "that AI system prompt becomes the playbook that person follows",
+      "tags": [
+        "ai",
+        "hiring"
+      ],
+      "character_start": 8591,
+      "character_end": 8653,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reinvest-recovered-time",
+      "title": "The video's chosen destination for time savings is growth",
+      "explanation": "Martell explicitly instructs viewers to put recovered time into business building. That objective differs from treating automation primarily as a way to reduce total work hours.",
+      "quote": "you want to pour that time back into the business to grow it this is not the 4-hour work week",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 9440,
+      "character_end": 9533,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "money-and-energy",
+      "title": "Choose future work using both economic contribution and energy",
+      "explanation": "The fill stage asks what makes money and feels energizing, then protects those activities on the calendar. No general method for measuring either variable is supplied.",
+      "quote": "does the task make me money and does it light me up",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 9892,
+      "character_end": 9943,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "9769091a-53c3-4bfc-855e-3fee875c70e7",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The twenty-hour promise, email statistics, and client story are not independently verified. Connecting existing services does not by itself establish authorization, confidentiality, or appropriate AI access; the speaker's security comparison does not resolve those questions. Sorting and drafting are distinct from autonomous sending. Commercial book/workbook promotions accompany the advice.",
+  "review_changes": "Adds the full audit-transfer-fill sequence, prompts for clarification and reasoning, human fallback, and the explicit growth objective. Separates personal reported savings from promised viewer outcomes.",
+  "deep_review_date": "2026-11-16T19:25:50.158789+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/oB5zo5G7KRg.json",
+  "previous_draft_sha256": "bdadce87cca531f8c1ed68483e7a80d862ac5c665cddd617632519f84893f5eb"
+}

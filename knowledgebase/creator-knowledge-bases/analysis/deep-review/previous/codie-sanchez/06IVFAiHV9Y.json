@@ -1,0 +1,50 @@
+{
+  "youtube_id": "06IVFAiHV9Y",
+  "thesis": "The selected AI-investment thesis favors supporting infrastructure and ordinary services around the boom.",
+  "summary": "Reviewed passages suggest regional maintenance, energy, wiring, cooling, and cleaning as possible businesses serving AI infrastructure. The creator warns that competition and returns can be misestimated. These are opportunity hypotheses and a commercial workshop pitch, not evidence that the bubble has burst or that the suggested businesses will reliably profit.",
+  "insights": [
+    {
+      "slug": "infrastructure-service-thesis",
+      "title": "Look beyond the most visible technology layer",
+      "explanation": "The source proposes services supporting physical infrastructure. Demand, qualification, capital, and customer concentration still require investigation.",
+      "quote": "buying or starting businesses that service energy infrastructure",
+      "character_start": 658,
+      "character_end": 722,
+      "tags": [
+        "ai",
+        "market-research"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "competition-return-check",
+      "title": "Question optimistic investment arithmetic",
+      "explanation": "The warning about competition and overstated returns is important even within an optimistic opportunity pitch.",
+      "quote": "competition is often underestimated and the returns on capital invested overstated",
+      "character_start": 11544,
+      "character_end": 11626,
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "picks-shovels-hypothesis",
+      "title": "Describe supporting services as a thesis rather than a sure winner",
+      "explanation": "Wiring, cooling, and cleaning are examples proposed by the creator, not validated recommendations.",
+      "quote": "wire the data servers cool down server farms clean semiconductor labs",
+      "character_start": 11757,
+      "character_end": 11826,
+      "tags": [
+        "ai",
+        "services"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "ad7726f6-acc0-43ca-9f19-ec293863cdc7",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

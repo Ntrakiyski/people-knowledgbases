@@ -1,0 +1,50 @@
+{
+  "youtube_id": "D2Oek_YVIFA",
+  "thesis": "Momentum creates attractive opportunities that still require boundaries and long project commitments.",
+  "summary": "The participant describes declining a promising property project because he lacked bandwidth, despite a good fit with his family's business. A reported breakout Twitter thread followed time offline, but he says inspiration remains unpredictable. The book project is framed as a way to organize scattered stories and teaching, with a long lead time that overlapped an unexpected business opportunity. The discussion captures a tension between focus and opportunism. Follower growth, the advance, and project timing are self-reported, not independently verified causal evidence.",
+  "insights": [
+    {
+      "slug": "opportunity-boundaries",
+      "title": "Decline attractive work when capacity is insufficient",
+      "explanation": "The property example shows that fit and potential profit do not establish available attention. The speaker redirected the opportunity to partners rather than personally taking it on.",
+      "quote": "I have to turn down a lot of things that could be profitable and really fun",
+      "character_start": 1584,
+      "character_end": 1659,
+      "tags": [
+        "focus",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "creative-timing",
+      "title": "Avoid treating one inspiration story as a repeatable formula",
+      "explanation": "A successful thread followed a trip offline, but the speaker explicitly says he cannot predict when ideas will arrive. The anecdote supports capturing ideas when they come, not a proven retreat-to-growth mechanism.",
+      "quote": "I never know when it's going to hit",
+      "character_start": 2651,
+      "character_end": 2686,
+      "tags": [
+        "creativity",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "knowledge-organization",
+      "title": "Use a longer format to organize scattered teaching",
+      "explanation": "The book is described as making stories and tactical examples coherent after years of threads and newsletters. This identifies a knowledge-product purpose beyond simply republishing social posts.",
+      "quote": "it's all over the place it's not coherent",
+      "character_start": 4194,
+      "character_end": 4235,
+      "tags": [
+        "writing",
+        "knowledge-management"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6cc178bc-58ea-4112-a96a-620e1375dcae",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

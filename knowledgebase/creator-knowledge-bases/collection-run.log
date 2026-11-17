@@ -1,0 +1,231 @@
+Running replay.py
+Recovered 0 fully quote-checked per-video drafts.
+Running render.py
+Rendered 71 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 109; source notes 13; exact-quote insights 71.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running recycle.py
+4 sources have verified transcripts and saved cited notes.
+Recycled alex-hormozi/xRxVpjeHmeA; local evidence retained.
+Recycled alex-hormozi/uaLNfijnp-8; local evidence retained.
+Recycled alex-hormozi/o64cI6tebnU; local evidence retained.
+Recycled alex-hormozi/SCi464zfAUM; local evidence retained.
+Running import_notebooklm.py
+[110/200] sahil-bloom: 7 skills that will outlast AI (become irreplaceable)
+  Saved 1242 words; exact-text citations available, timestamps unavailable.
+[111/200] codie-sanchez: Dollar Cost Averaging is dead... This is how to invest in 2026
+  Saved 3235 words; exact-text citations available, timestamps unavailable.
+[112/200] alex-hormozi: Give Me 42 Minutes, I'll Show You How To Sell Like The Top 1% | Scale or Fail Episode 1
+  Saved 9398 words; exact-text citations available, timestamps unavailable.
+[113/200] dan-martell: These 11 Minutes Will Save You +1,000 Hours in 2026
+  Saved 2589 words; exact-text citations available, timestamps unavailable.
+[114/200] nick-huber: The Wealthiest People I Know All Did This
+STOP: task-owned notebooks are full; no existing data was deleted.
+Running render.py
+Rendered 71 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 113; source notes 13; exact-quote insights 71.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running replay.py
+Recovered 0 fully quote-checked per-video drafts.
+Running render.py
+Rendered 79 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 113; source notes 15; exact-quote insights 79.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running recycle.py
+2 sources have verified transcripts and saved cited notes.
+Recycled alex-hormozi/WttZ6b-KUP4; local evidence retained.
+Recycled alex-hormozi/j2TZMFkj71Q; local evidence retained.
+Running import_notebooklm.py
+[114/200] nick-huber: The Wealthiest People I Know All Did This
+  Saved 1145 words; exact-text citations available, timestamps unavailable.
+[115/200] sahil-bloom: 5 habits that kill mediocrity
+  Saved 843 words; exact-text citations available, timestamps unavailable.
+[116/200] codie-sanchez: How to Manage Time Like a Top 1% CEO
+STOP: task-owned notebooks are full; no existing data was deleted.
+Running render.py
+Rendered 79 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 115; source notes 15; exact-quote insights 79.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running replay.py
+Recovered 4 fully quote-checked per-video drafts.
+Running render.py
+Rendered 107 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 115; source notes 22; exact-quote insights 107.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running recycle.py
+7 sources have verified transcripts and saved cited notes.
+Recycled alex-hormozi/mRlSb0O5QNU; local evidence retained.
+Recycled alex-hormozi/OHu1FY1R-x0; local evidence retained.
+Recycled alex-hormozi/ZTSI3DDP_4A; local evidence retained.
+Recycled alex-hormozi/B-ogfFiQpXg; local evidence retained.
+Recycled alex-hormozi/fj5uxdv_j5Y; local evidence retained.
+Recycled alex-hormozi/aRVv5NLVRwE; local evidence retained.
+Recycled alex-hormozi/8VqSFBMMS4M; local evidence retained.
+Running import_notebooklm.py
+[116/200] codie-sanchez: How to Manage Time Like a Top 1% CEO
+  Saved 2754 words; exact-text citations available, timestamps unavailable.
+[117/200] alex-hormozi: I can’t hide this anymore.
+  Saved 313 words; exact-text citations available, timestamps unavailable.
+[118/200] dan-martell: This AI System Will Make You So Smart It’s Almost Unfair
+  Saved 2436 words; exact-text citations available, timestamps unavailable.
+[119/200] nick-huber: The Reason You're Not Making More Money
+  Saved 1874 words; exact-text citations available, timestamps unavailable.
+[120/200] sahil-bloom: 7 habits to unf*ck your mind
+  Saved 1746 words; exact-text citations available, timestamps unavailable.
+[121/200] codie-sanchez: How This Garbage Man Built A Billion Dollar Empire
+  Saved 2357 words; exact-text citations available, timestamps unavailable.
+[122/200] alex-hormozi: How The Top 1% Actually Think About Trust
+  Saved 2098 words; exact-text citations available, timestamps unavailable.
+[123/200] dan-martell: It Took Me 40+ Years to Realize What I’ll Tell You In 9 Minutes
+STOP: task-owned notebooks are full; no existing data was deleted.
+Running render.py
+Rendered 111 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 122; source notes 23; exact-quote insights 111.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running replay.py
+Recovered 2 fully quote-checked per-video drafts.
+Running render.py
+Rendered 131 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 122; source notes 28; exact-quote insights 131.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running recycle.py
+6 sources have verified transcripts and saved cited notes.
+Recycled alex-hormozi/138y93ywE_g; local evidence retained.
+Recycled codie-sanchez/4XQ50qWSRO4; local evidence retained.
+Recycled codie-sanchez/yveLqk3DCNs; local evidence retained.
+Recycled codie-sanchez/DZNhrv5sv_0; local evidence retained.
+Recycled codie-sanchez/nSlZZ7TxNM8; local evidence retained.
+Recycled codie-sanchez/PVb0YJVZp2c; local evidence retained.
+Running import_notebooklm.py
+[123/200] dan-martell: It Took Me 40+ Years to Realize What I’ll Tell You In 9 Minutes
+  Saved 1866 words; exact-text citations available, timestamps unavailable.
+[124/200] nick-huber: You Don't Need A New Idea
+  Saved 1115 words; exact-text citations available, timestamps unavailable.
+[125/200] sahil-bloom: 19 habits that GUARANTEE misery
+  Saved 729 words; exact-text citations available, timestamps unavailable.
+[126/200] codie-sanchez: Do This Every Time You Get Paid (Paycheck Routine)
+  Saved 7052 words; exact-text citations available, timestamps unavailable.
+[127/200] alex-hormozi: If You Want To Create Wealth In 2026, Watch This (4 Paths)
+  Saved 5848 words; exact-text citations available, timestamps unavailable.
+[128/200] dan-martell: $100M Investor Explains: How to Invest in 2026
+  Saved 3161 words; exact-text citations available, timestamps unavailable.
+[129/200] nick-huber: The Worst Business Advice
+STOP: task-owned notebooks are full; no existing data was deleted.
+Running render.py
+Rendered 151 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 128; source notes 33; exact-quote insights 151.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running replay.py
+Recovered 0 fully quote-checked per-video drafts.
+Running render.py
+Rendered 191 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 128; source notes 43; exact-quote insights 191.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running recycle.py
+15 sources have verified transcripts and saved cited notes.
+Recycled codie-sanchez/1hk_VMEeoPQ; local evidence retained.
+Recycled codie-sanchez/v2jRsAFnqXY; local evidence retained.
+Recycled codie-sanchez/_IwYLXAXzx8; local evidence retained.
+Recycled codie-sanchez/cCOhT7oWIew; local evidence retained.
+Recycled codie-sanchez/kMV3vvZPk6Q; local evidence retained.
+Recycled codie-sanchez/NViWUwkXizo; local evidence retained.
+Recycled codie-sanchez/mnhhwBiFshA; local evidence retained.
+Recycled codie-sanchez/8wbjlHuLGA8; local evidence retained.
+Recycled codie-sanchez/MkP37sMi4KY; local evidence retained.
+Recycled codie-sanchez/ZvAwqGH_79Q; local evidence retained.
+Recycled codie-sanchez/1CLeSVVDqFg; local evidence retained.
+Recycled codie-sanchez/NOxLzAh-gUc; local evidence retained.
+Recycled codie-sanchez/ksRcFGLPoSk; local evidence retained.
+Recycled codie-sanchez/PbBdBpBsP_s; local evidence retained.
+Recycled codie-sanchez/oRpjoHJcX4s; local evidence retained.
+Running import_notebooklm.py
+[129/200] nick-huber: The Worst Business Advice
+  Saved 1020 words; exact-text citations available, timestamps unavailable.
+[130/200] sahil-bloom: How to quickly get out of a rut
+  Saved 1183 words; exact-text citations available, timestamps unavailable.
+[131/200] codie-sanchez: You’re Not Ready for Superintelligence
+  Saved 2750 words; exact-text citations available, timestamps unavailable.
+[132/200] alex-hormozi: The New Way of Making Content In The Age of AI
+  Saved 3122 words; exact-text citations available, timestamps unavailable.
+[133/200] dan-martell: 1000+ hours of Learning Claude in 15 Minutes (Beginner to Pro)
+  Saved 3137 words; exact-text citations available, timestamps unavailable.
+[134/200] nick-huber: Nobody Wants To Do This
+  Saved 1356 words; exact-text citations available, timestamps unavailable.
+[135/200] sahil-bloom: F*ck Manifestation—do this instead
+  Saved 1666 words; exact-text citations available, timestamps unavailable.
+[136/200] codie-sanchez: How to Get Ahead of 99% of People (Starting Today)
+  Saved 3653 words; exact-text citations available, timestamps unavailable.
+[137/200] alex-hormozi: How to Catch Up In Life (Using Logic)
+  Saved 2584 words; exact-text citations available, timestamps unavailable.
+[138/200] dan-martell: It’s Actually Pretty Easy to Get Ahead of 99% of People with AI
+  Saved 3197 words; exact-text citations available, timestamps unavailable.
+[139/200] nick-huber: Don't Compete With Geniuses
+  Saved 812 words; exact-text citations available, timestamps unavailable.
+[140/200] sahil-bloom: My 8-hour focus routine (no burnout, no BS)
+  Saved 550 words; exact-text citations available, timestamps unavailable.
+[141/200] codie-sanchez: The Psychology of Making Money
+  Saved 3685 words; exact-text citations available, timestamps unavailable.
+[142/200] alex-hormozi: Building a $2,500,000 Business for a Stranger in 36 Minutes
+  Saved 8472 words; exact-text citations available, timestamps unavailable.
+[143/200] dan-martell: If I wanted to build wealth from scratch (again), I’d do this
+  Saved 3342 words; exact-text citations available, timestamps unavailable.
+[144/200] nick-huber: Why Most Entrepreneurs Fail
+STOP: task-owned notebooks are full; no existing data was deleted.
+Running render.py
+Rendered 195 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 143; source notes 44; exact-quote insights 195.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running replay.py
+Recovered 4 fully quote-checked per-video drafts.
+Running render.py
+Rendered 227 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 143; source notes 52; exact-quote insights 227.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.
+Running recycle.py
+9 sources have verified transcripts and saved cited notes.
+Recycled codie-sanchez/LDPE3wa9f2k; local evidence retained.
+Recycled dan-martell/gfSVNJZgbOo; local evidence retained.
+Recycled dan-martell/DlQyXhjH2jE; local evidence retained.
+Recycled dan-martell/1BApLicRt1w; local evidence retained.
+Recycled dan-martell/1MMqPTiWfSc; local evidence retained.
+Recycled dan-martell/6poBPhfB-WY; local evidence retained.
+Recycled dan-martell/UvDgL8ShgXs; local evidence retained.
+Recycled dan-martell/Bm84BAtOfQw; local evidence retained.
+Recycled dan-martell/b6aLGChngnE; local evidence retained.
+Running import_notebooklm.py
+[144/200] nick-huber: Why Most Entrepreneurs Fail
+  Saved 799 words; exact-text citations available, timestamps unavailable.
+[145/200] sahil-bloom: These 7 habits made me rich (No BS)
+  Saved 910 words; exact-text citations available, timestamps unavailable.
+[146/200] codie-sanchez: A Once in a Lifetime Economic Reset is Coming…
+  Saved 2948 words; exact-text citations available, timestamps unavailable.
+[147/200] alex-hormozi: What Makes The Perfect Business (5 Things)
+  Saved 4852 words; exact-text citations available, timestamps unavailable.
+[148/200] dan-martell: How to Build a $10M Business with AI (Zero Employees)
+  Saved 3095 words; exact-text citations available, timestamps unavailable.
+[149/200] nick-huber: I Rewrote My Entire Book
+  Saved 1363 words; exact-text citations available, timestamps unavailable.
+[150/200] sahil-bloom: 36 Hours in Venice, Italy: No Sleep, Just Food
+  Saved 1649 words; exact-text citations available, timestamps unavailable.
+[151/200] codie-sanchez: How to Outwork Everyone By Doing 1% Better
+  Saved 2821 words; exact-text citations available, timestamps unavailable.
+[152/200] alex-hormozi: Helping 6 Business Owners Scale in 33 Minutes
+  Saved 7380 words; exact-text citations available, timestamps unavailable.
+[153/200] dan-martell: I read 1900 Books, these 4 will make you rich
+STOP: task-owned notebooks are full; no existing data was deleted.
+Running render.py
+Rendered 227 quote-checked insights across 5 creators; 0 extraction issues.
+Running validate.py
+Catalog 2394; transcripts 152; source notes 52; exact-quote insights 227.
+Integrity checks do not certify scope completion, factual accuracy or reviewed synthesis.

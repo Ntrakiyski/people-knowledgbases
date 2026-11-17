@@ -1,0 +1,50 @@
+{
+  "youtube_id": "qRa1Dp8JfH0",
+  "thesis": "The reviewed passages frame reinvention as gathering information and taking manageable repeated actions.",
+  "summary": "The source proposes mapping information and evidence about a possible future, then listing concrete actions that reduce uncertainty. Learning conversations are one example. A time-bounded daily commitment is presented as a way to make starting manageable. This note covers selected original passages checked against the automatic guide; it is not an exhaustive account of the video, and the promised magnitude of change is not established.",
+  "insights": [
+    {
+      "slug": "reinvention-evidence",
+      "title": "Identify actions that gather evidence about a possible future",
+      "explanation": "Learning conversations are proposed as a way to replace unknowns with information before committing to a new direction.",
+      "quote": "what specific actions could you take to build evidence about that future life",
+      "character_start": 6005,
+      "character_end": 6082,
+      "tags": [
+        "decision-making",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "action-before-manifestation",
+      "title": "Translate a desired change into concrete actions",
+      "explanation": "The source contrasts passive expectation with a list of doable steps. It does not show that action alone guarantees the desired outcome.",
+      "quote": "You don't manifest it into reality You act it into reality",
+      "character_start": 7122,
+      "character_end": 7180,
+      "tags": [
+        "agency",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "thirty-for-thirty",
+      "title": "Use a bounded daily commitment to lower the starting barrier",
+      "explanation": "The thirty-day structure is a proposed practice protocol, not a validated guarantee of reinvention or mastery.",
+      "quote": "30 straight days is enough of a commitment that you're serious about it",
+      "character_start": 7824,
+      "character_end": 7895,
+      "tags": [
+        "habits",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "fb565708-7a95-47da-982d-bbf53a29d383",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "xJNEOoebbDM",
+  "thesis": "The selected transparency story connects public operating detail with reported investor interest and business growth.",
+  "summary": "The participant describes publishing how his storage business works, including financial statements, and reports later investor interest and expansion. He identifies more as an operator than a media specialist. The chronology is not independent proof that transparency caused every result, and disclosure carries confidentiality and competitive considerations not resolved here.",
+  "insights": [
+    {
+      "slug": "transparent-business-content",
+      "title": "Use concrete operating detail as content",
+      "explanation": "The speaker describes sharing actual business mechanics rather than only general motivation.",
+      "quote": "be radically open about how I do business and how our business works",
+      "character_start": 759,
+      "character_end": 827,
+      "tags": [
+        "creator-strategy",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "financial-content-specificity",
+      "title": "Recognize the specificity of financial disclosures",
+      "explanation": "The story includes property profit-and-loss statements. The passage documents his choice, not a recommendation to disclose confidential information.",
+      "quote": "tweet pictures of my profit and loss statements",
+      "character_start": 841,
+      "character_end": 888,
+      "tags": [
+        "creator-strategy",
+        "finance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "operator-identity",
+      "title": "Preserve the distinction between operating and media work",
+      "explanation": "The participant describes his primary identity as a business operator. That context matters when assessing the purpose of his audience.",
+      "quote": "I've always been a business operator at heart not really a media person",
+      "character_start": 3159,
+      "character_end": 3230,
+      "tags": [
+        "ownership",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e3d22a28-54b0-4137-bb45-6137cfbde63e",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

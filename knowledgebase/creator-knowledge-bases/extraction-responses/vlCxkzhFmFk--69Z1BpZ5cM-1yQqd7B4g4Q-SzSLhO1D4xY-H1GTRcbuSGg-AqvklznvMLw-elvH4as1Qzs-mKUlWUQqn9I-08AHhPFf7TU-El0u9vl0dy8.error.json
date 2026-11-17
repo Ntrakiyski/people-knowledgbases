@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "youtube_id": "vlCxkzhFmFk",
+      "title": "The Hiring Secret That Changed My Business",
+      "source_id": "1d1ffa55-5864-402a-a1b5-524b235c3103"
+    },
+    {
+      "youtube_id": "-69Z1BpZ5cM",
+      "title": "The Screen Time Debate Nobody Wants",
+      "source_id": "e119af17-7dc8-4e5f-832a-2b2cfefff84a"
+    },
+    {
+      "youtube_id": "1yQqd7B4g4Q",
+      "title": "I Got Mocked for Starting This Business",
+      "source_id": "13ee27e2-660d-4c96-afe5-285566bf9377"
+    },
+    {
+      "youtube_id": "SzSLhO1D4xY",
+      "title": "The Mindset That Made Me Millions",
+      "source_id": "49332bd4-cfa2-40c6-b03c-094626008aa3"
+    },
+    {
+      "youtube_id": "H1GTRcbuSGg",
+      "title": "The First $100 Matters More Than Your Big Idea",
+      "source_id": "c46c0844-00a4-485e-9cc0-2416a62acd03"
+    },
+    {
+      "youtube_id": "AqvklznvMLw",
+      "title": "I Built a $2.2M Business With Sidewalk Chalk",
+      "source_id": "516ccf19-0c97-42d3-9402-b9cce5c2c735"
+    },
+    {
+      "youtube_id": "elvH4as1Qzs",
+      "title": "You're Working Too Hard for Too Little",
+      "source_id": "48f77d76-df43-4c01-97b0-a2f2b9b5a478"
+    },
+    {
+      "youtube_id": "mKUlWUQqn9I",
+      "title": "If You Can't Make Decisions Don't Start a Business",
+      "source_id": "3b4adc6c-57bc-4332-852e-e30a4c7127dd"
+    },
+    {
+      "youtube_id": "08AHhPFf7TU",
+      "title": "The Customer Is NOT Always Right",
+      "source_id": "5a4a5abd-fc68-4dcd-8d34-6b3fc0d11873"
+    },
+    {
+      "youtube_id": "El0u9vl0dy8",
+      "title": "Why Some People Get Rich and Others Don't",
+      "source_id": "100b7b7c-f0b3-47b8-8320-4f1608bc69a2"
+    }
+  ],
+  "error": "NotebookLM extraction command failed (exit 1)"
+}

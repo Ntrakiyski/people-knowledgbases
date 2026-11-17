@@ -1,0 +1,68 @@
+{
+  "youtube_id": "dpO4mv9xHw0",
+  "thesis": "His investing sequence joins skill-building, buying time, allocating capital and owning a sellable business.",
+  "summary": "Four stages begin with trading time for capabilities, then an energy/cost calendar audit and delegation. Recovered hours are filled with higher-value work before investing capital. Martell supports low-cost index funds for general exposure and technology where he believes he has an edge, warns against unexplained tax schemes, describes a protected-capital allocation and favors long horizons. The final stage emphasizes equity, people and a business able to operate or be sold without him.",
+  "insights": [
+    {
+      "slug": "buyback-audit",
+      "title": "Audit energy and replacement cost together",
+      "explanation": "The two-week calendar exercise marks energy and rough delegation cost before selecting tasks to transfer.",
+      "quote": "highlight everything in green that lights you up everything in red that takes your energy",
+      "tags": [
+        "time",
+        "delegation"
+      ],
+      "character_start": 2059,
+      "character_end": 2148,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "circle-of-competence",
+      "title": "Use an edge or a broad low-cost default",
+      "explanation": "He contrasts familiar software investing with low-fee index exposure when no special advantage is evident.",
+      "quote": "I either put my money into boring investments like the S&P through an index fund with low fees",
+      "tags": [
+        "investing",
+        "expertise"
+      ],
+      "character_start": 7388,
+      "character_end": 7482,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "explain-investments",
+      "title": "Avoid an investment you cannot explain",
+      "explanation": "He uses an unsuccessful tax-related investment as a personal caution about complexity.",
+      "quote": "If it's too complicated stay away from it",
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "character_start": 8643,
+      "character_end": 8684,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "sellable-company",
+      "title": "Build something that could transfer beyond you",
+      "explanation": "He frames sale-readiness as useful even when there is no immediate intention to exit.",
+      "quote": "a company that I could sell is a great company to run",
+      "tags": [
+        "ownership",
+        "systems"
+      ],
+      "character_start": 14761,
+      "character_end": 14814,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c668982c-cb32-4dab-9240-5dba1ff9e47b",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Personal wealth, awards, investment success, hourly time savings and future company value are reported. The four stages are a heuristic, not a universal prerequisite for ordinary investing. The narrative downplays stock-market ownership while endorsing it and calling business equity ownership; preserve this rhetorical tension. Index-return ranges are not guaranteed. His costly tax-scheme story supports caution but does not independently establish tax rules.",
+  "review_changes": "Adds the protected-capital half and public-market default to a seemingly all-in ownership message, plus the distinction between claimed saved hours and measured incremental time.",
+  "deep_review_date": "2026-11-16T20:56:09.862041+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/dpO4mv9xHw0.json",
+  "previous_draft_sha256": "70d594ea000556a974a6e78009cb533f3af9475f438697df560f427c5354c5dd"
+}

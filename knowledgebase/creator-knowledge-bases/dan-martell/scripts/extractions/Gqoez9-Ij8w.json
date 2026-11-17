@@ -1,0 +1,120 @@
+{
+  "youtube_id": "Gqoez9-Ij8w",
+  "thesis": "The forty AI lessons emphasize stable workflows, accountable ownership, review, and measurable outcomes, alongside tensions about context and tool exploration.",
+  "summary": "Martell's forty lessons move from prompting to operating design. He favors relevant context, examples, explicit instructions, iterative review, skepticism about accuracy, and business metrics. Later sections emphasize documenting stable work, assigning a named owner, finishing a useful workflow, and retaining human conversations while automating repetitive tasks. He also advocates AI-native hiring and leadership adoption. The source contains unresolved tensions: stop chasing models yet test many models, constrain context yet document everything, and work less while aiming for larger business outcomes. Claims that every describable task can be automated or that technical limits are only mindset exceed the evidence presented.",
+  "insights": [
+    {
+      "slug": "relevant-context",
+      "title": "Select context rather than treating volume as quality",
+      "explanation": "The first rule says too much irrelevant material can bury what matters. This qualifies the creator's elsewhere-stated preference for connecting all business context.",
+      "quote": "More context isn't always better Too much just confuses AI",
+      "tags": [
+        "ai",
+        "communication"
+      ],
+      "character_start": 574,
+      "character_end": 632,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ai-output-review",
+      "title": "Review and reshape outputs rather than accepting a first draft",
+      "explanation": "Martell explicitly describes the user as an editor and warns about confident errors. Asking another AI to review can improve a draft but does not establish truth.",
+      "quote": "trust AI's speed not its accuracy",
+      "tags": [
+        "ai",
+        "risk"
+      ],
+      "character_start": 3543,
+      "character_end": 3576,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "automation-economics",
+      "title": "Choose work where automation effort can pay back",
+      "explanation": "The video warns against building expensive or time-consuming automation for a trivial task. Evaluation should include build and maintenance effort as well as saved execution time.",
+      "quote": "Don't spend 20 hours building something that only takes you 30 seconds to do",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 4357,
+      "character_end": 4433,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "measurable-ai-value",
+      "title": "Tie adoption to an operating outcome",
+      "explanation": "The suggested test is whether time or another business metric changes. Enjoying tools and collecting subscriptions are not evidence of business improvement.",
+      "quote": "If your AI isn't moving a number it's just a hobby",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 5754,
+      "character_end": 5804,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "stable-before-automated",
+      "title": "Stabilize a process before trying to automate it",
+      "explanation": "A frequently changing process is called a moving target. The same source acknowledges that rapidly growing companies may legitimately change processes, so stability is a selection criterion rather than a universal freeze.",
+      "quote": "If your process changes every week there's nothing stable to automate",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 9569,
+      "character_end": 9638,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "automation-owner",
+      "title": "Assign a person to maintain each workflow",
+      "explanation": "The named owner remains accountable even when a machine executes the steps. This qualifies language suggesting a department can simply run itself.",
+      "quote": "Every tool you build with AI has to have a name of a person that owns it",
+      "tags": [
+        "ai",
+        "leadership"
+      ],
+      "character_start": 10787,
+      "character_end": 10859,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "human-moments",
+      "title": "Automate repetitive tasks while retaining relationship work",
+      "explanation": "The speaker explicitly keeps difficult conversations and creative exchanges human. The assistant-to-chief-of-staff story is an attributed example of role change, not proof automation never removes jobs.",
+      "quote": "We want to keep the hugs We want to keep the hard talks We want to keep the creative conversation",
+      "tags": [
+        "ai",
+        "communication"
+      ],
+      "character_start": 11355,
+      "character_end": 11452,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "tool-exploration-tension",
+      "title": "Balance completing a workflow against exploring models",
+      "explanation": "The source both praises finishing on an older model and recommends trying many models for task fit. It gives no budget or stopping rule to reconcile those priorities.",
+      "quote": "A finished workflow beats the newest model",
+      "tags": [
+        "ai",
+        "productivity"
+      ],
+      "character_start": 6390,
+      "character_end": 6432,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "489958b0-2b48-452b-b31f-7b732c64fe26",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Opening survey figures, enterprise value, time savings, and personnel stories are self-reported or cited without enough detail for verification. A second AI review is not independent factual validation. Hypothetical jet-fuel analogies do not establish technical feasibility. AI capability, cost, data access, and failure modes remain task-dependent. Enterprise value is not revenue or profit.",
+  "review_changes": "Adds workflow ownership, stability before automation, economic measurement, human-role redesign, and explicit tensions among the forty rules. Avoids turning provocative absolutes into universal technical guidance.",
+  "deep_review_date": "2026-11-16T19:28:37.897702+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/Gqoez9-Ij8w.json",
+  "previous_draft_sha256": "364f27f2c364d86fa5f35bb7ad3ba56f69c11e23ba1884b6eb381319f88a3f1f"
+}

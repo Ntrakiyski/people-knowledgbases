@@ -1,0 +1,68 @@
+{
+  "youtube_id": "mseVr7PBOl0",
+  "thesis": "Research business support programs and tax treatment before committing to expenses or hiring.",
+  "summary": "Sanchez surveys state workforce incentives, SBA loans, QSBS, hiring credits, equipment deductions, historic rehabilitation and low-income-area programs. She uses a hypothetical HVAC acquisition and an S-corporation example, then promotes education, consulting and acquisition events. She repeatedly points to accountants or lawyers and distinguishes taking action from merely filling out a form.",
+  "insights": [
+    {
+      "slug": "precommitment-program-research",
+      "title": "Check incentives before hiring or expanding",
+      "explanation": "Some applications require action before spending; her own checklist includes documentation and eligibility review.",
+      "quote": "you need to file before you hire or expand",
+      "tags": [
+        "business",
+        "incentives"
+      ],
+      "character_start": 2190,
+      "character_end": 2232,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "conditional-tax-benefits",
+      "title": "Eligibility governs a tax benefit",
+      "explanation": "Her QSBS example itself depends on qualification and professional setup; quoted thresholds are not independently confirmed.",
+      "quote": "that entire $4.5 million gain can be federal tax-free when the rules are met",
+      "tags": [
+        "tax",
+        "eligibility"
+      ],
+      "character_start": 5820,
+      "character_end": 5896,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "debt-versus-equity",
+      "title": "A loan preserves a different claim than an equity investor",
+      "explanation": "The hardware-business story contrasts repayable debt with permanently selling a stake, not free government money.",
+      "quote": "I was going to own a slice of that bad boy forever",
+      "tags": [
+        "financing",
+        "ownership"
+      ],
+      "character_start": 3220,
+      "character_end": 3270,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "support-requires-work",
+      "title": "An application alone does not create entitlement",
+      "explanation": "She closes by rejecting the idea of an automatic check for merely submitting a form.",
+      "quote": "you can't just fill out a form and get a check",
+      "tags": [
+        "incentives",
+        "execution"
+      ],
+      "character_start": 16286,
+      "character_end": 16332,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "49311994-1f86-4073-ba0a-314956223b7a",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Program eligibility, amounts, deadlines, availability and tax law have not been independently checked. Loans require repayment; deductions reduce taxable income and differ from credits or grants. Her flat 15.3% self-employment calculation on all $500,000 ignores applicable tax bases/caps and other details, so the claimed $50,000 saving is not established by that example. The transcript alternates education credit and deduction; do not treat them as equivalent. Quoted course growth and unused-funding totals are unverified marketing/statistical claims.",
+  "review_changes": "Adds explicit financing/tax-category distinctions, flags the invalid blanket payroll-tax arithmetic, and retains her professional-advice and pre-hiring timing qualifications.",
+  "deep_review_date": "2026-11-16T20:51:51.297092+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/mseVr7PBOl0.json",
+  "previous_draft_sha256": "6176e3cb3e3fbfb09e6385c720d34c3206a5fbe23d7dc5c2c0b6403d7ee285ec"
+}

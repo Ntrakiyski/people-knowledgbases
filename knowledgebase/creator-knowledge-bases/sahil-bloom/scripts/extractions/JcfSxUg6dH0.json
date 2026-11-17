@@ -1,0 +1,55 @@
+{
+  "youtube_id": "JcfSxUg6dH0",
+  "thesis": "Prepare for uncertainty through durable human needs and adaptable skills.",
+  "summary": "In an interview-style format Bloom proposes a lighthouse framework: focus on enduring needs for connection, feeling good, meaning, convenience, status and insecurity. His seven skills are sales, storytelling, clear communication, emotional intelligence, public speaking, taste and clear thinking. He favors repeated execution and adaptation over rigid distant prediction and says the list itself is dynamic.",
+  "insights": [
+    {
+      "slug": "lighthouse-framework",
+      "title": "Study durable needs alongside change",
+      "explanation": "The framework asks what will remain true about customers and people, drawing on a Bezos-attributed question.",
+      "quote": "focus on what will stay the same",
+      "tags": [
+        "ai",
+        "strategy"
+      ],
+      "character_start": 3041,
+      "character_end": 3073,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "lighthouse-skills",
+      "title": "Build transferable judgment and communication",
+      "explanation": "The seven proposed skills span interpersonal influence and thinking, rather than a specific software stack.",
+      "quote": "clear thinking in a world moving this fast",
+      "tags": [
+        "skills",
+        "judgment"
+      ],
+      "character_start": 5671,
+      "character_end": 5713,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "adaptive-list",
+      "title": "Keep the framework revisable",
+      "explanation": "He calls the list dynamic and encourages adapting it through action.",
+      "quote": "this is a dynamic list the key is stay adaptable",
+      "tags": [
+        "learning",
+        "adaptability"
+      ],
+      "character_start": 5828,
+      "character_end": 5876,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "24e5fd7e-e75b-4729-818a-93dfe662df73",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "AI job-loss headlines and guarantees of irreplaceability are not evidence that these skills are immune to automation. Broad statements about permanent human needs and expiring hard skills are his thesis, not proven universal laws. Interviewer prompts are distinct from his responses.",
+  "review_changes": "Restores both halves of the lighthouse framework and the explicit non-dogmatic status of the skill list.",
+  "deep_review_date": "2026-11-16T20:50:23.341656+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/JcfSxUg6dH0.json",
+  "previous_draft_sha256": "aa43cead93f73cd23fb5c27a56bc84c9ce2d4eaed904f8e2e14014e28daad2ab"
+}

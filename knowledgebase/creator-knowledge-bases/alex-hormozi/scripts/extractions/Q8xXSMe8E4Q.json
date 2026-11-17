@@ -1,0 +1,55 @@
+{
+  "youtube_id": "Q8xXSMe8E4Q",
+  "thesis": "Early archival clips illustrate imperfect communication and learning an offer through actual customers.",
+  "summary": "The video intercuts Hormozi reacting to old marketing footage with the original clips. Early material includes gym lead generation, measurement explanations, and a discussion of planning versus execution. In an archival business account, a customer asked to buy help before a fully specified service existed; subsequent gym launches informed the offering. The broader lesson is that actual delivery can revise plans and expose demand. The video ends with a current book promotion. Health explanations and commercial claims in the archive are not independently evaluated here.",
+  "insights": [
+    {
+      "slug": "plans-and-feedback",
+      "title": "Expect a plan to change once delivery begins",
+      "explanation": "The historical speaker argues that practical execution exposed changes he could not discover by overplanning. This supports feedback-driven revision, not abandoning all preparation.",
+      "quote": "you're going to change it the moment you actually start doing something",
+      "tags": [
+        "learning",
+        "operations"
+      ],
+      "character_start": 3778,
+      "character_end": 3849,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "customer-led-offer",
+      "title": "A request to buy preceded a polished service",
+      "explanation": "The origin account describes customer interest arriving before complete product definition. It illustrates one path to offer discovery, not a general rule that unscoped promises are safe.",
+      "quote": "before i actually had the service someone was i saw me speak and they were like",
+      "tags": [
+        "sales",
+        "learning"
+      ],
+      "character_start": 5011,
+      "character_end": 5090,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delivery-learning",
+      "title": "Actual customers supplied information planning could not",
+      "explanation": "The speaker credits serving customers with discovering what worked. The transcript offers an anecdote rather than a controlled comparison of planning methods.",
+      "quote": "i wouldn't have figured it out unless i like actually just did it and had people you know to actually train",
+      "tags": [
+        "learning",
+        "operations"
+      ],
+      "character_start": 4092,
+      "character_end": 4199,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "a0c30a00-787b-4b3d-b633-c3ceeecad230",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Current commentary, historical speech, and promotion are different layers. The gym-launch story is retrospective self-report, not permission to promise outcomes beyond one's capability. The archive's health statements are not validated guidance.",
+  "review_changes": "Adds the archival/current-speaker distinction and the customer-led offer-development account rather than reducing the video to embarrassment tolerance.",
+  "deep_review_date": "2026-11-16T19:24:21.684462+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/Q8xXSMe8E4Q.json",
+  "previous_draft_sha256": "52710143101c3596a720142c5757977f0bc87e2510435f6b7ed2db58afb16998"
+}

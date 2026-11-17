@@ -1,0 +1,50 @@
+{
+  "youtube_id": "TWuzAO7ukk0",
+  "thesis": "The selected AI toolkit metaphor centers the customer problem rather than the technology being sold.",
+  "summary": "The source compares AI capabilities with a carpenter's tools, distinguishes a completed workflow from a single step, and argues for selling a solution. Claims of automatic completion and financial returns are not established. The note records a service-design perspective rather than a verified software capability guide.",
+  "insights": [
+    {
+      "slug": "solution-over-tool",
+      "title": "Sell the problem resolved rather than the tool used",
+      "explanation": "The carpenter metaphor distinguishes a customer's desired result from the provider's equipment.",
+      "quote": "the carpenter doesn't sell the hammer the screwdriver or the power drill",
+      "character_start": 12806,
+      "character_end": 12878,
+      "tags": [
+        "sales",
+        "value-creation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "workflow-completeness",
+      "title": "Distinguish a whole workflow from a partial task",
+      "explanation": "The source uses completion as a criterion for evaluating an agentic system. Reliability still needs to be tested end to end.",
+      "quote": "a workflow that's complete not a step in a process",
+      "character_start": 7960,
+      "character_end": 8010,
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "problem-first-ai",
+      "title": "Avoid adding technology without a real problem",
+      "explanation": "The creator explicitly warns against applying AI everywhere merely because it is available.",
+      "quote": "stop trying to add AI to everything and start solving real problems",
+      "character_start": 14061,
+      "character_end": 14128,
+      "tags": [
+        "ai",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "5b17a557-0f37-4bf0-a942-0cc87f5f977b",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

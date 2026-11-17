@@ -1,0 +1,93 @@
+{
+  "youtube_id": "EonibwnAEME",
+  "thesis": "When direction is uncertain, build readiness through rest, savings, practiced skills, visible work, demand signals, and relationships.",
+  "summary": "Hormozi proposes six actions for people unsure what to do next: build general capacity, save money, acquire and practice skills, build an audience, develop a waiting list, and meet relevant people. The opening includes being rested and physically prepared, not only accumulating work hours. Later advice becomes more austere, including very low expenses, extensive use of nonwork hours, and spending surplus on skills. Audience and waiting-list activity are framed as potential leverage, not a fully formed product. The common thread is preparing before an opportunity arrives. The study story, financial biography, and implied inevitability of audience monetization are not verified.",
+  "insights": [
+    {
+      "slug": "capacity-before-opportunity",
+      "title": "Prepare even before selecting a specific opportunity",
+      "explanation": "The opening includes rest as a resource for future action. Preparation is broader than working harder at an undefined business.",
+      "quote": "when you're not sure what you're going to do Still it might as well be rested That's building capacity",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 934,
+      "character_end": 1036,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "liquidity-optionality",
+      "title": "Savings can preserve the ability to act later",
+      "explanation": "Cash is framed as optionality while investment direction is unclear. This should remain distinct from the later injunction to spend all excess on skills.",
+      "quote": "if you don't know what to invest in save money Money buys time and time buys optionality",
+      "tags": [
+        "cash-flow",
+        "risk"
+      ],
+      "character_start": 3285,
+      "character_end": 3373,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "skills-and-practice",
+      "title": "Acquiring information and using it are separate commitments",
+      "explanation": "The third principle explicitly includes practice. The source does not establish that every paid learning product produces a positive financial return.",
+      "quote": "add skills and practice them And the second part is just as important as the first",
+      "tags": [
+        "learning"
+      ],
+      "character_start": 4896,
+      "character_end": 4978,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "documented-effort",
+      "title": "Beginners can document real work instead of claiming nonexistent proof",
+      "explanation": "The audience-building suggestion is to make the effort visible. This does not justify presenting unachieved results as expertise.",
+      "quote": "what you can do is do work and document the work you do",
+      "tags": [
+        "marketing",
+        "learning"
+      ],
+      "character_start": 10225,
+      "character_end": 10280,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "waiting-list-signal",
+      "title": "A waiting list indicates interest rather than a completed sale",
+      "explanation": "The source treats willingness to wait as a likelihood signal. That distinction matters when forecasting revenue from followers or signups.",
+      "quote": "All of these things are indicators that they're likely or more likely to make a purchase with you",
+      "tags": [
+        "sales",
+        "marketing"
+      ],
+      "character_start": 11036,
+      "character_end": 11133,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "network-positioning",
+      "title": "Move toward relevant people and opportunity hubs",
+      "explanation": "The recommended exposure includes ordinary social spaces and industry hubs. Relocation is a proposed lever, not a universal requirement or sufficient explanation of success.",
+      "quote": "if you want to be successful in something in anything spend time with the people who are already doing it",
+      "tags": [
+        "communication",
+        "learning"
+      ],
+      "character_start": 11573,
+      "character_end": 11678,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "61784e0c-50a5-4b38-ba0c-4b02682d8c4f",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The Good Samaritan study is described from memory and not independently assessed. Extreme housing, clothing, and spending rules are prescriptive rhetoric rather than individualized budgeting. The text does not resolve tension between being rested and using broad early/late work windows, or between liquidity and spending all surplus on education. A waiting list is not collected revenue, and audience size does not guarantee a viable offer.",
+  "review_changes": "Adds readiness across multiple resources, the actual practice requirement, audience-versus-demand distinctions, and internal tensions around rest and financial slack.",
+  "deep_review_date": "2026-11-16T19:29:32.167483+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/EonibwnAEME.json",
+  "previous_draft_sha256": "97ab9064c9e68368326e2bbc812749655bded4cd7db22feaac2861632e66b0f2"
+}

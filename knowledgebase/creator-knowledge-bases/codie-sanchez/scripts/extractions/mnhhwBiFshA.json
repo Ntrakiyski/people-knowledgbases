@@ -1,0 +1,66 @@
+{
+  "youtube_id": "mnhhwBiFshA",
+  "thesis": "Codie Sanchez presents a comprehensive leadership framework, asserting that building scalable, high-performing organizations requires rejecting popularity seeking, enforcing objective standards, and recruiting evidence-backed talent.",
+  "summary": "Developing true leadership capacity requires moving beyond superficial popularity seeking and embracing firm, objective accountability. Leaders who attempt to please everyone create organizational confusion, whereas setting clear, structured goals empowers employees to deliver measurable outcomes. Effective communication involves speaking in concise headlines, controlling strategic meeting frames, and maintaining emotional composure during crises. Furthermore, building top-tier organizations relies on systematic hiring matrices that evaluate past candidate evidence rather than interview charm. Rewarding tangible outcomes over mere activity ensures that high-performing team members remain motivated to drive enterprise expansion.",
+  "insights": [
+    {
+      "slug": "truthful-leadership",
+      "title": "Seeking approval undermines effective organizational leadership",
+      "explanation": "Codie Sanchez warns that leaders who prioritize personal popularity over truthful feedback damage organizational performance. Real leadership requires delivering honest guidance that builds trust and promotes professional growth.",
+      "quote": "approval guys is a drug and leaders get addicted to it and then they become mascots",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "leadership",
+        "operations"
+      ],
+      "character_start": 1284,
+      "character_end": 1367
+    },
+    {
+      "slug": "problem-prevention",
+      "title": "Rescuing underperformers prevents teams from learning problem prevention",
+      "explanation": "Codie Sanchez cautions leaders against constantly solving operational fires for team members. Stepping in repeatedly creates dependence and prevents staff from developing essential problem-solving capabilities.",
+      "quote": "every fire you personally extinguish is a fire your people never learn to prevent",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "leadership",
+        "operations",
+        "hiring"
+      ],
+      "character_start": 3566,
+      "character_end": 3647
+    },
+    {
+      "slug": "headline-communication",
+      "title": "Speaking in concise headlines improves communication clarity",
+      "explanation": "Codie Sanchez advocates for delivering business communications starting with the primary conclusion rather than lengthy preambles. Concise, direct phrasing prevents meeting fatigue and clarifies operational expectations.",
+      "quote": "speak in headlines start with the point not the preamble so have you guys ever experienced this",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "communication",
+        "leadership",
+        "productivity"
+      ],
+      "character_start": 12022,
+      "character_end": 12117
+    },
+    {
+      "slug": "evidence-hiring",
+      "title": "Warm references and proven track records outperform cold resumes",
+      "explanation": "Codie Sanchez emphasizes using structured evaluation criteria to assess candidates based on past performance data. Prioritizing verified candidate achievements prevents hiring mistakes driven by interview charm.",
+      "quote": "a warm reference beats a cold resume every single time two proven experience have they done the exact job before",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "hiring",
+        "leadership",
+        "operations"
+      ],
+      "character_start": 22836,
+      "character_end": 22948
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2a9c2885-8bde-48c4-b67b-6d310d3b3e3a",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

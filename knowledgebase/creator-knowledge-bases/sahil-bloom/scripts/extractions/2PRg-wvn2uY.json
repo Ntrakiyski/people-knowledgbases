@@ -1,0 +1,68 @@
+{
+  "youtube_id": "2PRg-wvn2uY",
+  "thesis": "Audit four types of professional time before redesigning a workday.",
+  "summary": "Bloom distinguishes management, creation, consumption and ideation. Batch necessary coordination into discrete windows; protect creation when energy is high; deliberately consume varied inputs; and leave stimulus-free space to connect ideas. His exercise is a week of calendar color-coding followed by rebuilding one more balanced day. He acknowledges less calendar control early in a career.",
+  "insights": [
+    {
+      "slug": "four-types-of-time",
+      "title": "Distinguish coordination from creation and inputs",
+      "explanation": "The model names four uses of professional attention rather than treating all busyness as equivalent.",
+      "quote": "the four types of professional time",
+      "tags": [
+        "time",
+        "productivity"
+      ],
+      "character_start": 621,
+      "character_end": 656,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "batch-management",
+      "title": "Constrain necessary coordination",
+      "explanation": "Management is acknowledged as real work; batching is intended to keep it from consuming every available block.",
+      "quote": "this work has to get done but we need a system for getting it done more efficiently",
+      "tags": [
+        "management",
+        "time"
+      ],
+      "character_start": 1534,
+      "character_end": 1617,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "varied-inputs",
+      "title": "Allow inputs beyond business advice",
+      "explanation": "Fiction and history are examples of material that may yield unexpected connections.",
+      "quote": "sometimes your best ideas come from consuming things that feel completely out of the blue",
+      "tags": [
+        "learning",
+        "creativity"
+      ],
+      "character_start": 6399,
+      "character_end": 6488,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "calendar-audit",
+      "title": "Observe a week then redesign one day",
+      "explanation": "Color-code actual calendar use and identify trends before making a small structural change.",
+      "quote": "do that every single day for the next week",
+      "tags": [
+        "planning",
+        "reflection"
+      ],
+      "character_start": 8677,
+      "character_end": 8719,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "5bf6683d-9964-42d1-afc3-7c24ff2877a8",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Personal scheduling model, not an experimentally validated universal productivity intervention. Management is necessary and may require multiple windows. His hours and equipment are examples; consumption and ideation do not require a sauna, and consuming more is not itself creating.",
+  "review_changes": "Adds the actual diagnostic exercise, necessary management work, varied consumption and deliberate absence of input for ideation.",
+  "deep_review_date": "2026-11-16T20:48:01.845539+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/2PRg-wvn2uY.json",
+  "previous_draft_sha256": "a98416766d3f472b84472bdc16e4d7202a6f9f5f1d9e29af52b783211cf0bd28"
+}

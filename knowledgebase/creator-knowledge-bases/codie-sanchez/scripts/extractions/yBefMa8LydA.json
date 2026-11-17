@@ -1,0 +1,119 @@
+{
+  "youtube_id": "yBefMa8LydA",
+  "thesis": "Sanchez's routine protects important work through advance priorities, meeting constraints, delegation, relationships, and a recurring calendar audit.",
+  "summary": "The day-in-the-life video combines a routine with management principles. Sanchez plans before the morning, protects early leverage work, exercises, centralizes production, limits interruptions, and audits her calendar against goals. Support work is acknowledged as necessary but constrained. She favors in-person work and recurring relationship meetings while limiting attendee counts and asking for short asynchronous explanations before extra meetings. Evening connection and recovery are described as supporting sustainable work, including boundaries when working with a spouse. A final audit uses revenue, growth, leverage, and noise labels. Health and productivity statistics and company-growth claims are not independently evaluated.",
+  "insights": [
+    {
+      "slug": "prioritize-before-reacting",
+      "title": "Choose the important work before incoming requests dominate",
+      "explanation": "The night-before practice asks what will move the needle and ranks priorities. The broader point is advance allocation, not proof that all morning planning fails.",
+      "quote": "a priority list forces you to decide what matters most when you can't do everything",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 1490,
+      "character_end": 1573,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "leverage-work-window",
+      "title": "Reserve high-attention time for consequential work",
+      "explanation": "Strategy, writing, content, sales, and deal thinking are examples of leverage work. Maintenance remains necessary but should not consume every strong attention window.",
+      "quote": "is this leverage work support work or noise",
+      "tags": [
+        "productivity",
+        "strategy"
+      ],
+      "character_start": 3561,
+      "character_end": 3604,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "asynchronous-first",
+      "title": "Use a brief explanation before adding an unscheduled meeting",
+      "explanation": "The team is asked for a short Loom or message; a meeting can follow if still necessary. This differs from a blanket ban on meetings or colleague access.",
+      "quote": "give me a brief loom or a Slack message if we still need to sync after that ask my assistant",
+      "tags": [
+        "communication",
+        "operations"
+      ],
+      "character_start": 7903,
+      "character_end": 7995,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "meeting-cost",
+      "title": "Limit attendance to people whose contribution is needed",
+      "explanation": "The salary-cost framing makes coordination overhead explicit. It does not show that short-term payroll cost captures every benefit of shared context.",
+      "quote": "invite people whose input is required everyone else gets the TLDDR report",
+      "tags": [
+        "operations",
+        "communication"
+      ],
+      "character_start": 8829,
+      "character_end": 8902,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-repetitions",
+      "title": "Build useful relationships before an urgent need",
+      "explanation": "Recurring coffee meetings are part of the schedule rather than accidental extras. The preferred shift is sometimes from solving alone to finding someone with relevant capability.",
+      "quote": "you don't build a network by showing up when you need it",
+      "tags": [
+        "communication",
+        "hiring"
+      ],
+      "character_start": 10099,
+      "character_end": 10155,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "work-relationship-boundary",
+      "title": "Shared work does not eliminate the need for a personal boundary",
+      "explanation": "The speaker describes working with her spouse as useful for them, explicitly says it is not for everyone, and acknowledges imperfect boundaries.",
+      "quote": "the discipline is protecting where work ends and the relationship begins",
+      "tags": [
+        "family",
+        "life-design"
+      ],
+      "character_start": 12141,
+      "character_end": 12213,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "recovery-as-input",
+      "title": "Treat recovery as part of sustainable output",
+      "explanation": "The closing rejects the idea that rest must first be earned. This qualifies the apparent maximization of every minute earlier in the routine.",
+      "quote": "i no longer see my recharge as a reward you earn it's the strategy that makes tomorrow possible",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 12664,
+      "character_end": 12759,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "calendar-goal-audit",
+      "title": "Compare the actual week with the stated destination",
+      "explanation": "The GPS check looks for drift and calls for correction without spiraling into self-punishment. The labels are a self-assessment aid, not verified measures of revenue contribution.",
+      "quote": "you just look at the map acknowledge where you drifted and correct",
+      "tags": [
+        "productivity",
+        "strategy"
+      ],
+      "character_start": 13623,
+      "character_end": 13689,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "0f8d6e4c-4393-4065-b8ea-7952dde7f9d3",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "This routine uses a team, assistant, office, and studio; it is not evidence that identical clock time means identical resources. The video promotes a business-buying event. Claims about walking, stress, animals, brain function, and remote work are generalized beyond evidence supplied here. The closing R/G/L/N labels overlap and are not the same taxonomy as the earlier leverage/support/noise filter; no measured scoring method is specified.",
+  "review_changes": "Adds the full routine's operating mechanisms, both pro-meeting and anti-interruption positions, sleep and relationship boundaries, and the final audit's differing labels.",
+  "deep_review_date": "2026-11-16T19:29:32.169371+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/yBefMa8LydA.json",
+  "previous_draft_sha256": "34dbc2664a81a81b45077f77affb834ad5f6c0c5b4f7c2fedeccfbc4aa569b3a"
+}

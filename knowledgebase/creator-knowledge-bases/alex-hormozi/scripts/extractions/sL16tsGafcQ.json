@@ -1,0 +1,81 @@
+{
+  "youtube_id": "sL16tsGafcQ",
+  "thesis": "Choose a wealth-building route by whose capital and whose business are involved, accounting for control, time and responsibility.",
+  "summary": "The four-box framework distinguishes bootstrapping, raising equity, investing personal capital in others, and managing pooled outside capital. Bootstrapping preserves control but can create operational and technical compromises; fundraising enables capital-intensive opportunities while introducing dilution, preferences and investor incentives. Investing generally requires surplus earned elsewhere and patience. Fund management adds sourcing, risk, reporting and regulatory responsibilities. Alex describes having participated in all four, including privately raised real-estate deals.",
+  "insights": [
+    {
+      "slug": "capital-ownership-matrix",
+      "title": "Separate four routes by ownership and capital",
+      "explanation": "The two axes separate operating a company from allocating capital, while allowing real businesses to combine routes over time.",
+      "quote": "you've got your money and your business",
+      "tags": [
+        "capital",
+        "ownership"
+      ],
+      "character_start": 515,
+      "character_end": 554,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "bootstrap-operating-debt",
+      "title": "Bootstrapping can defer operational investment",
+      "explanation": "Alex uses debt metaphorically for talent, systems and technical compromises caused by limited cash. These are not necessarily contractual liabilities.",
+      "quote": "you incur every other type of debt",
+      "tags": [
+        "bootstrapping",
+        "operations"
+      ],
+      "character_start": 6204,
+      "character_end": 6238,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fundraising-incentive-divergence",
+      "title": "Investors change the decision environment",
+      "explanation": "Equity funding can support larger opportunities but also adds investor expectations, dilution and terms that affect control and exit proceeds.",
+      "quote": "you now have two customers instead of one",
+      "tags": [
+        "fundraising",
+        "incentives"
+      ],
+      "character_start": 11337,
+      "character_end": 11378,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "investing-surplus-and-time",
+      "title": "Investing generally starts with investable surplus",
+      "explanation": "He presents investing as a long-horizon allocation path supported by earned capital; his extreme-success examples do not establish expected returns.",
+      "quote": "once you have meaningful excess cash and you want the upside without the day-to-day operational responsibility",
+      "tags": [
+        "investing",
+        "time-horizon"
+      ],
+      "character_start": 16553,
+      "character_end": 16663,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fund-manager-responsibility",
+      "title": "Fund leverage comes with several constituencies",
+      "explanation": "Managing others' capital adds obligations to investors, regulators and operating companies. The simplified waterfall is illustrative and contains an ambiguous pre-split profit figure.",
+      "quote": "you have enormous responsibility and a very long feedback loop",
+      "tags": [
+        "fund-management",
+        "risk"
+      ],
+      "character_start": 29026,
+      "character_end": 29088,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6ff58497-8863-4096-88eb-c98c84038b71",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The richest-person sample is selected on extreme success and does not establish typical outcomes. Biography, rankings and personal track records are unverified. In the illustrative fund waterfall, 900 minus 200 debt principal, 100 debt payments, 95 LP capital and 40 preference leaves 465 million BEFORE a proposed 50/50 split, not necessarily GP proceeds. GP contributed capital and other terms are incompletely modeled. A preferred return is a distribution priority, not guaranteed payment; leveraged losses and fees also matter. Good deals do not assure financing.",
+  "review_changes": "Adds capital-structure terms, founder/investor incentive divergence, the very long feedback loop and specific limitations in the illustrative leveraged fund arithmetic.",
+  "deep_review_date": "2026-11-16T21:02:23.207783+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/sL16tsGafcQ.json",
+  "previous_draft_sha256": "6f6a895b37824dab65f679d09f0cdfafce1ec3152efc22efc4592c655106ebad"
+}

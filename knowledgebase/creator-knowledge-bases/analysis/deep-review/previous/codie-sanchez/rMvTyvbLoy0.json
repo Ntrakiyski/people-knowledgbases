@@ -1,0 +1,50 @@
+{
+  "youtube_id": "rMvTyvbLoy0",
+  "thesis": "The selected AI discussion mixes uncertain labor forecasts with a proposal for specific local applications.",
+  "summary": "The creator warns of disruption and suggests using general AI tools for narrowly defined local problems. The original wording includes forecasts and concerns, not established future unemployment outcomes. This note does not validate the automatic guide's stronger characterization of current structural job losses or the claim that entire management layers will necessarily disappear.",
+  "insights": [
+    {
+      "slug": "forecast-attribution",
+      "title": "Keep an alarming labor scenario identified as a forecast",
+      "explanation": "The source attributes extreme unemployment scenarios to unnamed forecasters. It does not demonstrate that they will occur.",
+      "quote": "some people are actually forecasting Great Depression level unemployment",
+      "character_start": 1983,
+      "character_end": 2055,
+      "tags": [
+        "ai",
+        "provenance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "local-ai-specificity",
+      "title": "Explore narrow applications of general tools",
+      "explanation": "The creator proposes being local and specific rather than replicating a broad platform. Customer demand and feasibility still require validation.",
+      "quote": "tech companies are building general tools but you you could go hyper local hyper specific",
+      "character_start": 13050,
+      "character_end": 13139,
+      "tags": [
+        "ai",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "disruption-response",
+      "title": "Consider using a disruptive tool rather than only waiting",
+      "explanation": "The source favors experimentation and adaptation. It does not establish that every worker can offset disruption through individual action alone.",
+      "quote": "use the same tools causing the disruption as your advantage",
+      "character_start": 13296,
+      "character_end": 13355,
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "d97e28d0-1b39-40d5-aa40-24d3ab28636f",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "once-i-hit-these-money-milestones-i-became-financially-free-aetr9LovwE4",
+  "thesis": "Srivatsaa frames financial freedom as five MONEY milestones progressing from monthly surplus to passive income covering expenses.",
+  "summary": "Srivatsaa organizes wealth building into the MONEY framework: margin, optionality, net assets, equity rich, and living life on your terms. He begins with active income exceeding monthly expenses, then recommends a transition fund covering six to twelve months of spending so income loss does not force an immediate decision. His $24,000 reserve example covers six months of $4,000 expenses. He suggests high yield savings or stocks for reserves, without examining the latter's short term market risk.\n\nHe then targets $100,000 of net financial assets, using hypothetical 10% annual growth to illustrate compounding, and advocates freezing lifestyle spending as earnings rise. His definitions move between home equity and liquid financial assets, a distinction readers should preserve. He describes $1 million of net worth excluding a primary residence as an accredited investor milestone opening private deals, and claims these outperform retail investing by 54%, without supplying evidence here. Finally, he defines freedom as passive income exceeding expenses, explains income prefunded with capital or effort, and shows how increasing both invested assets and their yield can raise cash flow. These thresholds and comparisons are his framework rather than verified universal outcomes.",
+  "tags": [
+    "financial-freedom",
+    "investing",
+    "cash-flow",
+    "income",
+    "wealth-building"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:30",
+      "note": "Defines margin as earnings less spending."
+    },
+    {
+      "ts": "0:02:40",
+      "note": "Recommends a six to twelve month transition fund."
+    },
+    {
+      "ts": "0:04:23",
+      "note": "Introduces the $100,000 net assets target."
+    },
+    {
+      "ts": "0:05:48",
+      "note": "Explains lifestyle inflation."
+    },
+    {
+      "ts": "0:08:13",
+      "note": "Connects wealth thresholds to accredited investing."
+    },
+    {
+      "ts": "0:12:54",
+      "note": "Defines financial freedom through passive income."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "income-margin",
+      "name": "Income Margin",
+      "one_liner": "The surplus between active income and monthly expenses funds future wealth.",
+      "explanation": "Srivatsaa makes margin the first milestone because investing requires money left after current expenses. He distinguishes active income, earned by trading time for money, from the surplus available for assets, faster debt repayment, or higher earning skills. The video treats increasing earnings and holding expenses steady as complementary ways to widen this gap. Without positive margin, he argues, later milestones cannot be funded sustainably.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:30",
+          "text": "Margin is the difference between what you earn and what you spend."
+        }
+      ],
+      "related": [
+        "lifestyle-inflation",
+        "skill-development"
+      ]
+    },
+    {
+      "slug": "transition-fund",
+      "name": "Transition Fund",
+      "one_liner": "A reserve covering months of expenses buys time to replace or reinvent active income.",
+      "explanation": "The second milestone protects the income source on which the earlier surplus depends. Srivatsaa recommends six to twelve months of expenses rather than a fixed $1,000 emergency balance. His example accumulates $24,000 to cover six months of $4,000 spending. He describes the reserve as permission to find another job or reinvent a career. His suggested stock allocation for this reserve is presented without analyzing volatility or possible losses.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:40",
+          "text": "This is a transition fund where you have 6 to 12 months of expenses saved"
+        }
+      ],
+      "related": [
+        "income-margin",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "compound-growth",
+      "name": "Compound Growth",
+      "one_liner": "Returns can earn further returns as an invested balance grows over time.",
+      "explanation": "The video uses the first $100,000 as a foundation whose returns begin contributing materially to wealth. Srivatsaa illustrates an assumed 10% annual return producing $110,000 after one year, $121,000 after two, and more than $250,000 after ten without new contributions. These are hypothetical constant return calculations, not promised results. He couples the illustration with accumulating assets and controlling spending, rather than suggesting compounding replaces the initial savings effort.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:14",
+          "text": "In year 1, it's $110,000. In year two, it's"
+        }
+      ],
+      "related": [
+        "income-margin",
+        "lifestyle-inflation"
+      ]
+    },
+    {
+      "slug": "lifestyle-inflation",
+      "name": "Lifestyle Inflation",
+      "one_liner": "Spending increases that absorb income gains can prevent wealth accumulation.",
+      "explanation": "Srivatsaa explains how a raise can disappear into a new apartment, car, and recurring expenses. He recounts living on his wife’s salary while building a brokerage and says they retained the same monthly spending allowance after his earnings grew. His claimed business sale and net worth growth are autobiographical assertions. The transferable instruction is temporarily freezing lifestyle costs so additional earnings become investable margin rather than new permanent obligations.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:48",
+          "text": "When your income goes up, your lifestyle sometimes goes up with it."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "financial-freedom"
+      ]
+    },
+    {
+      "slug": "accredited-investing",
+      "name": "Accredited Investing",
+      "one_liner": "Investor eligibility can expand access to private market offerings.",
+      "explanation": "Srivatsaa labels $1 million of net worth excluding a primary residence the equity rich milestone and connects it to accredited investor status in the United States. He describes access to private equity, hedge funds, and startup deals as an important change in available opportunities. His assertion of 54% better private returns is unsupported within this transcript, and access does not establish safety. The video emphasizes reaching the threshold through earnings, restrained spending, and public investing.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:32",
+          "text": "you become an accredited investor in the United States."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "cash-flow-investing"
+      ]
+    },
+    {
+      "slug": "passive-income",
+      "name": "Passive Income",
+      "one_liner": "Income prefunded with money or effort can reduce dependence on ongoing paid work.",
+      "explanation": "The final milestone occurs when passive income exceeds monthly expenses. Srivatsaa reframes passive income as prefunded income: capital can buy a dividend paying asset, while effort can build an educational product that continues selling. He illustrates capital funding with $100,000 earning a hypothetical 4% distribution and recalls his first multifamily investment check. The central measure is expenses covered, rather than achieving a particular net worth or reaching an age.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:25",
+          "text": "Passive income is prefunded income."
+        }
+      ],
+      "related": [
+        "financial-freedom",
+        "cash-flow-investing"
+      ]
+    },
+    {
+      "slug": "financial-freedom",
+      "name": "Financial Freedom",
+      "one_liner": "Financial freedom means recurring passive income covers spending and makes work optional.",
+      "explanation": "Srivatsaa distinguishes financial freedom from age based milestones, a retirement account balance, or simply becoming a millionaire. The MONEY sequence first establishes surplus, protects income, accumulates assets, and expands investment access. Its endpoint is the ability to choose the day’s activities because expenses no longer require active work. The video therefore makes freedom relative to personal spending and investment income, while its earlier dollar thresholds remain the speaker’s proposed waypoints.",
+      "tags": [
+        "financial-freedom",
+        "investing",
+        "cash-flow"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:54",
+          "text": "This is where your passive income is greater than your monthly expenses."
+        }
+      ],
+      "related": [
+        "passive-income",
+        "income-margin",
+        "transition-fund"
+      ]
+    }
+  ],
+  "entities": []
+}

@@ -1,0 +1,37 @@
+{
+  "youtube_id": "OQf2Ba-Lp_4",
+  "thesis": "Selected cleaning-business coaching considers how price can signal confidence in delivery.",
+  "summary": "The reviewed passages discuss raising prices in a conventional service and suggest that an unusually low price can sometimes undermine perceived credibility. A separate passage promotes the advisor's roadmap and in-person help. These are recommendations and commercial context; the selected evidence does not verify the guide's reported revenue improvement or establish that a price increase will work.",
+  "insights": [
+    {
+      "slug": "price-quality-signal",
+      "title": "Consider whether a low price weakens perceived credibility",
+      "explanation": "The advisor proposes that some customers interpret low prices as evidence of poor delivery. The effect requires testing in the actual market.",
+      "quote": "the conviction of the customer that you can actually deliver on the promise you're making goes up",
+      "character_start": 8904,
+      "character_end": 9001,
+      "tags": [
+        "pricing",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "advisory-commercial-funnel",
+      "title": "Notice the offer embedded in educational coaching",
+      "explanation": "The transcript directs viewers to a roadmap and follow-up conversation. That commercial path is relevant context for the content.",
+      "quote": "on the thank you page just schedule a call",
+      "character_start": 7521,
+      "character_end": 7563,
+      "tags": [
+        "creator-strategy",
+        "sales"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a9922d78-21f2-4cc7-ae63-b3940ad09f4f",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

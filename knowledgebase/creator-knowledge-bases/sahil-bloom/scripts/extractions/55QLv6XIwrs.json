@@ -1,0 +1,80 @@
+{
+  "youtube_id": "55QLv6XIwrs",
+  "thesis": "Entrepreneurial autonomy has costs in accountability, structure, administrative fit, and social support, so it is not presented as right for everyone.",
+  "summary": "Bloom names five difficult aspects of entrepreneurship: the responsibility attached to freedom, institutions designed around regular employment, loss of imposed structure, loneliness, and exaggerated concern about other people's judgment. He explicitly rejects the claim that everyone should become an entrepreneur. His proposed responses include accepting responsibility, creating even loose time blocks, allowing time to build new supportive relationships, and acting by one's own values. The video's candid qualifications coexist with broad generalizations about loneliness and other people's insecurity. It is an attributed personal account, not a population-wide assessment of entrepreneurial wellbeing.",
+  "insights": [
+    {
+      "slug": "entrepreneurship-fit",
+      "title": "Freedom includes responsibility that not everyone wants",
+      "explanation": "The speaker explicitly rejects universal entrepreneurship advice. The reward is paired with carrying uncertainty and obligations, not simply having a flexible calendar.",
+      "quote": "this whole idea that entrepreneurship is for everybody it's just a lie",
+      "tags": [
+        "ownership",
+        "risk"
+      ],
+      "character_start": 932,
+      "character_end": 1002,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "employment-infrastructure",
+      "title": "Account for changes beyond the work itself",
+      "explanation": "Benefits and borrowing are examples of systems that may work differently after leaving employment. The video offers a warning, not detailed tax, insurance, or lending guidance.",
+      "quote": "a lot of the infrastructure that's been set up in society is for traditional W2 employment",
+      "tags": [
+        "risk",
+        "life-design"
+      ],
+      "character_start": 2493,
+      "character_end": 2583,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "self-created-structure",
+      "title": "Replace imposed structure with deliberate time blocks",
+      "explanation": "The proposed antidote to an empty calendar is some structure, even loosely defined. This makes clear that freedom need not mean unplanned days.",
+      "quote": "some set of time blocks that define what you're going to be doing during the course of the day",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 3730,
+      "character_end": 3824,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "support-transition",
+      "title": "Changing paths may require building additional peer support",
+      "explanation": "Bloom describes feeling misunderstood by prior peers and expects new relationships over time. That is his experience-based interpretation, not a reason to reject all critical feedback.",
+      "quote": "a lot of the people that you previously considered your people are no longer going to understand the path that you are on",
+      "tags": [
+        "communication",
+        "life-design"
+      ],
+      "character_start": 4221,
+      "character_end": 4342,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "judgment-versus-care",
+      "title": "Less external attention does not mean an absence of love",
+      "explanation": "The video clarifies its blunt phrase before recommending self-directed action. Preserving that clarification avoids turning the message into a claim of total social isolation.",
+      "quote": "it doesn't mean that nobody loves you but it does mean that no one is as invested in your journey as you are",
+      "tags": [
+        "life-design",
+        "communication"
+      ],
+      "character_start": 7020,
+      "character_end": 7128,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "9647e4b1-c938-4e31-b289-bd250f30bf2d",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "W2 benefits and mortgage references are specific to a US employment context. Lack of support is not always proof of another person's insecurity, and loneliness is not a requirement for success. 'Nobody cares' is explicitly distinguished from nobody loving the viewer.",
+  "review_changes": "Adds the explicit suitability limit, employment-infrastructure costs, self-created structure, and the clarification of the nobody-cares phrase.",
+  "deep_review_date": "2026-11-16T19:30:37.978267+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/55QLv6XIwrs.json",
+  "previous_draft_sha256": "514a01b63b63b8cdda71e9490470bf6cc24199a28713d4ba4336a1b97daf31b7"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "O0wGm4Lrk94",
+  "thesis": "Distinguishing fixed commitments from optional spending is central to the speaker's approach to lifestyle expansion.",
+  "summary": "The interview reviews household spending and distinguishes recurring commitments from variable travel and purchases. The participant says his reported baseline excludes some substantial discretionary costs, including aircraft usage and a summer stay. He connects restraint to volatile business distributions, taxes, and investment needs. When challenged about an aircraft share, he explains rural travel requirements, airport access, and family logistics. These are self-reported finances and justifications, not independently audited totals or proof that the purchase is economically optimal. The modest-sounding title should not obscure the unusually high absolute spending described.",
+  "insights": [
+    {
+      "slug": "fixed-cost-discipline",
+      "title": "Separate monthly commitments from optional expenses",
+      "explanation": "The speaker explicitly distinguishes the baseline he remains committed to from travel and purchases he could reduce. That distinction matters more analytically than treating the quoted baseline as total annual consumption.",
+      "quote": "the 25k a month is what I'm on the hook for moving forward",
+      "character_start": 1237,
+      "character_end": 1295,
+      "tags": [
+        "personal-finance",
+        "cash-flow"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "income-volatility-buffer",
+      "title": "Assess spending against bad months and investment needs",
+      "explanation": "The participant describes taxes and uneven business income as reasons to avoid large recurring bills. The example is personal and does not establish a safe spending percentage.",
+      "quote": "what if you have a couple if you have a couple goose eggs or you need to make a big investment",
+      "character_start": 2308,
+      "character_end": 2402,
+      "tags": [
+        "risk",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "purchase-use-case",
+      "title": "Evaluate a luxury purchase through its stated use case",
+      "explanation": "The aircraft explanation emphasizes rural destinations and travel friction. It documents the speaker's reasoning while leaving ownership costs, alternatives, and the value of time unverified.",
+      "quote": "I have business in rural towns all over America",
+      "character_start": 3978,
+      "character_end": 4025,
+      "tags": [
+        "decision-making",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "5f17f5b6-ff05-42a2-8b68-c124ee20c0f1",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

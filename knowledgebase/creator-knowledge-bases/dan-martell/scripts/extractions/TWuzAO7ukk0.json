@@ -1,0 +1,68 @@
+{
+  "youtube_id": "TWuzAO7ukk0",
+  "thesis": "Choose between a model, an automation and an agent according to the customer problem.",
+  "summary": "A toolkit analogy maps an LLM to a hammer, repeatable automation to a screwdriver and end-to-end agentic work to a power drill. MAPS means mission, ask, parameters and shape. Martell repeats the repetitive/rule-based/return test for automation, describes human oversight and critique agents, acknowledges context deterioration in long runs, and argues for selling solved outcomes rather than tool names.",
+  "insights": [
+    {
+      "slug": "maps-prompting",
+      "title": "Specify mission, task, constraints and output form",
+      "explanation": "MAPS structures the request around an outcome and usable output rather than a vague query.",
+      "quote": "the M stands for mission that's the first one",
+      "tags": [
+        "ai",
+        "prompting"
+      ],
+      "character_start": 2375,
+      "character_end": 2420,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "agent-oversight",
+      "title": "Monitor and reset longer agent runs",
+      "explanation": "Even his human-on-the-loop model requires inspection and intervention when context degrades.",
+      "quote": "you need to show up reset it and maybe give it some guidance",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 9734,
+      "character_end": 9794,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "outcome-not-tool",
+      "title": "Price a solved problem rather than ownership of a tool",
+      "explanation": "The carpenter analogy describes selecting the toolkit to fix a problem a customer values.",
+      "quote": "the carpenter doesn't sell the hammer the screwdriver or the power drill",
+      "tags": [
+        "pricing",
+        "value"
+      ],
+      "character_start": 12806,
+      "character_end": 12878,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "automation-economics",
+      "title": "Avoid building a costly automation for trivial savings",
+      "explanation": "The same three-R screen qualifies his enthusiasm for recurring workflows.",
+      "quote": "some people are automating they shouldn't automate",
+      "tags": [
+        "automation",
+        "cost"
+      ],
+      "character_start": 6653,
+      "character_end": 6703,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "5b17a557-0f37-4bf0-a942-0cc87f5f977b",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Agent Forge and company-revenue outcomes are self-reported, not tested. Set-and-forget language is qualified later by monitoring, resetting and guiding agents. Model self-review and critic agents do not independently establish correctness. The suggestion not to advertise AI does not resolve obligations about service representation, data or customer expectations. Pricing examples omit delivery and acquisition costs.",
+  "review_changes": "Adds maintenance and context-rot limits to the autonomy analogy, plus the distinction between customer value and guaranteed margin.",
+  "deep_review_date": "2026-11-16T20:56:09.860340+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/TWuzAO7ukk0.json",
+  "previous_draft_sha256": "e1abd82b2a702533f9859245f9d7525d0345dd6b9313b500ce80dea6fb1adb3d"
+}

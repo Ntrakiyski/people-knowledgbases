@@ -1,0 +1,50 @@
+{
+  "youtube_id": "SU3DRpmW5qM",
+  "thesis": "The selected wealth framework uses stages to distinguish investing from controlling an operating business.",
+  "summary": "The reviewed passages frame financial progress as different stages and contrast holding investments with becoming an owner. They also promote the creator's business education and multiple income streams. The hypothetical retirement outcomes are illustrations, not forecasts or verified case results. This selected review does not cover the full paycheck routine.",
+  "insights": [
+    {
+      "slug": "stage-dependent-finance",
+      "title": "Ask whether a financial decision fits the current stage",
+      "explanation": "The elevator metaphor claims different stages require different actions. It is an organizing model, not a validated universal sequence.",
+      "quote": "a completely different playbook for every floor they reach",
+      "character_start": 314,
+      "character_end": 372,
+      "tags": [
+        "personal-finance",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "investor-owner-distinction",
+      "title": "Distinguish owning investments from controlling a business",
+      "explanation": "The source emphasizes the change in responsibilities and control. It does not show that outright ownership is superior for every investor.",
+      "quote": "you've gone from an employee to an investor to an owner",
+      "character_start": 33639,
+      "character_end": 33694,
+      "tags": [
+        "ownership",
+        "investing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "income-source-concentration",
+      "title": "Inspect dependence on one income source",
+      "explanation": "The creator proposes diversification of income. The excerpt does not assess correlated risks or the workload of maintaining several sources.",
+      "quote": "build multiple income streams Never depend on one source",
+      "character_start": 33736,
+      "character_end": 33792,
+      "tags": [
+        "cash-flow",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "e6695c5e-0487-43c9-989d-25e2e674583d",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

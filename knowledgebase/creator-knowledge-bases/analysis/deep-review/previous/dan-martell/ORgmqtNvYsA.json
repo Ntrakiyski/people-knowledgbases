@@ -1,0 +1,50 @@
+{
+  "youtube_id": "ORgmqtNvYsA",
+  "thesis": "The selected AI framework reserves human direction and judgment within creative work.",
+  "summary": "Reviewed passages describe AI as a tool, humans as directors, and taste as relevant to deciding how work should be shared. The creator also argues for keeping some relationship work human. Claims that this makes a person irreplaceable are not established; the categories are his decision framework.",
+  "insights": [
+    {
+      "slug": "human-tool-responsibility",
+      "title": "Keep problem selection and judgment with the operator",
+      "explanation": "The creator explicitly distinguishes a tool's actions from the person solving the problem.",
+      "quote": "the person using it solves problems ai just does stuff",
+      "character_start": 453,
+      "character_end": 507,
+      "tags": [
+        "ai",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "human-direction",
+      "title": "Maintain direction in mixed human-AI work",
+      "explanation": "The source describes integration rather than assuming every creative or strategic task should be fully handed off.",
+      "quote": "the human has to still be the director",
+      "character_start": 8073,
+      "character_end": 8111,
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "taste-integration",
+      "title": "Identify where personal judgment is part of the task",
+      "explanation": "The source treats taste as one criterion for collaborative rather than purely automated work.",
+      "quote": "does it require taste your personal opinion",
+      "character_start": 10872,
+      "character_end": 10915,
+      "tags": [
+        "ai",
+        "creativity"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "fedcc905-9925-461b-81fb-dc72b7bf5373",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

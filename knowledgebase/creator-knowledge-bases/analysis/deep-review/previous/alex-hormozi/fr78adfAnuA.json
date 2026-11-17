@@ -1,0 +1,37 @@
+{
+  "youtube_id": "fr78adfAnuA",
+  "thesis": "The selected AI discussion combines business judgment with technical capability and customer-facing outcomes.",
+  "summary": "Reviewed passages frame AI in terms of improving cost, speed, quality, and risk for customers, and describe applying business knowledge to technical workflows. An avatar example raises questions about perceived proof. Industry anecdotes and numerical savings are not independently validated; this note does not cover every departmental example.",
+  "insights": [
+    {
+      "slug": "ai-business-judgment",
+      "title": "Combine domain judgment with technical implementation",
+      "explanation": "The source places value in applying business understanding to technology rather than technology alone.",
+      "quote": "business acumen getting overlaid on top of technical acumen",
+      "character_start": 2663,
+      "character_end": 2722,
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "customer-outcome-metrics",
+      "title": "Define AI improvement through customer outcomes",
+      "explanation": "The creator's stated objective concerns a better offer for customers. This is an aim, not evidence that every described system achieves it.",
+      "quote": "better cheaper faster and less risky for our customers",
+      "character_start": 181,
+      "character_end": 235,
+      "tags": [
+        "ai",
+        "customer-experience"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "5a7da841-158f-4c4f-af0d-55548ae3fba4",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

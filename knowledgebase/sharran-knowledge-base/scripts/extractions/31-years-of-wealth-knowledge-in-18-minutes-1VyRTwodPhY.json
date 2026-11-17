@@ -1,0 +1,251 @@
+{
+  "slug": "31-years-of-wealth-knowledge-in-18-minutes-1VyRTwodPhY",
+  "thesis": "Sharran’s wealth ladder turns earned income into an invested surplus, income-producing assets, and eventually income that supports financial choice.",
+  "summary": "Sharran distinguishes making money from retaining and deploying it. His four-rung wealth ladder begins with active income consistently exceeding expenses, which he connects to developing one marketable skill. The surplus rung uses a future-first allocation: choose an investment percentage before lifestyle spending. He then defines an asset narrowly within this framework as something that pays its owner, contrasting rental property and dividend funds with holdings that only pay when sold.\n\nHe introduces tiny income-generating assets as small positions that build investing knowledge before larger sums arrive, naming VNQ and SCHD as personal entry points. Passive income is described as prefunded by either effort or money. The final discussion encourages using personal numbers in a compounding calculator and protecting purchasing power from inflation, including his preferred TIPS example. Stories, dividend totals, growth assumptions, and claims about longevity are Sharran’s illustrations and beliefs; the practical takeaway is to locate one’s current rung and build an automatic path to the next.",
+  "tags": [
+    "wealth-ladder",
+    "investing",
+    "income",
+    "compounding",
+    "financial-freedom"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:46",
+      "note": "Introduces active income as the first rung."
+    },
+    {
+      "ts": "0:02:31",
+      "note": "Uses skill development to explain higher income."
+    },
+    {
+      "ts": "0:04:48",
+      "note": "Introduces future-first investing."
+    },
+    {
+      "ts": "0:06:47",
+      "note": "Defines assets by owner payments."
+    },
+    {
+      "ts": "0:08:22",
+      "note": "Introduces tiny income-generating assets."
+    },
+    {
+      "ts": "0:11:28",
+      "note": "Defines passive income as prefunded."
+    },
+    {
+      "ts": "0:14:39",
+      "note": "Makes compounding personal with a calculator."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "wealth-ladder",
+      "name": "Wealth ladder",
+      "one_liner": "A sequence from earned income to surplus, assets, and investment income.",
+      "explanation": "Sharran organizes financial progress into active income, surplus, assets, and passive income. Each rung has a diagnostic question: does work cover expenses, is money allocated before spending, do holdings pay the owner, and are those payments covering costs? He emphasizes that simply earning more does not complete the sequence. The framework links a marketable skill to an allocation habit and asset ownership, with the goal of choosing work rather than depending on it for survival.",
+      "tags": [
+        "wealth",
+        "income",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:46",
+          "text": "we called the wealth ladder."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "invest-first",
+        "tiny-income-generating-assets",
+        "passive-income"
+      ]
+    },
+    {
+      "slug": "skill-development",
+      "name": "Skill development",
+      "one_liner": "Develop a marketable capability to improve earned income.",
+      "explanation": "Sharran recommends identifying one profitable skill that can be developed over the next ninety days instead of assuming a completely different career is necessary. His roommate’s project-management certificate is offered as a personal anecdote of a rapid income increase after family costs rose. The figures do not guarantee similar results. Within the wealth ladder, skill development solves the first problem of income covering expenses; it must then be followed by retaining and investing the surplus.",
+      "tags": [
+        "skills",
+        "career",
+        "income"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:48",
+          "text": "Nothing, and I mean absolutely nothing, is more important in creating more income than rapid skill development."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "wealth-ladder"
+      ]
+    },
+    {
+      "slug": "invest-first",
+      "name": "Invest first",
+      "one_liner": "Route a chosen share of income into future assets before allocating lifestyle spending.",
+      "explanation": "Sharran contrasts paying expenses first with the Profit First approach, then argues for paying the future self even before current profit. His example sets aside twenty percent of an eight-thousand-dollar income for investment and lets the remainder constrain lifestyle spending. The percentage is illustrative, not a universal requirement. The main mechanism is order of operations: automatic allocation creates investable surplus rather than hoping unused money remains after the month’s spending decisions.",
+      "tags": [
+        "allocation",
+        "saving",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:05",
+          "text": "we have to pay our future selves first"
+        }
+      ],
+      "related": [
+        "wealth-ladder",
+        "lifestyle-inflation"
+      ]
+    },
+    {
+      "slug": "tiny-income-generating-assets",
+      "name": "Tiny income-generating assets",
+      "one_liner": "Small income-producing holdings provide investing practice and can accumulate over time.",
+      "explanation": "Sharran calls TIGA the bunny hill of investing: begin with a modest monthly amount or existing lump sum, observe how income arrives, and learn before committing larger capital. He presents real-estate and dividend-stock funds as his own entry points and says small assets can be stacked rather than abandoned after becoming wealthier. The purpose is both financial and educational, building investing infrastructure before substantial money arrives instead of waiting until one can buy an entire property or business.",
+      "tags": [
+        "investing",
+        "learning",
+        "income"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:22",
+          "text": "TIGA, tiny [music] income generating assets."
+        }
+      ],
+      "related": [
+        "cash-flow-investing",
+        "wealth-ladder"
+      ]
+    },
+    {
+      "slug": "passive-income",
+      "name": "Passive income",
+      "one_liner": "Income can be prefunded through earlier work or committed capital.",
+      "explanation": "Sharran defines passive income as prefunded, with either effort or money supplied first. Effort examples include an affiliate stream or a product earning royalties; capital examples include dividend stocks and rental property. This distinguishes later payments from immediate hourly labor without implying that no work or risk exists. His wealth-ladder endgame is for investment income to increasingly cover expenses, giving a person freedom to work because they want to rather than because every bill requires another hour.",
+      "tags": [
+        "income",
+        "assets",
+        "financial-freedom"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:28",
+          "text": "Passive income is prefunded income."
+        }
+      ],
+      "related": [
+        "wealth-ladder",
+        "financial-freedom"
+      ]
+    },
+    {
+      "slug": "compound-growth",
+      "name": "Compound growth",
+      "one_liner": "Personal contributions, time, and reinvested returns shape long-term capital growth.",
+      "explanation": "Sharran says generic compounding charts became meaningful only after he entered his own age, savings, and monthly contributions into a calculator. He recommends repeating that exercise with explicit return assumptions. His encouragement that older investors can intercept the middle of the curve relies on potentially larger contributions, and does not literally restore forgone returns. Longevity and inflation appear as reasons to begin now, while the assumed seven-to-ten-percent return is an illustration rather than a forecast.",
+      "tags": [
+        "compounding",
+        "investing",
+        "time"
+      ],
+      "quotes": [
+        {
+          "ts": "0:14:39",
+          "text": "you should find a compounding calculator online"
+        }
+      ],
+      "related": [
+        "invest-first",
+        "inflation-protection"
+      ]
+    },
+    {
+      "slug": "inflation-protection",
+      "name": "Inflation protection",
+      "one_liner": "Evaluate investment results in purchasing power as well as nominal dollars.",
+      "explanation": "Sharran describes inflation as eroding money left idle and argues that investment returns should be considered against rising prices. He names Treasury inflation-protected securities as his preferred example of a holding whose principal adjusts with inflation, while also mentioning other income-producing investments. His simplified description is not a complete account of market-price risk or tax treatment. The role of the concept is to explain why preserving a cash balance does not necessarily preserve its future buying power.",
+      "tags": [
+        "inflation",
+        "investing",
+        "purchasing-power"
+      ],
+      "quotes": [
+        {
+          "ts": "0:17:01",
+          "text": "Your return must beat inflation."
+        }
+      ],
+      "related": [
+        "compound-growth",
+        "risk-management"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "vnq",
+      "name": "Vanguard Real Estate ETF (VNQ)",
+      "subtype": "tool",
+      "one_liner": "A real-estate fund Sharran names as an accessible starting investment.",
+      "explanation": "Sharran says VNQ gave him exposure to real estate without buying an entire property. It illustrates the tiny-income-generating-asset approach: begin with accessible holdings, learn how ownership income works, and expand gradually. This is his personal example rather than a recommendation tailored to a viewer.",
+      "quotes": [
+        {
+          "ts": "0:10:09",
+          "text": "I liked [music] VNQ"
+        }
+      ],
+      "resource": "https://investor.vanguard.com/investment-products/etfs/profile/vnq"
+    },
+    {
+      "slug": "schd",
+      "name": "Schwab U.S. Dividend Equity ETF (SCHD)",
+      "subtype": "tool",
+      "one_liner": "A dividend fund illustrating small-scale business ownership and cash flow.",
+      "explanation": "Sharran says SCHD was a TIGA entry point into dividend-paying US companies. He treats its distributions as a way to experience investment income and build knowledge before larger allocations. The video later repeats his preference with an inconsistent transcript rendering of the ticker.",
+      "quotes": [
+        {
+          "ts": "0:10:09",
+          "text": "I also invested in SCHD"
+        }
+      ],
+      "resource": "https://www.schwabassetmanagement.com/products/schd"
+    },
+    {
+      "slug": "tips",
+      "name": "Treasury Inflation-Protected Securities (TIPS)",
+      "subtype": "tool",
+      "one_liner": "US Treasury securities used as an example of inflation protection.",
+      "explanation": "Sharran describes TIPS as government-backed securities that adjust with CPI and uses them to explain purchasing-power protection. His account is simplified and does not comprehensively cover holding-period returns, taxes, or market pricing.",
+      "quotes": [
+        {
+          "ts": "0:16:30",
+          "text": "TIPS, which is Treasury inflation protected securities."
+        }
+      ],
+      "resource": "https://www.treasurydirect.gov/marketable-securities/tips/"
+    },
+    {
+      "slug": "profit-first",
+      "name": "Profit First",
+      "subtype": "tool",
+      "one_liner": "The allocation method Sharran contrasts with his future-first investing approach.",
+      "explanation": "Sharran credits Profit First with reversing the usual income-minus-expenses equation to prioritize profit. He calls that only half the solution because current profit must also fund assets that can support the future self. The book serves as a substantive starting point for his proposed change in allocation order.",
+      "quotes": [
+        {
+          "ts": "0:04:33",
+          "text": "The book profit first actually introduces this idea"
+        }
+      ],
+      "resource": "https://profitfirstbook.com/"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "youtube_id": "qZJS1yOaw_U",
+  "thesis": "A collection of money aphorisms favors outcome pricing, practical validation, focused operations, and founder-independent assets.",
+  "summary": "Martell presents twenty-eight lessons as advice to his younger self. They include charging for outcomes, valuing time, monitoring business metrics, faster action, sales and relationships, investing in skills, restraining needs, simplifying an offering, preselling, developing people, and reducing founder dependence. Some lessons distinguish urgent action from patient results and personal worth from achievement. Others make sweeping claims that beliefs determine earnings or that giving brings more money. The format is motivational compression, with a scorecard promotion and coaching context, rather than a coherent financial plan or tested causal account of wealth.",
+  "insights": [
+    {
+      "slug": "outcome-pricing",
+      "title": "Consider pricing a defined result rather than hours",
+      "explanation": "Martell contrasts bounded time capacity with potentially valuable outcomes. The source does not establish that all work can be priced this way or that delivery risk disappears.",
+      "quote": "never charge for your time always charge for the outcome time has a cap outcome doesn't",
+      "tags": [
+        "sales",
+        "operations"
+      ],
+      "character_start": 251,
+      "character_end": 338,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "management-inspection",
+      "title": "Inspect the metrics behind an expectation",
+      "explanation": "The recommended response to a financial gap is to examine what is happening, not assume a desired outcome will occur. The scorecard is a promoted tool, not a validated diagnostic supplied here.",
+      "quote": "an expectation of making money without an inspection is just hope",
+      "tags": [
+        "operations",
+        "cash-flow"
+      ],
+      "character_start": 2006,
+      "character_end": 2071,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "wealth-and-needs",
+      "title": "Rising needs can absorb rising income",
+      "explanation": "The speaker defines wealth relationally, contrasting resources with needs. His examples concern spending discipline rather than a formal net-worth measure.",
+      "quote": "if you keep increasing what you need based on how much you have then you'll never be rich",
+      "tags": [
+        "cash-flow",
+        "life-design"
+      ],
+      "character_start": 4238,
+      "character_end": 4327,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "presale-validation",
+      "title": "Test whether someone will pay before building extensively",
+      "explanation": "Requesting payment is presented as a stronger signal than enthusiasm. The advice still requires honest scope, terms, and capacity to deliver, which are not developed in the video.",
+      "quote": "the biggest risk to your life is building something that nobody wants",
+      "tags": [
+        "sales",
+        "risk"
+      ],
+      "character_start": 6982,
+      "character_end": 7051,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "simplicity-and-focus",
+      "title": "Reduce competing offerings before scaling complexity",
+      "explanation": "The speaker warns about trying to serve too many people in too many ways. The point qualifies his separate encouragement to pursue very large goals.",
+      "quote": "it's the ones that say we do this really well and we do nothing else",
+      "tags": [
+        "strategy",
+        "operations"
+      ],
+      "character_start": 6440,
+      "character_end": 6508,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "founder-independent-value",
+      "title": "Build capabilities that survive the founder's absence",
+      "explanation": "Martell distinguishes self-employment from a transferable operating asset and links that transition to developing other people. The definition is his framework rather than a legal classification.",
+      "quote": "you can't be the reason the thing runs build the people the people build the business",
+      "tags": [
+        "leadership",
+        "ownership"
+      ],
+      "character_start": 7775,
+      "character_end": 7860,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "action-and-patience",
+      "title": "Separate speed of execution from speed of results",
+      "explanation": "The aphorism recommends beginning promptly without demanding immediate payoff. It does not supply criteria for when persistence becomes wasteful.",
+      "quote": "be patient with results but wildly impatient with action",
+      "tags": [
+        "learning",
+        "productivity"
+      ],
+      "character_start": 4410,
+      "character_end": 4466,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "03ac5870-0ebd-47f7-92a0-456ef09e1b87",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Revenue and biography are self-reports. Outcome pricing requires defined scope and deliverable value; it is not always feasible. Speed can conflict with diligence, investing in oneself can fail, and beliefs alone do not set market income. The rule that the next person to speak after a sales ask loses is a rhetorical sales maxim, not a universal communication rule.",
+  "review_changes": "Adds presale validation, inspection, simplicity, transferable business value, and tensions within the aphorisms instead of reducing the source to confidence or time valuation.",
+  "deep_review_date": "2026-11-16T19:25:50.157343+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/qZJS1yOaw_U.json",
+  "previous_draft_sha256": "db3ef6113efd78c5481b9ea246a6382b74b0ce3a94fb3a9335d35a5d3ea5f03e"
+}

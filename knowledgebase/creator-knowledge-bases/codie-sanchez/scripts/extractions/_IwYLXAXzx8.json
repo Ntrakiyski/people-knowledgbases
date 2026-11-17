@@ -1,0 +1,67 @@
+{
+  "youtube_id": "_IwYLXAXzx8",
+  "thesis": "Codie Sanchez details three fundamental business trajectories—scale, lifestyle, and exit—emphasizing that alignment between personal goals and chosen business model dictates long-term success.",
+  "summary": "Selecting an appropriate business model requires founders to align personal objectives with specific operational constraints. The scale path requires long-term capital reinvestment and intense personal sacrifice to build a large enterprise. Conversely, the lifestyle path prioritizes immediate cash flow and personal autonomy, allowing owners to extract profits directly rather than reinvesting heavily. The exit path focuses on optimizing discretionary earnings, recurring revenue, and management independence specifically to maximize valuation upon selling. Founders who confuse these models risk strategic misalignment, operational friction, and unfulfilled financial expectations.",
+  "insights": [
+    {
+      "slug": "unusual-execution",
+      "title": "Outsized financial results require non traditional execution",
+      "explanation": "Codie Sanchez asserts that building a massive enterprise requires founders to embrace extreme dedication and non-standard work habits. Achieving extraordinary outcome levels demands willingness to execute tasks that conventional operators avoid.",
+      "quote": "you don't get outsized results doing what everybody else does you get them by doing things no one else will",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "operations",
+        "productivity",
+        "leadership"
+      ],
+      "character_start": 775,
+      "character_end": 882
+    },
+    {
+      "slug": "reinvestment-focus",
+      "title": "Scaling businesses demands continuous profit reinvestment",
+      "explanation": "Codie Sanchez explains that scaling an enterprise requires reinvesting nearly all generated profits back into infrastructure, technology, and talent. Founders seeking maximum personal income early should avoid scale models.",
+      "quote": "reinvest nearly everything in the business to grow it as fast as humanly possible",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "investing",
+        "cash-flow",
+        "operations"
+      ],
+      "character_start": 6892,
+      "character_end": 6973
+    },
+    {
+      "slug": "pricing-leverage",
+      "title": "Small price adjustments generate substantial profit gains",
+      "explanation": "Codie Sanchez highlights that modest price increases significantly boost overall net profitability. Adjusting pricing models upward often yields higher financial returns than attempting to cut operational expenses.",
+      "quote": "a 1% increase in price will give you an 11% increase in your profit",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "cash-flow",
+        "marketing"
+      ],
+      "character_start": 9615,
+      "character_end": 9682
+    },
+    {
+      "slug": "lifestyle-alignment",
+      "title": "Lifestyle businesses prioritize personal satisfaction and freedom",
+      "explanation": "Codie Sanchez notes that lifestyle businesses should be evaluated by owner happiness and personal time autonomy rather than market share expansion. Maintaining clear boundaries prevents lifestyle operations from incurring unnecessary complexity.",
+      "quote": "the goal of this business is really one question are you happy and if not then this business probably isn't for you",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "life-design",
+        "ownership",
+        "cash-flow"
+      ],
+      "character_start": 8751,
+      "character_end": 8866
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "a0785284-2e4b-4b91-98fa-369a2a36edd6",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

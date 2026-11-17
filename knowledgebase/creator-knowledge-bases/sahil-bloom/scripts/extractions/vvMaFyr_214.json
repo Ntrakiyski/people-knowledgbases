@@ -1,0 +1,68 @@
+{
+  "youtube_id": "vvMaFyr_214",
+  "thesis": "Public achievement can coexist with insecurity and dependence on external approval.",
+  "summary": "The London launch vlog includes interviews, exercise, reader testimony and the reported bestseller announcement. Bloom describes intense launch anxiety and imposter feelings despite a billboard and a sold-out event. He invokes enoughness while strongly wanting the accolade. Fertility and parenting reflections illustrate gratitude for an earlier wish; his mother describes continued parental connection and urges him to absorb readers’ positive impact.",
+  "insights": [
+    {
+      "slug": "success-and-insecurity",
+      "title": "Do not infer inner wellbeing from public milestones",
+      "explanation": "He reports panic during a launch that looked successful externally.",
+      "quote": "the reality of these things is very different from what you see on the surface",
+      "tags": [
+        "success",
+        "wellbeing"
+      ],
+      "character_start": 8729,
+      "character_end": 8807,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "accolade-enoughness",
+      "title": "An award cannot settle personal enoughness",
+      "explanation": "He quotes Cool Runnings while admitting how much he still wants the bestseller distinction.",
+      "quote": "if you're not enough without it you'll never be enough with it",
+      "tags": [
+        "status",
+        "enough"
+      ],
+      "character_start": 11732,
+      "character_end": 11794,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "gratitude-reframe",
+      "title": "Remember what an ordinary frustration once represented",
+      "explanation": "His parenting example contrasts an interrupted work session with his prior wish for a healthy child.",
+      "quote": "the things we pray for become the things that we complain about",
+      "tags": [
+        "family",
+        "gratitude"
+      ],
+      "character_start": 16676,
+      "character_end": 16739,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-investment",
+      "title": "Prioritize people alongside business ideas",
+      "explanation": "He describes his relationships as preceding some business opportunities; this is personal causal interpretation.",
+      "quote": "it wasn't about identifying businesses it was about the right people",
+      "tags": [
+        "relationships",
+        "business"
+      ],
+      "character_start": 10115,
+      "character_end": 10183,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "95e883c7-c7ff-45da-82cf-c031ba5935e8",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Bestseller ranks, sales, reader transformations and health/biographical stories are reported, not independently verified. Moving before pregnancy is a sequence, not a medical cause. Mother and audience testimony are separate voices. Severe anxiety is self-description, not a diagnosis or universal requirement for growth.",
+  "review_changes": "Preserves the tension between the enoughness teaching and status pursuit, and separates family/reader testimony from the creator’s own advice.",
+  "deep_review_date": "2026-11-16T20:50:23.344970+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/vvMaFyr_214.json",
+  "previous_draft_sha256": "ae0b6f01ae3f226c7399a10776320b45b7ab3aa362a150c2f00e1e1e287f5e0f"
+}

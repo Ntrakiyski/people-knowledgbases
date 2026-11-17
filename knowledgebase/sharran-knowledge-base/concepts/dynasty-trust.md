@@ -1,0 +1,35 @@
+---
+type: "concept"
+title: "Dynasty trust"
+description: "A multigenerational asset-holding structure designed to preserve family capital and distribute benefits."
+tags: ["estate-planning", "generational-wealth", "governance"]
+videos: ["in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U"]
+created: "2026-11-16"
+updated: "2026-11-16"
+---
+
+# Dynasty trust
+
+> The first system is the dynasty trust.
+
+[In 18 Minutes, You'll Understand Generational Wealth](../sources/in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U.md), 0:00:21.
+
+Sharran presents a dynasty trust as a way to make wealth persist as an organized asset pool rather than repeatedly pass through direct personal ownership. His concern is that every generational transfer can interrupt compounding through taxes, disputes, or exposure associated with individual beneficiaries.
+
+He compares three patterns. In the first, each generation leaves assets directly to the next, with repeated transfer costs in his account. In the second, generation-skipping planning reduces some of those transitions. In the third, assets remain in a continuing trust designed to provide benefits across generations. He uses the Vanderbilts and Rockefellers as contrasting stories, attributing their different outcomes primarily to structure. Those historical and legal explanations are his simplified interpretation, not independently established causes.
+
+The trust’s claimed benefits have different roles. Distributions provide current income, lending access can support family investment, and continued collective holding aims to preserve the principal’s long-term growth. A family member can therefore benefit from assets without individually receiving and controlling the entire underlying pool.
+
+The trust is only one part of his generational system. Holding companies organize control, written family rules define acceptable uses, governance bodies help enforce those rules, and liquidity arrangements aim to avoid forced sales. Training heirs addresses the separate question of whether beneficiaries can act as responsible stewards.
+
+The source’s statements about transfer taxes, creditor protection, and continuing trust benefits are US-oriented claims that depend on the actual structure and circumstances. The durable planning idea is to examine how ownership will function over several generations before making distributions feel personal and immediate. A legal container is presented as supporting patient ownership; it does not independently establish good investment management or harmonious family decisions.
+
+## Related
+
+- [Compound Growth](compound-growth.md): Returns can earn further returns as an invested balance grows over time.
+- [Family Governance](family-governance.md): Coordinate family ownership, control, distributions, and transfers through rules established before conflict.
+- [Whole-life policy borrowing](whole-life-banking.md): Using a permanent insurance policy’s accumulated cash value as collateral for loans.
+
+## Sources
+
+- [In 18 Minutes, You'll Understand Generational Wealth](../sources/in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U.md) - "[0:00:21] The first system is the dynasty trust."

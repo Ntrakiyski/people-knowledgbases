@@ -1,0 +1,79 @@
+{
+  "youtube_id": "MvDvncmy2dA",
+  "thesis": "A reported endorsement story illustrates public work, preparation, an explicit ask, and sustained follow-through.",
+  "summary": "Bloom recounts an old public thread being shared by Bill Ackman, an invitation leading to lunch, continued contact, and eventually a public endorsement of his finished book. He credits the endorsement with a sharp sales-ranking change. The four-step interpretation is to increase exposure to opportunities, do the underlying work, make an ask, and follow through over time. His record-keeping and relevant updates are concrete relationship practices. The account is retrospective and selected for success: it does not demonstrate that luck can be manufactured reliably or that similar outreach generally produces influential endorsements.",
+  "insights": [
+    {
+      "slug": "opportunity-surface-area",
+      "title": "Make work visible enough for others to encounter",
+      "explanation": "The initial public thread supplies the story's opening. Publishing can create encounters but does not guarantee a high-profile reader.",
+      "quote": "none of this would have happened if I hadn't hit send on the original tweet thread",
+      "tags": [
+        "marketing",
+        "communication"
+      ],
+      "character_start": 3275,
+      "character_end": 3357,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "prepared-opportunity",
+      "title": "Prepare the work before seeking amplification",
+      "explanation": "Bloom emphasizes ongoing writing between the original thread and endorsement. The lesson does not require adopting his claimed absence of breaks.",
+      "quote": "I created a product that was worthy of those words",
+      "tags": [
+        "learning",
+        "operations"
+      ],
+      "character_start": 4265,
+      "character_end": 4315,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "explicit-ask",
+      "title": "Respond to an opening with a clear invitation",
+      "explanation": "The story moves from a public reply to private coordination. It illustrates an ask, not entitlement to another person's time.",
+      "quote": "a public reply inviting him to get together in New York City for a lunch on me",
+      "tags": [
+        "communication"
+      ],
+      "character_start": 1124,
+      "character_end": 1202,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-follow-through",
+      "title": "Record and honor future follow-up commitments",
+      "explanation": "The pocket-note reminder and later delivery are concrete parts of the account. They make the framework more specific than simply meeting influential people.",
+      "quote": "make a note of the things you need to remember to follow up on then actually follow up on them",
+      "tags": [
+        "communication",
+        "productivity"
+      ],
+      "character_start": 5549,
+      "character_end": 5643,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "useful-contact",
+      "title": "Stay in touch with relevant material rather than only requests",
+      "explanation": "The suggested updates include work progress and items connected to the original conversation. The endorsement remained the other person's choice.",
+      "quote": "send the person an article book or podcast they might find valuable",
+      "tags": [
+        "communication"
+      ],
+      "character_start": 5236,
+      "character_end": 5303,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "77e6446b-1e31-4a00-8464-dd93a7c16fda",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The investor's name is rendered inconsistently in the transcript. Dates, views, rankings, and causal sales claims remain self-reported. No-vacation/no-sick-day statements are autobiographical claims, not a sustainable work requirement. A declined request may have costs, so the worst-case-is-only-no assertion is incomplete.",
+  "review_changes": "Adds the multi-year sequence, record-keeping, ongoing useful contact, and the distinction between controllable preparation and an uncontrollable endorsement.",
+  "deep_review_date": "2026-11-16T19:27:04.645876+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/MvDvncmy2dA.json",
+  "previous_draft_sha256": "ed4fab9ed12d2dcc20d09f124040c36b447297d0cd2499091d64e3b363377895"
+}

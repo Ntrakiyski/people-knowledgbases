@@ -1,0 +1,50 @@
+{
+  "youtube_id": "k5-57282taI",
+  "thesis": "The trust framework connects vulnerability, restraint, and the relationship's longer-term value.",
+  "summary": "Reviewed passages define trust as allowing potential harm and argue that shared context permits deeper relationships. The creator warns against using a disclosed vulnerability to win a short-term argument. These are his conceptual model and examples, not a validated psychological definition or a requirement to disclose sensitive information.",
+  "insights": [
+    {
+      "slug": "trust-vulnerability",
+      "title": "Recognize the exposure involved in trusting",
+      "explanation": "The source frames trust around allowing another person the capacity to hurt or disappoint. Boundaries remain compatible with that observation.",
+      "quote": "we define trust as allowing yourself to be punishable",
+      "character_start": 4306,
+      "character_end": 4359,
+      "tags": [
+        "trust",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "long-term-relationship-value",
+      "title": "Compare short-term victory with damage to the relationship",
+      "explanation": "The argument example makes the cost of using vulnerable information explicit.",
+      "quote": "winning this argument in the short term is not worth the cost of losing the relationship",
+      "character_start": 5454,
+      "character_end": 5542,
+      "tags": [
+        "communication",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "protected-disclosure",
+      "title": "Do not weaponize what someone disclosed",
+      "explanation": "The source links restraint with willingness to share more context. This is a relationship principle rather than proof of a universal influence mechanism.",
+      "quote": "you haven't used anything that someone else has said to hurt them",
+      "character_start": 8595,
+      "character_end": 8660,
+      "tags": [
+        "trust",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "244ea574-71fd-4054-bcee-eb82f9138fef",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

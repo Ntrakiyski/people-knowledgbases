@@ -1,0 +1,409 @@
+{
+  "channel": "https://www.youtube.com/channel/UCzpl_gT1bVB1iNZl9yQbWuA",
+  "total_videos": 40,
+  "transcripts_fetched": 40,
+  "videos": [
+    {
+      "youtube_id": "aetr9LovwE4",
+      "title": "Once I Hit These Money Milestones, I Became Financially Free",
+      "url": "https://www.youtube.com/watch?v=aetr9LovwE4",
+      "slug": "once-i-hit-these-money-milestones-i-became-financially-free-aetr9LovwE4",
+      "duration_seconds": 983,
+      "published": "",
+      "recency_rank": 1,
+      "sha256": "575f84e6c184d4071445339f026fc162d255205af64708946e76d146730cf6c1"
+    },
+    {
+      "youtube_id": "LSZU0jeZnXo",
+      "title": "You'll Become Debt Free, Just Give Me 11 Minutes",
+      "url": "https://www.youtube.com/watch?v=LSZU0jeZnXo",
+      "slug": "you-ll-become-debt-free-just-give-me-11-minutes-LSZU0jeZnXo",
+      "duration_seconds": 663,
+      "published": "",
+      "recency_rank": 2,
+      "sha256": "2c3c50144b0a71af3cd6197a12e8f1345631f40b76d13ef09ceb6fa14c37b374"
+    },
+    {
+      "youtube_id": "tzUvZijbpjY",
+      "title": "This Warren Buffett Rule Can Make You Rich (Copy THIS)",
+      "url": "https://www.youtube.com/watch?v=tzUvZijbpjY",
+      "slug": "this-warren-buffett-rule-can-make-you-rich-copy-this-tzUvZijbpjY",
+      "duration_seconds": 713,
+      "published": "",
+      "recency_rank": 3,
+      "sha256": "58f337ac91722dbf5b7eaf269d8559e2b86667366e8600da7f90959024ef7aa3"
+    },
+    {
+      "youtube_id": "V_SpICYLUo4",
+      "title": "It's Boring, But This Is The BEST Way to Build Wealth in 2026",
+      "url": "https://www.youtube.com/watch?v=V_SpICYLUo4",
+      "slug": "it-s-boring-but-this-is-the-best-way-to-build-wealth-in-2026-V_SpICYLUo4",
+      "duration_seconds": 859,
+      "published": "",
+      "recency_rank": 4,
+      "sha256": "4ae69a01a23258c6299d1f36cf9c18016cbb1e85379b2b6d27fe9ecacd7c7f22"
+    },
+    {
+      "youtube_id": "5A7uHZd1aGw",
+      "title": "Starting From $1000 in 2026? Here’s Exactly How I’d Invest.",
+      "url": "https://www.youtube.com/watch?v=5A7uHZd1aGw",
+      "slug": "starting-from-1000-in-2026-here-s-exactly-how-i-d-invest-5A7uHZd1aGw",
+      "duration_seconds": 861,
+      "published": "",
+      "recency_rank": 5,
+      "sha256": "5b83549227cef5f4ebc38d4249b0c8dbe4fa60872fa7fdca43a74a2cb5cbcd85"
+    },
+    {
+      "youtube_id": "o3L2xWA4hF0",
+      "title": "It Took Me 31 Years to Learn This About Getting Rich",
+      "url": "https://www.youtube.com/watch?v=o3L2xWA4hF0",
+      "slug": "it-took-me-31-years-to-learn-this-about-getting-rich-o3L2xWA4hF0",
+      "duration_seconds": 872,
+      "published": "",
+      "recency_rank": 6,
+      "sha256": "931c2acb7139031b4b4cfdf6ff0cdbcc8c9bf660fc71be8be8369d44bccd132d"
+    },
+    {
+      "youtube_id": "XoWE1QPMFek",
+      "title": "Once I Understood This About Money, My Life Changed",
+      "url": "https://www.youtube.com/watch?v=XoWE1QPMFek",
+      "slug": "once-i-understood-this-about-money-my-life-changed-XoWE1QPMFek",
+      "duration_seconds": 1220,
+      "published": "",
+      "recency_rank": 7,
+      "sha256": "97078906d4299c603eb7ce599f28eabb5842872bfc0b511cfd1f17192a31e7e9"
+    },
+    {
+      "youtube_id": "si8ISgvTczc",
+      "title": "If You Master Bonds, You Master Money",
+      "url": "https://www.youtube.com/watch?v=si8ISgvTczc",
+      "slug": "if-you-master-bonds-you-master-money-si8ISgvTczc",
+      "duration_seconds": 998,
+      "published": "",
+      "recency_rank": 8,
+      "sha256": "d8e699e42b7ece667dab5b026040a2547d5b13f7f1889245f53738f33ef16705"
+    },
+    {
+      "youtube_id": "7OSLclpwAkI",
+      "title": "Exactly How I Built a $3B+ Business in My 30s (3 Pillars)",
+      "url": "https://www.youtube.com/watch?v=7OSLclpwAkI",
+      "slug": "exactly-how-i-built-a-3b-business-in-my-30s-3-pillars-7OSLclpwAkI",
+      "duration_seconds": 1126,
+      "published": "",
+      "recency_rank": 9,
+      "sha256": "1a04e2ecbe3adf7c55f64a96f36ac55ca3a3133ae91af0186b65179ea3a49d10"
+    },
+    {
+      "youtube_id": "tT_Gp5e8vbo",
+      "title": "I'm 46. If You Want to Get Rich With Investing, Watch This:",
+      "url": "https://www.youtube.com/watch?v=tT_Gp5e8vbo",
+      "slug": "i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo",
+      "duration_seconds": 1376,
+      "published": "",
+      "recency_rank": 10,
+      "sha256": "e0925ea60caa13f9cfaa9b0460c2c11d3cd0ca7be44c934db7e9045321e86ddd"
+    },
+    {
+      "youtube_id": "cLyDlUG55mk",
+      "title": "The Most Underrated Skill That Could Make You Rich",
+      "url": "https://www.youtube.com/watch?v=cLyDlUG55mk",
+      "slug": "the-most-underrated-skill-that-could-make-you-rich-cLyDlUG55mk",
+      "duration_seconds": 793,
+      "published": "",
+      "recency_rank": 11,
+      "sha256": "ecaa9010e97233e738ac0d27f908e51d46aec557980a4ad7729f42cbcb99cfac"
+    },
+    {
+      "youtube_id": "qi4gqXD4t-g",
+      "title": "Passive Income Is Simple, Once You Have a Plan Like THIS:",
+      "url": "https://www.youtube.com/watch?v=qi4gqXD4t-g",
+      "slug": "passive-income-is-simple-once-you-have-a-plan-like-this-qi4gqXD4t-g",
+      "duration_seconds": 515,
+      "published": "",
+      "recency_rank": 12,
+      "sha256": "07403b9131c2205a0e8903c44a7d56389b9e2f7ab65c1355b7b12697f047f93c"
+    },
+    {
+      "youtube_id": "e7jNOBjblwk",
+      "title": "After 31 Years of Investing, THIS Is My Exact System (Copy Me)",
+      "url": "https://www.youtube.com/watch?v=e7jNOBjblwk",
+      "slug": "after-31-years-of-investing-this-is-my-exact-system-copy-me-e7jNOBjblwk",
+      "duration_seconds": 1282,
+      "published": "",
+      "recency_rank": 13,
+      "sha256": "e5f84ba424be5c074e8f866d6061c92854e3616341bc0554d6d917b9d547268a"
+    },
+    {
+      "youtube_id": "DLubmS-kX4Q",
+      "title": "It’s Brutal, But If You Want to Get Rich You Need to Watch This",
+      "url": "https://www.youtube.com/watch?v=DLubmS-kX4Q",
+      "slug": "it-s-brutal-but-if-you-want-to-get-rich-you-need-to-watch-this-DLubmS-kX4Q",
+      "duration_seconds": 687,
+      "published": "",
+      "recency_rank": 14,
+      "sha256": "b0084c52d8a853d39d84089343532a649ed01bcf0a8f1044e769128e51509f9b"
+    },
+    {
+      "youtube_id": "YHigza2n5wU",
+      "title": "Pokémon’s $140B Deal Will Make You Rich (Here’s How)",
+      "url": "https://www.youtube.com/watch?v=YHigza2n5wU",
+      "slug": "pok-mon-s-140b-deal-will-make-you-rich-here-s-how-YHigza2n5wU",
+      "duration_seconds": 1535,
+      "published": "",
+      "recency_rank": 15,
+      "sha256": "866ce4aa9668d355a42439fbb43f2583d70820fb990e745980cee7a04a8b6624"
+    },
+    {
+      "youtube_id": "4aYxXWC5DGQ",
+      "title": "Once I Learned This at Goldman Sachs, My Life Changed",
+      "url": "https://www.youtube.com/watch?v=4aYxXWC5DGQ",
+      "slug": "once-i-learned-this-at-goldman-sachs-my-life-changed-4aYxXWC5DGQ",
+      "duration_seconds": 680,
+      "published": "",
+      "recency_rank": 16,
+      "sha256": "12abbb072e27a81b5a1704237a4390bc2d85337f50b074109a7986d535ed8020"
+    },
+    {
+      "youtube_id": "wXhUtIvnr9U",
+      "title": "If You Only Watch One Business Video, Make It This",
+      "url": "https://www.youtube.com/watch?v=wXhUtIvnr9U",
+      "slug": "if-you-only-watch-one-business-video-make-it-this-wXhUtIvnr9U",
+      "duration_seconds": 1533,
+      "published": "",
+      "recency_rank": 17,
+      "sha256": "c09d2e65031f7429eb33582004e8783f1f273f3b04bb1fd30cb41c56600f892b"
+    },
+    {
+      "youtube_id": "rtJt16ty4xI",
+      "title": "This Goldman Sachs Investing Formula Makes Millionaires",
+      "url": "https://www.youtube.com/watch?v=rtJt16ty4xI",
+      "slug": "this-goldman-sachs-investing-formula-makes-millionaires-rtJt16ty4xI",
+      "duration_seconds": 1195,
+      "published": "",
+      "recency_rank": 18,
+      "sha256": "bdae06ec24493615464047908f4c9d7816394a38371fafaf3e06dfa972f20c87"
+    },
+    {
+      "youtube_id": "Bd7nAa1jckw",
+      "title": "The Louisiana Purchase Tactic to Buy a Business for $0",
+      "url": "https://www.youtube.com/watch?v=Bd7nAa1jckw",
+      "slug": "the-louisiana-purchase-tactic-to-buy-a-business-for-0-Bd7nAa1jckw",
+      "duration_seconds": 1299,
+      "published": "",
+      "recency_rank": 19,
+      "sha256": "7a91fce3b18b02a8cb9400d586850fa7aea2ea445e38d7230897fbdbe5033a45"
+    },
+    {
+      "youtube_id": "yU1YFrzeHSc",
+      "title": "It Took Me 30 Years To Learn What I’ll Tell You In 19 Minutes",
+      "url": "https://www.youtube.com/watch?v=yU1YFrzeHSc",
+      "slug": "it-took-me-30-years-to-learn-what-i-ll-tell-you-in-19-minutes-yU1YFrzeHSc",
+      "duration_seconds": 1146,
+      "published": "",
+      "recency_rank": 20,
+      "sha256": "5670620b93fcc8f477800dec55f05bb467bed05da7fe7e6170587ad5a7a7f09f"
+    },
+    {
+      "youtube_id": "1VyRTwodPhY",
+      "title": "31 Years of Wealth Knowledge in 18 Minutes",
+      "url": "https://www.youtube.com/watch?v=1VyRTwodPhY",
+      "slug": "31-years-of-wealth-knowledge-in-18-minutes-1VyRTwodPhY",
+      "duration_seconds": 1104,
+      "published": "",
+      "recency_rank": 21,
+      "sha256": "aea608d631b23ec3007703273998ad792d5b39715fc1a5480d6acfe1d9961a53"
+    },
+    {
+      "youtube_id": "_IcxFpixAHA",
+      "title": "I’m 46. Here Are 5 Assets I Wish I Invested In 30 Years Ago:",
+      "url": "https://www.youtube.com/watch?v=_IcxFpixAHA",
+      "slug": "i-m-46-here-are-5-assets-i-wish-i-invested-in-30-years-ago-_IcxFpixAHA",
+      "duration_seconds": 810,
+      "published": "",
+      "recency_rank": 22,
+      "sha256": "48c1c3105189400f7f90ea2e2658f764b11da60bcf8d235fca6a20635760cce6"
+    },
+    {
+      "youtube_id": "sv3I4Wa1UhM",
+      "title": "ChatGPT's Deal Can Make You a Millionaire (Here's How)",
+      "url": "https://www.youtube.com/watch?v=sv3I4Wa1UhM",
+      "slug": "chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM",
+      "duration_seconds": 1325,
+      "published": "",
+      "recency_rank": 23,
+      "sha256": "37f4e18a691150657d655bd61b7a8ed1cf4bd44bdcce2cbdf3730f3f4bc7e70b"
+    },
+    {
+      "youtube_id": "6TpYYgMCc3E",
+      "title": "This Money Mistake Is Costing You Millions in 2026 (Avoid THIS)",
+      "url": "https://www.youtube.com/watch?v=6TpYYgMCc3E",
+      "slug": "this-money-mistake-is-costing-you-millions-in-2026-avoid-this-6TpYYgMCc3E",
+      "duration_seconds": 1303,
+      "published": "",
+      "recency_rank": 24,
+      "sha256": "42d00282e79ed8a410565a5a79f4ac329ee0e3ed481f2c1a56cb6e86f179345e"
+    },
+    {
+      "youtube_id": "8vrK7txs8zU",
+      "title": "Hit These Money Milestones, You'll Become Financially Free",
+      "url": "https://www.youtube.com/watch?v=8vrK7txs8zU",
+      "slug": "hit-these-money-milestones-you-ll-become-financially-free-8vrK7txs8zU",
+      "duration_seconds": 1422,
+      "published": "",
+      "recency_rank": 25,
+      "sha256": "95eaf943dc91a2b0baf48d329b8648f7e1e391de23ba167dd099b94b7fa5da37"
+    },
+    {
+      "youtube_id": "agq0mKUVrEg",
+      "title": "Warner Bros. $110B Deal Can Make You Rich (Here's How)",
+      "url": "https://www.youtube.com/watch?v=agq0mKUVrEg",
+      "slug": "warner-bros-110b-deal-can-make-you-rich-here-s-how-agq0mKUVrEg",
+      "duration_seconds": 1081,
+      "published": "",
+      "recency_rank": 26,
+      "sha256": "24b7d9f1638079bd8983b9b4f0d16ca7cf2156a14b1c57bfa9f11c8b77f98f52"
+    },
+    {
+      "youtube_id": "4RGSx3mklcc",
+      "title": "How to Actually Buy a House in 2026 (My Exact System)",
+      "url": "https://www.youtube.com/watch?v=4RGSx3mklcc",
+      "slug": "how-to-actually-buy-a-house-in-2026-my-exact-system-4RGSx3mklcc",
+      "duration_seconds": 986,
+      "published": "",
+      "recency_rank": 27,
+      "sha256": "c3c749cd1c03cab9a910f811a9cc145d9e03bb3c465436e2d63a4148135e4e9c"
+    },
+    {
+      "youtube_id": "FBZxj9CGk00",
+      "title": "Lionel Messi’s $1.5B Deal Can Make You Rich (Here’s How)",
+      "url": "https://www.youtube.com/watch?v=FBZxj9CGk00",
+      "slug": "lionel-messi-s-1-5b-deal-can-make-you-rich-here-s-how-FBZxj9CGk00",
+      "duration_seconds": 918,
+      "published": "",
+      "recency_rank": 28,
+      "sha256": "a5af6e43ce3623d6563e4614e99f72f7d23548bdccc49449807e6fafada76d47"
+    },
+    {
+      "youtube_id": "Tdhbhvsdnsg",
+      "title": "I have big news…",
+      "url": "https://www.youtube.com/watch?v=Tdhbhvsdnsg",
+      "slug": "i-have-big-news-Tdhbhvsdnsg",
+      "duration_seconds": 63,
+      "published": "",
+      "recency_rank": 29,
+      "sha256": "17aa773d3d943510ff05a4c813a853c6856eb4a30c182e13c85e2251441877a7"
+    },
+    {
+      "youtube_id": "9EF3R3JR5Wk",
+      "title": "Buy, Borrow, Die: The Top 0.01% Strategy to Avoid Taxes",
+      "url": "https://www.youtube.com/watch?v=9EF3R3JR5Wk",
+      "slug": "buy-borrow-die-the-top-0-01-strategy-to-avoid-taxes-9EF3R3JR5Wk",
+      "duration_seconds": 778,
+      "published": "",
+      "recency_rank": 30,
+      "sha256": "ee3d0cd8403fa9290479a23ae2eacd4fd34ae14d685b20f93c78fb647d0fbd9e"
+    },
+    {
+      "youtube_id": "wgvB_oMFHmI",
+      "title": "If You Give Me 12 Minutes, You’ll Become Financially Free",
+      "url": "https://www.youtube.com/watch?v=wgvB_oMFHmI",
+      "slug": "if-you-give-me-12-minutes-you-ll-become-financially-free-wgvB_oMFHmI",
+      "duration_seconds": 754,
+      "published": "",
+      "recency_rank": 31,
+      "sha256": "33eb392eba5037057b9baab981ff2346289b889c50d3226087e5d760d44787a8"
+    },
+    {
+      "youtube_id": "Rccmhnt1ur4",
+      "title": "It's Boring, But It Will Make You Dangerously Rich",
+      "url": "https://www.youtube.com/watch?v=Rccmhnt1ur4",
+      "slug": "it-s-boring-but-it-will-make-you-dangerously-rich-Rccmhnt1ur4",
+      "duration_seconds": 856,
+      "published": "",
+      "recency_rank": 32,
+      "sha256": "46d9a8c123f8804c8cfb21fbe54d2cec2ce21082e2446d56be825944e6a80420"
+    },
+    {
+      "youtube_id": "ISQkh8bu6EU",
+      "title": "Millionaire Advice I'm Giving My Kids I Wish I Knew in My 20s",
+      "url": "https://www.youtube.com/watch?v=ISQkh8bu6EU",
+      "slug": "millionaire-advice-i-m-giving-my-kids-i-wish-i-knew-in-my-20s-ISQkh8bu6EU",
+      "duration_seconds": 1400,
+      "published": "",
+      "recency_rank": 33,
+      "sha256": "001be85c18c8acdf08b545cdc0156f537cc9745829c865698ffeb1a5c107f062"
+    },
+    {
+      "youtube_id": "Vx_sSMAJjNg",
+      "title": "How to Speak Like the Top 0.01% (Copy This)",
+      "url": "https://www.youtube.com/watch?v=Vx_sSMAJjNg",
+      "slug": "how-to-speak-like-the-top-0-01-copy-this-Vx_sSMAJjNg",
+      "duration_seconds": 980,
+      "published": "",
+      "recency_rank": 34,
+      "sha256": "6da3c6e546e22b2b00ee841dcfc4e1078f48cb0401e8fc5e9f877c9ca4f6b871"
+    },
+    {
+      "youtube_id": "OcH0864CLPs",
+      "title": "I’ll Delete Your Financial Anxiety, Just Give Me 18 Mins",
+      "url": "https://www.youtube.com/watch?v=OcH0864CLPs",
+      "slug": "i-ll-delete-your-financial-anxiety-just-give-me-18-mins-OcH0864CLPs",
+      "duration_seconds": 1081,
+      "published": "",
+      "recency_rank": 35,
+      "sha256": "d1a36c517a69729385c0d3ed729733d7c5cb0f762424082b430194d4caede850"
+    },
+    {
+      "youtube_id": "UMiAzkNEM4U",
+      "title": "In 18 Minutes, You'll Understand Generational Wealth",
+      "url": "https://www.youtube.com/watch?v=UMiAzkNEM4U",
+      "slug": "in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U",
+      "duration_seconds": 1079,
+      "published": "",
+      "recency_rank": 36,
+      "sha256": "7f7f3b41742e7d2da924ee8152f927d04a8397c8b7b7386fe2f3d5711bbfb0fa"
+    },
+    {
+      "youtube_id": "OWorFLIbRoo",
+      "title": "If You Only Watch One Money Video, Make It This",
+      "url": "https://www.youtube.com/watch?v=OWorFLIbRoo",
+      "slug": "if-you-only-watch-one-money-video-make-it-this-OWorFLIbRoo",
+      "duration_seconds": 1095,
+      "published": "",
+      "recency_rank": 37,
+      "sha256": "a40dd49f2b71351849ad865ef1cc2efd451c38bda33a12272a16720e53ec940d"
+    },
+    {
+      "youtube_id": "_Kpi8HgzKw8",
+      "title": "When I Understood This About Investing. My Life Changed.",
+      "url": "https://www.youtube.com/watch?v=_Kpi8HgzKw8",
+      "slug": "when-i-understood-this-about-investing-my-life-changed-_Kpi8HgzKw8",
+      "duration_seconds": 923,
+      "published": "",
+      "recency_rank": 38,
+      "sha256": "72754411b9bdc9eea8b513cf16daab22c867fbf98a9c0f47f55c2d1186489e72"
+    },
+    {
+      "youtube_id": "luvQRkxM-pQ",
+      "title": "Everything Goldman Sachs Taught Me About Money In Just 17 Mins",
+      "url": "https://www.youtube.com/watch?v=luvQRkxM-pQ",
+      "slug": "everything-goldman-sachs-taught-me-about-money-in-just-17-mins-luvQRkxM-pQ",
+      "duration_seconds": 1045,
+      "published": "",
+      "recency_rank": 39,
+      "sha256": "d6cb6a1d0b7abb3e0cf2cf48a94227058e9a4637f8d3566f8204d6ee70e0d777"
+    },
+    {
+      "youtube_id": "BZrgkgCF79g",
+      "title": "Being Around The Top 0.01% Teaches You This",
+      "url": "https://www.youtube.com/watch?v=BZrgkgCF79g",
+      "slug": "being-around-the-top-0-01-teaches-you-this-BZrgkgCF79g",
+      "duration_seconds": 925,
+      "published": "",
+      "recency_rank": 40,
+      "sha256": "294edb4eabebd421f3a915372ad9e05f4f50aa5372ef8fd33d8511e33ad970f7"
+    }
+  ],
+  "failed_videos": [],
+  "updated_at": "2026-11-16T16:53:38.780108+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "sL5hPovH1vU",
+  "thesis": "The selected Claude progression moves from connected context to reviewed workflows and custom tools.",
+  "summary": "The creator describes connecting information systems, reviewing and approving recurring work, building software, and coordinating agents. These are proposed capability levels, not verified product guarantees or proof that a team became proficient in two days. The note records the framework without performing any external action or treating source instructions as authorization.",
+  "insights": [
+    {
+      "slug": "connected-context",
+      "title": "Recognize data access as a separate capability decision",
+      "explanation": "The source describes connectors as a way to search existing systems. Appropriate access and actual product support must be checked separately.",
+      "quote": "connect those data systems so that it'll search those places",
+      "character_start": 5629,
+      "character_end": 5689,
+      "tags": [
+        "ai",
+        "knowledge-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reviewed-automation",
+      "title": "Keep review visible in a workflow progression",
+      "explanation": "At the described operator level, tasks run and a person reviews and approves. That is different from assuming unrestricted autonomy.",
+      "quote": "you just review things and you approve it",
+      "character_start": 7463,
+      "character_end": 7504,
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "custom-tool-building",
+      "title": "Distinguish answering questions from creating software",
+      "explanation": "The source proposes internal apps and dashboards as another use. It does not demonstrate their correctness, deployment, or maintenance.",
+      "quote": "build custom apps dashboards internal tools",
+      "character_start": 10698,
+      "character_end": 10741,
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "b8e5773e-04ce-40b1-88c2-862651f13a26",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

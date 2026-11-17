@@ -1,0 +1,68 @@
+{
+  "youtube_id": "D2umgh70Kis",
+  "thesis": "A ninety-day reinvention plan combines identity cues, one financial goal and leverage.",
+  "summary": "Sanchez starts with enjoyment-driven obsession, decluttering and dressing for a desired role. She asks for one measurable money goal, a written personal story, and a leverage stack of capital, operators, audience and knowledge. Later steps remove distractions, protect the morning and recommend keeping major moves quiet. An acquisition event promotion and personal examples accompany the framework.",
+  "insights": [
+    {
+      "slug": "single-financial-experiment",
+      "title": "Define one observable result for the window",
+      "explanation": "A named earning activity and financial target make the ninety-day exercise more concrete.",
+      "quote": "one way that you make money and then I want you to define the outcome",
+      "tags": [
+        "goals",
+        "focus"
+      ],
+      "character_start": 4359,
+      "character_end": 4428,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "leverage-stack",
+      "title": "Combine complementary capabilities",
+      "explanation": "She describes capital, operators, media and knowledge as reinforcing sources of capacity rather than needing world-class rank in one skill.",
+      "quote": "what is your identity and what is your leverage stack",
+      "tags": [
+        "leverage",
+        "skills"
+      ],
+      "character_start": 10939,
+      "character_end": 10992,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "not-to-do-list",
+      "title": "Remove one obstacle to the desired behavior",
+      "explanation": "Her example replaces impractical shoes to permit walking; other examples limit phone distractions.",
+      "quote": "it's not about adding more it's about doing less but doing it better",
+      "tags": [
+        "habits",
+        "focus"
+      ],
+      "character_start": 11068,
+      "character_end": 11136,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "private-moves",
+      "title": "She also recommends concealing goals until achieved",
+      "explanation": "The closing advice is inconsistent with her explicit public-pressure recommendation elsewhere.",
+      "quote": "real players move in silence until you've already achieved the thing that you want",
+      "tags": [
+        "goals",
+        "contradictions"
+      ],
+      "character_start": 14300,
+      "character_end": 14382,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "598482ae-6dc8-4629-ac29-b1348c263b33",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Appearance studies, delayed-gratification claims, audience counts, educational credentials and causal stories are unverified. Writing before meeting a partner is not evidence manifestation works. Clothing as a cue differs from buying luxury status. Moving in silence directly conflicts with the public-accountability advice in a20aMsJ756I; the faith-based evil-eye rationale is a stated belief, not an established mechanism.",
+  "review_changes": "Restores the internal contradiction about disclosure, role of complementary skill stacks and difference between symbolic identity exercises and financial evidence.",
+  "deep_review_date": "2026-11-16T20:54:08.587063+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/D2umgh70Kis.json",
+  "previous_draft_sha256": "1329f6a1bd823d35f7da50ab6b0f7bdfd2f7d9f8df1400db5309c60f8eb18ebd"
+}

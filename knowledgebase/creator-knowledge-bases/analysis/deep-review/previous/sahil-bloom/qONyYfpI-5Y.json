@@ -1,0 +1,50 @@
+{
+  "youtube_id": "qONyYfpI-5Y",
+  "thesis": "The evening-routine source combines personal preparation practices with explicit departures from optimization rules.",
+  "summary": "Reviewed passages link evening preparation to the next day and describe the creator's personal food, heat, and sleep-related practices. He explicitly departs from some common optimization rules and says a device did not produce a benefit in his own sleep data. The routine includes commercial products and health claims. Those claims and the title's scientific framing are not independently validated by this note.",
+  "insights": [
+    {
+      "slug": "evening-preparation",
+      "title": "Consider the previous evening when designing the next morning",
+      "explanation": "The source frames preparation as beginning before wake-up. The statement describes his organizing idea, not a demonstrated causal effect of the complete routine.",
+      "quote": "the key to a productive morning starts in the evening",
+      "character_start": 155,
+      "character_end": 208,
+      "tags": [
+        "habits",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "personal-nutrition-targets",
+      "title": "Keep personal diet targets distinct from general prescriptions",
+      "explanation": "The creator identifies his protein target as personal. That qualification should remain attached when cataloging the routine.",
+      "quote": "200 grams of protein for me personally",
+      "character_start": 6368,
+      "character_end": 6406,
+      "tags": [
+        "health",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "optimization-tradeoffs",
+      "title": "Include comfort and relationships in routine decisions",
+      "explanation": "He says he did not observe a personal sleep benefit from blue-light glasses and disliked wearing them. An individual observation does not establish whether the intervention works generally.",
+      "quote": "I've personally never seen the benefit in any of my sleep data from wearing them",
+      "character_start": 8934,
+      "character_end": 9014,
+      "tags": [
+        "life-design",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "1d938b53-3743-4d26-8d54-0f888fa21fa7",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

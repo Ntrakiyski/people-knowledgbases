@@ -1,0 +1,50 @@
+{
+  "youtube_id": "aA3OUCVSo8Y",
+  "thesis": "A pursuit map separates competence from energy when evaluating activities.",
+  "summary": "The reviewed passages introduce a two-axis map and identify high competence with low energy as a potential trap. The source suggests modifying draining work and maintaining room for activities that generate interest even before proficiency develops. These are reflection prompts, not validated assessments or guarantees against burnout. The selected passages do not capture every rule described in the video.",
+  "insights": [
+    {
+      "slug": "competence-energy-map",
+      "title": "Assess energy separately from ability",
+      "explanation": "The framework warns that being good at an activity does not by itself establish that it is sustainable or fulfilling.",
+      "quote": "the zone of danger high competency but low energy",
+      "character_start": 1473,
+      "character_end": 1522,
+      "tags": [
+        "life-design",
+        "self-assessment"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "activity-redesign",
+      "title": "Try adjusting one draining activity",
+      "explanation": "The proposed exercise begins with a specific activity and asks how its design might change, rather than immediately requiring a complete career exit.",
+      "quote": "choose one item in this zone and think about how you might be able to adjust it",
+      "character_start": 2938,
+      "character_end": 3017,
+      "tags": [
+        "decision-making",
+        "work-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "beginner-potential",
+      "title": "Maintain room for energizing beginner activities",
+      "explanation": "The creator treats interest as a reason to explore while skill develops. This is about personal exploration, not proof of market demand.",
+      "quote": "new activities that spark genuine interest in energy even if you're just an embarrassing beginner",
+      "character_start": 3751,
+      "character_end": 3848,
+      "tags": [
+        "learning",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2f9cdcdc-b325-434d-9545-4d1714321e3e",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

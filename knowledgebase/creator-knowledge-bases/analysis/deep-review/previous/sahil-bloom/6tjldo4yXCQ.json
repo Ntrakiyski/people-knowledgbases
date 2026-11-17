@@ -1,0 +1,50 @@
+{
+  "youtube_id": "6tjldo4yXCQ",
+  "thesis": "Selected money advice recognizes employment as a wealth path and asks whether the desired outcome is worth its costs.",
+  "summary": "The reviewed passages describe excellence within another person's company as a legitimate route, emphasize long-standing professional relationships, and frame extraordinary financial goals as involving tradeoffs. These are the creator's judgments. Claims about billionaires, generational behavior, or relationship returns are not verified by this selected review.",
+  "insights": [
+    {
+      "slug": "employment-wealth-path",
+      "title": "Include excellence in employment among possible routes",
+      "explanation": "The source explicitly allows building wealth inside another organization. This qualifies a founder-only interpretation of the creator's message.",
+      "quote": "becoming excellent at what you do within someone else's company is a perfectly good path",
+      "character_start": 5199,
+      "character_end": 5287,
+      "tags": [
+        "career",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "long-term-professional-relationships",
+      "title": "Invest in relationships before a later opportunity",
+      "explanation": "The creator emphasizes connections formed through early shared work. The claimed financial returns are anecdotal.",
+      "quote": "the relationships that you build in the early years of your career",
+      "character_start": 6601,
+      "character_end": 6667,
+      "tags": [
+        "relationships",
+        "career"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ambition-price",
+      "title": "Evaluate the costs before choosing an ambitious target",
+      "explanation": "The source asks the viewer to pursue the goal knowingly or decline it. It is a choice framework rather than an assertion that everyone should want extraordinary wealth.",
+      "quote": "Eyes Wide Open about the price that you're going to have to pay",
+      "character_start": 18562,
+      "character_end": 18625,
+      "tags": [
+        "life-design",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "ddc78505-4376-47fe-9d3b-9a7c64a32a58",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

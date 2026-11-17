@@ -1,0 +1,66 @@
+{
+  "youtube_id": "Cl7EgF-XIPc",
+  "thesis": "The subtraction checklist targets overthinking, rigid plans, novelty chasing, administrative grazing, and reliance on motivation.",
+  "summary": "Bloom describes eleven things he says he quit, including fixation on potential, complaining, concern about opinions, draining relationships, overthinking, snoozing, perfect planning, body neglect, novelty, low-value task grazing, and dependence on motivation. The strongest recurring operational ideas are flexible direction, repeated basics, bounded administration, and scheduled execution. Early waking is presented as proof of agency, while the body-as-house metaphor calls for ongoing care. Large success claims and categorical claims about other people are rhetorical. The conclusion recommends choosing one change, rather than implementing the entire list at once.",
+  "insights": [
+    {
+      "slug": "direction-not-perfect-plan",
+      "title": "Keep direction while allowing adaptation",
+      "explanation": "Bloom says tiny deviations from a detailed life plan caused stress. His replacement is a broad vision supported by adaptable daily action.",
+      "quote": "i trust in my action and adaptability not my plan",
+      "tags": [
+        "life-design",
+        "learning"
+      ],
+      "character_start": 4090,
+      "character_end": 4139,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "boring-basics",
+      "title": "Do not demand novelty before showing up",
+      "explanation": "Business, relationships, and health are used as examples of repeated basic work. The claim does not exclude useful exploration or changing an unsuitable path.",
+      "quote": "the most meaningful things in life are built through consistent execution of the very boring basics",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 4795,
+      "character_end": 4894,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "bounded-administration",
+      "title": "Limit time available for low-importance processing",
+      "explanation": "The video proposes short discrete windows for email and similar work. It does not classify every email as unimportant.",
+      "quote": "block short discrete windows for processing low importance tasks",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 5579,
+      "character_end": 5643,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "scheduled-consistency",
+      "title": "Use structure when excitement fades",
+      "explanation": "The practical recommendation is to put action on the calendar instead of waiting for motivation. Beginning with one list item makes the subtraction exercise more bounded.",
+      "quote": "create structure add it to your calendar and execute",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 6005,
+      "character_end": 6057,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "4a88915c-53f4-4d23-82b7-4b1b66316f54",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The title's lost-years and monetary-cost claims are not demonstrated. Negative-versus-positive people is an oversimplified relationship classification. Early waking is not universally better, and the transcript itself links it to sustainable care rather than sleep deprivation.",
+  "review_changes": "Adds flexible planning, task batching, the one-change starting point, and the distinction between health upkeep and glorifying early waking.",
+  "deep_review_date": "2026-11-16T19:27:04.643837+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/Cl7EgF-XIPc.json",
+  "previous_draft_sha256": "a56edaf79a738142bebcb99df209be30deef5bc9777a06e254e0288853657af2"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "mydzICwDb6c",
+  "thesis": "The selected AI philosophy prioritizes process understanding and people managing workflows.",
+  "summary": "The creator says a business should understand a process before adding AI and proposes employees overseeing workflows rather than disappearing entirely. He frames better human interaction as an objective. These are normative positions and forecasts, not evidence that AI never replaces jobs or that any layoff proves a leadership failure.",
+  "insights": [
+    {
+      "slug": "process-before-ai",
+      "title": "Understand the work before automating it",
+      "explanation": "The source makes process knowledge a prerequisite rather than treating a tool as a substitute for diagnosis.",
+      "quote": "understand the process before adding AI to your business",
+      "character_start": 10183,
+      "character_end": 10239,
+      "tags": [
+        "operations",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "workflow-ownership",
+      "title": "Keep a person accountable for the whole process",
+      "explanation": "The creator imagines a shift from narrow roles to workflow oversight. That is his proposed operating model, not an established universal future.",
+      "quote": "the person making sure that the whole process is being managed",
+      "character_start": 10978,
+      "character_end": 11040,
+      "tags": [
+        "ai",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "augmentation-philosophy",
+      "title": "Record augmentation as a stated aim rather than an observed law",
+      "explanation": "The creator explicitly calls this his philosophy. Employment outcomes depend on choices and conditions beyond the passage.",
+      "quote": "my philosophy is that AI should make your team 10x better not replace them",
+      "character_start": 11110,
+      "character_end": 11184,
+      "tags": [
+        "ai",
+        "values"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "b0fcbfee-390e-4ecb-9813-d5e1ef628a1c",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

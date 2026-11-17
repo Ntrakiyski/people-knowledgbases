@@ -1,0 +1,68 @@
+{
+  "youtube_id": "06IVFAiHV9Y",
+  "thesis": "Look for AI-related demand in infrastructure services and existing workflows, while accounting for operating risk.",
+  "summary": "A six-tier AI discussion spans energy, chips, data centers, models, enabling software and applications. Sanchez favors specialized physical services and real workflow cost reduction over generic chatbots, notes circular financing concerns, and warns that demos still need production engineering and retention of technical staff. She advocates using AI to improve existing businesses, recognizes correction overhead and uncertainty, and promotes an AI storefront sponsor and acquisition workshop.",
+  "insights": [
+    {
+      "slug": "ai-infrastructure-services",
+      "title": "Search for supporting service demand",
+      "explanation": "She proposes maintenance and specialized facility services as exposure to AI spending without building a foundation model.",
+      "quote": "buy businesses that wire the data servers cool down server farms clean semiconductor labs",
+      "tags": [
+        "ai",
+        "services"
+      ],
+      "character_start": 11737,
+      "character_end": 11826,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "production-beyond-demo",
+      "title": "A working demo is not a scaled service",
+      "explanation": "Payments, databases, APIs and failures require technical operation beyond quickly generating an interface.",
+      "quote": "when the demo breaks at 2 a.m and customers are screaming",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 6446,
+      "character_end": 6503,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "workflow-fixer",
+      "title": "Start from an existing costly workflow",
+      "explanation": "Her application criterion is replacing a cost center or improving an actual process, rather than novelty alone.",
+      "quote": "don't be an idea guy be a workflow fixer",
+      "tags": [
+        "ai",
+        "value"
+      ],
+      "character_start": 11940,
+      "character_end": 11980,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "uncertain-ai-future",
+      "title": "Do not treat the market story as known",
+      "explanation": "She explicitly says even prominent builders do not know exactly what will happen.",
+      "quote": "nobody not us not Sam Alman not Elon Musk knows exactly what's going to happen with AI",
+      "tags": [
+        "ai",
+        "uncertainty"
+      ],
+      "character_start": 14260,
+      "character_end": 14346,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "ad7726f6-acc0-43ca-9f19-ec293863cdc7",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Company values, spending, adoption, energy and macroeconomic shares are unverified. A 60% cost decrease is not automatically 60% more profit, and halved review time does not imply doubled income. Infrastructure niches require genuine expertise and appropriate operating standards; casual cleaning language understates this. Bubble and opportunity claims are speculative; sponsor offer is not an evaluated business.",
+  "review_changes": "Adds demo-versus-production limits, technical retention, AI correction costs and explicit errors in converting efficiency into profit.",
+  "deep_review_date": "2026-11-16T20:54:08.586164+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/06IVFAiHV9Y.json",
+  "previous_draft_sha256": "84832c4629d991c2578eb3ee205e5ddc27a5da09414964285fb1b3930ef146bf"
+}

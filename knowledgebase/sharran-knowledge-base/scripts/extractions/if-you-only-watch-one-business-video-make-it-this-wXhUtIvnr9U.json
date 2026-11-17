@@ -1,0 +1,215 @@
+{
+  "slug": "if-you-only-watch-one-business-video-make-it-this-wXhUtIvnr9U",
+  "thesis": "Sharran’s seven business lessons connect strong talent, explicit decisions, strategic options, a clear value proposition, focus, a wealth system, and visible performance standards.",
+  "summary": "Sharran offers seven lessons from his claimed business-building experience. He begins with a cycle of hiring strong performers, designing challenging and lucrative work, and reinvesting profits in more talent. He suggests evaluating communication through a teaching exercise, preparation through interview questions, and motivation through interest in contribution. His decision framework is to understand context, isolate the issue, accept trade-offs, and map next actions. He then argues that business plans should create several viable options, including keeping, selling, or partly selling a company.\n\nThe second half connects strategy with execution. Value becomes useful when expressed as a concrete proposition; he illustrates this with a real-estate platform promising to return a day each week. Focus means doing more of what works, then improving it, before trying something new. His wealth ladder moves from active income covering expenses to surplus, assets, and investment income. Finally, leaders should define good performance using clear examples and take responsibility for making standards understandable before blaming employees for missing them.",
+  "tags": [
+    "business",
+    "leadership",
+    "hiring",
+    "strategy",
+    "wealth"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:01:22",
+      "note": "Describes the talent and business-model cycle."
+    },
+    {
+      "ts": "0:06:12",
+      "note": "Introduces the decision framework."
+    },
+    {
+      "ts": "0:08:29",
+      "note": "Builds strategy around multiple options."
+    },
+    {
+      "ts": "0:12:27",
+      "note": "Gives a concrete time-saving value proposition."
+    },
+    {
+      "ts": "0:15:19",
+      "note": "Explains more, better, new."
+    },
+    {
+      "ts": "0:18:10",
+      "note": "Introduces the wealth ladder."
+    },
+    {
+      "ts": "0:22:44",
+      "note": "Shows how examples define good performance."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "a-player-hiring",
+      "name": "A-player hiring",
+      "one_liner": "Recruiting strong performers requires suitable economics, challenge, and evidence of capability.",
+      "explanation": "Sharran presents hiring as a repeatable skill rather than luck. A business must offer challenging work and enough economic value to afford unusually capable people, then reinvest their contribution in more talent. His interview checks are communication through teaching something, preparation as evidence of care, and questions focused on contribution. The claim that a modest pay premium can buy vastly greater output is his heuristic, not a measured universal hiring rule.",
+      "tags": [
+        "hiring",
+        "talent",
+        "business-models"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:03",
+          "text": "a business model that is challenging and lucrative"
+        }
+      ],
+      "related": [
+        "leadership-standards"
+      ]
+    },
+    {
+      "slug": "decision-framework",
+      "name": "Decision framework",
+      "one_liner": "Understand context, isolate the issue, accept risks, and map the next actions.",
+      "explanation": "Sharran develops an explicit four-step process after realizing he lacked a reliable method for important decisions. A team proposal first needs context and a precise problem statement. The leader then acknowledges trade-offs, including what the organization cannot do if it chooses the proposal, before identifying concrete next steps. He suggests returning to these questions during heated conversations. The framework is offered as a practical starting point that viewers can adapt rather than an inflexible prescription.",
+      "tags": [
+        "decisions",
+        "leadership",
+        "risk"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:12",
+          "text": "one is understand the context. Step two is isolate the issue."
+        }
+      ],
+      "related": [
+        "strategic-optionality",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "strategic-optionality",
+      "name": "Strategic optionality",
+      "one_liner": "Build choices into a business rather than depending on a single exit outcome.",
+      "explanation": "Sharran contrasts designing only for a sale with building a company that can be sold, kept, partly sold, or financed. He recommends asking what would need to be true across those alternatives and making that the business plan. Options strengthen the ability to decline an unattractive offer instead of becoming trapped when market conditions prevent an exit. He also extends the principle to daily decisions: deliberately doing nothing can itself be a valid option.",
+      "tags": [
+        "strategy",
+        "options",
+        "business"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:37",
+          "text": "business is more valuable because you have more options."
+        }
+      ],
+      "related": [
+        "decision-framework"
+      ]
+    },
+    {
+      "slug": "value-proposition",
+      "name": "Value proposition",
+      "one_liner": "Express value as a concrete, understandable exchange for the customer.",
+      "explanation": "Sharran rejects vague instructions to create value and asks for a clearly packaged promise. He illustrates this with advertising offers and his own brokerage’s proposition of saving agents one day each week, expressed as fifty-two extra days annually. He says research into why agents stayed revealed this benefit and that the promise guided subsequent decisions. The specific commercial results are his claims; the general practice is to use a tangible customer outcome as a strategic filter.",
+      "tags": [
+        "marketing",
+        "customers",
+        "strategy"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:57",
+          "text": "what would you do with another 52 days a year?"
+        }
+      ],
+      "related": [
+        "focus"
+      ]
+    },
+    {
+      "slug": "focus",
+      "name": "Focus",
+      "one_liner": "Concentrate on a main activity and exhaust improvement before adding new work.",
+      "explanation": "Sharran argues that limited time makes excellence across many simultaneous ventures difficult. He describes focus as doing fewer things and uses deeper relationships as an analogy for concentrated attention in business. His operational rule is more, better, new: increase a working activity, improve how it is done, and only then consider a new experiment. This connects focus to an order of action, rather than merely telling entrepreneurs to resist distraction without a practical method.",
+      "tags": [
+        "focus",
+        "execution",
+        "strategy"
+      ],
+      "quotes": [
+        {
+          "ts": "0:15:19",
+          "text": "We use this formula internally called more better new."
+        }
+      ],
+      "related": [
+        "value-proposition"
+      ]
+    },
+    {
+      "slug": "wealth-ladder",
+      "name": "Wealth ladder",
+      "one_liner": "Progress from active income and surplus to asset ownership and investment income.",
+      "explanation": "Sharran outlines a sequence in which work first covers monthly expenses, then creates a surplus that can be deliberately managed. The next step is learning to invest that surplus in assets, including tiny income-generating assets, before developing income that does not require exchanging more time. He argues that a better-paid job addresses only the early rung if no allocation system follows. The ladder is his teaching framework for connecting earning skill to investing skill.",
+      "tags": [
+        "wealth",
+        "income",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:18:10",
+          "text": "you need to do is to have a decent life is to have your active income greater than your monthly expenses."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "passive-income"
+      ]
+    },
+    {
+      "slug": "leadership-standards",
+      "name": "Leadership standards",
+      "one_liner": "Leaders make good work visible through explicit expectations and examples.",
+      "explanation": "Sharran argues that employees cannot infer the leader’s internal picture of success. His memo example replaces blame with responsibility: acknowledge effort, admit unclear guidance, and provide three examples of excellent work to model. Standards then let both sides identify the gap and improve performance. He applies the same principle to assistants and AI instructions. Detailed procedures may be appropriate for technical tasks, but examples and concrete outcomes often communicate quality more directly.",
+      "tags": [
+        "leadership",
+        "management",
+        "standards"
+      ],
+      "quotes": [
+        {
+          "ts": "0:24:49",
+          "text": "A great leader's job is to define what good looks like."
+        }
+      ],
+      "related": [
+        "a-player-hiring"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "leila-hormozi",
+      "name": "Leila Hormozi",
+      "subtype": "person",
+      "one_liner": "Sharran’s partner, credited with the leadership standard of defining good work.",
+      "explanation": "Sharran credits Leila with the principle that a good leader defines what good looks like. He develops it through an employee-memo example, emphasizing clear models and responsibility for communication rather than immediate blame. Her name is inconsistently rendered by the transcript.",
+      "quotes": [
+        {
+          "ts": "0:21:02",
+          "text": "my partner Lil Hermosi always talks about"
+        }
+      ],
+      "resource": "https://www.acquisition.com/"
+    },
+    {
+      "slug": "telus-properties",
+      "name": "Telus Properties",
+      "subtype": "organization",
+      "one_liner": "The brokerage used to illustrate a clear customer value proposition.",
+      "explanation": "Sharran describes the brokerage platform as saving agents one day each week. He says identifying that benefit through customer research provided a stable focus for product and service decisions, and links it to his claimed growth and exit.",
+      "quotes": [
+        {
+          "ts": "0:11:42",
+          "text": "one of our first businesses, Telus Properties."
+        }
+      ]
+    }
+  ]
+}

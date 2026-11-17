@@ -1,0 +1,50 @@
+{
+  "youtube_id": "GWoABwqXl5A",
+  "thesis": "Selected business advice emphasizes demand before building, distribution, and specific AI workflows.",
+  "summary": "Reviewed passages propose selling before substantial buildout, cultivating an audience, and defining a business problem before using an AI agent. The ending emphasizes cash flow. These are operating hypotheses; they do not establish that a regulated service can be sold without licenses or that a business can start without real costs.",
+  "insights": [
+    {
+      "slug": "sell-before-build",
+      "title": "Seek evidence of demand before a large build commitment",
+      "explanation": "The source's sell-first framing emphasizes validation. It does not remove fulfillment, legal, or refund obligations.",
+      "quote": "what I mean when I say sell first and build second",
+      "character_start": 2035,
+      "character_end": 2085,
+      "tags": [
+        "sales",
+        "validation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "distribution-before-product",
+      "title": "Recognize attention as a separate problem from production",
+      "explanation": "The creator argues that easier product creation can increase the importance of reaching buyers. An audience still needs a relevant offer.",
+      "quote": "easier than ever to build products but harder than ever to get people to care",
+      "character_start": 11891,
+      "character_end": 11968,
+      "tags": [
+        "distribution",
+        "marketing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "problem-first-ai",
+      "title": "Start an AI workflow with a defined operating problem",
+      "explanation": "The passage describes information gathering and clarification. The selected text does not demonstrate a completed reliable automation.",
+      "quote": "first you understand the problem the AI agent gathers detailed information",
+      "character_start": 16224,
+      "character_end": 16298,
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "41379f6c-469d-4c8e-8739-30882d3a7efa",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

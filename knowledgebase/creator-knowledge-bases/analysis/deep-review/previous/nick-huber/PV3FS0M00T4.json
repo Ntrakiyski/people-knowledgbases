@@ -1,0 +1,50 @@
+{
+  "youtube_id": "PV3FS0M00T4",
+  "thesis": "The selected branding discussion treats media as support for operating businesses and a way to practice communication.",
+  "summary": "The participant says his content operation does not cover its own overhead and is intended partly to grow his companies. He also credits media practice with improving speaking and selling. Team size, costs, and profitability comparisons are self-reported. The note records a business use for media without assuming audience growth itself is profit.",
+  "insights": [
+    {
+      "slug": "media-business-economics",
+      "title": "Distinguish media revenue from its strategic role",
+      "explanation": "The speaker explicitly describes content as an overhead supporting other companies. Evaluating it requires more than direct media income.",
+      "quote": "my media income does not cover that",
+      "character_start": 2991,
+      "character_end": 3026,
+      "tags": [
+        "creator-strategy",
+        "unit-economics"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "communication-practice",
+      "title": "Count the communication skill developed through publishing",
+      "explanation": "The participant says repeated media work improves clarity and speaking. This is his experience rather than a measured effect.",
+      "quote": "your ability to get your messages out clear and concisely",
+      "character_start": 3789,
+      "character_end": 3846,
+      "tags": [
+        "communication",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "operating-business-priority",
+      "title": "Keep the creator's stated commercial priority visible",
+      "explanation": "He says building businesses is more lucrative for him. That comparison should not be generalized to all creators.",
+      "quote": "I love building businesses and it's way more lucrative to build businesses",
+      "character_start": 1199,
+      "character_end": 1273,
+      "tags": [
+        "creator-strategy",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "1a7a4522-2bc8-4534-9aa1-e66a0dda8231",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

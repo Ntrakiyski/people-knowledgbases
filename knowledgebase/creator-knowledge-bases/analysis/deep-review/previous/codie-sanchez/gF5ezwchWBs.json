@@ -1,0 +1,50 @@
+{
+  "youtube_id": "gF5ezwchWBs",
+  "thesis": "Selected salary-to-ownership advice treats employment as a funding base rather than requiring an immediate exit.",
+  "summary": "The creator describes retaining employment, earmarking some savings for possible ownership, and using acquisition financing. Specific success stories and quick-payback claims are not independently validated. Seller financing, equity, and debt create different obligations; this note does not adopt the source's implication that a business can be bought without meaningful risk.",
+  "insights": [
+    {
+      "slug": "salary-as-capital",
+      "title": "Include current employment in a wealth-building plan",
+      "explanation": "The source explicitly rejects the need to leave a job as the first step.",
+      "quote": "stop thinking you need to leave your 9 to5 to get rich",
+      "character_start": 0,
+      "character_end": 54,
+      "tags": [
+        "career",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ownership-earmark",
+      "title": "Separate capital for potential ownership from other savings",
+      "explanation": "The proposed allocation is the creator's heuristic, not a suitable percentage for everyone.",
+      "quote": "savings that you use to buy a cash flowing business",
+      "character_start": 9621,
+      "character_end": 9672,
+      "tags": [
+        "ownership",
+        "capital"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "financing-structure",
+      "title": "Identify the financing mechanism behind an acquisition story",
+      "explanation": "Seller financing and earnouts affect timing and risk; naming them does not establish adequate downside protection.",
+      "quote": "got it with seller financing and earnout",
+      "character_start": 10229,
+      "character_end": 10269,
+      "tags": [
+        "acquisitions",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "67ae8bcc-ac8c-4b91-a604-71113e694ec0",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

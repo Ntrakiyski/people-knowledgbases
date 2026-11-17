@@ -1,0 +1,68 @@
+{
+  "youtube_id": "C-xsAtAWsDs",
+  "thesis": "Operational adversity does not itself tell an owner whether to persist; business quality, alternatives, and learned judgment still matter.",
+  "summary": "This interview clip recounts an acute breakdown during Storage Squad's seasonal delivery work. Vehicle incidents, an abandoned loaded truck, customer calls, and severe sleep deprivation converged while Huber was personally handling service problems. His partner urged him to continue, but the later discussion does not turn that response into a universal persistence formula. Asked when to quit versus push through, he says there is no simple answer and describes decision making as a practiced skill. He also credits starting self-storage with improving his future options. The exported clip ends mid-sentence; it supports the account and qualifications shown, not a complete explanation of the eventual transition.",
+  "insights": [
+    {
+      "slug": "founder-role-overload",
+      "title": "Service responsibility amplified the operational crisis",
+      "explanation": "The account combines delivery failures with the founder acting as the customer-service representative. This identifies multiple simultaneous demands on one person, rather than attributing the crisis solely to insufficient toughness.",
+      "quote": "the whole time my phone's ringing because I'm the customer service rep and it just keeps ringing from customers",
+      "tags": [
+        "operations",
+        "leadership"
+      ],
+      "character_start": 2007,
+      "character_end": 2118,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "crisis-capacity",
+      "title": "Interpret the breakdown alongside sustained depletion",
+      "explanation": "The story explicitly includes severe sleep loss before the breakdown. Those conditions qualify any attempt to retell the episode simply as a mindset test; the narrative does not establish that the same response is appropriate for others.",
+      "quote": "I hadn't slept more than 3 hours in a night in in 3 weeks",
+      "tags": [
+        "risk",
+        "life-design"
+      ],
+      "character_start": 2268,
+      "character_end": 2325,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "persistence-judgment",
+      "title": "No universal quit-or-persist rule is supplied",
+      "explanation": "When asked directly how to distinguish a viable challenge from an opportunity to leave, the respondent describes decision making as learned through practice and results. The partner's crisis response is not a general decision framework.",
+      "quote": "it's a learned skill over time like you you make decisions you practice you build the muscle you watch the results come in",
+      "tags": [
+        "learning",
+        "strategy"
+      ],
+      "character_start": 3541,
+      "character_end": 3663,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "business-quality",
+      "title": "Separate endurance from the quality of the business model",
+      "explanation": "The respondent says opportunities differ in quality and credits a secondary self-storage venture with changing his options. This qualifies a pure focus message: selective experimentation can create an exit from difficult operating economics.",
+      "quote": "the truth is that some businesses are much better than other businesses and business is about momentum",
+      "tags": [
+        "strategy",
+        "risk"
+      ],
+      "character_start": 3746,
+      "character_end": 3848,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6716e696-f517-4174-92c9-3d37abb73500",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Distress, exhaustion, and business incidents are self-reported. The account should not be turned into medical diagnosis or an endorsement of sleep deprivation. The exported clip is incomplete at the ending, and it supplies no reliable threshold for closing a company.",
+  "review_changes": "Connects the crisis to founder role overload and opportunity selection. Makes explicit that the speaker rejects a simple quitting rule and that the source ends mid-thought.",
+  "deep_review_date": "2026-11-16T19:21:25.450983+00:00",
+  "previous_draft": "analysis/deep-review/previous/nick-huber/C-xsAtAWsDs.json",
+  "previous_draft_sha256": "46dc35819a2bf5b20b7bebc812aae51e1d2e8277a877583d0d307ff0b8570413"
+}

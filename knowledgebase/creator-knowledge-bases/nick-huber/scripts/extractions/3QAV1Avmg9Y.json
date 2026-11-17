@@ -1,0 +1,50 @@
+{
+  "youtube_id": "3QAV1Avmg9Y",
+  "thesis": "The speaker favors long-term health habits but also makes strong fasting and disease claims that this interview does not substantiate.",
+  "summary": "The discussion promotes extended fasting, blood markers, and sustainable habits while criticizing rapid weight-loss programs and parts of conventional medical care. It includes claims about cancer prevention, diabetes remission, autophagy, and metabolic effects without presenting adequate supporting evidence. The speaker qualifies an initial claim that fasting cures diabetes by describing temporary remission and advises consultation with a doctor, naming groups who should not fast. The useful analytical distinction is between the speaker's personal health philosophy, his reported test results, and medical claims that remain unverified. This note does not convert those claims into recommendations.",
+  "insights": [
+    {
+      "slug": "health-claim-boundaries",
+      "title": "Preserve the correction from cure to temporary remission",
+      "explanation": "The interviewer challenges a strong diabetes claim, and the reply narrows it. Even the narrowed claim is not clinically established by this conversation; retaining the correction prevents an inaccurate quotation of the discussion.",
+      "quote": "no it puts it into temporary remission",
+      "character_start": 2040,
+      "character_end": 2078,
+      "tags": [
+        "health",
+        "communication"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fasting-contraindications",
+      "title": "Record the speaker's own limits on fasting advice",
+      "explanation": "The participant mentions eating-disorder history, children, pregnancy, and nursing as reasons not to fast and calls for medical consultation. These caveats are central to accurately describing his position.",
+      "quote": "I would encourage folks to talk to their own doctor",
+      "character_start": 1115,
+      "character_end": 1166,
+      "tags": [
+        "health",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "sustainable-health-habits",
+      "title": "Separate the long-term habit philosophy from medical promises",
+      "explanation": "The ending favors sustainable habits and enjoyment over rapid transformation. That stated preference can be recorded without accepting the unsupported biological mechanisms or disease-prevention claims earlier in the interview.",
+      "quote": "Build good habits that you can sustain Live a balanced life that you can actually enjoy",
+      "character_start": 6506,
+      "character_end": 6593,
+      "tags": [
+        "health",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "325c9661-9fd0-4913-aee4-7b5a5528e260",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

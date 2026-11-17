@@ -1,0 +1,68 @@
+{
+  "youtube_id": "m5N4KEpAG-s",
+  "thesis": "Broaden exposure to people and ideas when the right opportunity is not yet known.",
+  "summary": "Surface-area mode contrasts isolated focus with scouting relationships and opportunities. Sanchez suggests three weekly meetings, visible small wins, a five-F relationship map, walk-and-talks, more experiments and deep learning shared publicly. She closes with a positive reframe exercise and focus over a year. Workshops and Beehiiv are promoted; she discloses investing in Beehiiv.",
+  "insights": [
+    {
+      "slug": "surface-area-exploration",
+      "title": "Use exposure to find a direction",
+      "explanation": "She qualifies her criticism of isolation by saying focused isolation suits people who already know what to work on.",
+      "quote": "monk mode is advice for people who already know what to work on",
+      "tags": [
+        "networking",
+        "exploration"
+      ],
+      "character_start": 719,
+      "character_end": 782,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "five-f-relationships",
+      "title": "Learn another person’s priorities before offering value",
+      "explanation": "Her five Fs are future, family, fun, fascination and friction; examples include choosing only dimensions she actually knows.",
+      "quote": "future what do they want career-wise",
+      "tags": [
+        "relationships",
+        "value"
+      ],
+      "character_start": 6830,
+      "character_end": 6866,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "activity-audit",
+      "title": "Distinguish useful challenge from exhausting activity",
+      "explanation": "Even while urging more activity she asks whether the chosen activities actually advance her.",
+      "quote": "am I doing stuff that doesn't actually progress me that just makes me tired",
+      "tags": [
+        "energy",
+        "focus"
+      ],
+      "character_start": 10685,
+      "character_end": 10760,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "positive-addition",
+      "title": "Add a positive observation without denying discomfort",
+      "explanation": "The ten-second reset retains the negative feeling while widening attention.",
+      "quote": "i'm not negating the fact that I don't feel good",
+      "tags": [
+        "mindset",
+        "attention"
+      ],
+      "character_start": 17093,
+      "character_end": 17141,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "066cdd5e-9194-405f-82be-a040c420f8fb",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Her in-person success rates, dopamine, vitamin D, venting and positivity claims are not independently checked. Opening describes monk mode as useful for those who already know their focus, while the conclusion endorses depth; exploration and commitment are different stages. More activity is qualified by asking whether it merely exhausts her. Guarantees and workshop outcomes are marketing.",
+  "review_changes": "Adds scout/operator/builder sequencing, five-F mechanics, explicit product interest and positive reframing that does not deny negative feelings.",
+  "deep_review_date": "2026-11-16T20:51:51.293844+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/m5N4KEpAG-s.json",
+  "previous_draft_sha256": "4b8d0a9cf1963844930c8f9a577ea24a4a7e53a01aac517499261d65cb18ba0e"
+}

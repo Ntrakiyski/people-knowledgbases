@@ -1,0 +1,37 @@
+{
+  "youtube_id": "9q5ojtkqsBs",
+  "thesis": "The selected AI argument concerns incumbents' attention constraints and possible operating leverage.",
+  "summary": "The creator argues that existing operators may have little time to learn AI and uses a hypothetical cost reduction to explain operating leverage. Predictions about labor values and economic growth remain speculative. The note records the argument without treating future outcomes or savings as established facts.",
+  "insights": [
+    {
+      "slug": "incumbent-attention",
+      "title": "Investigate whether current operators lack learning capacity",
+      "explanation": "The source proposes busyness as one opening for an entrant. That hypothesis requires market-specific evidence.",
+      "quote": "so busy running their business rather than learning AI",
+      "character_start": 1286,
+      "character_end": 1340,
+      "tags": [
+        "ai",
+        "competition"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ai-margin-hypothesis",
+      "title": "Separate a cost-reduction scenario from a demonstrated result",
+      "explanation": "The passage explicitly assumes the selling price can remain while costs fall. Competition, quality, and implementation costs could change that arithmetic.",
+      "quote": "if you can still charge that $2,000 price",
+      "character_start": 26156,
+      "character_end": 26197,
+      "tags": [
+        "ai",
+        "unit-economics"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "6f6e20c9-309a-4735-8418-387439aa2351",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

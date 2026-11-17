@@ -1,0 +1,42 @@
+{
+  "youtube_id": "d2Ws2SfhW-c",
+  "thesis": "The chessboard-rice parable illustrates repeated accumulation across financial and nonfinancial domains.",
+  "summary": "A story about a king promising geometrically increasing rice on a chessboard illustrates how repeated doubling can exceed intuition. The story ends violently, reinforcing the king's surprise rather than providing a historical account. Bloom then recommends regular investment in money, relationships, health, and the mind. The analogy favors consistency and long horizons; it does not demonstrate that all those domains compound at a fixed rate or that investment returns are certain.",
+  "insights": [
+    {
+      "slug": "compounding-intuition",
+      "title": "Repeated growth can outrun initial intuition",
+      "explanation": "The chessboard request uses successive doubling to illustrate why seemingly small commitments can become large. It is an illustration, not a financial forecast.",
+      "quote": "a single Grain on the first Square two grains on the second four on the third eight on the fourth",
+      "tags": [
+        "investing",
+        "learning"
+      ],
+      "character_start": 351,
+      "character_end": 448,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "regular-investment",
+      "title": "Extend consistency beyond money without assuming equal returns",
+      "explanation": "Bloom invites recurring investment in several life domains. The transcript gives no measured growth function for health or relationships.",
+      "quote": "harness the power of compounding in your money your relationships your health and your mind invest in them regularly",
+      "tags": [
+        "life-design",
+        "investing"
+      ],
+      "character_start": 1061,
+      "character_end": 1177,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "7f484a1f-1185-4d50-8d14-d7d807000114",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The story is a parable. Its origin, numerical details, and events have not been independently checked. Exponential arithmetic does not establish a guaranteed return on habits or capital.",
+  "review_changes": "Separates the mathematical illustration from the much broader life analogy.",
+  "deep_review_date": "2026-11-16T19:23:26.475221+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/d2Ws2SfhW-c.json",
+  "previous_draft_sha256": "8b3cb2149c24ead3df6282d46aab6c6e6c2e0cf26f2c9ec45517b57de733a116"
+}

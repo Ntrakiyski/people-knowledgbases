@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "youtube_id": "msHqw2aRIjQ",
+      "title": "The Millionaire Habit That Could Save Your Life",
+      "source_id": "c0aafa60-4524-418c-b266-17987d7fb642"
+    },
+    {
+      "youtube_id": "3QAV1Avmg9Y",
+      "title": "The Health Lies We've Been Told",
+      "source_id": "325c9661-9fd0-4913-aee4-7b5a5528e260"
+    },
+    {
+      "youtube_id": "UApJWuKFtH4",
+      "title": "The Phone Habit That Was Ruining My Life",
+      "source_id": "9e7e3384-86bf-4dbb-a020-c7bb9606553e"
+    },
+    {
+      "youtube_id": "O0wGm4Lrk94",
+      "title": "Why I Won't Spend Like a Millionaire",
+      "source_id": "5f17f5b6-ff05-42a2-8b68-c124ee20c0f1"
+    },
+    {
+      "youtube_id": "apdZbtQjSCI",
+      "title": "The Day I Almost Quit Entrepreneurship",
+      "source_id": "85d8252b-aae2-4beb-a294-08bc040f3fb5"
+    },
+    {
+      "youtube_id": "uflyGsDqoYk",
+      "title": "I Didn't Buy a Lamborghini... I Did This Instead",
+      "source_id": "a56fbc27-1cbb-486d-b3a2-47c7f6c1f2e5"
+    },
+    {
+      "youtube_id": "9H3vF7qCs88",
+      "title": "Success Doesn't Feel Like You Think",
+      "source_id": "40210031-6d32-45f5-98dc-b55990c3b292"
+    },
+    {
+      "youtube_id": "fExJijbgWF0",
+      "title": "Why Most Entrepreneurs Never Make Their First Million",
+      "source_id": "89e93483-4468-4741-ade2-ed21dedeb7e2"
+    },
+    {
+      "youtube_id": "D2Oek_YVIFA",
+      "title": "I Turn Down Million-Dollar Opportunities",
+      "source_id": "6cc178bc-58ea-4112-a96a-620e1375dcae"
+    },
+    {
+      "youtube_id": "GamOfEftPUA",
+      "title": "The $10M Entrepreneur's Sales Secret",
+      "source_id": "27090905-604f-4b4b-a4bb-e1198f2e287d"
+    }
+  ],
+  "error": "NotebookLM extraction command failed (exit 1)"
+}

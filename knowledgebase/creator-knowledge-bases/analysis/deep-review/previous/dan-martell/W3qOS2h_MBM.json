@@ -1,0 +1,50 @@
+{
+  "youtube_id": "W3qOS2h_MBM",
+  "thesis": "The selected skills ranking treats defensibility and earning potential as changing judgments under AI.",
+  "summary": "The reviewed passages question future search behavior, distinguish lead-generation outcomes from tools, and anticipate a shift from automation toward agents. These are forecasts and subjective rankings, not verified measures of future-proof work. The note does not cover all nineteen skills.",
+  "insights": [
+    {
+      "slug": "skill-defensibility-uncertainty",
+      "title": "Keep uncertainty in a future-skills ranking",
+      "explanation": "The creator explicitly says he does not know how people will search. The tier labels should not be treated as forecasts with established accuracy.",
+      "quote": "I don't know if people are going to be searching in the future",
+      "character_start": 8111,
+      "character_end": 8173,
+      "tags": [
+        "ai",
+        "career"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "outcome-versus-tool",
+      "title": "Separate a valued outcome from one technical channel",
+      "explanation": "The source argues that generating leads can matter even if search changes. Customer willingness to pay still needs evidence.",
+      "quote": "the ability to shift and understand how to generate leads",
+      "character_start": 19458,
+      "character_end": 19515,
+      "tags": [
+        "marketing",
+        "skills"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "skill-transition",
+      "title": "Plan for tools and implementation skills to change",
+      "explanation": "The predicted move from automations to agents is the creator's expectation, not a settled sequence.",
+      "quote": "people that understand automation will learn agents",
+      "character_start": 25556,
+      "character_end": 25607,
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2fff8fd0-e3f3-44fa-b9f0-b1c0ec0ad052",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

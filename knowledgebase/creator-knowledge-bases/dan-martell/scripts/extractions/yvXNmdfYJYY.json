@@ -1,0 +1,81 @@
+{
+  "youtube_id": "yvXNmdfYJYY",
+  "thesis": "Use linked operating metrics to manage business value, retention and cash survival.",
+  "summary": "Seven principles cover saleable value, gross margin, retention, customer value, acquisition cost, funnel conversion and runway. Martell illustrates revenue-minus-delivery-cost gross profit, churn and revenue-based LTV, CAC by paying customers, cash payback and stage-level conversion. Daily cash reporting is intended to expose problems before a retrospective P&L.",
+  "insights": [
+    {
+      "slug": "gross-margin-versus-profit",
+      "title": "Separate delivery economics from total profit",
+      "explanation": "He explicitly distinguishes gross profit from revenue less all expenses; interpreting it still requires consistent cost definitions.",
+      "quote": "this is gross profit on just the things sold",
+      "tags": [
+        "metrics",
+        "margin"
+      ],
+      "character_start": 3143,
+      "character_end": 3187,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "retention-before-acquisition",
+      "title": "Investigate churn before buying more leads",
+      "explanation": "The leaking-bucket analogy explains why acquisition may fail to create durable growth.",
+      "quote": "plug the holes in the bucket before you fill it",
+      "tags": [
+        "retention",
+        "growth"
+      ],
+      "character_start": 4889,
+      "character_end": 4936,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "cac-payback",
+      "title": "Financing growth depends on recovery speed",
+      "explanation": "A large lifetime value does not remove a near-term cash deficit when acquisition costs are recovered slowly.",
+      "quote": "you got to finance that growth even if the customer is worth $5,000 to you",
+      "tags": [
+        "cash-flow",
+        "cac"
+      ],
+      "character_start": 11322,
+      "character_end": 11396,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "funnel-stage-diagnosis",
+      "title": "Find the specific failing transition",
+      "explanation": "He breaks leads, qualification, booking, attendance and closing into stages to direct improvement.",
+      "quote": "figure out which step is broken and then go attack that step",
+      "tags": [
+        "conversion",
+        "bottlenecks"
+      ],
+      "character_start": 13493,
+      "character_end": 13553,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "runway-cash-awareness",
+      "title": "Monitor cash rather than only retrospective profit",
+      "explanation": "The five-month example is a constant-net-burn approximation, and his verbal minus formula should not be copied.",
+      "quote": "every day I get how much cash came in how much cash went out",
+      "tags": [
+        "cash",
+        "runway"
+      ],
+      "character_start": 16165,
+      "character_end": 16225,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "f9b26768-59a2-4e82-ae18-eb93cadd7cc9",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Educational approximations contain errors. $1.5m revenue at 30% is $450k, not $500k. He verbally says cash minus burn for runway, while his worked $100k/$20k example correctly divides to get five months. Revenue/churn LTV omits margin, discounting and varying retention; gross margin differs from net cash. A 70% margin or 3% monthly churn is not a universal target. Simplified profit multiples do not determine actual enterprise/equity value, debt or transaction proceeds.",
+  "review_changes": "Adds formula and arithmetic qualifications, distinguishes gross profit from cash and treats industry-wide benchmarks as personal heuristics rather than rules.",
+  "deep_review_date": "2026-11-16T20:57:07.426697+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/yvXNmdfYJYY.json",
+  "previous_draft_sha256": "b090d05a69c0e14fd2a8e1602a9e0068588ee3e1df40eb3e407b3f7ad133df65"
+}

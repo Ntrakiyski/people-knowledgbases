@@ -1,0 +1,50 @@
+{
+  "youtube_id": "K8Ros5RhJW4",
+  "thesis": "The selected AI business ranking contrasts offers with different customer value and differentiation.",
+  "summary": "Reviewed passages discuss leads as a customer-facing offer, criticize undifferentiated faceless channels, and propose managed cybersecurity. Profitability, longevity, and competition rankings are the creator's opinions rather than market research. Security services carry specialized responsibilities not established by the pitch, and this note does not cover all fourteen models.",
+  "insights": [
+    {
+      "slug": "customer-value-offer",
+      "title": "Describe a concrete result rather than AI in the abstract",
+      "explanation": "The lead-generation example names contacts and management as the offer. Actual lead quality and consent remain unverified.",
+      "quote": "warm leads with phone numbers and emails that I can manage",
+      "character_start": 3795,
+      "character_end": 3853,
+      "tags": [
+        "sales",
+        "offers"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "undifferentiated-content-risk",
+      "title": "Inspect how easily a content model can be replicated",
+      "explanation": "The source criticizes faceless channels for weak brand and loyalty. Its claims of near-zero profitability are not verified.",
+      "quote": "there's no brand being built there's no audience or loyalty",
+      "character_start": 5330,
+      "character_end": 5389,
+      "tags": [
+        "creator-strategy",
+        "competition"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "security-value-proposition",
+      "title": "Separate perceived value from capability to deliver safely",
+      "explanation": "The creator describes preventing outages as valuable. That does not establish competence, suitable controls, or viable pricing for a new provider.",
+      "quote": "not having somebody's systems go down would be massive value",
+      "character_start": 23937,
+      "character_end": 23997,
+      "tags": [
+        "ai",
+        "services"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "03626d99-73df-4a0b-9904-41e0942c85cb",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

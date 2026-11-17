@@ -1,0 +1,156 @@
+{
+  "slug": "how-to-actually-buy-a-house-in-2026-my-exact-system-4RGSx3mklcc",
+  "thesis": "Sharran organizes home buying into strategy, search, contract, and closing, with a clear buyer brief and agent partnership guiding each stage.",
+  "summary": "Sharran presents a twelve-step home-buying process grouped into four stages. Before searching, he recommends articulating the life event motivating the move, separating non-negotiables from preferences, choosing between a better house and a better location, clarifying deadlines, and deciding between cash and mortgage financing. He proposes interviewing agents about their process, current buyer mistakes, and compensation, then obtaining mortgage pre-approval while keeping the financial picture stable.\n\nDuring the search, he urges buyers to consider conditionally available off-market homes and understand months of inventory and the seller’s pricing strategy. After an accepted offer, he describes inspection, financing, and appraisal contingencies as opportunities to investigate, renegotiate, or exit within the applicable periods. Closing then involves moving logistics, a final walkthrough, document signing, and funds transfer. These are his process recommendations and descriptions of transaction practice rather than a statement of universal contractual rights.",
+  "tags": [
+    "real-estate",
+    "home-buying",
+    "negotiation",
+    "planning"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:32",
+      "note": "Four stages and the buyer strategy brief."
+    },
+    {
+      "ts": "0:04:50",
+      "note": "Agent selection and interview questions."
+    },
+    {
+      "ts": "0:07:26",
+      "note": "Conditionally available off-market inventory."
+    },
+    {
+      "ts": "0:08:32",
+      "note": "Months of inventory and pricing strategies."
+    },
+    {
+      "ts": "0:12:41",
+      "note": "Inspection, financing, and appraisal contingencies."
+    },
+    {
+      "ts": "0:14:42",
+      "note": "Closing logistics and final verification."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "home-buying-game-plan",
+      "name": "Home-buying game plan",
+      "one_liner": "A written brief that fixes motivation, constraints, timing, and financing before searching.",
+      "explanation": "Sharran places the buyer’s game plan before agent selection and property tours. It starts with the life event behind the purchase, then separates unacceptable features and must-haves from optional conveniences. He adds precise versus flexible deadlines and the choice between cash and financing. The resulting brief gives the agent a usable target and helps the buyer avoid repeatedly changing criteria or treating every attractive listing as the right home.",
+      "tags": [
+        "home-buying",
+        "planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:39",
+          "text": "Having the primary motivation combined with the non-negotiables allows you to start building a real game plan"
+        }
+      ],
+      "related": [
+        "home-location-tradeoff",
+        "mortgage-preapproval"
+      ]
+    },
+    {
+      "slug": "home-location-tradeoff",
+      "name": "Home-location tradeoff",
+      "one_liner": "An explicit choice between a stronger house and a stronger location within budget.",
+      "explanation": "The seven-out-of-ten rule is Sharran’s antidote to waiting for a perfect house in a perfect location. Before searching, he asks buyers to choose whether they prefer a ten-out-of-ten house in a seven-out-of-ten location or the reverse. He bases the framing on his claimed transaction experience. Its purpose is to make tradeoffs deliberate and help distinguish negotiable property features from location priorities that a renovation cannot change.",
+      "tags": [
+        "home-buying",
+        "decision-making"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:27",
+          "text": "do you want a 10 out of 10 home in a seven out of 10 location?"
+        }
+      ],
+      "related": [
+        "home-buying-game-plan"
+      ]
+    },
+    {
+      "slug": "mortgage-preapproval",
+      "name": "Mortgage pre-approval",
+      "one_liner": "Establishing lender-supported buying capacity before searching and preserving that financial profile.",
+      "explanation": "For mortgage buyers, Sharran recommends obtaining lender referrals after choosing an agent and completing pre-approval before touring homes seriously. He emphasizes that approval reflects the borrower’s current income, assets, employment, and credit situation. Consequently, he advises against taking new debt, buying a car, opening credit accounts, or changing jobs during the process. He contrasts financing’s liquidity benefit with the speed and perceived certainty of a cash offer.",
+      "tags": [
+        "mortgages",
+        "home-buying"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:41",
+          "text": "Your pre-approval reflects your current financial state"
+        }
+      ],
+      "related": [
+        "home-buying-game-plan"
+      ]
+    },
+    {
+      "slug": "off-market-inventory",
+      "name": "Off-market inventory",
+      "one_liner": "Homes that are not listed but could become available if an owner’s conditions are met.",
+      "explanation": "Sharran rejects a simple division between listed homes and unavailable homes. He describes passive or conditionally available inventory: owners who would sell for a suitable price, after finding another property, or once a financing problem is solved. In his account, a capable agent can surface these possibilities through off-market relationships and pocket listings. His claim that this pool can exceed listed supply many times over is presented as market-dependent.",
+      "tags": [
+        "real-estate",
+        "home-buying"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:26",
+          "text": "a large piece that we call passive inventory or that are conditionally available."
+        }
+      ],
+      "related": [
+        "home-buying-game-plan"
+      ]
+    },
+    {
+      "slug": "months-of-inventory",
+      "name": "Months of inventory",
+      "one_liner": "The estimated time needed to sell current housing supply if no new homes were listed.",
+      "explanation": "Sharran uses months of inventory to connect supply and demand with negotiating strategy. He calls five to six months balanced, fewer than five a seller’s market, and more than six a market with slower sales and greater supply. These thresholds are his teaching framework. Buyers then compare the seller’s aspirational, comparable-value, or deliberately low event pricing with prevailing conditions instead of assuming every asking price means the same thing.",
+      "tags": [
+        "real-estate",
+        "negotiation"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:47",
+          "text": "it take to sell the current inventory of homes assuming that no new homes came to market."
+        }
+      ],
+      "related": [
+        "purchase-contingencies"
+      ]
+    },
+    {
+      "slug": "purchase-contingencies",
+      "name": "Purchase contingencies",
+      "one_liner": "Contractual investigation and financing conditions that can support renegotiation or exit.",
+      "explanation": "Sharran groups the contract period around three outs: physical inspection, loan approval, and appraisal. Inspection can reveal repair needs and support a request for repairs, while financing and appraisal can expose loan problems or a mismatch between value and price. He emphasizes that these opportunities operate during their contingency periods and through the agent. His presentation should be read as a process framework whose actual rights depend on the buyer’s contract.",
+      "tags": [
+        "home-buying",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:56",
+          "text": "Number one, the physical inspection when a home is under contract"
+        }
+      ],
+      "related": [
+        "risk-management",
+        "months-of-inventory"
+      ]
+    }
+  ],
+  "entities": []
+}

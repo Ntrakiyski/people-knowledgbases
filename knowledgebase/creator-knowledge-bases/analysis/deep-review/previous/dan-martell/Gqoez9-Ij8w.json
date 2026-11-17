@@ -1,0 +1,50 @@
+{
+  "youtube_id": "Gqoez9-Ij8w",
+  "thesis": "Selected AI operating rules favor finished systems, repeatability, and sound underlying processes.",
+  "summary": "The source contrasts one deployed agent with many unfinished experiments, emphasizes repeatable prompts, and warns that automation can amplify a broken system. It also distinguishes repetitive tasks from human interaction. These are operating principles rather than evidence for the video's implied performance advantage.",
+  "insights": [
+    {
+      "slug": "finished-automation",
+      "title": "Prioritize a useful deployed workflow over many unfinished attempts",
+      "explanation": "The creator emphasizes completion and recurring value. The comparison is a heuristic, not a measured productivity ratio.",
+      "quote": "One well-built agent beats 10 half-built ones",
+      "character_start": 7734,
+      "character_end": 7779,
+      "tags": [
+        "ai",
+        "execution"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "repeatable-prompts",
+      "title": "Look for reproducibility rather than a lucky response",
+      "explanation": "The source treats repeatability as part of skill. Actual reliability still requires task-specific evaluation.",
+      "quote": "A prompt you can't repeat isn't a skill",
+      "character_start": 9863,
+      "character_end": 9902,
+      "tags": [
+        "ai",
+        "quality"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "system-before-automation",
+      "title": "Fix the process before increasing its speed",
+      "explanation": "The fuel metaphor warns that automation can scale defects as well as useful work.",
+      "quote": "Fix the system first before you add the fuel",
+      "character_start": 11186,
+      "character_end": 11230,
+      "tags": [
+        "operations",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "489958b0-2b48-452b-b31f-7b732c64fe26",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

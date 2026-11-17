@@ -1,0 +1,50 @@
+{
+  "youtube_id": "9JpbWkZPh5c",
+  "thesis": "The selected focus advice favors single-task blocks and a simpler attention environment.",
+  "summary": "The creator describes three protected work periods and one task at a time, then emphasizes tolerating silence. Reported sustained focus and claims about dopamine or brain rewiring are personal assertions, not validated findings. The selected review does not cover every habit in the routine.",
+  "insights": [
+    {
+      "slug": "single-tasking",
+      "title": "Define a focused block by one task",
+      "explanation": "The source distinguishes focus from simultaneous activity. Its specific daily hours are personal examples.",
+      "quote": "no multitasking just one task done extremely well",
+      "character_start": 1535,
+      "character_end": 1584,
+      "tags": [
+        "attention",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "silence-and-thinking",
+      "title": "Leave room for thought without constant input",
+      "explanation": "The creator links tolerance for silence with thinking. The relationship is proposed rather than demonstrated here.",
+      "quote": "the more silence you can tolerate the better thinker you become",
+      "character_start": 2816,
+      "character_end": 2879,
+      "tags": [
+        "attention",
+        "reflection"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "focus-simplification",
+      "title": "Reduce friction around attention rather than only increasing effort",
+      "explanation": "The closing formulation emphasizes simplifying conditions. It does not show that the full routine prevents burnout.",
+      "quote": "you won't grind your way to focus you simplify your way there",
+      "character_start": 2880,
+      "character_end": 2941,
+      "tags": [
+        "attention",
+        "environment-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "ac9b8265-4452-44e7-9a26-3ac7c14b7407",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

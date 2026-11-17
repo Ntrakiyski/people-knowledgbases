@@ -1,0 +1,50 @@
+{
+  "youtube_id": "jrN-f2wEcOw",
+  "thesis": "The reviewed passages connect earning potential to useful skills, visible contribution, and patience.",
+  "summary": "The source argues that skills matter because they help solve other people's problems. It encourages demonstrating useful work publicly as a way to build relationships and cautions against easy-wealth promises. These are principles advanced by the creator, not evidence that public posting or skill stacking ensures financial independence. This note reviews selected original passages rather than the complete wealth framework.",
+  "insights": [
+    {
+      "slug": "problem-solving-value",
+      "title": "Evaluate skills by the problems they help solve",
+      "explanation": "The speaker's model connects earning to useful contribution. Actual compensation also depends on market structure and bargaining conditions not resolved here.",
+      "quote": "money is a byproduct of the problems you solve for other people",
+      "character_start": 897,
+      "character_end": 960,
+      "tags": [
+        "skills",
+        "value-creation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "visible-contribution-network",
+      "title": "Demonstrate useful work when building relationships",
+      "explanation": "The source contrasts providing value with simply collecting contacts, and proposes publishing as one possible channel.",
+      "quote": "you build a network by being valuable",
+      "character_start": 4415,
+      "character_end": 4452,
+      "tags": [
+        "relationships",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "wealth-time-horizon",
+      "title": "Retain the time and effort in wealth-building narratives",
+      "explanation": "The creator explicitly warns that the process is slow. The warning qualifies any suggestion that a single evening exercise itself produces wealth.",
+      "quote": "building a wealth machine takes time it requires patience and consistency",
+      "character_start": 5900,
+      "character_end": 5973,
+      "tags": [
+        "personal-finance",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "742ac38f-3b44-40f9-b9ce-e9a0139b4d2b",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

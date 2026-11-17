@@ -1,0 +1,66 @@
+{
+  "youtube_id": "gHyFapFm6FE",
+  "thesis": "Bloom revises beliefs about purpose, relationships, agency, compatibility, and achievement-based worth.",
+  "summary": "The video recounts five personal belief changes. Purpose becomes something built by following energizing activity; relationships add meaning rather than simply competing with ambition; stronger agency replaces automatic self-disqualification; partnership is about complementarity rather than sameness; and external achievements cannot permanently supply worth. The critique of moving finish lines anchors the final point. The video uses broad claims about successful people to motivate action, but it does not establish that desire removes resource constraints or that one relationship model suits everyone.",
+  "insights": [
+    {
+      "slug": "created-purpose",
+      "title": "Look for activities that supply energy",
+      "explanation": "Purpose is framed as something built through attention to actual activities rather than discovered in one revelation.",
+      "quote": "purpose isn't found It's created And the best way to create it follow your energy",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 643,
+      "character_end": 724,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-richness",
+      "title": "Do not define loved ones only as a cost to achievement",
+      "explanation": "Bloom says relationships add depth and meaning. The finite time with people qualifies his earlier willingness to sacrifice everything for success.",
+      "quote": "the people and relationships in your life don't detract from success They add richness depth and meaning to it",
+      "tags": [
+        "family",
+        "life-design"
+      ],
+      "character_start": 1195,
+      "character_end": 1305,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "complementary-relationships",
+      "title": "Compatibility need not mean identical traits",
+      "explanation": "The video contrasts mirroring with complementarity. This is a relationship perspective, not evidence that differences always improve compatibility.",
+      "quote": "the best relationships aren't about sameness They're about complimentarity",
+      "tags": [
+        "family",
+        "communication"
+      ],
+      "character_start": 2094,
+      "character_end": 2168,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "achievement-and-worth",
+      "title": "Separate personal worth from moving external milestones",
+      "explanation": "The speaker argues that meeting one arbitrary milestone can simply create the next. The suggested response is to avoid making worth conditional on achievement.",
+      "quote": "Never tie your self-worth to an arbitrary external milestone",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 2733,
+      "character_end": 2793,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "80ba8547-d5cf-4f39-a28f-1fec619f2903",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "These are personal reflections and generalizations. The claim that successful people have no secret advantage should not erase real differences in resources, opportunity, or support.",
+  "review_changes": "Adds the distinct partnership and self-worth themes and qualifies the all-encompassing agency claim.",
+  "deep_review_date": "2026-11-16T19:23:26.477870+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/gHyFapFm6FE.json",
+  "previous_draft_sha256": "bd3f9e7d27662790ac3caae5be32127c08ec8af66b280a55d8e8a0768e20b4ee"
+}

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "Y5jpgeuJrEY",
+  "thesis": "A book launch tests the tradeoffs in a broader definition of wealth.",
+  "summary": "The launch-week vlog follows radio, television and live events, family calls and a diverted flight. Event excerpts question money as the sole scoreboard, emphasize deliberately chosen games, relational investment, enough as a life and direction over speed. Bloom describes repeated outreach and seasonal balance while acknowledging being away from his wife and son more than desired.",
+  "insights": [
+    {
+      "slug": "chosen-scoreboard",
+      "title": "Ask whether the game is worth winning",
+      "explanation": "The book’s premise broadens evaluation beyond a measurable financial score.",
+      "quote": "is this actually a game that I care to win",
+      "tags": [
+        "wealth",
+        "goals"
+      ],
+      "character_start": 3159,
+      "character_end": 3201,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "direction-over-speed",
+      "title": "Define the desired life before accelerating",
+      "explanation": "He uses climbing the right mountain slowly to distinguish directional fit from activity.",
+      "quote": "what we really need to do is focus on Direction Over speed",
+      "tags": [
+        "decisions",
+        "enough"
+      ],
+      "character_start": 7034,
+      "character_end": 7092,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "seasonal-balance",
+      "title": "Acknowledge the cost of temporary imbalance",
+      "explanation": "He explicitly admits the launch keeps him away from family more than he wants.",
+      "quote": "I'm away from my wife and son way more than I want to be",
+      "tags": [
+        "family",
+        "tradeoffs"
+      ],
+      "character_start": 350,
+      "character_end": 406,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-action",
+      "title": "Act promptly on appreciation",
+      "explanation": "He views the impulse to contact someone with a positive thought as perishable.",
+      "quote": "that inspiration that you feel around relationships is totally perishable",
+      "tags": [
+        "relationships",
+        "action"
+      ],
+      "character_start": 10608,
+      "character_end": 10681,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "cb4e7c95-45c8-49c5-9dd8-bb391ac58814",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Edited multi-speaker promotional footage with music and fragmented transcription. Others’ praise is testimonial, not proof of outcomes. Seasonal imbalance is his rationale and acknowledged cost, not evidence that tradeoffs disappeared. Repeated contact is his preference and does not establish that recipients welcome it.",
+  "review_changes": "Adds the lived tradeoff of launch travel, the relational meaning of enough, and careful attribution of event/guest remarks.",
+  "deep_review_date": "2026-11-16T20:50:23.343454+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/Y5jpgeuJrEY.json",
+  "previous_draft_sha256": "99bcabfca9d93b84410dfdd450243515d5ba2aa397ffdb0f336b6e0ce2730d6c"
+}

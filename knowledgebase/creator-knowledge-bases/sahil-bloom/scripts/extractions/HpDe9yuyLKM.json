@@ -1,0 +1,67 @@
+{
+  "youtube_id": "HpDe9yuyLKM",
+  "thesis": "The five habits combine self-directed goals, imperfect consistency, chosen challenge, process standards, and agency.",
+  "summary": "Bloom argues that following borrowed desires can produce a life that looks attractive but feels empty. He recommends identifying energizing interests, acting consistently despite imperfection, treating some discomfort as growth, maintaining high internal standards without demanding external applause, and taking responsibility. The section on low expectations concerns uncontrollable recognition, not careless work: he explicitly retains preparation and mastery. Self-designed rewards are offered as a way to sustain effort. Claims equating discomfort with progress or personal responsibility with total control require qualification.",
+  "insights": [
+    {
+      "slug": "borrowed-desires",
+      "title": "Check whether goals come from genuine interest",
+      "explanation": "The video warns against copying what other people want without examining personal fit.",
+      "quote": "when you copy someone else's desires you lose touch with your own",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 851,
+      "character_end": 916,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "imperfect-consistency",
+      "title": "Manage imperfection instead of waiting for flawless action",
+      "explanation": "Consistency is framed as repeated action with imperfect conditions. The claim is about execution habits rather than an excuse for neglecting quality.",
+      "quote": "being consistent is about managing your imperfection to achieve the things you want in life",
+      "tags": [
+        "productivity",
+        "learning"
+      ],
+      "character_start": 1873,
+      "character_end": 1964,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "process-standards",
+      "title": "Hold preparation standards without demanding applause",
+      "explanation": "The distinction is between controllable work and uncontrollable recognition. It supports self-directed evaluation rather than low ambition.",
+      "quote": "be relentless about what you control your preparation mastery and mindset and let go of everything you don't",
+      "tags": [
+        "learning",
+        "life-design"
+      ],
+      "character_start": 3666,
+      "character_end": 3774,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "self-designed-rewards",
+      "title": "Supply rewards that do not depend on public recognition",
+      "explanation": "Bloom names breaks, meals, and enjoyable workouts as ways he rewards effort. These are his examples, not evidence for a universal reward schedule.",
+      "quote": "designing my own rewards for hard work and sacrifice",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 3807,
+      "character_end": 3859,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "458d8352-11b4-43f1-8608-7be6ad19b2c0",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Discomfort can also signal harm; the video does not supply a clinical distinction. Agency rhetoric does not show that outcomes are entirely controllable or that social support is unnecessary.",
+  "review_changes": "Adds the internal-rewards mechanism and clarifies that low expectations concern recognition, not performance standards.",
+  "deep_review_date": "2026-11-16T19:23:26.480852+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/HpDe9yuyLKM.json",
+  "previous_draft_sha256": "d73e93d23aacf26b7cb0351cdd89bf34e73cb02a3f59b8ba6dfea19d2573b7ce"
+}

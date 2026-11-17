@@ -1,0 +1,67 @@
+{
+  "youtube_id": "aA3OUCVSo8Y",
+  "thesis": "Map activities by competence and energy, then adjust, cut, build, and explore deliberately.",
+  "summary": "The pursuit map places specific work and nonwork activities on competence and energy axes. High competence with low energy is labeled a danger zone because rewards can prolong an unsatisfying commitment. High energy with high competence is the desired zone; high energy with low competence is potential worth developing. Bloom then proposes four actions: adjust a draining activity, cut one or work toward cutting it, protect recurring time for a strong energizing pursuit, and add exploratory interests. The framework is a self-assessment tool rather than a validated career diagnosis.",
+  "insights": [
+    {
+      "slug": "pursuit-map",
+      "title": "Evaluate specific activities rather than only job titles",
+      "explanation": "Breaking a role into tasks can reveal different combinations of skill and energy within the same job.",
+      "quote": "start with your job but break it down into the specific activities",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 778,
+      "character_end": 844,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "competence-trap",
+      "title": "Being rewarded for a skill can conceal low energy",
+      "explanation": "The danger zone combines external competence and reinforcement with a draining experience. The framework diagnoses an attention pattern, not objective job quality.",
+      "quote": "high competency but low energy you're good at it people praise you for it maybe you even get paid for it",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 1492,
+      "character_end": 1596,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "adjust-before-cutting",
+      "title": "Try modifying a draining activity",
+      "explanation": "The first action is an adjustment that might increase energy. Walking client calls are an example, showing that the framework does not demand abandoning every disliked responsibility.",
+      "quote": "think about how you might be able to adjust it in order to increase the energy you get from the activity",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 2971,
+      "character_end": 3075,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "beginner-potential",
+      "title": "Keep room for energizing beginner interests",
+      "explanation": "Low present competence does not automatically disqualify an activity. The speaker encourages exploration and practice as pathways toward future capability.",
+      "quote": "new activities that spark genuine interest in energy even if you're just an embarrassing beginner at them",
+      "tags": [
+        "learning",
+        "life-design"
+      ],
+      "character_start": 3751,
+      "character_end": 3856,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2f9cdcdc-b325-434d-9545-4d1714321e3e",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Energy and competence ratings are subjective; market demand, obligations, and financial runway are not modeled. The video allows working toward a cut, not only immediate resignation. Transcript rendering of the cited author's name is uncertain.",
+  "review_changes": "Adds the often-missed adjustment option and beginner zone, avoiding a simplistic quit-everything-draining interpretation.",
+  "deep_review_date": "2026-11-16T19:23:26.480030+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/aA3OUCVSo8Y.json",
+  "previous_draft_sha256": "c79cbc9bf6cd43aafe874b01d2d6c36fc275d2722b8363649a6fe05f9c10de47"
+}

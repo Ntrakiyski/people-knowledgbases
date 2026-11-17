@@ -1,0 +1,37 @@
+{
+  "youtube_id": "0eR-Hv6zg-c",
+  "thesis": "The travel vlog mixes work, enjoyment, and attempts to preserve movement while away.",
+  "summary": "Selected passages show a Venice trip framed humorously around food and travel, alongside efforts to find a gym and run through the city. This is lifestyle context rather than a systematic business or health lesson. The note avoids turning the guide's parenting theme into an insight without reviewing the relevant passage.",
+  "insights": [
+    {
+      "slug": "travel-routine-adaptation",
+      "title": "Look for ways to adapt a routine to the setting",
+      "explanation": "The creator searches for a gym when the hotel option feels inadequate. This is an observed personal tactic, not a requirement for travel.",
+      "quote": "trying to find a gym here in Venice Italy",
+      "character_start": 2873,
+      "character_end": 2914,
+      "tags": [
+        "travel",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "movement-exploration",
+      "title": "Combine movement with experiencing a place",
+      "explanation": "The creator says running lets him see more of a city. The preference is personal and depends on access and ability.",
+      "quote": "one of the real added benefits of running when you travel to a new city",
+      "character_start": 7369,
+      "character_end": 7440,
+      "tags": [
+        "travel",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "95d1622a-1b6c-466f-bd3a-e7590258894c",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

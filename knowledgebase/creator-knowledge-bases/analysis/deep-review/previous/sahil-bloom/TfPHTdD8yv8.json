@@ -1,0 +1,50 @@
+{
+  "youtube_id": "TfPHTdD8yv8",
+  "thesis": "Selected advice for a rut combines rest, small action, and flexible effort.",
+  "summary": "The source warns against trying to force progress through exhaustion, proposes minimum viable action, and distinguishes commitment to acting from the amount completed. These are coaching suggestions, not a treatment for depression or proof that a rut will resolve quickly.",
+  "insights": [
+    {
+      "slug": "exhaustion-response",
+      "title": "Consider whether pushing harder deepens exhaustion",
+      "explanation": "The source's car-in-mud metaphor questions effort escalation as an automatic answer.",
+      "quote": "ambitious people often think they can break through a rut by pushing harder",
+      "character_start": 1807,
+      "character_end": 1882,
+      "tags": [
+        "health",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "minimum-viable-progress",
+      "title": "Start with a manageable action",
+      "explanation": "The creator argues that movement can precede motivation rather than requiring it first.",
+      "quote": "you have to start moving even if it's just a tiny bit",
+      "character_start": 2780,
+      "character_end": 2833,
+      "tags": [
+        "agency",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "flexible-consistency",
+      "title": "Separate doing something from doing a fixed amount",
+      "explanation": "The proposed balance combines commitment with flexibility in volume.",
+      "quote": "hold yourself to the fire when it comes to the act but give yourself grace when it comes to the amount",
+      "character_start": 4266,
+      "character_end": 4368,
+      "tags": [
+        "habits",
+        "self-management"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "73da1aaf-8fd9-4573-92ee-6084faba570d",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

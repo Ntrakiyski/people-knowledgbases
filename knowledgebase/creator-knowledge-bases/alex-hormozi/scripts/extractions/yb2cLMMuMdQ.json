@@ -1,0 +1,66 @@
+{
+  "youtube_id": "yb2cLMMuMdQ",
+  "thesis": "Beginner embarrassment is framed as a cost of visible effort, while documentation and feedback support improvement.",
+  "summary": "Hormozi shows early advertisements and content to contrast an awkward beginning with his current output. He argues that calling something cringe can be a status maneuver and that caring openly should not prevent practice. He also recommends documenting struggles, both to face the current situation and to preserve learning material. The closing returns to starting, taking feedback, and continuing. The piece contains repeated promotional claims and a book offer. It is motivational autobiography rather than evidence that all critics are threatened or that persistence guarantees business success.",
+  "insights": [
+    {
+      "slug": "beginner-comparison",
+      "title": "Compare stages of practice fairly",
+      "explanation": "Early examples are used to show that polished current work hides a long learning history. They do not prove the same trajectory is available to every beginner.",
+      "quote": "not to judge your first chapter by someone else's 25th or thousandth chapter",
+      "tags": [
+        "learning",
+        "life-design"
+      ],
+      "character_start": 445,
+      "character_end": 521,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "visible-effort",
+      "title": "Embarrassment need not veto a serious pursuit",
+      "explanation": "The speaker argues that ridicule can be attached to almost any activity by describing it dismissively. The actionable implication is tolerance for visible effort rather than automatic dismissal of all critique.",
+      "quote": "anyone can make anything cringe right because anyone who cares about anything is cringe",
+      "tags": [
+        "learning",
+        "communication"
+      ],
+      "character_start": 3123,
+      "character_end": 3210,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "document-learning",
+      "title": "Record the difficult stage as well as the polished one",
+      "explanation": "He regrets not documenting struggle and describes early podcasts as a record of lessons. Documentation is both memory support and later narrative material.",
+      "quote": "my goal was to document the lessons so that I had something to look back to as I moved up in my career",
+      "tags": [
+        "learning"
+      ],
+      "character_start": 6881,
+      "character_end": 6983,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "feedback-and-persistence",
+      "title": "Pair starting with feedback rather than mere repetition",
+      "explanation": "The closing explicitly includes taking feedback. That qualification matters when interpreting the video's defense of trying publicly.",
+      "quote": "start take feedback to get better and never stop",
+      "tags": [
+        "learning"
+      ],
+      "character_start": 7738,
+      "character_end": 7786,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "e75e619d-dee8-4ace-9c05-7d415bb6583b",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Shame, guilt, and cringe are defined in the speaker's own framework, not as clinical categories. Claimed records, revenue, and financial setbacks remain unverified. Criticism can contain useful information; the video's status explanation is not exhaustive.",
+  "review_changes": "Adds documentation as a learning mechanism and distinguishes ridicule from useful feedback, which the ending explicitly recommends taking.",
+  "deep_review_date": "2026-11-16T19:24:21.685321+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/yb2cLMMuMdQ.json",
+  "previous_draft_sha256": "91782a687b3b538a02c3784bd89f5b8b5974b39a84112e3fdf9995b6728c48f2"
+}

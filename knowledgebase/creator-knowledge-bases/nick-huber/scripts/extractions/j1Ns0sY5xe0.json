@@ -1,0 +1,63 @@
+{
+  "youtube_id": "j1Ns0sY5xe0",
+  "thesis": "A long-form book required personal authorship, narrative structure, and commitment despite competing opportunities.",
+  "summary": "The participant says a book commitment preceded a major acquisition opportunity. He wanted to organize operating lessons and numerous stories into the resource he wished he had as a beginner. A first ghostwriter experiment did not fit his desired authorship, and a lengthy personal draft then required substantial restructuring. The account emphasizes delayed feedback and uncertainty. Word and page counts in the transcript are inconsistent, so the note avoids treating them as precise production metrics. Newsletter size, advances, acquisition values, and publisher preferences remain reported claims rather than independently verified facts.",
+  "insights": [
+    {
+      "slug": "knowledge-product-purpose",
+      "title": "Define the practical job of the book",
+      "explanation": "The participant wanted multiple usable lessons and stories about real operating work. This explains his intended reader benefit rather than establishing whether the final book delivers it.",
+      "quote": "the book I wish I would have read before I started my first business",
+      "character_start": 700,
+      "character_end": 768,
+      "tags": [
+        "writing",
+        "knowledge-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "distribution-publishing",
+      "title": "Include existing distribution in publishing economics",
+      "explanation": "The speaker connects his newsletter and social audience to the ability to sell books. His description of what publishers care about is personal experience, not a universal account of publishing decisions.",
+      "quote": "I had 200,000 people on my email newsletter",
+      "character_start": 2917,
+      "character_end": 2960,
+      "tags": [
+        "distribution",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "authorship-ownership",
+      "title": "Choose where personal authorship is central to the product",
+      "explanation": "He describes paying the ghostwriter and taking over because the book represented his legacy. That is his preference about this work, not an argument against all collaborative writing.",
+      "quote": "this is your legacy this is your book you have to write this",
+      "character_start": 4110,
+      "character_end": 4170,
+      "tags": [
+        "writing",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "format-specific-craft",
+      "title": "Accept structural revision when changing formats",
+      "explanation": "The editor's criticism centered on coherence and story structure. The response was a rewrite with coaching, not simply assembling successful tweets into chapters.",
+      "quote": "you can't write a book like you like you tweet",
+      "character_start": 4673,
+      "character_end": 4719,
+      "tags": [
+        "writing",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "19a79b77-a729-4972-a617-68eb1bbd80f8",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

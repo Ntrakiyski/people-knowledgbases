@@ -1,0 +1,140 @@
+{
+  "slug": "buy-borrow-die-the-top-0-01-strategy-to-avoid-taxes-9EF3R3JR5Wk",
+  "thesis": "Sharran’s legacy loop combines holding assets, borrowing against them, and transferring them at death, while explaining material leverage risks.",
+  "summary": "Sharran describes a buy-borrow-die strategy he calls the legacy loop. He first distinguishes assets, liabilities, and collateral, then focuses on assets lenders can value reliably. He presents home-equity lines, securities-backed credit, and permanent-life-insurance loans as ways to obtain liquidity without selling the underlying holding, and argues this can preserve compounding and avoid a sale-triggered capital-gains event. His tax and legal descriptions are claims about the US setting, not independently verified rules or universal outcomes.\n\nHe uses his son’s land investment to illustrate pooling policy loans and partner capital, and explains his own preference for intentionally structured whole-life policies for his children. Crucially, he discusses rising HELOC payments and foreclosure, falling securities values and forced liquidation, and insurance-policy lapse when loans outgrow cash value. The final section describes stepped-up basis and heirs selling a slice of a portfolio to settle outstanding borrowing, making clear that the debt still has to be repaid.",
+  "tags": [
+    "borrowing",
+    "estate-planning",
+    "taxes",
+    "risk"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:17",
+      "note": "Assets, liabilities, and collateral."
+    },
+    {
+      "ts": "0:03:04",
+      "note": "Borrowing instead of selling assets."
+    },
+    {
+      "ts": "0:03:52",
+      "note": "Three borrowing vehicles."
+    },
+    {
+      "ts": "0:06:02",
+      "note": "Family land-deal example."
+    },
+    {
+      "ts": "0:07:49",
+      "note": "HELOC, securities, and policy-loan risks."
+    },
+    {
+      "ts": "0:10:22",
+      "note": "Cost-basis reset and settling inherited debt."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "buy-borrow-die",
+      "name": "Buy, borrow, die",
+      "one_liner": "A strategy of retaining assets, borrowing for liquidity, and settling debt during inheritance.",
+      "explanation": "Sharran calls this structure the legacy loop. It starts with acquiring assets lenders accept as collateral, continues with obtaining cash without selling those holdings, and ends with heirs receiving assets and settling remaining loans. His example relies on US tax treatment and a cost-basis reset at death. He emphasizes that the loan survives and must be repaid, while the attraction is preserving the invested asset base during the owner’s life.",
+      "tags": [
+        "estate-planning",
+        "borrowing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:00",
+          "text": "I call this the legacy loop."
+        }
+      ],
+      "related": [
+        "asset-backed-borrowing",
+        "step-up-in-basis",
+        "compound-growth"
+      ]
+    },
+    {
+      "slug": "asset-backed-borrowing",
+      "name": "Asset-backed borrowing",
+      "one_liner": "Using valuable holdings as collateral to access liquidity without selling them.",
+      "explanation": "The speaker distinguishes spending an asset from borrowing against its value. He describes HELOCs secured by homes, credit lines secured by taxable brokerage holdings, and loans against permanent-insurance cash value. Assets with transparent values and borrower credit history matter because lenders need repayment assurance. Sharran presents loan proceeds as generally distinct from taxable income, but also makes clear that interest costs, collateral loss, and loan restrictions can undermine the strategy.",
+      "tags": [
+        "borrowing",
+        "liquidity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:03:04",
+          "text": "You do not have to sell your assets to use their value."
+        }
+      ],
+      "related": [
+        "risk-management",
+        "buy-borrow-die"
+      ]
+    },
+    {
+      "slug": "risk-management",
+      "name": "Risk management",
+      "one_liner": "Monitoring leverage costs and collateral buffers before borrowing threatens the underlying assets.",
+      "explanation": "This video gives three concrete failure paths rather than treating asset-backed borrowing as free cash. Variable HELOC rates can raise payments and expose a home to foreclosure. A falling stock portfolio can trigger demands for cash or forced sales. Insurance loans and accruing interest can exceed cash value, lapse the policy, and create tax consequences in his account. He recommends active monitoring and reducing loans or making payments when buffers shrink.",
+      "tags": [
+        "risk",
+        "borrowing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:53",
+          "text": "you do have to keep an eye on the loan balance relative to the cash value."
+        }
+      ],
+      "related": [
+        "asset-backed-borrowing",
+        "whole-life-banking"
+      ]
+    },
+    {
+      "slug": "step-up-in-basis",
+      "name": "Step-up in basis",
+      "one_liner": "Resetting an inherited asset’s tax basis to its value at the owner’s death in the speaker’s US example.",
+      "explanation": "Sharran explains cost basis through stock bought for $35,000 and later valued at $100,000. He says retaining it until death can reset heirs’ basis to the current value, eliminating the earlier appreciation for capital-gains calculations in his example. He then has heirs sell enough inherited holdings to pay outstanding credit. This is the tax mechanism in his legacy loop, presented as the speaker’s simplified US illustration rather than universal estate-tax advice.",
+      "tags": [
+        "taxes",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:56",
+          "text": "the current market value on the day of your death."
+        }
+      ],
+      "related": [
+        "buy-borrow-die"
+      ]
+    },
+    {
+      "slug": "whole-life-banking",
+      "name": "Whole-life policy borrowing",
+      "one_liner": "Using a permanent insurance policy’s accumulated cash value as collateral for loans.",
+      "explanation": "Sharran describes intentionally designed whole-life policies as a family store of value and borrowing resource. He says his children and he used policy loans to help finance a land portfolio and claims the underlying cash value can continue growing. He also warns that unpaid principal and compounded interest can exceed policy value, lapse coverage, and produce tax consequences. The discussion makes ongoing loan-to-value monitoring central to his use of the product.",
+      "tags": [
+        "insurance",
+        "borrowing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:19",
+          "text": "create a series of very intentionally designed whole life insurance policies as a store of value"
+        }
+      ],
+      "related": [
+        "risk-management",
+        "asset-backed-borrowing"
+      ]
+    }
+  ],
+  "entities": []
+}

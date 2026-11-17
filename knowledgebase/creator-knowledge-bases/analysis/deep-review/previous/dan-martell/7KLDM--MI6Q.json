@@ -1,0 +1,50 @@
+{
+  "youtube_id": "7KLDM--MI6Q",
+  "thesis": "Selected wealth advice includes the value of time and a broader purpose for resources.",
+  "summary": "The reviewed passages introduce an income-based hourly-rate heuristic and later describe wealth as relationships, environment, and stewardship as well as money. The formula is a starting point for thought, not a complete delegation calculation. The note does not adopt claims that identity alone determines wealth.",
+  "insights": [
+    {
+      "slug": "time-value-heuristic",
+      "title": "Use an explicit estimate when considering delegation",
+      "explanation": "The creator divides annual income by assumed working hours. Actual marginal earning capacity and cash affordability can differ from this average.",
+      "quote": "take your yearly income how much money you make divide that by 2,000",
+      "character_start": 2211,
+      "character_end": 2279,
+      "tags": [
+        "delegation",
+        "unit-economics"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "broad-wealth-definition",
+      "title": "Keep the creator's nonfinancial definition visible",
+      "explanation": "The source includes relationships and environment alongside money, which qualifies a purely numerical reading of its ambition.",
+      "quote": "i mean a rich life rich relationships rich environment",
+      "character_start": 9735,
+      "character_end": 9789,
+      "tags": [
+        "life-design",
+        "values"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "resource-stewardship",
+      "title": "Consider what resources enable for other people",
+      "explanation": "The creator frames money, time, and attention as resources to deploy, not merely accumulate. This is a stated value rather than a measured outcome.",
+      "quote": "use it in a way that helps other people",
+      "character_start": 10491,
+      "character_end": 10530,
+      "tags": [
+        "values",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "341daf9a-02b9-4d97-9cd4-4f0e28f36747",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

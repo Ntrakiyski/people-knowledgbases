@@ -1,0 +1,176 @@
+---
+type: "overview"
+title: "Concepts"
+---
+
+# Concepts
+
+- [Vary amount while preserving a minimum](abc-habits.md): 1 cited treatment(s).
+- [An award cannot settle personal enoughness](accolade-enoughness.md): 1 cited treatment(s).
+- [Separate personal worth from moving external milestones](achievement-and-worth.md): 1 cited treatment(s).
+- [Adjust the intensity while preserving an achievable action](adapted-consistency.md): 1 cited treatment(s).
+- [Keep the framework revisable](adaptive-list.md): 1 cited treatment(s).
+- [Try modifying a draining activity](adjust-before-cutting.md): 1 cited treatment(s).
+- [Separate a headline contract value from cash-payment timing](advance-cash-timing.md): 1 cited treatment(s).
+- [Individual optimization can impose common costs](ai-incentive-coordination.md): 1 cited treatment(s).
+- [Generate other explanations before judging intent](alternative-explanations.md): 1 cited treatment(s).
+- [Macro tracking remains fallible](approximate-tracking.md): 1 cited treatment(s).
+- [Ask what the money and goals are for](audit-desires.md): 1 cited treatment(s).
+- [Automate routine bills but still audit subscriptions](automation-with-audits.md): 1 cited treatment(s).
+- [Resume the baseline after an interruption](baseline-consistency.md): 1 cited treatment(s).
+- [Constrain reactive work rather than letting it occupy every gap](batch-administration.md): 1 cited treatment(s).
+- [Constrain necessary coordination](batch-management.md): 1 cited treatment(s).
+- [Keep the phone outside the bedroom](bedroom-phone-boundary.md): 1 cited treatment(s).
+- [Keep room for energizing beginner interests](beginner-potential.md): 1 cited treatment(s).
+- [Do useful imperfect work](beneficial-over-optimal.md): 1 cited treatment(s).
+- [Reconsider attachments that outlived their role](boat-dragging.md): 1 cited treatment(s).
+- [Do not demand novelty before showing up](boring-basics.md): 1 cited treatment(s).
+- [Check whether goals come from genuine interest](borrowed-desires.md): 1 cited treatment(s).
+- [Limit time available for low-importance processing](bounded-administration.md): 1 cited treatment(s).
+- [Keep a cash safety net distinct from growth investments](buffer-before-investing.md): 1 cited treatment(s).
+- [Observe a week then redesign one day](calendar-audit.md): 1 cited treatment(s).
+- [Put single-task work on the calendar](calendar-protection.md): 1 cited treatment(s).
+- [Cash reserves can support risk-taking elsewhere](cash-optionality.md): 1 cited treatment(s).
+- [Ask whether the game is worth winning](chosen-scoreboard.md): 1 cited treatment(s).
+- [Create a deliberate work shutdown](close-open-loops.md): 1 cited treatment(s).
+- [Choose a pursuit worth repeating](commitment-filter.md): 1 cited treatment(s).
+- [Being rewarded for a skill can conceal low energy](competence-trap.md): 1 cited treatment(s).
+- [Compatibility need not mean identical traits](complementary-relationships.md): 1 cited treatment(s).
+- [Add skills in response to larger solvable problems](complementary-skills.md): 1 cited treatment(s).
+- [Repeated growth can outrun initial intuition](compounding-intuition.md): 1 cited treatment(s).
+- [Build confidence with observable follow-through](confidence-receipts.md): 1 cited treatment(s).
+- [Look for activities that supply energy](created-purpose.md): 1 cited treatment(s).
+- [Ask people what is holding them back](customer-problem-discovery.md): 1 cited treatment(s).
+- [Constrain the daily task list](daily-priorities.md): 1 cited treatment(s).
+- [Small daily work advances long projects](daily-progress.md): 1 cited treatment(s).
+- [Project the consequences of repeating an ordinary day](daily-system-test.md): 1 cited treatment(s).
+- [Define the few outcomes that would make today meaningful](daily-win-criteria.md): 1 cited treatment(s).
+- [Commit long enough to develop depth](depth-versus-novelty.md): 1 cited treatment(s).
+- [Reduce preparation friction](diet-convenience.md): 1 cited treatment(s).
+- [Combine visual and access restrictions](digital-boundaries.md): 1 cited treatment(s).
+- [Check direction rather than glorifying constant motion](direction-before-speed.md): 1 cited treatment(s).
+- [Keep direction while allowing adaptation](direction-not-perfect-plan.md): 1 cited treatment(s).
+- [Set direction while acting on shorter horizons](direction-over-fixed-plan.md): 1 cited treatment(s).
+- [Define the desired life before accelerating](direction-over-speed.md): 1 cited treatment(s).
+- [Ask after building a case](earned-ask.md): 1 cited treatment(s).
+- [Excellence within a company is a legitimate route](employment-as-path.md): 1 cited treatment(s).
+- [Account for changes beyond the work itself](employment-infrastructure.md): 1 cited treatment(s).
+- [Put creative work in your strongest energy window](energy-aligned-work.md): 1 cited treatment(s).
+- [Use recent activities to identify drains and sources of energy](energy-calendar-audit.md): 1 cited treatment(s).
+- [Interest can grow through doing](energy-developed.md): 1 cited treatment(s).
+- [Define enough as a life rather than a moving number](enough-life.md): 1 cited treatment(s).
+- [Freedom includes responsibility that not everyone wants](entrepreneurship-fit.md): 1 cited treatment(s).
+- [Treat sleep preparation as part of tomorrow's routine](evening-preparation.md): 1 cited treatment(s).
+- [Respond to an opening with a clear invitation](explicit-ask.md): 1 cited treatment(s).
+- [Constrain professional ambition with family limits](family-anti-goals.md): 1 cited treatment(s).
+- [Do not buy income growth by destroying flexibility and health](financial-freedom-constraints.md): 1 cited treatment(s).
+- [Remember ordinary family moments are temporary](finite-family-time.md): 1 cited treatment(s).
+- [Recognize that repeated ordinary choices consume finite time](finite-time.md): 1 cited treatment(s).
+- [Adjust the amount without abandoning the activity](flexible-consistency.md): 1 cited treatment(s).
+- [Structure can accommodate momentum](flexible-structure.md): 1 cited treatment(s).
+- [Repeat a setup that removes competing inputs](focus-environment.md): 1 cited treatment(s).
+- [Distinguish coordination from creation and inputs](four-types-of-time.md): 2 cited treatment(s).
+- [Use future perspective to challenge present habits](future-regret-audit.md): 1 cited treatment(s).
+- [Anti-goals supplement rather than eliminate the target](goals-plus-boundaries.md): 1 cited treatment(s).
+- [Set strong, baseline, and minimum versions of a habit](graded-daily-targets.md): 1 cited treatment(s).
+- [Remember what an ordinary frustration once represented](gratitude-reframe.md): 1 cited treatment(s).
+- [Use early effort to accumulate later leverage](hard-before-selective.md): 1 cited treatment(s).
+- [Evaluate achieving the metric at an unacceptable cost](harmful-success.md): 1 cited treatment(s).
+- [Manage imperfection instead of waiting for flawless action](imperfect-consistency.md): 1 cited treatment(s).
+- [Distinguish consequential problems from recurring small demands](important-versus-urgent.md): 1 cited treatment(s).
+- [Separate knowledge from proof of ability](information-evidence-gap.md): 1 cited treatment(s).
+- [Avoid mistaking consumption for application](information-without-action.md): 1 cited treatment(s).
+- [Keep some valued activities deliberately unoptimized](intentional-slowness.md): 1 cited treatment(s).
+- [Approach networking with curiosity](interested-not-interesting.md): 1 cited treatment(s).
+- [Invert the checklist before extracting advice](inversion-method.md): 1 cited treatment(s).
+- [Less external attention does not mean an absence of love](judgment-versus-care.md): 1 cited treatment(s).
+- [Schedule inputs and reflection as well as output](learning-and-thinking-time.md): 1 cited treatment(s).
+- [Preserve rituals with relational value](life-over-optimization.md): 1 cited treatment(s).
+- [Study durable needs alongside change](lighthouse-framework.md): 1 cited treatment(s).
+- [Build transferable judgment and communication](lighthouse-skills.md): 1 cited treatment(s).
+- [A witness can matter more than elaborate tracking](lightweight-accountability.md): 1 cited treatment(s).
+- [Balance access with protection from impulsive selling](liquidity-tradeoff.md): 1 cited treatment(s).
+- [Reduce the cost of long-term decisions](long-term-incentives.md): 1 cited treatment(s).
+- [Distinguish time together from check-the-box contact](meaningful-presence.md): 1 cited treatment(s).
+- [Efficiency may remove personally meaningful work](meaningful-struggle.md): 1 cited treatment(s).
+- [Map how media supports distinct income streams](media-business-ecosystem.md): 1 cited treatment(s).
+- [Restart at a deliberately small scale](minimum-viable-progress.md): 1 cited treatment(s).
+- [Do not turn a missed day into a punishment cycle](missed-day-recovery.md): 1 cited treatment(s).
+- [Decide which income opportunities fit the life you want](monetization-tradeoffs.md): 1 cited treatment(s).
+- [Use a run to explore a place](movement-while-traveling.md): 1 cited treatment(s).
+- [Reserve room for enjoyment](ninety-ten-flexibility.md): 1 cited treatment(s).
+- [Restart normally after a missed day](no-punitive-catchup.md): 1 cited treatment(s).
+- [Make room for ordinary in-person contact](offline-connection.md): 1 cited treatment(s).
+- [Identify systems, distribution, and teams as different leverage sources](operating-leverage.md): 1 cited treatment(s).
+- [Make work visible enough for others to encounter](opportunity-surface-area.md): 1 cited treatment(s).
+- [Include giving and reflection in the routine](outward-attention.md): 1 cited treatment(s).
+- [Use small completions as a short reset when overwhelmed](overwhelm-momentum.md): 1 cited treatment(s).
+- [Separate fault from response responsibility](ownership-without-fault.md): 1 cited treatment(s).
+- [Opportunity requires some exposure to action](participation.md): 1 cited treatment(s).
+- [Consider product familiarity when selecting commercial partners](partnership-selection.md): 1 cited treatment(s).
+- [Choose trusted peers for early vulnerability](peer-vulnerability.md): 1 cited treatment(s).
+- [Evaluate routine costs against experienced benefits](personal-experimentation.md): 1 cited treatment(s).
+- [Define windows when the phone is physically absent](phone-separation.md): 1 cited treatment(s).
+- [Remove the phone during family time](physical-phone-boundaries.md): 1 cited treatment(s).
+- [Include imperfect days in the system design](plan-for-chaos.md): 1 cited treatment(s).
+- [Make completion socially visible](practice-accountability.md): 1 cited treatment(s).
+- [Use a fixed cue and visible execution record](practice-cues.md): 1 cited treatment(s).
+- [Prepare the work before seeking amplification](prepared-opportunity.md): 1 cited treatment(s).
+- [Attention quality is a separate outcome from screen-time totals](presence-over-metrics.md): 1 cited treatment(s).
+- [Choose whether the costs fit the desired life](price-of-ambition.md): 1 cited treatment(s).
+- [Reframe demanding work as part of the reward](process-enjoyment.md): 1 cited treatment(s).
+- [Hold preparation standards without demanding applause](process-standards.md): 1 cited treatment(s).
+- [Separate company gains from worker outcomes](productivity-without-employment.md): 1 cited treatment(s).
+- [Increase demands gradually](progressive-habit-change.md): 1 cited treatment(s).
+- [Reserve making time before administration consumes it](protect-creation.md): 1 cited treatment(s).
+- [Write down what the pursuit must not consume](protected-priorities.md): 1 cited treatment(s).
+- [Organize his meals around protein](protein-centered-meals.md): 1 cited treatment(s).
+- [Evaluate specific activities rather than only job titles](pursuit-map.md): 1 cited treatment(s).
+- [Keep a direction check alongside persistence](reflection-with-commitment.md): 1 cited treatment(s).
+- [Extend consistency beyond money without assuming equal returns](regular-investment.md): 1 cited treatment(s).
+- [Evaluate the current path on a good day](reinvention-sunk-cost.md): 1 cited treatment(s).
+- [Act promptly on appreciation](relationship-action.md): 1 cited treatment(s).
+- [Record and honor future follow-up commitments](relationship-follow-through.md): 1 cited treatment(s).
+- [Prioritize people alongside business ideas](relationship-investment.md): 1 cited treatment(s).
+- [Do not define loved ones only as a cost to achievement](relationship-richness.md): 1 cited treatment(s).
+- [Reliability can accumulate into distinction](reliability.md): 1 cited treatment(s).
+- [Paraphrase before adding the next conversational move](repeat-and-follow.md): 1 cited treatment(s).
+- [Define confidence as recovery capacity](resilient-confidence.md): 1 cited treatment(s).
+- [Stop using harder effort to deepen exhaustion](rest-before-pushing.md): 1 cited treatment(s).
+- [Separate breaks from another stream of stimulation](restorative-breaks.md): 1 cited treatment(s).
+- [Include the time demanded by an investment](return-on-hassle.md): 1 cited treatment(s).
+- [Use observed actions to test stated priorities](revealed-priorities.md): 1 cited treatment(s).
+- [Expenses determine how much income becomes investable](savings-gap.md): 1 cited treatment(s).
+- [Use structure when excitement fades](scheduled-consistency.md): 1 cited treatment(s).
+- [Acknowledge the cost of temporary imbalance](seasonal-balance.md): 1 cited treatment(s).
+- [You need not accept every opportunity](selective-opportunity.md): 1 cited treatment(s).
+- [Replace imposed structure with deliberate time blocks](self-created-structure.md): 1 cited treatment(s).
+- [Supply rewards that do not depend on public recognition](self-designed-rewards.md): 1 cited treatment(s).
+- [Keep investment complexity from consuming income-building attention](simple-investing.md): 1 cited treatment(s).
+- [Adapt eye contact to the exchange](situational-eye-contact.md): 1 cited treatment(s).
+- [Look for strengths already visible to other people](skill-inventory.md): 1 cited treatment(s).
+- [Lower the entry cost of deliberate practice](small-practice-commitment.md): 1 cited treatment(s).
+- [Translate aspirations into observable actions](specific-progress.md): 1 cited treatment(s).
+- [Practice presenting under some realistic physical conditions](state-aware-rehearsal.md): 1 cited treatment(s).
+- [Test a purchase without an audience](status-purchase-test.md): 1 cited treatment(s).
+- [Persistence requires a stopping judgment](stopping-wisdom.md): 1 cited treatment(s).
+- [Ask questions that invite a story](story-inviting-questions.md): 1 cited treatment(s).
+- [Make unwanted checking less convenient](strategic-friction.md): 1 cited treatment(s).
+- [Do not infer inner wellbeing from public milestones](success-and-insecurity.md): 1 cited treatment(s).
+- [Quantity may precede selective quality](sums-before-peaks.md): 1 cited treatment(s).
+- [Changing paths may require building additional peer support](support-transition.md): 1 cited treatment(s).
+- [Use a bounded action experiment](thirty-for-thirty.md): 1 cited treatment(s).
+- [Give presentation transitions specific practice](transition-rehearsal.md): 1 cited treatment(s).
+- [Create structure when external schedules disappear](travel-routine-structure.md): 1 cited treatment(s).
+- [Judge direction rather than comparison](trend-over-position.md): 1 cited treatment(s).
+- [Act without guaranteed rewards](uncertainty-tolerance.md): 1 cited treatment(s).
+- [Treat belief revision as useful](update-beliefs.md): 1 cited treatment(s).
+- [Stay in touch with relevant material rather than only requests](useful-contact.md): 1 cited treatment(s).
+- [Focus earning effort on useful strengths](value-and-focus.md): 1 cited treatment(s).
+- [Solve real problems and scale the solution](value-before-payment.md): 1 cited treatment(s).
+- [Relationships are framed around useful contribution](value-led-networking.md): 1 cited treatment(s).
+- [Prepare for opportunities according to your own goals](values-based-positioning.md): 1 cited treatment(s).
+- [Allow inputs beyond business advice](varied-inputs.md): 1 cited treatment(s).
+- [Show engagement while the other person speaks](visible-listening.md): 1 cited treatment(s).
+- [Retain the explicit warning against an easy shortcut](wealth-building-time.md): 1 cited treatment(s).
+- [Define a few outcomes before the week becomes reactive](weekly-win-card.md): 1 cited treatment(s).

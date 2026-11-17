@@ -1,0 +1,68 @@
+{
+  "youtube_id": "olaz2NJeUUI",
+  "thesis": "Build useful services around affluent clients’ time, judgment and trust needs.",
+  "summary": "The QUIET framework questions status noise, identifies problems and affluent clients, favors business ownership and emphasizes time. Four tiers progress from convenience through expertise and trust to authority. Examples range from errands and home systems to chief-of-staff and family-office roles. She proposes productizing services and eventually training a team, while explicitly detailing on-call demands and trust risk at the highest tier.",
+  "insights": [
+    {
+      "slug": "outcome-pricing",
+      "title": "Charge for completion and relief rather than elapsed labor",
+      "explanation": "Her convenience tier proposes per-job or recurring pricing tied to the client’s problem.",
+      "quote": "They don't care how long it takes you They think in job completion",
+      "tags": [
+        "pricing",
+        "services"
+      ],
+      "character_start": 5070,
+      "character_end": 5136,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "judgment-as-service",
+      "title": "Expertise can reduce decision burden",
+      "explanation": "Her expertise tier shifts from awaiting instructions to offering a recommendation and coordinated system.",
+      "quote": "You're not charging for output You're charging for judgment",
+      "tags": [
+        "judgment",
+        "services"
+      ],
+      "character_start": 7784,
+      "character_end": 7843,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trust-costs",
+      "title": "High-trust roles carry demanding obligations",
+      "explanation": "The authority discussion explicitly includes late-night texts, crises, on-call vacations and fast termination.",
+      "quote": "Long-term agreements with this have golden handcuffs",
+      "tags": [
+        "trust",
+        "tradeoffs"
+      ],
+      "character_start": 11556,
+      "character_end": 11608,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "service-to-business",
+      "title": "Train others to turn service delivery into an asset",
+      "explanation": "Her proposed progression includes packaging, processes and a team rather than remaining solely a personal worker.",
+      "quote": "you train others to do it for you you have a scalable asset",
+      "tags": [
+        "ownership",
+        "systems"
+      ],
+      "character_start": 13129,
+      "character_end": 13188,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "0e0cda30-cd2a-48f9-9538-ae2ffbe14259",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Wealth totals, pricing, named-company revenues, compensation and progression timelines are unverified estimates or illustrations. Service tiers mix employment and business ownership, which are not equivalent assets. Wealthy clients’ willingness to pay is not guaranteed. The authority tier includes intense hours, dependency, rapid dismissal and golden handcuffs.",
+  "review_changes": "Restores the substantial downside section and distinguishes a high salary from a transferable business; does not infer a guaranteed ladder to millions.",
+  "deep_review_date": "2026-11-16T20:53:08.503292+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/olaz2NJeUUI.json",
+  "previous_draft_sha256": "aae5f3cb1f1efdebdbbd69a4a99cfc72b4eaeeda6a715d859822bb721b1cc1ef"
+}

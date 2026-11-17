@@ -1,0 +1,50 @@
+{
+  "youtube_id": "yBefMa8LydA",
+  "thesis": "Selected time-management advice protects useful attention and compares the calendar with stated goals.",
+  "summary": "The reviewed passages warn that incoming demands can consume valuable work periods and propose auditing time against goals. Sleep preparation is also part of the creator's personal routine. Claims about universal peak hours or the highest-leverage intervention are not validated here.",
+  "insights": [
+    {
+      "slug": "priority-protection",
+      "title": "Notice whose priorities receive the best attention",
+      "explanation": "The source warns about giving another person's demands the hours one intended for important work.",
+      "quote": "you just handed them your sharpest hours",
+      "character_start": 2920,
+      "character_end": 2960,
+      "tags": [
+        "attention",
+        "time-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "calendar-goal-audit",
+      "title": "Compare actual work with the stated objective",
+      "explanation": "The audit distinguishes compounding work, necessary support, and noise. These categories require contextual judgment.",
+      "quote": "then I compare it to my goals",
+      "character_start": 13403,
+      "character_end": 13432,
+      "tags": [
+        "measurement",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "revealed-priorities",
+      "title": "Use recorded allocation to challenge a self-description",
+      "explanation": "The calendar is proposed as evidence about behavior, not a complete measure of character or worth.",
+      "quote": "your calendar shows you who you actually are",
+      "character_start": 14263,
+      "character_end": 14307,
+      "tags": [
+        "self-assessment",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "0f8d6e4c-4393-4065-b8ea-7952dde7f9d3",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

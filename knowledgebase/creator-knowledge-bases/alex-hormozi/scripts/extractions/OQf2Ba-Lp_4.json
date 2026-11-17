@@ -1,0 +1,81 @@
+{
+  "youtube_id": "OQf2Ba-Lp_4",
+  "thesis": "Sequence price, conversion, ad creative and spend changes around verified demand and available capacity.",
+  "summary": "Cory reports an HVAC-cleaning/duct-repair business at 1.25 million revenue and 479,000 profit with 60,000 debt. Because extra crews can handle more work, Alex treats demand as the constraint and recommends incremental improvements: a further price test, continued debt repayment, a dedicated mobile-friendly ad page, readable varied creative, then more spend if economics hold. Reactivation and HOA outreach follow, while a paid partner offer is discussed for later because reciprocal referrals do not necessarily scale. At follow-up Cory says leads rose from about 120 to nearly 200 monthly after changing agencies, pages and spend; he describes being on goal for 2.3–2.5 million and considers a future location.",
+  "insights": [
+    {
+      "slug": "demand-versus-supply-constraint",
+      "title": "Check capacity before buying more demand",
+      "explanation": "He asks whether twice the leads could be served. The answer determines whether to prioritize acquisition or delivery resources.",
+      "quote": "if we can double the lead flow and they can handle it then it's a demand constraint business",
+      "tags": [
+        "constraints",
+        "capacity"
+      ],
+      "character_start": 4994,
+      "character_end": 5086,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "dedicated-ad-conversion-page",
+      "title": "Give paid traffic a clear next action",
+      "explanation": "The proposed mobile landing page foregrounds the inspection offer and form rather than sending buyers through a busy homepage and another landing step.",
+      "quote": "we want to basically build a specific lander for ads which isn't the homepage",
+      "tags": [
+        "conversion",
+        "landing-pages"
+      ],
+      "character_start": 12789,
+      "character_end": 12866,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "improve-funnel-before-spend",
+      "title": "Improve the existing conversion path before adding spend",
+      "explanation": "Better pages and creative may increase demand enough to expose a capacity limit. Scaling spend is conditional on maintaining acquisition economics.",
+      "quote": "let's go make a better funnel let's go fix the ads then we will increase the ad spend",
+      "tags": [
+        "advertising",
+        "sequencing"
+      ],
+      "character_start": 38792,
+      "character_end": 38877,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "affiliate-offer-economics",
+      "title": "Make a partner offer valuable to the partner",
+      "explanation": "He proposes letting partners retain the inspection-sale proceeds while the cleaner earns potential upsells. In the case's later illustration, 100 delivery cost at 50% conversion implies 200 acquisition cost before other costs.",
+      "quote": "you can charge $175 and you can keep the whole thing and we'll do the work",
+      "tags": [
+        "partnerships",
+        "unit-economics"
+      ],
+      "character_start": 32787,
+      "character_end": 32861,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "qualified-followup-target",
+      "title": "Preserve the distinction between trajectory and realized revenue",
+      "explanation": "Cory reports more leads and a higher annual revenue goal after multiple changes. The export does not independently establish a completed 2.5 million year or which intervention caused improvement.",
+      "quote": "currently we are on our on our goal here for 2.3 to 2.5 a year later",
+      "tags": [
+        "outcomes",
+        "evidence"
+      ],
+      "character_start": 42088,
+      "character_end": 42156,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a9922d78-21f2-4cc7-ae63-b3940ad09f4f",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The follow-up gives a revenue goal/trajectory, not an unambiguous completed-year 2.5 million result, despite the title and closing narration. It supplies no updated profit or debt confirmation. All business figures are reported, not independently verified. Hypothetical energy savings, allergy reductions and case-study examples in the suggested copy are not established health or savings evidence. Debt principal repayment affects cash, not accounting profit; avoiding future principal payments is not itself a profit increase. Quote-level offer math and conversion thresholds assume particular costs and conversion behavior. Organic attention does not guarantee paid conversions.",
+  "review_changes": "Adds capacity-first diagnosis, implementation order, partner-offer cost arithmetic and the qualified follow-up, and separates hypothetical marketing claims and revenue goals from verified results.",
+  "deep_review_date": "2026-11-16T21:03:39.155224+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/OQf2Ba-Lp_4.json",
+  "previous_draft_sha256": "5c2abb66a3df9ea1f85936ea4a00d7f03de458e5c2bdadd76a613eac9b4e971b"
+}

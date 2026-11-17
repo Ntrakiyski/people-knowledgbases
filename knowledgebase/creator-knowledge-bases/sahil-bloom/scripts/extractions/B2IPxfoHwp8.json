@@ -1,0 +1,66 @@
+{
+  "youtube_id": "B2IPxfoHwp8",
+  "thesis": "Physical phone separation and added friction are proposed as alternatives to relying on willpower.",
+  "summary": "Bloom reports reducing his screen time during a thirty-day experiment using scheduled periods without his phone. The windows cover creative work, family time, and gatherings. Supporting rules include grayscale, restrictive app limits, and a lockbox. He argues that changing the environment can reduce repeated temptation and says family noticed greater presence. The study claim, reported reduction, and extrapolated time savings are not independently checked. The transcript offers an individual experiment and a proposed method, not proof that phone addiction can always be cured in a month.",
+  "insights": [
+    {
+      "slug": "phone-separation",
+      "title": "Define windows when the phone is physically absent",
+      "explanation": "The protocol uses specific work and family periods rather than a vague promise to use the phone less.",
+      "quote": "specific windows where my phone simply doesn't exist",
+      "tags": [
+        "productivity",
+        "family"
+      ],
+      "character_start": 1100,
+      "character_end": 1152,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "strategic-friction",
+      "title": "Make unwanted checking less convenient",
+      "explanation": "The lockbox is intended to change the ease of acting on an impulse. It is an environment-design suggestion, not a guaranteed cure.",
+      "quote": "the lockbox adds strategic friction to make it easier to stick to your outofsight protocol",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 2258,
+      "character_end": 2348,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "digital-boundaries",
+      "title": "Combine visual and access restrictions",
+      "explanation": "Grayscale and lower app limits complement physical separation. The transcript does not isolate which intervention produced the reported change.",
+      "quote": "set aggressive app limits much lower than feels comfortable",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 1786,
+      "character_end": 1845,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "presence-over-metrics",
+      "title": "Attention quality is a separate outcome from screen-time totals",
+      "explanation": "The speaker says family noticed more presence despite work not improving. That anecdote broadens the objective beyond a device usage score.",
+      "quote": "they assumed work was going well it wasn't i just didn't have my phone on me",
+      "tags": [
+        "family",
+        "life-design"
+      ],
+      "character_start": 2784,
+      "character_end": 2860,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "12477849-6389-4bfb-9cfe-82b6084bf556",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The cited study is not supplied or critically assessed here. Screen-time totals and family responses are self-reports; annualized saved hours are projections, not observed outcomes. Addiction is used colloquially rather than diagnosed.",
+  "review_changes": "Adds family-presence context, the three implementation levers, and the distinction between observed self-report and annual extrapolation.",
+  "deep_review_date": "2026-11-16T19:23:26.478556+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/B2IPxfoHwp8.json",
+  "previous_draft_sha256": "5d24d16bf4f093370041db4638257e02314eb63c8901ce8db581db19fdb29c0e"
+}

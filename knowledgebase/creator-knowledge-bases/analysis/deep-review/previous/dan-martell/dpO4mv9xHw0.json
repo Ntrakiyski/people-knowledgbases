@@ -1,0 +1,37 @@
+{
+  "youtube_id": "dpO4mv9xHw0",
+  "thesis": "The selected investing framework distinguishes delegated expertise from equity ownership.",
+  "summary": "Reviewed passages describe hiring expertise to avoid learning an entire field and contrast earned income with owning interests in businesses. Personal investment outcomes and universal claims about billionaires are not independently validated. The source's equity emphasis does not establish suitability, safety, or uncapped realizable returns for an individual investment.",
+  "insights": [
+    {
+      "slug": "expertise-buyback",
+      "title": "Compare buying expertise with doing all the learning personally",
+      "explanation": "The stockbroker example frames delegation as a time tradeoff. Costs, incentives, and fiduciary quality still matter.",
+      "quote": "I'm buying their expertise to invest in a market that I don't have to go learn",
+      "character_start": 1522,
+      "character_end": 1600,
+      "tags": [
+        "delegation",
+        "investing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "equity-paths",
+      "title": "Distinguish building a company from buying interests elsewhere",
+      "explanation": "The creator names both as forms of ownership. Neither route is shown to guarantee wealth.",
+      "quote": "own equity in the business that you built or you own equity in other companies",
+      "character_start": 11097,
+      "character_end": 11175,
+      "tags": [
+        "ownership",
+        "investing"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c668982c-cb32-4dab-9240-5dba1ff9e47b",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,67 @@
+{
+  "youtube_id": "Hgd1rxrIYGM",
+  "thesis": "Advancing through personal income levels requires building high-value skills, buying back administrative time, delegating decision-making authority, and driving organizational innovation.",
+  "summary": "Increasing earning power requires overcoming distinct operational ceilings across career stages. In early phases, individuals must master high-value market skills through focused study and practical execution. As workload increases, purchasing back administrative time using automated software or assistants restores capacity for higher-value activities. Scaling further demands building a shared organizational repository to delegate decision-making authority to team members. Finally, established leaders maintain momentum by instigating technological innovation, testing new workflows, and continually investing in talent development.",
+  "insights": [
+    {
+      "slug": "skill-development",
+      "title": "Mastering high value market skills unlocks early earning potential",
+      "explanation": "Dan Martell notes that expanding early income relies on developing specialized capabilities that align with existing market demand rather than pursuing unvalidated interests.",
+      "quote": "the first thing we have to do is we need to choose that one skill people are willing to pay for",
+      "speaker": "Dan Martell",
+      "tags": [
+        "learning",
+        "productivity",
+        "cash-flow"
+      ],
+      "character_start": 2538,
+      "character_end": 2633
+    },
+    {
+      "slug": "time-buyback",
+      "title": "Delegating repetitive administrative work restores strategic capacity",
+      "explanation": "Dan Martell highlights that transferring low-value administrative tasks to assistants or automated software enables professionals to focus on high-return activities.",
+      "quote": "At this level of wealth we hand off administrative tasks or anything that's repetitive so that you can focus on the work that makes you money",
+      "speaker": "Dan Martell",
+      "tags": [
+        "productivity",
+        "operations",
+        "ai"
+      ],
+      "character_start": 9502,
+      "character_end": 9643
+    },
+    {
+      "slug": "decision-delegation",
+      "title": "Sharing organizational context empowers decentralized decision making",
+      "explanation": "Dan Martell explains that documenting company standards and centralizing knowledge allows employees to make operational decisions independently without founder involvement.",
+      "quote": "give your team the tools and ownership to do it themselves See in the previous level you freed yourself up to do more valuable work",
+      "speaker": "Dan Martell",
+      "tags": [
+        "leadership",
+        "operations",
+        "hiring"
+      ],
+      "character_start": 18147,
+      "character_end": 18278
+    },
+    {
+      "slug": "chief-instigator",
+      "title": "Leaders must challenge teams to adopt innovative operational tools",
+      "explanation": "Dan Martell contends that senior leaders must personally model new technology adoption and organize internal hackathons to prevent organizational complacency.",
+      "quote": "The fix is to be the example to be what I call the chief instigator to come in and challenge people to change the way they think",
+      "speaker": "Dan Martell",
+      "tags": [
+        "leadership",
+        "operations",
+        "ai"
+      ],
+      "character_start": 25843,
+      "character_end": 25971
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "80d891cd-5794-4f92-ab04-034b57d135a6",
+  "extraction_response": "extraction-responses/TSr_qLZ-8YY-nsFKkeQg-V0-SJywU4UQryQ-9Cf416w4JJI-Hgd1rxrIYGM-8R4rmc9NYpA-wtaRjOFqdyU-aPSbZbOzB4s-4_urJ17Rx8s-_rBsOP658YA.json"
+}

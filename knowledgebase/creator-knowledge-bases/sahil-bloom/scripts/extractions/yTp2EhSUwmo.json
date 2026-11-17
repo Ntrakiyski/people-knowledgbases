@@ -1,0 +1,67 @@
+{
+  "youtube_id": "yTp2EhSUwmo",
+  "thesis": "The think-day questions test whether daily behavior, stated priorities, and important goals actually align.",
+  "summary": "Bloom adapts the story of Bill Gates's think week into a shorter reflection session with a journal in a fresh, secluded setting. Five questions examine repeated daily habits, what an observer would infer about priorities, obvious action seen from outside, important versus merely urgent work, and behaviors a future self may regret. The suggested cadence is monthly or quarterly, with a session lasting a few hours. The purpose is to create perspective before changing action. Billionaire associations and promised asymmetric outcomes are motivational framing, not evidence that the exercise reproduces another person's success.",
+  "insights": [
+    {
+      "slug": "daily-system-test",
+      "title": "Project the consequences of repeating an ordinary day",
+      "explanation": "The first question evaluates the direction of existing habits rather than the appeal of stated ambitions.",
+      "quote": "if I repeated my current typical day for 100 straight days would my life be better or worse",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 1154,
+      "character_end": 1245,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "revealed-priorities",
+      "title": "Use observed actions to test stated priorities",
+      "explanation": "An imagined observer supplies distance from self-description. The question is a reflection tool, not proof that constraints never prevent acting on values.",
+      "quote": "if someone were to to observe my actions for a week what would they say my priorities are",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 1728,
+      "character_end": 1817,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "important-versus-urgent",
+      "title": "Distinguish consequential problems from recurring small demands",
+      "explanation": "The antelope metaphor challenges spending all available energy on urgency. It does not show that small operational tasks can simply be ignored.",
+      "quote": "Antelope as the big important problems and field mice as the tiny little urgent ones",
+      "tags": [
+        "productivity",
+        "strategy"
+      ],
+      "character_start": 3296,
+      "character_end": 3380,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "future-regret-audit",
+      "title": "Use future perspective to challenge present habits",
+      "explanation": "The final question asks which current actions or beliefs may later look mistaken. It extends reflection beyond embarrassment about the past.",
+      "quote": "what actions am I engaged in now that I might cringe at in 5 years",
+      "tags": [
+        "learning",
+        "life-design"
+      ],
+      "character_start": 4274,
+      "character_end": 4340,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "62358404-65e9-4e33-aec6-9dfdf51e90a1",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Historical attributions to Gates and Gingrich are reported rather than verified. Reflection is not a substitute for execution or a reliable diagnosis of complex life problems.",
+  "review_changes": "Adds all five diagnostic angles, the shorter accessible format, and the proposed recurring cadence.",
+  "deep_review_date": "2026-11-16T19:27:04.641572+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/yTp2EhSUwmo.json",
+  "previous_draft_sha256": "0b33cfb55750e8a0a3b11630fa57d782ad448d31e123c2820e7626493b977bc8"
+}

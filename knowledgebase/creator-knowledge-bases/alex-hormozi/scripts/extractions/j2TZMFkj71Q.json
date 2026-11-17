@@ -1,0 +1,67 @@
+{
+  "youtube_id": "j2TZMFkj71Q",
+  "thesis": "Alex Hormozi advises a digital creator to scale enterprise value by restructuring membership offers, expanding advertising creative volume, and targeting broader problem-aware audiences.",
+  "summary": "A participant managing an online educational business seeks strategic guidance from Alex Hormozi to overcome customer acquisition bottlenecks. Hormozi recommends restricting initial checkout options exclusively to annual memberships bundled with physical product premiums to expand average transaction value. To sustain higher advertising spend, Hormozi advises transitioning from narrow product-aware ad hooks to broader pain-aware messaging across multiple micro-audiences. Furthermore, establishing customer onboarding challenges incentivizes user-generated video content for ad testing. Implementing structured ad spending cadences and expanding static creative variations enables digital businesses to scale customer acquisition predictably.",
+  "insights": [
+    {
+      "slug": "offer-structuring",
+      "title": "Restructuring default membership tiers expands average transaction value",
+      "explanation": "Alex Hormozi advises digital creators to present annual subscription plans as the primary checkout option. Coupling longer commitments with physical product bundles increases average transaction value and improves advertising payback cycles.",
+      "quote": "even just making the switch with the past launch of pushing the annual membership doubled the uh average order value",
+      "speaker": "Mim Jenkinson",
+      "tags": [
+        "sales",
+        "cash-flow",
+        "marketing"
+      ],
+      "character_start": 3000,
+      "character_end": 3116
+    },
+    {
+      "slug": "audience-awareness",
+      "title": "Scaling ad campaigns requires targeting broader problem aware audiences",
+      "explanation": "Alex Hormozi explains that ad performance degrades when campaigns rely exclusively on warm, product-aware audiences. Expanding ad volume requires testing hooks focused on general pain points to attract broader prospective client segments.",
+      "quote": "So your advertising should speak to them differently He contends that audiences go from the bottom which is the warmest and smallest group",
+      "speaker": "Alex Hormozi",
+      "tags": [
+        "marketing",
+        "sales",
+        "communication"
+      ],
+      "character_start": 12426,
+      "character_end": 12564
+    },
+    {
+      "slug": "user-generated-content",
+      "title": "Structuring customer onboarding incentives generates ad creative volume",
+      "explanation": "Alex Hormozi proposes using early customer onboarding tasks to incentivize users to record product creation videos. Rewarding early product milestones produces authentic user-generated content that feeds ongoing advertising creative testing.",
+      "quote": "everyone in your first seven days I need you to make a sticker",
+      "speaker": "Alex Hormozi",
+      "tags": [
+        "marketing",
+        "operations",
+        "productivity"
+      ],
+      "character_start": 10128,
+      "character_end": 10190
+    },
+    {
+      "slug": "micro-audience-targeting",
+      "title": "Targeting sub-niche audience segments enables ad spend scaling",
+      "explanation": "Alex Hormozi notes that scaling digital advertising requires messaging across multiple distinct sub-audiences rather than broadcasting a single generic ad. Tailoring ad angles to specific customer personas improves conversion across niche segments.",
+      "quote": "the game is now a game of 100 ponds and no oceans Like you're you're draining a 100 ponds of audiences right to get your scale",
+      "speaker": "Alex Hormozi",
+      "tags": [
+        "marketing",
+        "sales",
+        "operations"
+      ],
+      "character_start": 25224,
+      "character_end": 25350
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e9556b37-0b0f-4450-8867-72e6ea41a1c4",
+  "extraction_response": "extraction-responses/WttZ6b-KUP4-j2TZMFkj71Q.json"
+}

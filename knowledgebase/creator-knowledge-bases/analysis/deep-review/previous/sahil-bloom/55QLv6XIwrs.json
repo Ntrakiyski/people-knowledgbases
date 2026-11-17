@@ -1,0 +1,50 @@
+{
+  "youtube_id": "55QLv6XIwrs",
+  "thesis": "The selected entrepreneurship warnings qualify the appeal of autonomy with responsibility and missing structure.",
+  "summary": "Reviewed passages reject entrepreneurship as a universal fit, discuss friction with institutions built around employment, and describe anxiety when externally supplied structure disappears. The closing emphasis is on acting by one's values. Broad claims that everything rests solely on the founder are the creator's framing, not a denial of external constraints or support.",
+  "insights": [
+    {
+      "slug": "entrepreneurship-fit",
+      "title": "Reject one-size-fits-all founder advice",
+      "explanation": "The creator explicitly questions the claim that everyone should become an entrepreneur.",
+      "quote": "this whole idea that entrepreneurship is for everybody it's just a lie",
+      "character_start": 932,
+      "character_end": 1002,
+      "tags": [
+        "entrepreneurship",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "institutional-friction",
+      "title": "Account for systems designed around employment",
+      "explanation": "The source warns that ordinary financial and administrative processes can become harder outside employment. Specific eligibility rules require independent checking.",
+      "quote": "a lot of the infrastructure that's been set up in society is for traditional W2 employment",
+      "character_start": 2493,
+      "character_end": 2583,
+      "tags": [
+        "entrepreneurship",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "self-created-structure",
+      "title": "Plan for the loss of an externally assigned day",
+      "explanation": "The creator describes an empty calendar as a potential source of stress. It motivates deliberate structure rather than assuming freedom automatically becomes progress.",
+      "quote": "no one's telling you anything you have zero structure",
+      "character_start": 3319,
+      "character_end": 3372,
+      "tags": [
+        "productivity",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "9647e4b1-c938-4e31-b289-bd250f30bf2d",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,37 @@
+{
+  "youtube_id": "yTp2EhSUwmo",
+  "thesis": "Selected reflection prompts inspect daily trajectory and possible future regret.",
+  "summary": "The reviewed passages ask whether repeating the current day would improve life, then use past and future perspectives to inspect present choices. These questions are a reflection exercise rather than evidence of dramatic change. This note does not cover every question in the video.",
+  "insights": [
+    {
+      "slug": "daily-trajectory-test",
+      "title": "Project the present routine forward",
+      "explanation": "The question makes repeated daily behavior the object of review rather than stated ambition alone.",
+      "quote": "my current typical day for 100 straight days would my life be better or worse",
+      "character_start": 1168,
+      "character_end": 1245,
+      "tags": [
+        "self-assessment",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "mental-time-travel",
+      "title": "Use future perspective to inspect today's behavior",
+      "explanation": "The source asks which present actions might later feel regrettable. The imagined answer is a prompt, not a forecast.",
+      "quote": "what actions am I engaged in now that I might cringe at in 5 years",
+      "character_start": 4274,
+      "character_end": 4340,
+      "tags": [
+        "reflection",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "62358404-65e9-4e33-aec6-9dfdf51e90a1",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

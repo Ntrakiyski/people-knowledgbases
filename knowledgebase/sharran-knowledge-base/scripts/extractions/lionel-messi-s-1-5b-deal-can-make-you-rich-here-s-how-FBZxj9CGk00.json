@@ -1,0 +1,211 @@
+{
+  "slug": "lionel-messi-s-1-5b-deal-can-make-you-rich-here-s-how-FBZxj9CGk00",
+  "thesis": "Sharran uses his account of Messi’s Inter Miami contract to explain how salary, revenue sharing, equity, financing, and risk interact in a deal.",
+  "summary": "Sharran recounts Lionel Messi’s move to Inter Miami as a choice between guaranteed compensation and ownership upside. He describes MLS, Apple, Adidas, and the club as parties whose commercial interests depended on attracting global attention, and portrays Jorge Mas as preparing years ahead by changing ownership arrangements and organizing the conditions for Messi’s arrival. The contract figures, valuation changes, subscription growth, and future ownership percentage are the speaker’s reported claims, with the equity percentage explicitly described as rumored.\n\nHis analysis focuses on terms rather than headline price: salary supplies current income, revenue sharing ties compensation to subscriptions and merchandise, and equity participates in longer-term business value. He then maps debt, mezzanine finance, and ownership into a capital stack and explains the dependency risk of the whole arrangement. For viewers, he recommends building valuable skills, negotiating performance-linked compensation, and considering ownership in value they help create; his promise of becoming rich is promotional rather than an assured outcome.",
+  "tags": [
+    "dealmaking",
+    "ownership",
+    "compensation",
+    "business"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:53",
+      "note": "MLS broadcasting context."
+    },
+    {
+      "ts": "0:05:17",
+      "note": "Equity as an alternative to guaranteed salary."
+    },
+    {
+      "ts": "0:07:53",
+      "note": "Price versus terms and compensation layers."
+    },
+    {
+      "ts": "0:10:13",
+      "note": "Debt, mezzanine, and equity capital stack."
+    },
+    {
+      "ts": "0:11:33",
+      "note": "Dependency and execution risk."
+    },
+    {
+      "ts": "0:13:23",
+      "note": "Applying skills, performance compensation, and ownership."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "ownership-over-salary",
+      "name": "Ownership over salary",
+      "one_liner": "Trading some guaranteed compensation for participation in long-term value creation.",
+      "explanation": "Sharran interprets Messi’s move as a shift from highly paid employee to prospective owner. In his account, the important comparison is not merely one salary against another: equity can continue participating in enterprise value after playing income ends. He extends this to viewers by recommending strong income-producing skills before discounting current pay for future ownership. The opportunity remains contingent on performance, execution, and the value actually created rather than guaranteed riches.",
+      "tags": [
+        "ownership",
+        "compensation"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:50",
+          "text": "He was choosing between being an employee or being an owner."
+        }
+      ],
+      "related": [
+        "performance-based-compensation",
+        "skill-development"
+      ]
+    },
+    {
+      "slug": "performance-based-compensation",
+      "name": "Performance-based compensation",
+      "one_liner": "Compensation linked to measurable commercial results rather than only fixed salary.",
+      "explanation": "The Messi example combines a base salary with a share of commercial activity Sharran says the player helps generate. Apple subscriptions and Adidas merchandise illustrate how several businesses can reward one contributor’s economic impact. For ordinary professionals, he proposes exchanging some guaranteed pay for greater bonus upside only after developing valuable skills. The video frames this as participating in created value and also acknowledges that the different commercial layers must succeed together.",
+      "tags": [
+        "compensation",
+        "dealmaking"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:23",
+          "text": "be willing to trade skills for performance-based [music] compensation"
+        }
+      ],
+      "related": [
+        "ownership-over-salary",
+        "skill-development"
+      ]
+    },
+    {
+      "slug": "deal-terms",
+      "name": "Deal terms",
+      "one_liner": "The structural rights and obligations that determine value beyond a headline price.",
+      "explanation": "Sharran argues that public discussion overweights the advertised salary and misses the contract’s hidden layers. His analysis separates fixed income, revenue sharing, and prospective equity, showing how differently structured consideration changes the comparison with a competing offer. He also examines stakeholder motivations and preparation before the deal. In this treatment, evaluating a transaction requires understanding when and how compensation is earned, its duration, and the execution dependencies behind its potential upside.",
+      "tags": [
+        "dealmaking",
+        "negotiation"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:53",
+          "text": "the terms are the hidden layers of any deal"
+        }
+      ],
+      "related": [
+        "capital-stack",
+        "performance-based-compensation"
+      ]
+    },
+    {
+      "slug": "capital-stack",
+      "name": "Capital stack",
+      "one_liner": "The layered combination of debt, intermediate financing, and equity funding a venture.",
+      "explanation": "Sharran describes the capital stack as a money map for ownership and operations. In his account of Inter Miami, bank debt supports stadium development, private-equity financing buys out shareholders and supports growth, and principal owners hold equity. He uses a home mortgage, home-equity line, and homeowner equity as a familiar analogy. The named financing amounts and parties are his reporting; the conceptual point is that different financing layers serve distinct transaction needs.",
+      "tags": [
+        "finance",
+        "dealmaking"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:13",
+          "text": "A capital stack is just a money map for ownership and operations."
+        }
+      ],
+      "related": [
+        "deal-terms",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "risk-management",
+      "name": "Risk management",
+      "one_liner": "Identifying the conditions whose failure can undermine an expected return.",
+      "explanation": "The video’s deal analysis explicitly asks what could go wrong after presenting the attractive economics. Sharran says Messi’s brand and play must produce club attention, broader league awareness, subscriptions, and merchandise demand. He frames the ownership bet as exchanging certainty for a chain of commercially dependent outcomes. This makes the structure a success-contingent opportunity rather than a simple salary increase, and explains why its potential upside requires both unique capabilities and execution.",
+      "tags": [
+        "risk",
+        "dealmaking"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:33",
+          "text": "The entire deal was riding [music] on Messi"
+        }
+      ],
+      "related": [
+        "capital-stack",
+        "ownership-over-salary"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "lionel-messi",
+      "name": "Lionel Messi",
+      "subtype": "person",
+      "one_liner": "Football player used as the central case study in compensation and ownership.",
+      "explanation": "Sharran analyzes Messi’s reported salary, subscription and merchandise participation, and future Inter Miami equity as a layered compensation structure. Contract values and projected outcomes are the speaker’s claims.",
+      "resource": "https://messi.com/",
+      "quotes": [
+        {
+          "ts": "0:02:47",
+          "text": "needed Lionel Messi."
+        }
+      ]
+    },
+    {
+      "slug": "inter-miami",
+      "name": "Inter Miami CF",
+      "subtype": "organization",
+      "one_liner": "MLS club at the center of the video’s deal analysis.",
+      "explanation": "The club supplies the ownership opportunity in Sharran’s account and connects the commercial interests of Messi, the league, Apple, and Adidas. The transcript often renders its name as Inner Miami.",
+      "resource": "https://www.intermiamicf.com/",
+      "quotes": [
+        {
+          "ts": "0:09:43",
+          "text": "He got a chance to play for Inner Miami and also earn a future stake in that team."
+        }
+      ]
+    },
+    {
+      "slug": "apple",
+      "name": "Apple",
+      "subtype": "organization",
+      "one_liner": "Technology company whose MLS subscriptions form one reported revenue-sharing layer.",
+      "explanation": "Sharran describes Apple’s exclusive MLS distribution arrangement and says Messi participates in subscription economics. Reported subscription growth and contract terms are attributed to the speaker.",
+      "resource": "https://www.apple.com/",
+      "quotes": [
+        {
+          "ts": "0:08:41",
+          "text": "he was getting a piece of sales on was Apple."
+        }
+      ]
+    },
+    {
+      "slug": "adidas",
+      "name": "Adidas",
+      "subtype": "organization",
+      "one_liner": "Sportswear company supplying the merchandise revenue-sharing example.",
+      "explanation": "Sharran says the Adidas relationship includes MLS kit rights and Messi participation in merchandise sales, illustrating compensation linked to demand a contributor helps create.",
+      "resource": "https://www.adidas.com/",
+      "quotes": [
+        {
+          "ts": "0:08:58",
+          "text": "Messi negotiated a piece of all the merchandise sales and MLS jersey sales from Adidas."
+        }
+      ]
+    },
+    {
+      "slug": "jorge-mas",
+      "name": "Jorge Mas",
+      "subtype": "person",
+      "one_liner": "Inter Miami owner portrayed as preparing the Messi transaction years in advance.",
+      "explanation": "Sharran presents Mas as restructuring ownership, arranging family logistics, and aligning commercial terms before Messi became available, an example of advance deal preparation.",
+      "resource": "",
+      "quotes": [
+        {
+          "ts": "0:12:27",
+          "text": "Jorge Mas was ready with a deal that he had spent [music] years prepping"
+        }
+      ]
+    }
+  ]
+}

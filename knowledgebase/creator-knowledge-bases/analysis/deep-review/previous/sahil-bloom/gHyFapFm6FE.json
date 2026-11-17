@@ -1,0 +1,50 @@
+{
+  "youtube_id": "gHyFapFm6FE",
+  "thesis": "The selected belief revisions separate self-worth from achievement and treat purpose as constructed through action.",
+  "summary": "Reviewed passages describe inspecting which activities energize or drain, building purpose rather than waiting to discover it, and questioning an external milestone as a source of enoughness. Assertions that desire always finds a way overstate the role of individual control; this note does not adopt them.",
+  "insights": [
+    {
+      "slug": "constructed-purpose",
+      "title": "Explore purpose through activities rather than waiting for revelation",
+      "explanation": "The creator uses calendar energy as a reflection prompt. It is not a validated test of a person's purpose.",
+      "quote": "But purpose isn't found It's created And",
+      "character_start": 639,
+      "character_end": 679,
+      "tags": [
+        "life-design",
+        "agency"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "energy-audit",
+      "title": "Inspect real activities when evaluating direction",
+      "explanation": "The calendar questions make an abstract reflection more concrete.",
+      "quote": "Look at your calendar What excites you What drains you",
+      "character_start": 725,
+      "character_end": 779,
+      "tags": [
+        "self-assessment",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "achievement-self-worth",
+      "title": "Keep self-worth distinct from a moving milestone",
+      "explanation": "The creator warns that a finish line can keep shifting after each achievement.",
+      "quote": "Never tie your self-worth to an arbitrary external milestone",
+      "character_start": 2733,
+      "character_end": 2793,
+      "tags": [
+        "mindset",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "80ba8547-d5cf-4f39-a28f-1fec619f2903",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

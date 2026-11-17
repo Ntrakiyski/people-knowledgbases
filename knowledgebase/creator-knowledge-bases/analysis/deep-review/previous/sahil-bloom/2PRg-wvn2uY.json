@@ -1,0 +1,50 @@
+{
+  "youtube_id": "2PRg-wvn2uY",
+  "thesis": "The reviewed workday framework allocates time deliberately among management, creation, consumption, and ideation.",
+  "summary": "Selected passages describe creation as writing, coding, designing, or analyzing, with protected windows rather than leftover gaps. The closing exercise asks the viewer to make room for consumption and ideation too. The automatic guide supplies context, while the cited original text supports the recorded points. Scheduling is a proposed aid to progress, not evidence that a specific routine will produce breakthroughs.",
+  "insights": [
+    {
+      "slug": "creation-windows",
+      "title": "Protect time for producing new work",
+      "explanation": "The creator defines building broadly and advocates one or two chosen windows. His personal early start is an example rather than a requirement.",
+      "quote": "writing coding designing analyzing anything where you are actually creating something",
+      "character_start": 3292,
+      "character_end": 3377,
+      "tags": [
+        "productivity",
+        "creation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ideation-space",
+      "title": "Leave space for deliberate thinking",
+      "explanation": "The source associates regular thinking time with useful ideas. This is a proposed practice, not proof that scheduled reflection reliably yields breakthroughs.",
+      "quote": "think on a daily or at least weekly basis",
+      "character_start": 7990,
+      "character_end": 8031,
+      "tags": [
+        "creativity",
+        "attention"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "time-portfolio",
+      "title": "Consider consumption and ideation alongside creation",
+      "explanation": "The framework treats different uses of professional time as complementary categories to allocate rather than allowing every day to become reactive.",
+      "quote": "carve out a short window for both consumption and ideiation",
+      "character_start": 9313,
+      "character_end": 9372,
+      "tags": [
+        "time-management",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "5bf6683d-9964-42d1-afc3-7c24ff2877a8",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

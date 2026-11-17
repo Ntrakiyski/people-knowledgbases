@@ -1,0 +1,149 @@
+{
+  "slug": "this-warren-buffett-rule-can-make-you-rich-copy-this-tzUvZijbpjY",
+  "thesis": "Srivatsaa adapts lessons attributed to Buffett into conviction based investments, liquid opportunity reserves, and a selective punch card filter.",
+  "summary": "Srivatsaa describes three investing lessons he attributes to Warren Buffett: make large but considered bets, retain dry powder, and imagine a lifetime punch card with only ten investment decisions. He recounts Buffett investing in Goldman Sachs during the financial crisis and Berkshire investing in homebuilders, using those accounts to argue that confidence and liquidity permit buying when other investors are fearful. Several historical amounts and comparisons are approximate claims in his narration rather than verified transaction records.\n\nHe translates dry powder into keeping roughly 10% to 20% of a portfolio readily available for opportunities, citing his own pandemic stock purchases. The punch card idea is intended to counter fear of missing out and indiscriminate investing. To evaluate an opportunity, he briefly supplies his four part investment x-ray: capital preservation, tax efficiency, cash flow, and growth. His advocacy of concentrated conviction should be understood as his investment philosophy; describing a bet as safe does not establish that it is low risk.",
+  "tags": [
+    "investing",
+    "risk",
+    "liquidity",
+    "decision-making"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:17",
+      "note": "Introduces big but safe bets through a crisis anecdote."
+    },
+    {
+      "ts": "0:03:37",
+      "note": "Defines dry powder for investing opportunities."
+    },
+    {
+      "ts": "0:05:32",
+      "note": "Shares a 20% opportunistic cash practice."
+    },
+    {
+      "ts": "0:07:17",
+      "note": "Introduces the ten punch investment filter."
+    },
+    {
+      "ts": "0:09:46",
+      "note": "Lists the investment x-ray criteria."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "conviction-investing",
+      "name": "Conviction Investing",
+      "one_liner": "A clearly understood investment thesis guides selective allocation rather than chasing every opportunity.",
+      "explanation": "Srivatsaa describes investing as making big bets that the investor considers safe because the underlying thesis is understood. He uses Buffett’s crisis era banking investment and his son’s belief in technology to illustrate conviction across very different situations. The video links conviction to acting when sentiment is fearful. It does not show that confidence eliminates downside; the proposed safeguard is a deliberate quality assessment instead of following the crowd.",
+      "tags": [
+        "investing",
+        "risk",
+        "liquidity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:07",
+          "text": "What is the high conviction bet that you can make?"
+        }
+      ],
+      "related": [
+        "opportunistic-cash",
+        "investment-x-ray"
+      ]
+    },
+    {
+      "slug": "opportunistic-cash",
+      "name": "Opportunistic Cash",
+      "one_liner": "Accessible reserves allow an investor to fund opportunities without waiting to free capital.",
+      "explanation": "The video turns the phrase dry powder into a concrete portfolio practice: maintain funds that can be liquidated quickly when attractive investments appear. Srivatsaa says he keeps 20% of his portfolio available and suggests 10% to 20% as a possible range. He cites buying stocks during the pandemic as his own application. The emphasis is on having execution capacity during brief periods of market fear, rather than merely predicting a downturn.",
+      "tags": [
+        "investing",
+        "risk",
+        "liquidity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:32",
+          "text": "always having 20% of my portfolio in opportunistic cash."
+        }
+      ],
+      "related": [
+        "conviction-investing",
+        "asset-allocation"
+      ]
+    },
+    {
+      "slug": "investment-punch-card",
+      "name": "Investment Punch Card",
+      "one_liner": "Treating investment decisions as scarce encourages selectivity and reduces fear of missing out.",
+      "explanation": "Srivatsaa describes an exercise attributed to Buffett: imagine only ten investment punches are available across an entire lifetime. Each opportunity must deserve one of them. He says the idea helped him reject pitches and reduce fear of missing out. The constraint is a decision filter rather than a literal account limit. In the video it supports concentrated quality choices, with the investment x-ray providing a way to examine those choices before committing capital.",
+      "tags": [
+        "investing",
+        "risk",
+        "liquidity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:35",
+          "text": "if you only had 10 punches of investments that you can make in your entire lifetime"
+        }
+      ],
+      "related": [
+        "conviction-investing",
+        "investment-x-ray"
+      ]
+    },
+    {
+      "slug": "investment-x-ray",
+      "name": "Investment X-Ray",
+      "one_liner": "Evaluate capital preservation, tax efficiency, cash flow, and growth before committing money.",
+      "explanation": "When viewers might struggle to reproduce Buffett’s full time research, Srivatsaa offers a shorter four question framework. He asks whether capital is likely to return, whether there are tax advantages, whether the holding generates cash flow, and whether it can grow. He applies the questions even to speculative pitches such as startups and crypto. The framework is presented as a personal suitability screen for the punch card decision, not a guarantee of investment quality.",
+      "tags": [
+        "investing",
+        "risk",
+        "liquidity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:46",
+          "text": "Number one is capital preservation."
+        }
+      ],
+      "related": [
+        "investment-punch-card",
+        "risk-management"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "warren-buffett",
+      "name": "Warren Buffett",
+      "subtype": "person",
+      "one_liner": "Investor whose ideas provide the video’s organizing lessons.",
+      "explanation": "Srivatsaa attributes the crisis investing, dry powder, and limited punch card lessons to Buffett, then describes adapting them in his own portfolio. Historical amounts in these anecdotes are the speaker’s recollections.",
+      "resource": "https://www.berkshirehathaway.com/",
+      "quotes": [
+        {
+          "ts": "0:07:17",
+          "text": "the biggest lesson that I've learned from Warren Buffett is the 10 hole punch card."
+        }
+      ]
+    },
+    {
+      "slug": "berkshire-hathaway",
+      "name": "Berkshire Hathaway",
+      "subtype": "organization",
+      "one_liner": "Investment company used to illustrate liquidity and sector opportunity investing.",
+      "explanation": "Srivatsaa describes Berkshire retaining large cash reserves and investing in homebuilders as examples of patient capital meeting a perceived supply opportunity. Its specific holdings and historical amounts are not independently checked in this extraction.",
+      "resource": "https://www.berkshirehathaway.com/",
+      "quotes": [
+        {
+          "ts": "0:03:51",
+          "text": "Buffett and Berkshire Hathaway have done a phenomenal job of that."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sharran Srivatsaa",
+  "handle": "@sharran",
+  "channel_id": "UCzpl_gT1bVB1iNZl9yQbWuA",
+  "url": "https://www.youtube.com/channel/UCzpl_gT1bVB1iNZl9yQbWuA",
+  "scope": "Public uploads in the Videos tab. Shorts and the Streams tab are excluded.",
+  "language": "en",
+  "template": "https://github.com/coleam00/cole-medin-knowledge-base",
+  "template_commit": "eba5e31bc628280c546d4828491051c308d550dc"
+}

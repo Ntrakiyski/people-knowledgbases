@@ -1,0 +1,68 @@
+{
+  "youtube_id": "wZeOwqmSw84",
+  "thesis": "Sixteen Claude examples connect reusable context, tool access, scheduled tasks and lightweight software building.",
+  "summary": "Martell walks through memory import, model choice, email/calendar connectors, artifacts, visuals, projects, voice, browser/computer use, scheduling, remote dispatch, code, channels, skills and design. Business examples include retrieving coaching stories, comparing calendar use with goals and building internal dashboards. He ends by asking viewers to try one feature rather than all sixteen and promotes Apex and a playbook.",
+  "insights": [
+    {
+      "slug": "task-model-fit",
+      "title": "Match model effort to task requirements",
+      "explanation": "He proposes different speed/cost/complexity choices rather than one model for every job.",
+      "quote": "you got to pick the right one for the right job",
+      "tags": [
+        "ai",
+        "models"
+      ],
+      "character_start": 1206,
+      "character_end": 1253,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "calendar-goal-audit",
+      "title": "Compare calendar allocation with stated goals",
+      "explanation": "The suggested analysis uses goals and calendar/email evidence; an AI judgment remains something to review.",
+      "quote": "see if I'm spending the right amount of time on the projects to achieve those goals",
+      "tags": [
+        "ai",
+        "time"
+      ],
+      "character_start": 3725,
+      "character_end": 3808,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "scheduled-runtime",
+      "title": "Account for the computer running the task",
+      "explanation": "The scheduling example includes an explicit operational condition.",
+      "quote": "It does at the same time every day as long as my computer's open",
+      "tags": [
+        "ai",
+        "automation"
+      ],
+      "character_start": 10120,
+      "character_end": 10184,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "one-feature-practice",
+      "title": "Start with one relevant feature",
+      "explanation": "He explicitly says the viewer need not adopt all the described features immediately.",
+      "quote": "You don't need to do them all",
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "character_start": 16233,
+      "character_end": 16262,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "c9311f0f-e227-44a9-869d-84f6aeaad3ed",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Descriptions are not current verified setup instructions; commands, limits and integrations require checking against the actual product. His security dismissal and Apex superiority are unsupported assertions; connecting shared inbox access has permission implications. The memory-import narrative overstates what a summary can prove was transferred. Scheduled/remote examples explicitly depend on a running or open computer. Generated software/visuals are drafts, not demonstrated correctness.",
+  "review_changes": "Restores runtime prerequisites, context-selection use cases and his one-feature starting point; avoids turning promotional interface claims into authoritative documentation.",
+  "deep_review_date": "2026-11-16T20:55:21.058562+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/wZeOwqmSw84.json",
+  "previous_draft_sha256": "45d277787c755f4af2c820e7ed72591453ff2dadd1edbd61dfacc20d1b73f538"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "ObVoq3pHBAo",
+  "thesis": "Owning several businesses preserves ultimate responsibility while making trusted feedback and a life outside work valuable.",
+  "summary": "The participant rejects an effortless picture of a holding company, saying consequential problems still reach the owner. He describes confronting difficult decisions while maintaining exercise, marriage, friendships, and time with children. Multiple businesses sometimes perform differently at the same time, which he experiences as emotional balance rather than evidence of eliminated financial risk. The discussion closes by distinguishing anonymous criticism from the views of close family and mentors. His stated openness to correction is part of his self-description and is not independently assessed here.",
+  "insights": [
+    {
+      "slug": "ultimate-owner-responsibility",
+      "title": "Expect some problems to remain with the owner",
+      "explanation": "The speaker says a capable management layer does not remove responsibility for major issues. The claim qualifies the promotional image of a hands-off holding company.",
+      "quote": "the big problems always come to you",
+      "character_start": 489,
+      "character_end": 524,
+      "tags": [
+        "ownership",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "parallel-business-experience",
+      "title": "Distinguish emotional balance from risk elimination",
+      "explanation": "The participant finds reassurance when one company performs well while another struggles. The anecdote does not demonstrate that the businesses are financially uncorrelated or that portfolio risk disappears.",
+      "quote": "it's pretty rare for it to be going very poorly at all three at the same time",
+      "character_start": 1380,
+      "character_end": 1457,
+      "tags": [
+        "risk",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trusted-feedback",
+      "title": "Weight criticism by knowledge and relationship",
+      "explanation": "The speaker values constructive criticism from close people and mentors over anonymous online reactions. The distinction concerns the usefulness of feedback rather than refusing all disagreement.",
+      "quote": "i do weigh weigh the opinion of people based on who they are in my life",
+      "character_start": 2117,
+      "character_end": 2188,
+      "tags": [
+        "learning",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e89478b2-7fcb-44e0-ae44-2439799dc8d0",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

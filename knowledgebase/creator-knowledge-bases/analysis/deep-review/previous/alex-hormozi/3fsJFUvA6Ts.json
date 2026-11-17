@@ -1,0 +1,50 @@
+{
+  "youtube_id": "3fsJFUvA6Ts",
+  "thesis": "The reviewed business-design passages value easier operation and defensible differentiation while acknowledging cost.",
+  "summary": "Selected passages discuss cash-flow benefits over time, operational simplicity, and barriers that can make entry harder for competitors. They also note that a capital-intensive asset can require substantial investment. This note does not reconstruct all five advantages from the automatic guide or validate the source's profitability claims.",
+  "insights": [
+    {
+      "slug": "business-design-time",
+      "title": "Allow time for a more attractive operating model to develop",
+      "explanation": "The creator explicitly says the desired business takes time to build. This qualifies the framing of a perfect business as an immediate choice.",
+      "quote": "building a business that does this takes time",
+      "character_start": 7978,
+      "character_end": 8023,
+      "tags": [
+        "strategy",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "barrier-cost-tradeoff",
+      "title": "Include the cost of creating a barrier to entry",
+      "explanation": "The power-plant example mentions both possible profitability and large capital needs. A moat is not automatically cheap or sufficient.",
+      "quote": "it also costs a lot of money right",
+      "character_start": 19916,
+      "character_end": 19950,
+      "tags": [
+        "competition",
+        "capital"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "operational-simplicity",
+      "title": "Include operational complexity in business selection",
+      "explanation": "The closing recap values a model that can scale with less complexity. It is a preference to evaluate, not proof of easy growth.",
+      "quote": "there's less operational complexity in order to scale",
+      "character_start": 24665,
+      "character_end": 24718,
+      "tags": [
+        "operations",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "059caa73-212b-4ee6-be07-487c38a4d78d",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

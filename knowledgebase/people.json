@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "baseline_date": "2026-11-16",
+  "people": [
+    {
+      "slug": "sharran-srivatsaa",
+      "name": "Sharran Srivatsaa",
+      "collection": "sharran-knowledge-base",
+      "youtube": {
+        "channel_id": "UCzpl_gT1bVB1iNZl9yQbWuA",
+        "url": "https://www.youtube.com/channel/UCzpl_gT1bVB1iNZl9yQbWuA",
+        "tab": "videos"
+      },
+      "x": {
+        "url": null,
+        "status": "not configured; confirm official account before adding"
+      },
+      "baseline_catalog": "sharran-knowledge-base/catalog.json"
+    },
+    {
+      "slug": "alex-hormozi",
+      "name": "Alex Hormozi",
+      "collection": "creator-knowledge-bases/alex-hormozi",
+      "youtube": {
+        "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "url": "https://www.youtube.com/@AlexHormozi",
+        "tab": "videos"
+      },
+      "x": {
+        "url": "https://x.com/AlexHormozi",
+        "status": "account-linked; no posts imported"
+      },
+      "baseline_catalog": "creator-knowledge-bases/alex-hormozi/catalog.json"
+    },
+    {
+      "slug": "codie-sanchez",
+      "name": "Codie Sanchez",
+      "collection": "creator-knowledge-bases/codie-sanchez",
+      "youtube": {
+        "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "url": "https://www.youtube.com/@CodieSanchezCT",
+        "tab": "videos"
+      },
+      "x": {
+        "url": "https://x.com/Codie_Sanchez",
+        "status": "account-linked; no posts imported"
+      },
+      "baseline_catalog": "creator-knowledge-bases/codie-sanchez/catalog.json"
+    },
+    {
+      "slug": "dan-martell",
+      "name": "Dan Martell",
+      "collection": "creator-knowledge-bases/dan-martell",
+      "youtube": {
+        "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "url": "https://www.youtube.com/@danmartell",
+        "tab": "videos"
+      },
+      "x": {
+        "url": "https://x.com/danmartell",
+        "status": "account-linked; no posts imported"
+      },
+      "baseline_catalog": "creator-knowledge-bases/dan-martell/catalog.json"
+    },
+    {
+      "slug": "nick-huber",
+      "name": "Nick Huber",
+      "collection": "creator-knowledge-bases/nick-huber",
+      "youtube": {
+        "channel_id": "UCBYwRdRw6x9bH4PsyCLnmOw",
+        "url": "https://www.youtube.com/channel/UCBYwRdRw6x9bH4PsyCLnmOw",
+        "tab": "videos"
+      },
+      "x": {
+        "url": "https://x.com/sweatystartup",
+        "status": "account-linked; no posts imported"
+      },
+      "baseline_catalog": "creator-knowledge-bases/nick-huber/catalog.json"
+    },
+    {
+      "slug": "sahil-bloom",
+      "name": "Sahil Bloom",
+      "collection": "creator-knowledge-bases/sahil-bloom",
+      "youtube": {
+        "channel_id": "UC0vZSXQHRGPNZMFAKPLJcww",
+        "url": "https://www.youtube.com/channel/UC0vZSXQHRGPNZMFAKPLJcww",
+        "tab": "videos"
+      },
+      "x": {
+        "url": "https://x.com/SahilBloom",
+        "status": "account-linked; no posts imported"
+      },
+      "baseline_catalog": "creator-knowledge-bases/sahil-bloom/catalog.json"
+    }
+  ]
+}

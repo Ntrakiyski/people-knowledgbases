@@ -1,0 +1,81 @@
+{
+  "youtube_id": "n7t68A0NQQM",
+  "thesis": "Building a high-value network requires shifting focus from self-directed problems to individuals who have already solved them while removing subtle interpersonal behaviors that erode trust.",
+  "summary": "A speaker presents a strategic framework for establishing meaningful connections with highly successful leaders. Reaching out to accomplished mentors requires removing negative behaviors like flaking, needy behavior, and immediate transactional requests. Founders should adopt a generous approach, offering genuine support and celebrating peer accomplishments without expecting instant returns. Hosting collaborative events, local dinners, or active outdoor gatherings provides a neutral platform to connect peers. Maintaining structured outreach habits transforms isolated effort into a supportive, high-leverage network.",
+  "insights": [
+    {
+      "slug": "inheriting-proven-solutions",
+      "title": "Connect with experienced individuals to inherit proven solutions",
+      "explanation": "The speaker recommends finding people who have already worked through a relevant challenge and learning from their experience. Relationships may provide useful context and introductions. The advice still needs to fit the learner’s circumstances; the conversation does not independently verify the time savings claimed.",
+      "quote": "Every problem you have somebody else out there has already solved it If you build that relationship with them then you get to inherit the solution",
+      "speaker": "Dan",
+      "tags": [
+        "leadership",
+        "communication",
+        "learning"
+      ],
+      "character_start": 1422,
+      "character_end": 1568,
+      "original_extracted_explanation": "A speaker highlights that searching for individuals who have already resolved specific challenges saves years of trial and error. Building authentic relationships allows entrepreneurs to inherit proven blueprints and bypass costly missteps.",
+      "interpretation_review": "Removed categorical outcome claims; retained attributed recommendation and evidence limits."
+    },
+    {
+      "slug": "unconditional-goodwill-creation",
+      "title": "Generate authentic goodwill by providing value without transactional tracking",
+      "explanation": "A speaker asserts that enduring professional goodwill accrues when leaders provide assistance without keeping score. Giving value upfront through encouragement, resources, or support establishes trust and attracts high-quality partners naturally.",
+      "quote": "goodwill is only created when you give more than what you take off the table",
+      "speaker": "Dan",
+      "tags": [
+        "communication",
+        "leadership",
+        "marketing"
+      ],
+      "character_start": 18757,
+      "character_end": 18833
+    },
+    {
+      "slug": "authentic-personal-outreach",
+      "title": "Perform personalized outreach directly without delegating to automated tools",
+      "explanation": "A speaker cautions against using automated scripts or software bots when reaching out to prospective mentors. Conducting genuine, researched personal outreach demonstrates sincere respect and distinguishes the sender from generic spam.",
+      "quote": "Do not use AI to do these outreaches You can use it for inspiration but you need to actually do it yourself",
+      "speaker": "Dan",
+      "tags": [
+        "communication",
+        "marketing",
+        "sales"
+      ],
+      "character_start": 24237,
+      "character_end": 24344
+    },
+    {
+      "slug": "relationship-follow-through",
+      "title": "Close the loop after receiving advice",
+      "explanation": "The speaker recommends acting on specific advice and telling the person what happened. Reporting back shows that their response was used and gives a developing relationship a concrete continuation rather than leaving the effort with the recipient.",
+      "quote": "when they reply immediately thank them and tell them that you did something with it so that they know that time that reply was well used",
+      "speaker": "unresolved",
+      "tags": [
+        "communication",
+        "leadership"
+      ],
+      "rejected_original_insight": {
+        "slug": "disciplined-value-outreach",
+        "title": "Maintain disciplined outreach habits that deliver fivefold value",
+        "explanation": "A speaker shares a disciplined daily habit of contacting contacts while delivering significantly more value than requested. Consistently sharing useful insights, introductions, or feedback strengthens professional relationships over time.",
+        "quote": "You reach out to five people every day and you provide five times more value than you're asking for",
+        "speaker": "Dan",
+        "tags": [
+          "communication",
+          "marketing",
+          "sales"
+        ]
+      },
+      "review_note": "The claimed five-people/fivefold-value rule does not occur in this transcript. Replaced after reading the complete transcript.",
+      "character_start": 21779,
+      "character_end": 21915
+    }
+  ],
+  "review_status": "machine-extracted; cited correction reviewed",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "23c2aa28-c6af-4eb9-a346-1bd1e4a6ab33",
+  "extraction_response": "extraction-responses/gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE.json"
+}

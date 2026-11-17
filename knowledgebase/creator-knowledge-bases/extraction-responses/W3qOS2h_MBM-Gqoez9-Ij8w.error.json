@@ -1,0 +1,15 @@
+{
+  "videos": [
+    {
+      "youtube_id": "W3qOS2h_MBM",
+      "title": "The Only 19 Skills to Make Money in the AI Era",
+      "source_id": "2fff8fd0-e3f3-44fa-b9f0-b1c0ec0ad052"
+    },
+    {
+      "youtube_id": "Gqoez9-Ij8w",
+      "title": "40 Hacks to Use AI So Well It Feels Unfair",
+      "source_id": "489958b0-2b48-452b-b31f-7b732c64fe26"
+    }
+  ],
+  "error": "NotebookLM extraction command failed (exit 1)"
+}

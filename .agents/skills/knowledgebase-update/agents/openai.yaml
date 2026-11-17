@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update a people knowledge base"
+  short_description: "Add materials or deepen existing source reviews"
+  default_prompt: "Use $knowledgebase-update to add these materials and update the relevant profiles with exact source evidence."

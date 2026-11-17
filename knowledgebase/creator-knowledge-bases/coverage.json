@@ -1,0 +1,73 @@
+{
+  "updated": "2026-11-17",
+  "status": "selected-scope-complete; source notes remain editorial drafts",
+  "creators": [
+    {
+      "slug": "alex-hormozi",
+      "name": "Alex Hormozi",
+      "catalog": 529,
+      "selected": 40,
+      "selected_transcripts": 40,
+      "selected_sources": 40,
+      "transcripts": 40,
+      "sources": 40,
+      "concepts": 191
+    },
+    {
+      "slug": "codie-sanchez",
+      "name": "Codie Sanchez",
+      "catalog": 188,
+      "selected": 40,
+      "selected_transcripts": 40,
+      "selected_sources": 40,
+      "transcripts": 40,
+      "sources": 40,
+      "concepts": 178
+    },
+    {
+      "slug": "dan-martell",
+      "name": "Dan Martell",
+      "catalog": 764,
+      "selected": 40,
+      "selected_transcripts": 40,
+      "selected_sources": 40,
+      "transcripts": 40,
+      "sources": 40,
+      "concepts": 173
+    },
+    {
+      "slug": "nick-huber",
+      "name": "Nick Huber",
+      "catalog": 817,
+      "selected": 40,
+      "selected_transcripts": 40,
+      "selected_sources": 40,
+      "transcripts": 40,
+      "sources": 40,
+      "concepts": 135
+    },
+    {
+      "slug": "sahil-bloom",
+      "name": "Sahil Bloom",
+      "catalog": 96,
+      "selected": 40,
+      "selected_transcripts": 40,
+      "selected_sources": 40,
+      "transcripts": 40,
+      "sources": 40,
+      "concepts": 169
+    }
+  ],
+  "source_review_scopes": {
+    "NotebookLM-source-restricted-draft": 64,
+    "complete-transcript-read-by-Codex": 136
+  },
+  "deeper_review": {
+    "target": 99,
+    "completed": 99,
+    "remaining": 0,
+    "status": "complete"
+  },
+  "validated_insights": 854,
+  "extraction_issues": []
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "f9OptlMJwTQ",
+  "thesis": "The selected spending critique emphasizes large status-driven commitments over small daily economies.",
+  "summary": "The reviewed passages criticize purchases made for status and contrast small savings with larger financial decisions. The creator explicitly defends daily coffee in a relationship-building context. Broad claims about degrees, luxury markups, or earning one's way to wealth are opinions or unverified figures, not a complete financial plan.",
+  "insights": [
+    {
+      "slug": "status-purchase-check",
+      "title": "Ask whether a purchase reflects identity or social performance",
+      "explanation": "The source uses a buyer's discomfort as an example of a status purchase. It is an anecdote, not a general diagnosis of luxury consumption.",
+      "quote": "she bought a status symbol instead of an identity",
+      "character_start": 10930,
+      "character_end": 10979,
+      "tags": [
+        "personal-finance",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "large-financial-levers",
+      "title": "Compare the scale of financial decisions",
+      "explanation": "The creator favors examining major commitments rather than only optimizing minor expenses. Small costs can still matter in some budgets.",
+      "quote": "you won't become wealthy by optimizing the cheapest part of your day",
+      "character_start": 14684,
+      "character_end": 14752,
+      "tags": [
+        "personal-finance",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "small-purchase-context",
+      "title": "Preserve explicit exceptions in a spending critique",
+      "explanation": "The source does not condemn all discretionary spending; coffee is presented as potentially supporting useful social contact.",
+      "quote": "your daily coffee is something you're not wasting your money on",
+      "character_start": 14549,
+      "character_end": 14612,
+      "tags": [
+        "relationships",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "30889aab-1d25-47cc-ada8-07b2fff914b5",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

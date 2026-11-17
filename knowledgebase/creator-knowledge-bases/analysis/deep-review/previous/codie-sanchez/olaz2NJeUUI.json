@@ -1,0 +1,50 @@
+{
+  "youtube_id": "olaz2NJeUUI",
+  "thesis": "The selected affluent-service framework moves from convenience to expertise, trust, and delegated authority.",
+  "summary": "Reviewed passages describe services that remove everyday friction, package expertise into repeatable systems, and gain responsibility through trust. The tier labels are the creator's framework. Earnings estimates and claims that providers become indispensable are not validated, and higher responsibility may require professional qualifications and substantial accountability.",
+  "insights": [
+    {
+      "slug": "friction-removal-value",
+      "title": "Describe the concrete burden a service removes",
+      "explanation": "The source frames convenience as absorbing the customer's operational chaos rather than merely selling labor time.",
+      "quote": "By removing friction from everyday life you're absorbing chaos",
+      "character_start": 6012,
+      "character_end": 6074,
+      "tags": [
+        "services",
+        "value-creation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "repeatable-expertise",
+      "title": "Package expertise into a dependable process",
+      "explanation": "The creator connects know-how with repeatability. This is a service-design aim rather than proof of a high margin.",
+      "quote": "You're packaging your expertise into something that feels calm repeatable",
+      "character_start": 8330,
+      "character_end": 8403,
+      "tags": [
+        "operations",
+        "services"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trust-responsibility",
+      "title": "Recognize the responsibility gained with customer trust",
+      "explanation": "The source describes trust leading to more control. That control is an obligation as well as a commercial opportunity.",
+      "quote": "Once someone trusts your expertise they give you control",
+      "character_start": 8442,
+      "character_end": 8498,
+      "tags": [
+        "trust",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "0e0cda30-cd2a-48f9-9538-ae2ffbe14259",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

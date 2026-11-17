@@ -1,0 +1,50 @@
+{
+  "youtube_id": "D2umgh70Kis",
+  "thesis": "Selected reinvention advice combines an authored identity, specialized skills, and deliberate exclusions.",
+  "summary": "The creator describes writing a desired personal story, asks how identity connects to leverage, and proposes a not-to-do list. A specialized design example illustrates combining capabilities. Claims about clothing's psychological effects or dramatic transformation are not validated by this selected review.",
+  "insights": [
+    {
+      "slug": "authored-direction",
+      "title": "Use writing to articulate a chosen direction",
+      "explanation": "The creator frames this as owning one's story. Writing an aspiration is not evidence that it will occur.",
+      "quote": "becoming the author of your story and not letting anybody else do it",
+      "character_start": 7170,
+      "character_end": 7238,
+      "tags": [
+        "life-design",
+        "reflection"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "specialized-skill-combination",
+      "title": "Consider combinations that make a service distinctive",
+      "explanation": "The example combines graphic design, a niche interest, and financial knowledge. Market demand for that combination still needs testing.",
+      "quote": "graphic designer who focuses on Japanese anime who also has financial knowledge",
+      "character_start": 10722,
+      "character_end": 10801,
+      "tags": [
+        "skills",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "not-to-do-list",
+      "title": "Define exclusions alongside desired activity",
+      "explanation": "The source proposes a not-to-do list after discussing identity and leverage. This qualifies a purely additive view of self-improvement.",
+      "quote": "you're going to start a notto-do list",
+      "character_start": 10993,
+      "character_end": 11030,
+      "tags": [
+        "focus",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "598482ae-6dc8-4629-ac29-b1348c263b33",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

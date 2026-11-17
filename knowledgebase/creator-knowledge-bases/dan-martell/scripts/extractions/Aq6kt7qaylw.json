@@ -1,0 +1,68 @@
+{
+  "youtube_id": "Aq6kt7qaylw",
+  "thesis": "Support a chosen identity with an easier environment, accountability and enough time.",
+  "summary": "Martell’s consistency formula defines an identity, removes friction, schedules a next action, makes a commitment visible and lets repeated practice accumulate. He gives examples of prepared gym clothes, multiple reading devices, rewards and consequences, and milestone celebrations. Despite strong daily language he explicitly allows a missed day and proposes restarting before it becomes a streak.",
+  "insights": [
+    {
+      "slug": "environment-before-willpower",
+      "title": "Reduce the number of hard decisions needed",
+      "explanation": "He explicitly says identity declarations need real environmental changes and offers accessible friction-removal exercises.",
+      "quote": "your environment is either working for you or against you",
+      "tags": [
+        "habits",
+        "environment"
+      ],
+      "character_start": 2222,
+      "character_end": 2279,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "scheduled-next-action",
+      "title": "Schedule one concrete instance",
+      "explanation": "After examining a failed habit and its friction, he asks for the precise next time to perform it.",
+      "quote": "block the exact time you're going to do this tomorrow",
+      "tags": [
+        "habits",
+        "planning"
+      ],
+      "character_start": 5265,
+      "character_end": 5318,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "accountability-stakes",
+      "title": "Make the commitment visible",
+      "explanation": "His model adds an audience, reward and consequence; the extreme staff anecdote is not evidence that such penalties are suitable.",
+      "quote": "a public commitment turns a wish into a debt",
+      "tags": [
+        "accountability",
+        "goals"
+      ],
+      "character_start": 6341,
+      "character_end": 6385,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "restart-after-miss",
+      "title": "A missed day need not end the effort",
+      "explanation": "He permits one miss and proposes a no-consecutive-misses rule, alongside long-run milestones.",
+      "quote": "you can miss one day look we're all human that's fine",
+      "tags": [
+        "consistency",
+        "recovery"
+      ],
+      "character_start": 12965,
+      "character_end": 13018,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "caa07009-0510-4126-89be-82a7dc57579c",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Identity and 300% rhetoric are motivational, not a proof of outcomes; 1.01 to the 365th is arithmetic, not measured human development. A staff body-fat/job-risk story is an unverified anecdote with unclear measurement, voluntariness and enforcement; do not normalize it into an employment recommendation. Exact habit timelines are illustrative rather than established laws.",
+  "review_changes": "Restores the missed-day allowance, acknowledges the serious limits of the job-stakes anecdote and separates environmental design from believing alone.",
+  "deep_review_date": "2026-11-16T20:56:09.861101+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/Aq6kt7qaylw.json",
+  "previous_draft_sha256": "0cf70591685fd054285af488395829ae78906f65b73870e715f72cf460fd4a53"
+}

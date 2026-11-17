@@ -1,0 +1,45 @@
+{
+  "slug": "i-have-big-news-Tdhbhvsdnsg",
+  "thesis": "Sharran announces Billion Dollar Deals, a series interpreting major transactions as lessons about wealth-building patterns.",
+  "summary": "Sharran introduces a series premised on the idea that headline coverage of large transactions rarely explains their underlying structure. He proposes examining recurring deal patterns and translating them into lessons about money use and wealth-building behavior.\n\nThe announcement cites his claimed experience at Goldman Sachs and building two billion-dollar businesses as the basis for the series. It introduces the Billion Dollar Deals name but does not yet explain a concrete financial technique or provide enough detail to extract an investment strategy.",
+  "tags": [
+    "announcement",
+    "dealmaking",
+    "financial-education"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:00",
+      "note": "Questions conventional work-save-retire advice."
+    },
+    {
+      "ts": "0:00:17",
+      "note": "Proposes looking beneath deal headlines for patterns."
+    },
+    {
+      "ts": "0:00:31",
+      "note": "Invokes claimed financial-services and business experience."
+    },
+    {
+      "ts": "0:00:47",
+      "note": "Announces Billion Dollar Deals."
+    }
+  ],
+  "concepts": [],
+  "entities": [
+    {
+      "slug": "billion-dollar-deals",
+      "name": "Billion Dollar Deals",
+      "subtype": "organization",
+      "one_liner": "Sharran’s announced educational series about lessons inside major transactions.",
+      "explanation": "This short trailer introduces the series as an analysis of recurring wealth-building patterns in large deals, rather than a lesson in a particular investment method.",
+      "resource": "",
+      "quotes": [
+        {
+          "ts": "0:00:47",
+          "text": "Welcome to Billion Dollar Deals."
+        }
+      ]
+    }
+  ]
+}

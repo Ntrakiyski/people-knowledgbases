@@ -1,0 +1,63 @@
+{
+  "youtube_id": "mKUlWUQqn9I",
+  "thesis": "Decision practice and timely leadership choices are presented as essential operating skills.",
+  "summary": "The speaker argues that decision-making improves through repeated choices and feedback, preferably starting when consequences are small. Stories about university peers are used to criticize excessive parental protection, but do not establish population-level conclusions. The interview then connects leadership to resolving employee obstacles and maintaining performance standards. A mentor's advice about tolerating weak performance is presented as an explanation for why stronger staff might leave. Numerical claims about leaders and ability are rhetorical estimates; the source does not validate them.",
+  "insights": [
+    {
+      "slug": "decision-practice",
+      "title": "Practice decisions while consequences are manageable",
+      "explanation": "The participant describes judgment as learned through feedback. Starting with lower stakes is a training suggestion, not an assurance that repetition always improves choices.",
+      "quote": "the best way to start making decisions is when the consequences are very low and not when they're high",
+      "character_start": 1440,
+      "character_end": 1542,
+      "tags": [
+        "decision-making",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delegation-practice",
+      "title": "Treat delegation as a skill requiring practice",
+      "explanation": "School and sports examples are used to explain why an adult may have little experience assigning work. The proposed skill involves gaining commitment as well as issuing instructions.",
+      "quote": "if you can lead other people and tell them what to do and make them want to do it and excited to do it",
+      "character_start": 2339,
+      "character_end": 2441,
+      "tags": [
+        "delegation",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "leadership-follow-through",
+      "title": "Resolve obstacles rather than only acknowledging them",
+      "explanation": "The speaker reports employee frustration when managers express agreement but never decide. The account suggests that verbal support without action can leave operational problems unchanged.",
+      "quote": "their boss will talk a big game they'll say",
+      "character_start": 3864,
+      "character_end": 3907,
+      "tags": [
+        "leadership",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "performance-standards",
+      "title": "Consider how tolerated performance affects the wider team",
+      "explanation": "A mentor's warning links keeping weak performers to losing stronger staff. This is attributed management advice, not a universal rule that firing is always the correct response to poor performance.",
+      "quote": "the competence of your entire organization falls to the level that you tolerate",
+      "character_start": 5006,
+      "character_end": 5085,
+      "tags": [
+        "leadership",
+        "hiring"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "3b4adc6c-57bc-4332-852e-e30a4c7127dd",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

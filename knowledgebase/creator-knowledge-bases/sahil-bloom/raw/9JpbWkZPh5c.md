@@ -1,0 +1,17 @@
+---
+type: "raw-transcript"
+title: "My 8-hour focus routine (no burnout, no BS)"
+youtube_id: "9JpbWkZPh5c"
+url: "https://www.youtube.com/watch?v=9JpbWkZPh5c"
+slug: "9JpbWkZPh5c"
+provider: "notebooklm"
+timestamped: false
+immutable: true
+fetched_at: "2026-11-16T18:20:28.688897+00:00"
+notebook_id: "d365d84e-d246-4769-9937-d336cf2d0d63"
+source_id: "ac9b8265-4452-44e7-9a26-3ac7c14b7407"
+---
+
+## Transcript
+
+your mind isn't yours anymore you sit down to work and 6 minutes later you're watching some guy build a full-sized cabin out of toothpicks you don't even remember clicking another attempt ping email Slack group chat new tab new fire new dopamine hit suddenly it's 300 p.m and you've done nothing it's not your fault and your problem isn't laziness it's untrained attention you were never taught how to focus in a world that profits from your lack of it but here's the good news you can regain control i'm Sahill Bloom Stanford athlete turned investor entrepreneur and New York Times best-selling author i now work 8 plus focused hours a day without burning out i make insane progress on the things that matter and enjoy it while I'm doing it these five battle tested habits helped me get there habit one love the effort this one changed everything i used to chase the dopamine hit that came from finishing something the check mark the inbox at zero but I trained myself to love the process instead i literally whisper to myself while I'm deep in work i love this this is the good part sounds weird but the brain listens legendary marathoner Elude Kipchigible taught himself to smile during hard training sessions and races it's a reminder to himself to love the effort when you teach yourself to enjoy the challenge you start releasing dopamine during the work not just after that's when focus becomes addictive habit two time blocked deep work my day is split into three deep work blocks 5 to 9:00 a.m 12 to 2:00 p.m 3:00 to 5:00 p.m no multitasking just one task done extremely well these are sacred windows non-negotiable there's a phrase I love don't tell me your priorities show me your calendar want to do deep work put it on your calendar habit three power up protocol before every block the ritual stays the same phone on do not disturb or in another room noise cancelling headphones on classical music i like the classical essentials playlist on Spotify cold brew no email texts or social media open use a focus app if you need to it's ritual like a fighter stepping into the ring you don't try to focus you create an environment where focus is hardwired in its DNA habit four move your body one workout a day lifting running walking yoga it doesn't matter what movement resets your neurochemistry it relieves anxiety clears brain fog and sharpens thinking and gives you actual energy not the fake kind from sugar and caffeine movement rewires your brain for deep focus habit five walk don't scroll scrolling is not a break it's a hijacking and it's making it harder for you to return to focus in your deep work sessions every break walk no phone no scrolling you can listen to something if you must but silence that's where your best ideas thrive boredom is a feature not a bug an incubator for deep ideas the more silence you can tolerate the better thinker you become you won't grind your way to focus you simplify your way there these five habits rewired my brain and made focus feel like freedom not a fight i bet they'll do the same for you 

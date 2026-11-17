@@ -1,0 +1,323 @@
+{
+  "concept_aliases": {
+    "debt-snowball": "debt-management",
+    "debt-avalanche": "debt-management",
+    "debt-consolidation": "debt-management",
+    "corporate-bonds": "bonds",
+    "municipal-bonds": "bonds",
+    "treasury-yield": "bonds",
+    "private-credit": "bonds",
+    "debt-versus-equity": "bonds",
+    "home-location-tradeoff": "home-buying-game-plan",
+    "mortgage-preapproval": "home-buying-game-plan",
+    "off-market-inventory": "home-buying-game-plan",
+    "months-of-inventory": "home-buying-game-plan",
+    "purchase-contingencies": "home-buying-game-plan",
+    "learning-dividend": "skill-development",
+    "focused-learning-sprints": "skill-development",
+    "learning-investment": "skill-development",
+    "deliberate-practice": "skill-development",
+    "deal-terms": "deal-structure",
+    "ownership-over-salary": "equity-ownership",
+    "ownership-upside": "equity-ownership",
+    "operational-integration": "business-rollups",
+    "scale-and-valuation": "business-rollups",
+    "valuation-multiples": "business-rollups",
+    "seller-financing": "acquisition-financing",
+    "assumed-liabilities": "acquisition-financing",
+    "investment-punch-card": "conviction-investing",
+    "circle-of-competence": "conviction-investing",
+    "brand-equity": "personal-brand",
+    "brand-trust": "personal-brand",
+    "proof-over-promise": "proof-stack",
+    "relationship-investing": "relationship-capital",
+    "lifestyle-inflation": "income-margin",
+    "resource-trades": "intentional-resource-allocation",
+    "affiliate-income": "passive-income",
+    "asset-location": "tax-efficiency",
+    "financial-literacy": "investment-incentives",
+    "insight-story-lesson": "storytelling-frameworks",
+    "situation-conflict-resolution": "storytelling-frameworks",
+    "agree-learned-helpful": "communication-frameworks",
+    "diagnostic-communication": "communication-frameworks",
+    "rule-of-three": "communication-frameworks",
+    "visual-frameworks": "communication-frameworks",
+    "why-what-how-now": "communication-frameworks",
+    "decision-deadlines": "decision-framework",
+    "kill-criteria": "decision-framework",
+    "zero-based-question": "decision-framework",
+    "four-goods": "decision-framework",
+    "skill-stacking": "skill-development",
+    "income-to-assets": "invest-first",
+    "money-factory": "wealth-ladder",
+    "investment-rationale": "conviction-investing",
+    "loss-aversion": "risk-management",
+    "skin-in-the-game": "equity-ownership",
+    "buy-versus-build": "business-rollups",
+    "tax-planning": "tax-efficiency",
+    "uninterrupted-compounding": "compound-growth",
+    "step-up-in-basis": "buy-borrow-die",
+    "cash-management-portfolio": "cash-management",
+    "cd-ladder": "cash-management",
+    "challenge-assumptions": "constraint-driven-problem-solving",
+    "decision-reversibility": "decision-framework",
+    "long-term-trust": "client-trust",
+    "client-responsiveness": "client-trust",
+    "owning-bad-news": "client-trust",
+    "one-firm-culture": "client-trust",
+    "internal-champions": "relationship-capital",
+    "preparation": "proof-stack",
+    "focused-effort": "focus",
+    "effort-and-expectations": "focus",
+    "cash-flow-and-equity": "equity-ownership",
+    "asymmetric-risk-reward": "risk-management",
+    "risk-and-control": "risk-management",
+    "position-sizing": "asset-allocation",
+    "holding-company": "family-governance",
+    "transfer-restrictions": "family-governance",
+    "ellison-squeeze": "negotiation-frameworks",
+    "offer-certainty": "negotiation-frameworks",
+    "rejection-as-data": "negotiation-frameworks",
+    "after-cost-returns": "tax-efficiency",
+    "role-fit": "career-fit",
+    "money-distribution-system": "automated-money-routing"
+  },
+  "entity_aliases": {
+    "telus-properties": "teles-properties",
+    "schd": "schwab-us-dividend-equity-etf",
+    "vnq": "vanguard-real-estate-etf",
+    "tip-etf": "ishares-tips-bond-etf",
+    "voo": "vanguard-sp-500-etf"
+  },
+  "excluded_concepts": [],
+  "excluded_entities": [],
+  "concept_themes": {
+    "wealth-ladder": "Wealth foundations",
+    "financial-freedom": "Wealth foundations",
+    "income-margin": "Wealth foundations",
+    "transition-fund": "Wealth foundations",
+    "invest-first": "Wealth foundations",
+    "automated-money-routing": "Wealth foundations",
+    "passive-income": "Wealth foundations",
+    "tiny-income-generating-assets": "Wealth foundations",
+    "financial-education-for-children": "Wealth foundations",
+    "donor-advised-giving": "Wealth foundations",
+    "dynasty-trust": "Wealth foundations",
+    "family-governance": "Wealth foundations",
+    "compound-growth": "Investing and risk",
+    "long-term-investing": "Investing and risk",
+    "equity-ownership": "Investing and risk",
+    "cash-flow-investing": "Investing and risk",
+    "asset-allocation": "Investing and risk",
+    "investor-roles": "Investing and risk",
+    "conviction-investing": "Investing and risk",
+    "investment-x-ray": "Investing and risk",
+    "risk-management": "Investing and risk",
+    "financial-leverage": "Investing and risk",
+    "asset-backed-borrowing": "Investing and risk",
+    "opportunistic-cash": "Investing and risk",
+    "cash-management": "Investing and risk",
+    "inflation-protection": "Investing and risk",
+    "bonds": "Investing and risk",
+    "investment-incentives": "Investing and risk",
+    "investment-fee-drag": "Investing and risk",
+    "accredited-investing": "Investing and risk",
+    "pairs-trading": "Investing and risk",
+    "portfolio-review-cadence": "Investing and risk",
+    "tax-efficiency": "Tax and asset structures",
+    "tax-loss-harvesting": "Tax and asset structures",
+    "buy-borrow-die": "Tax and asset structures",
+    "whole-life-banking": "Tax and asset structures",
+    "business-rollups": "Business and deals",
+    "acquisition-financing": "Business and deals",
+    "capital-stack": "Business and deals",
+    "deal-structure": "Business and deals",
+    "strategic-optionality": "Business and deals",
+    "sweat-equity": "Business and deals",
+    "intellectual-property-ownership": "Business and deals",
+    "performance-based-compensation": "Business and deals",
+    "acquihire": "Business and deals",
+    "negotiation-frameworks": "Business and deals",
+    "value-proposition": "Business and deals",
+    "customer-discovery": "Business and deals",
+    "customer-acquisition-cost": "Business and deals",
+    "sales-funnels": "Business and deals",
+    "competitive-moat": "Business and deals",
+    "home-buying-game-plan": "Business and deals",
+    "skill-development": "Execution and judgment",
+    "focus": "Execution and judgment",
+    "persistence": "Execution and judgment",
+    "time-management": "Execution and judgment",
+    "input-output-equation": "Execution and judgment",
+    "intentional-resource-allocation": "Execution and judgment",
+    "constraint-driven-problem-solving": "Execution and judgment",
+    "decision-framework": "Execution and judgment",
+    "after-action-review": "Execution and judgment",
+    "speed-formula": "Execution and judgment",
+    "default-yes": "Execution and judgment",
+    "graded-exposure": "Execution and judgment",
+    "high-performance-environment": "Execution and judgment",
+    "career-fit": "Execution and judgment",
+    "communication-frameworks": "Communication and relationships",
+    "storytelling-frameworks": "Communication and relationships",
+    "borrowed-language": "Communication and relationships",
+    "client-trust": "Communication and relationships",
+    "relationship-capital": "Communication and relationships",
+    "proof-stack": "Communication and relationships",
+    "personal-brand": "Communication and relationships",
+    "leadership-standards": "Communication and relationships",
+    "a-player-hiring": "Communication and relationships",
+    "debt-management": "Wealth foundations"
+  },
+  "source_themes": {
+    "i-have-big-news-Tdhbhvsdnsg": "Announcements",
+    "when-i-understood-this-about-investing-my-life-changed-_Kpi8HgzKw8": "Investing and risk",
+    "buy-borrow-die-the-top-0-01-strategy-to-avoid-taxes-9EF3R3JR5Wk": "Tax and asset structures",
+    "how-to-speak-like-the-top-0-01-copy-this-Vx_sSMAJjNg": "Communication and relationships",
+    "warner-bros-110b-deal-can-make-you-rich-here-s-how-agq0mKUVrEg": "Business and deals",
+    "starting-from-1000-in-2026-here-s-exactly-how-i-d-invest-5A7uHZd1aGw": "Execution and judgment",
+    "this-goldman-sachs-investing-formula-makes-millionaires-rtJt16ty4xI": "Investing and risk",
+    "being-around-the-top-0-01-teaches-you-this-BZrgkgCF79g": "Execution and judgment",
+    "once-i-hit-these-money-milestones-i-became-financially-free-aetr9LovwE4": "Wealth foundations",
+    "pok-mon-s-140b-deal-will-make-you-rich-here-s-how-YHigza2n5wU": "Business and deals",
+    "i-ll-delete-your-financial-anxiety-just-give-me-18-mins-OcH0864CLPs": "Execution and judgment",
+    "it-s-boring-but-it-will-make-you-dangerously-rich-Rccmhnt1ur4": "Investing and risk",
+    "once-i-learned-this-at-goldman-sachs-my-life-changed-4aYxXWC5DGQ": "Investing and risk",
+    "if-you-master-bonds-you-master-money-si8ISgvTczc": "Investing and risk",
+    "31-years-of-wealth-knowledge-in-18-minutes-1VyRTwodPhY": "Wealth foundations",
+    "you-ll-become-debt-free-just-give-me-11-minutes-LSZU0jeZnXo": "Other",
+    "if-you-only-watch-one-money-video-make-it-this-OWorFLIbRoo": "Investing and risk",
+    "the-most-underrated-skill-that-could-make-you-rich-cLyDlUG55mk": "Communication and relationships",
+    "it-s-brutal-but-if-you-want-to-get-rich-you-need-to-watch-this-DLubmS-kX4Q": "Investing and risk",
+    "how-to-actually-buy-a-house-in-2026-my-exact-system-4RGSx3mklcc": "Business and deals",
+    "if-you-only-watch-one-business-video-make-it-this-wXhUtIvnr9U": "Communication and relationships",
+    "the-louisiana-purchase-tactic-to-buy-a-business-for-0-Bd7nAa1jckw": "Business and deals",
+    "everything-goldman-sachs-taught-me-about-money-in-just-17-mins-luvQRkxM-pQ": "Communication and relationships",
+    "it-took-me-31-years-to-learn-this-about-getting-rich-o3L2xWA4hF0": "Wealth foundations",
+    "millionaire-advice-i-m-giving-my-kids-i-wish-i-knew-in-my-20s-ISQkh8bu6EU": "Wealth foundations",
+    "passive-income-is-simple-once-you-have-a-plan-like-this-qi4gqXD4t-g": "Wealth foundations",
+    "it-took-me-30-years-to-learn-what-i-ll-tell-you-in-19-minutes-yU1YFrzeHSc": "Execution and judgment",
+    "this-warren-buffett-rule-can-make-you-rich-copy-this-tzUvZijbpjY": "Investing and risk",
+    "lionel-messi-s-1-5b-deal-can-make-you-rich-here-s-how-FBZxj9CGk00": "Business and deals",
+    "i-m-46-here-are-5-assets-i-wish-i-invested-in-30-years-ago-_IcxFpixAHA": "Execution and judgment",
+    "i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo": "Execution and judgment",
+    "hit-these-money-milestones-you-ll-become-financially-free-8vrK7txs8zU": "Wealth foundations",
+    "it-s-boring-but-this-is-the-best-way-to-build-wealth-in-2026-V_SpICYLUo4": "Business and deals",
+    "once-i-understood-this-about-money-my-life-changed-XoWE1QPMFek": "Investing and risk",
+    "this-money-mistake-is-costing-you-millions-in-2026-avoid-this-6TpYYgMCc3E": "Investing and risk",
+    "if-you-give-me-12-minutes-you-ll-become-financially-free-wgvB_oMFHmI": "Wealth foundations",
+    "after-31-years-of-investing-this-is-my-exact-system-copy-me-e7jNOBjblwk": "Investing and risk",
+    "in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U": "Wealth foundations",
+    "chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM": "Execution and judgment",
+    "exactly-how-i-built-a-3b-business-in-my-30s-3-pillars-7OSLclpwAkI": "Business and deals"
+  },
+  "page_overrides": {
+    "teles-properties": {
+      "title": "Teles Properties",
+      "description": "The brokerage used in Sharran’s acquisition, customer research, and operating examples."
+    },
+    "bonds": {
+      "title": "Bonds and Debt Capital",
+      "description": "Debt claims, issuer types, and repayment risks across public bonds and private lending."
+    },
+    "home-buying-game-plan": {
+      "title": "Home Buying Game Plan",
+      "description": "A structured process for defining housing goals, arranging financing, searching, and negotiating."
+    },
+    "business-rollups": {
+      "title": "Business Rollups",
+      "description": "Acquire and integrate businesses while evaluating operating gains and valuation assumptions."
+    },
+    "income-margin": {
+      "title": "Income Margin",
+      "description": "The surplus between earnings and spending that funds future assets and financial resilience."
+    },
+    "tax-efficiency": {
+      "title": "Tax Efficiency",
+      "description": "Assess how account placement, timing, and applicable rules affect after-tax investment outcomes."
+    },
+    "personal-brand": {
+      "title": "Personal Brand and Trust",
+      "description": "Repeated behavior and useful proof create associations that can support future opportunities."
+    },
+    "acquisition-financing": {
+      "title": "Acquisition Financing",
+      "description": "Combine payment terms, obligations, and capital sources to fund a business purchase."
+    },
+    "investment-incentives": {
+      "title": "Financial Literacy and Investment Incentives",
+      "description": "Understand investment products, costs, and how the people recommending them are paid."
+    },
+    "storytelling-frameworks": {
+      "title": "Storytelling Frameworks",
+      "description": "Give an insight meaning through a story, its tension, and a useful lesson."
+    },
+    "communication-frameworks": {
+      "title": "Communication Frameworks",
+      "description": "Structure explanations and difficult conversations so other people can understand and reuse them."
+    },
+    "decision-framework": {
+      "title": "Decision Frameworks",
+      "description": "Define the context, evidence, deadline, and exit conditions for consequential choices."
+    },
+    "invest-first": {
+      "title": "Invest First",
+      "description": "Convert a deliberate share of income into assets before expanding lifestyle spending."
+    },
+    "conviction-investing": {
+      "title": "Conviction and Investment Rationale",
+      "description": "Know what you own, why you own it, and which evidence would change the decision."
+    },
+    "equity-ownership": {
+      "title": "Equity Ownership",
+      "description": "Participate in business value through ownership, with the corresponding capital and execution risks."
+    },
+    "risk-management": {
+      "title": "Risk Management",
+      "description": "Evaluate downside, obligations, behavioral errors, and execution dependence before and after committing resources."
+    },
+    "wealth-ladder": {
+      "title": "Wealth Ladder",
+      "description": "A sequence connecting earned income, controlled spending, owned assets, and recurring investment income."
+    },
+    "cash-management": {
+      "title": "Cash Management",
+      "description": "Match liquid reserves and surplus holdings to access needs, returns, and the risks of each instrument."
+    },
+    "client-trust": {
+      "title": "Client Trust",
+      "description": "Build durable client confidence through responsiveness, shared responsibility, and prompt ownership of problems."
+    },
+    "focus": {
+      "title": "Focus and Sustained Effort",
+      "description": "Concentrate repeated effort on a small number of useful activities and make improvement observable."
+    },
+    "family-governance": {
+      "title": "Family Governance",
+      "description": "Coordinate family ownership, control, distributions, and transfers through rules established before conflict."
+    },
+    "negotiation-frameworks": {
+      "title": "Negotiation Frameworks",
+      "description": "Use objections to revise terms, reduce execution uncertainty, and understand what could enable agreement."
+    },
+    "automated-money-routing": {
+      "title": "Automated Money Routing",
+      "description": "Distribute incoming money explicitly among lifestyle spending, taxes, and future assets."
+    },
+    "skill-development": {
+      "title": "Skill Development",
+      "description": "Acquire and combine useful capabilities through focused learning, practice, and real application."
+    },
+    "proof-stack": {
+      "title": "Proof Stack",
+      "description": "Demonstrate delivery, trust, and commitment before asking others to back a larger promise."
+    },
+    "relationship-capital": {
+      "title": "Relationship Capital",
+      "description": "Build durable support through attention, useful contributions, and trust established before it is needed."
+    },
+    "billion-dollar-deals": {
+      "subtype": "tool"
+    }
+  }
+}

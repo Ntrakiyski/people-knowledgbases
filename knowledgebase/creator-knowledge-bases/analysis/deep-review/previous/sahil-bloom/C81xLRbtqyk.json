@@ -1,0 +1,50 @@
+{
+  "youtube_id": "C81xLRbtqyk",
+  "thesis": "The source uses deliberate inversion and satire to expose self-defeating patterns.",
+  "summary": "This is a satirical list of ways to become miserable. Literal instructions to avoid discomfort, compare constantly, or wait for inspiration therefore express the opposite of the intended advice. Selected passages illustrate that inversion; they do not establish that any habit guarantees misery or success.",
+  "insights": [
+    {
+      "slug": "behavioral-inversion",
+      "title": "Recognize the inverted framing before interpreting a quotation",
+      "explanation": "The opening establishes a deliberately undesirable outcome. Individual instructions should not be attributed as sincere recommendations.",
+      "quote": "if you wanted to design a life of guaranteed misery",
+      "character_start": 0,
+      "character_end": 51,
+      "tags": [
+        "inversion",
+        "communication"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "comparison-trap",
+      "title": "Read constant comparison as the target of the satire",
+      "explanation": "The source mocks assuming others' lives are better, rather than endorsing that belief.",
+      "quote": "compare yourself to others compare constantly assume everyone's life is better",
+      "character_start": 1490,
+      "character_end": 1568,
+      "tags": [
+        "mindset",
+        "comparison"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "motivation-dependence",
+      "title": "Treat waiting for inspiration as a pattern being criticized",
+      "explanation": "The satirical instruction targets mood-dependent action. It is not genuine advice to abandon discipline.",
+      "quote": "forget discipline wait until you're in the mood inspiration is your boss now",
+      "character_start": 3053,
+      "character_end": 3129,
+      "tags": [
+        "habits",
+        "motivation"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "d68e0822-fb4e-49b6-adb2-d63efe8acfbc",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

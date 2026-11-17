@@ -1,0 +1,142 @@
+---
+type: "overview"
+title: "Concepts"
+---
+
+# Concepts
+
+- [Consider operating readiness before buying a business](acquisition-readiness.md): 1 cited treatment(s).
+- [Keep the active setup work in passive-income narratives](active-before-passive.md): 1 cited treatment(s).
+- [Look beyond applicants when recruiting experienced talent](active-talent-sourcing.md): 1 cited treatment(s).
+- [Choose where personal authorship is central to the product](authorship-ownership.md): 1 cited treatment(s).
+- [Distinguish balanced use from signs of compulsion](balanced-screen-use.md): 1 cited treatment(s).
+- [Compare operating burden as well as reported financial outcomes](business-burden-comparison.md): 1 cited treatment(s).
+- [Use ordinary observation to generate questions about economics](business-curiosity.md): 1 cited treatment(s).
+- [Separate endurance from the quality of the business model](business-quality.md): 1 cited treatment(s).
+- [Evaluate the quality of the business being focused on](business-quality-focus.md): 1 cited treatment(s).
+- [Include cash availability in delegation decisions](cash-constrained-hiring.md): 1 cited treatment(s).
+- [Recognize how financial resilience affects customer choice](cash-flow-optionality.md): 1 cited treatment(s).
+- [Interpret cash outflows in context](cash-movement-context.md): 1 cited treatment(s).
+- [Separate responsiveness from constant availability](communication-batching.md): 1 cited treatment(s).
+- [Publishing doubles as practice for leadership communication](communication-practice.md): 1 cited treatment(s).
+- [Choose the competitive arena deliberately](competition-selection.md): 1 cited treatment(s).
+- [Treat cutting as part of making the work useful](compression-editing.md): 1 cited treatment(s).
+- [Pair willingness to act with willingness to change your mind](confidence-with-revision.md): 1 cited treatment(s).
+- [Avoid treating one inspiration story as a repeatable formula](creative-timing.md): 1 cited treatment(s).
+- [Interpret the breakdown alongside sustained depletion](crisis-capacity.md): 1 cited treatment(s).
+- [Combine fair service with boundaries](customer-boundaries.md): 1 cited treatment(s).
+- [Use direct customer experience to understand an acquisition opportunity](customer-informed-acquisitions.md): 1 cited treatment(s).
+- [Place the offer along known customer routes](customer-route-distribution.md): 1 cited treatment(s).
+- [Judgment needs opportunities to decide](decision-practice.md): 2 cited treatment(s).
+- [Expect uncertainty when feedback arrives slowly](delayed-creative-feedback.md): 1 cited treatment(s).
+- [Step back when the team can operate without you](delegation-exit.md): 1 cited treatment(s).
+- [Compare administrative work with the work freed capacity could support](delegation-opportunity-cost.md): 1 cited treatment(s).
+- [Treat delegation as a skill requiring practice](delegation-practice.md): 1 cited treatment(s).
+- [Build from doing the work toward transferring responsibility](delivery-before-delegation.md): 1 cited treatment(s).
+- [Show relevant competence through useful diagnosis](demonstrated-expertise.md): 1 cited treatment(s).
+- [Allow for financing consequences of overruns](development-contingency.md): 1 cited treatment(s).
+- [Do not assume harder work automatically earns more](difficulty-not-value.md): 1 cited treatment(s).
+- [Consider digital distribution for a local service](digital-local-combination.md): 1 cited treatment(s).
+- [Apply conventional service thinking to online work](digital-service-entry.md): 1 cited treatment(s).
+- [Include social connection in the screen-time discussion](digital-social-connection.md): 1 cited treatment(s).
+- [Use distributed operations to expose delegation needs](distributed-delegation.md): 1 cited treatment(s).
+- [Include existing distribution in publishing economics](distribution-publishing.md): 1 cited treatment(s).
+- [Market for delivery capacity as well as customers](dual-sided-recruiting-marketing.md): 1 cited treatment(s).
+- [The entrepreneurial skill argument includes employees](employee-value-creation.md): 1 cited treatment(s).
+- [Distinguish maintaining, improving, and expanding](entrepreneurial-seasons.md): 1 cited treatment(s).
+- [Reconsider universal entrepreneurship advice](entrepreneurship-fit.md): 1 cited treatment(s).
+- [Separate paper wealth from readily available cash](equity-liquidity-distinction.md): 1 cited treatment(s).
+- [Practice explaining why others would want to act](everyday-persuasion.md): 1 cited treatment(s).
+- [Use existing customer spending as a starting signal](existing-market-evidence.md): 1 cited treatment(s).
+- [Use real experience as source material](experience-backed-content.md): 1 cited treatment(s).
+- [The story's persistence rule was a bounded experiment](experience-before-quitting.md): 1 cited treatment(s).
+- [Record the speaker's own limits on fasting advice](fasting-contraindications.md): 1 cited treatment(s).
+- [Write out the practical consequences of failure](fear-setting.md): 1 cited treatment(s).
+- [Notice when business swings become self-worth swings](financial-emotional-separation.md): 1 cited treatment(s).
+- [Use real customer work to make opportunity concrete](first-customer-experience.md): 1 cited treatment(s).
+- [Separate monthly commitments from optional expenses](fixed-cost-discipline.md): 1 cited treatment(s).
+- [Learn the craft of a new format rather than assuming transfer](format-specific-craft.md): 2 cited treatment(s).
+- [Service responsibility amplified the operational crisis](founder-role-overload.md): 1 cited treatment(s).
+- [Learn sales before deciding how to delegate it](founder-sales-learning.md): 1 cited treatment(s).
+- [Treat demonstrated execution as part of fundraising credibility](fundraising-track-record.md): 1 cited treatment(s).
+- [Define the financial goal before allocating founder time](goal-based-business-choice.md): 1 cited treatment(s).
+- [Test delivery capacity alongside demand generation](growth-capacity-risk.md): 1 cited treatment(s).
+- [Hire when delivery crowds out growth work](growth-time-delegation.md): 3 cited treatment(s).
+- [Preserve the correction from cure to temporary remission](health-claim-boundaries.md): 2 cited treatment(s).
+- [Make the desired balance explicit](health-enjoyment-balance.md): 1 cited treatment(s).
+- [Make household screen rules explicit](household-screen-boundaries.md): 1 cited treatment(s).
+- [Assess spending against bad months and investment needs](income-volatility-buffer.md): 1 cited treatment(s).
+- [Ask what economic problem a proposed innovation solves](innovation-economics.md): 1 cited treatment(s).
+- [Separate a staffing tactic from its seller's cost claims](international-staffing.md): 1 cited treatment(s).
+- [Include employee retention in an ownership transition](key-person-transition.md): 1 cited treatment(s).
+- [Use a longer format to organize scattered teaching](knowledge-organization.md): 1 cited treatment(s).
+- [Define the practical job of the book](knowledge-product-purpose.md): 1 cited treatment(s).
+- [Resolve obstacles rather than only acknowledging them](leadership-follow-through.md): 1 cited treatment(s).
+- [Maintain accessible funds for obligations and opportunities](liquidity-reserve.md): 1 cited treatment(s).
+- [Investigate how geography changes the competitor set](local-competitive-scope.md): 1 cited treatment(s).
+- [Check local competition before treating an idea as an opportunity](local-demand-research.md): 1 cited treatment(s).
+- [Choose location against explicit household priorities](location-priority-fit.md): 1 cited treatment(s).
+- [Choose the role media plays in the operating strategy](media-allocation.md): 1 cited treatment(s).
+- [Separate direct media income from shared company overhead](media-economics.md): 1 cited treatment(s).
+- [Explain what the other participant gains](mutual-benefit.md): 1 cited treatment(s).
+- [Audience relevance can matter before audience size](niche-audience.md): 1 cited treatment(s).
+- [Notice when useful business data also encourages checking](notification-rewards.md): 1 cited treatment(s).
+- [Notice initiative in actual work](observed-initiative-hiring.md): 1 cited treatment(s).
+- [Capture the reminder without opening the phone](offline-task-capture.md): 1 cited treatment(s).
+- [Treat operating skills as part of the ownership opportunity](operating-skill-stack.md): 1 cited treatment(s).
+- [Use concrete operating evidence to invite relationships](operating-transparency.md): 1 cited treatment(s).
+- [Enter a weak function to diagnose and teach](operational-intervention.md): 1 cited treatment(s).
+- [A growing audience does not settle the media-versus-operator choice](operator-first-media.md): 1 cited treatment(s).
+- [Decline attractive work when capacity is insufficient](opportunity-boundaries.md): 1 cited treatment(s).
+- [Retain the downside of taking many opportunities](opportunity-distraction.md): 1 cited treatment(s).
+- [Look for execution improvements in established markets](ordinary-business-execution.md): 1 cited treatment(s).
+- [Look for opportunities beyond novel startup ideas](ordinary-business-opportunities.md): 1 cited treatment(s).
+- [Recognize the potential value of a timely follow-up](outreach-follow-up.md): 1 cited treatment(s).
+- [Choose the organization around the life and business desired](owner-goal-fit.md): 1 cited treatment(s).
+- [Include emotional costs when assessing entrepreneurship](ownership-emotional-cost.md): 1 cited treatment(s).
+- [Include painful responsibilities in the ownership picture](ownership-responsibility.md): 1 cited treatment(s).
+- [Use paid work to test the opportunity](paid-market-learning.md): 1 cited treatment(s).
+- [Distinguish emotional balance from risk elimination](parallel-business-experience.md): 1 cited treatment(s).
+- [Let visible operating opportunities inform partner buy-in](partner-buy-in.md): 1 cited treatment(s).
+- [Separate new-opportunity work from maintaining the current business](partner-role-division.md): 1 cited treatment(s).
+- [Assess contribution as well as trust in a partnership](partnership-value-balance.md): 1 cited treatment(s).
+- [Consider how tolerated performance affects the wider team](performance-standards.md): 1 cited treatment(s).
+- [No universal quit-or-persist rule is supplied](persistence-judgment.md): 1 cited treatment(s).
+- [Experiment with a defined period without phone access](phone-access-boundaries.md): 1 cited treatment(s).
+- [Include platform conditions in audience-growth stories](platform-timing.md): 1 cited treatment(s).
+- [Do not confuse many companies with evenly distributed success](portfolio-concentration.md): 2 cited treatment(s).
+- [Prepare for opportunities without denying contingency](prepared-opportunity.md): 1 cited treatment(s).
+- [Connect prevention motivation to what is worth preserving](protecting-life-quality.md): 1 cited treatment(s).
+- [Include real relationships in the cost of provocative content](public-voice-costs.md): 1 cited treatment(s).
+- [Evaluate a luxury purchase through its stated use case](purchase-use-case.md): 1 cited treatment(s).
+- [Match value-first selling to qualified prospects](qualified-value-first-sales.md): 1 cited treatment(s).
+- [Identify the source of a liquidity event](refinancing-not-income.md): 1 cited treatment(s).
+- [Distinguish a reinvestment choice from a guaranteed return strategy](reinvestment-sequence.md): 1 cited treatment(s).
+- [Match entry options to skills, experience, and capital](resource-matched-entry.md): 1 cited treatment(s).
+- [Relate acquisition spending to retained customer value](retention-acquisition-economics.md): 1 cited treatment(s).
+- [Build the capacity to survive mistaken decisions](risk-capacity.md): 1 cited treatment(s).
+- [Estimate revenue against crew time and full costs](rough-job-economics.md): 1 cited treatment(s).
+- [Include actual fallback resources in risk assessment](safety-net-awareness.md): 1 cited treatment(s).
+- [Distinguish a reported screening correlation from a validated hiring rule](screening-proxy-validation.md): 1 cited treatment(s).
+- [Keep useful contradictory advice while rejecting ridicule](selective-feedback.md): 1 cited treatment(s).
+- [Act without waiting for institutional permission](self-authorization.md): 1 cited treatment(s).
+- [Compare the customer count required by different offers](service-first-sales.md): 1 cited treatment(s).
+- [Investigate responsiveness as a possible competitive gap](service-responsiveness-gap.md): 1 cited treatment(s).
+- [Do not let prestigious examples erase viable small starts](small-opportunity.md): 1 cited treatment(s).
+- [Treat talent supply as a growth constraint](staffing-capacity.md): 1 cited treatment(s).
+- [Read staffing claims in their commercial context](staffing-commercial-context.md): 1 cited treatment(s).
+- [Recognize sales beyond the customer transaction](stakeholder-sales.md): 1 cited treatment(s).
+- [Record family preferences as preferences](stated-family-priorities.md): 1 cited treatment(s).
+- [Evaluate an opportunity separately from its prestige](status-opportunity-separation.md): 1 cited treatment(s).
+- [Choose examples for the space and purpose available](story-selection.md): 1 cited treatment(s).
+- [Include the relationship that supplied the first opportunity](supported-opportunity.md): 1 cited treatment(s).
+- [Separate the long-term habit philosophy from medical promises](sustainable-health-habits.md): 1 cited treatment(s).
+- [Evaluate both trust and exposure from public detail](transparent-business-content.md): 1 cited treatment(s).
+- [Weight criticism by knowledge and relationship](trusted-feedback.md): 1 cited treatment(s).
+- [Build relationships where difficult business realities can be discussed](trusted-owner-support.md): 1 cited treatment(s).
+- [Expect some problems to remain with the owner](ultimate-owner-responsibility.md): 1 cited treatment(s).
+- [Compare work alternatives after expenses](unit-economics-learning.md): 1 cited treatment(s).
+- [Consider direct tactics before assuming advertising spend is the answer](unscalable-early-distribution.md): 1 cited treatment(s).
+- [Retain the explicit limits of free advisory work](value-first-limits.md): 1 cited treatment(s).
+- [Preserve feedback after achieving financial success](wealth-retention-humility.md): 1 cited treatment(s).
+- [Test relevant work before committing to a hire](work-sample-hiring.md): 1 cited treatment(s).

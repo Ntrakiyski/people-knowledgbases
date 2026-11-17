@@ -1,0 +1,50 @@
+{
+  "youtube_id": "01ew3BpMYeM",
+  "thesis": "The sweaty-startup approach extends to digital services: start with paid work and build delegation over time.",
+  "summary": "The conversation challenges the assumption that entrepreneurship requires invention or venture capital. The participant includes consulting and technology services in his definition of ordinary businesses. The interviewer describes client work as a substantial part of his own revenue and contrasts finding a few service customers with selling many inexpensive products. The proposed sequence begins with delivering work, then delegating tasks and eventually some decisions. Reported income shares and hourly rates are anecdotes. Sweeping statements against venture funding represent a preference rather than a demonstrated rule for all founders.",
+  "insights": [
+    {
+      "slug": "digital-service-entry",
+      "title": "Apply conventional service thinking to online work",
+      "explanation": "The participant explicitly says a business need not involve physical labor to fit his approach. Consulting and other services are included alongside local operations.",
+      "quote": "Can be consulting agencies It can be tech companies It can be any kind of service business",
+      "character_start": 1375,
+      "character_end": 1465,
+      "tags": [
+        "services",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delivery-before-delegation",
+      "title": "Build from doing the work toward transferring responsibility",
+      "explanation": "The sequence distinguishes task delegation from delegating decisions. Neither step is presented as automatic merely because initial customers pay.",
+      "quote": "Then you bring people in and you delegate some of the tasks",
+      "character_start": 2686,
+      "character_end": 2745,
+      "tags": [
+        "delegation",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "service-first-sales",
+      "title": "Compare the customer count required by different offers",
+      "explanation": "The interviewer contrasts a higher-priced service with many small product sales. This is a useful arithmetic lens, while demand, fulfillment costs, and sales difficulty must still be examined.",
+      "quote": "You only have to find one person",
+      "character_start": 3646,
+      "character_end": 3678,
+      "tags": [
+        "sales",
+        "offers"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e3e8feab-51f5-47ed-8068-c22cfb82621a",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

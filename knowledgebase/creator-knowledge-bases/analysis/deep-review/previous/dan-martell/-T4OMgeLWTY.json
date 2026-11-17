@@ -1,0 +1,50 @@
+{
+  "youtube_id": "-T4OMgeLWTY",
+  "thesis": "Selected book lessons emphasize removing bottlenecks and distractions rather than adding more activity.",
+  "summary": "The creator discusses The Goal and The Effective Executive as influences on throughput and focus, and also names mindset-oriented books. The reviewed passages support the constraint and subtraction ideas. This note does not validate reading totals or the claim that four books make a reader rich.",
+  "insights": [
+    {
+      "slug": "constraint-focus",
+      "title": "Identify the limiting step in the workflow",
+      "explanation": "The creator presents the theory of constraints as a way to choose the problem whose improvement affects overall throughput. Real systems may have changing constraints.",
+      "quote": "one bottleneck one challenge that if you solve it'll increase the throughput",
+      "character_start": 2644,
+      "character_end": 2720,
+      "tags": [
+        "operations",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "focus-by-subtraction",
+      "title": "Remove distractions rather than continually adding commitments",
+      "explanation": "The source attributes abandonment to its reading of Drucker. This records the creator's interpretation, not a quotation checked against the book.",
+      "quote": "You can only remove distractions that stops you",
+      "character_start": 6912,
+      "character_end": 6959,
+      "tags": [
+        "focus",
+        "time-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "book-influence-provenance",
+      "title": "Keep the reading recommendation separate from proof of the philosophy",
+      "explanation": "The creator identifies Feeling is the Secret by Neville Goddard as an influence. Naming a book does not substantiate its claims about belief and wealth.",
+      "quote": "Feeling is the Secret by Neville Goddard",
+      "character_start": 10452,
+      "character_end": 10492,
+      "tags": [
+        "books",
+        "mindset"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "0fd6888b-7dae-4e41-a74a-4fe838ecb392",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

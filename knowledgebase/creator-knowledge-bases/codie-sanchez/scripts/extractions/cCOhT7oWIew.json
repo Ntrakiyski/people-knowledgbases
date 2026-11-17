@@ -1,0 +1,66 @@
+{
+  "youtube_id": "cCOhT7oWIew",
+  "thesis": "Codie Sanchez identifies seven self-sabotaging habits that restrict entrepreneurial growth and presents operational frameworks to eliminate distractions, empower teams, and optimize profit margins.",
+  "summary": "Entrepreneurs often hinder business growth by succumbing to routine operational distractions and unexamined work habits. Constant micro-interruptions fragment attention, requiring structured time blocking to separate administrative management from deep strategic work. Leaders also weaken team culture by failing to recognize individual contributions and neglecting to communicate a compelling mission. Furthermore, attempting to invent unique business playbooks from scratch increases failure risk compared to iterating on proven operational models. Finally, avoiding ruthless deal negotiation and retaining low-margin, demanding customers erodes enterprise profitability, necessitating periodic customer portfolio audits.",
+  "insights": [
+    {
+      "slug": "refocus-cost",
+      "title": "Task interruptions incur substantial refocusing delays",
+      "explanation": "Codie Sanchez highlights research showing that brief task interruptions require significant time for individuals to regain deep focus. Structuring work into dedicated time blocks prevents constant schedule fragmentation.",
+      "quote": "when you are interrupted it takes you on average 23 minutes to refocus on a new task",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "productivity",
+        "operations"
+      ],
+      "character_start": 999,
+      "character_end": 1083
+    },
+    {
+      "slug": "proven-systems",
+      "title": "Iterating on established frameworks outperforms inventing from scratch",
+      "explanation": "Codie Sanchez advises business owners to build operations using proven systems and benchmarks rather than attempting to create custom processes. Leveraging existing models reduces initial failure risks.",
+      "quote": "80% of business should build from proven systems benchmarks templates and people who have already solved the problem",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "operations",
+        "learning",
+        "productivity"
+      ],
+      "character_start": 5855,
+      "character_end": 5971
+    },
+    {
+      "slug": "project-sunset",
+      "title": "Terminating unviable projects prevents ongoing resource drain",
+      "explanation": "Codie Sanchez emphasizes that setting clear evaluation deadlines for new initiatives prevents prolonged investment in underperforming ideas. Killing weak projects quickly frees up capital for higher-performing opportunities.",
+      "quote": "killing an idea doesn't mean you're a failure it means you are pushing forward and just found a path that didn't work out",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "leadership",
+        "risk",
+        "operations"
+      ],
+      "character_start": 8073,
+      "character_end": 8194
+    },
+    {
+      "slug": "deal-negotiation",
+      "title": "Systematic contract negotiation protects enterprise cash flow",
+      "explanation": "Codie Sanchez argues that regularly reviewing and negotiating major vendor contracts represents a high-return operational habit. Re-evaluating terms periodically preserves capital that can be deployed into growth.",
+      "quote": "negotiating your deals is one of the highest return habits you can have",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "operations",
+        "cash-flow",
+        "sales"
+      ],
+      "character_start": 13073,
+      "character_end": 13144
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "6fc79659-deb0-4f85-9273-5a85271dfec6",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

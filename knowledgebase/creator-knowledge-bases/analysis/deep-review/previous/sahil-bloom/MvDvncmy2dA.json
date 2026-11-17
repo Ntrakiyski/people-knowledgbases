@@ -1,0 +1,50 @@
+{
+  "youtube_id": "MvDvncmy2dA",
+  "thesis": "The selected luck framework combines exposure, preparation, and reliable follow-up.",
+  "summary": "The creator connects a reported opportunity to prior public writing and sustained work, then emphasizes honoring commitments and remembering follow-ups. The account proposes ways to increase opportunity, not proof that luck can be completely engineered or that hard work never has costs.",
+  "insights": [
+    {
+      "slug": "opportunity-surface-area",
+      "title": "Make useful work visible to more possible opportunities",
+      "explanation": "The source points to publishing a thread as one antecedent of a later connection. The story is retrospective rather than causal proof.",
+      "quote": "number one increase your luck surface area",
+      "character_start": 3232,
+      "character_end": 3274,
+      "tags": [
+        "distribution",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "uncertain-reward-practice",
+      "title": "Continue developing a valued skill before rewards are clear",
+      "explanation": "The source praises work under uncertainty. Persistence still needs judgment about costs and feedback.",
+      "quote": "do the work even when the rewards are uncertain",
+      "character_start": 4505,
+      "character_end": 4552,
+      "tags": [
+        "learning",
+        "agency"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reliable-follow-up",
+      "title": "Turn follow-up intentions into a reminder and action",
+      "explanation": "The source links relationship development to delivering and closing loops.",
+      "quote": "make a note of the things you need to remember to follow up on then actually follow up",
+      "character_start": 5549,
+      "character_end": 5635,
+      "tags": [
+        "relationships",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "77e6446b-1e31-4a00-8464-dd93a7c16fda",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

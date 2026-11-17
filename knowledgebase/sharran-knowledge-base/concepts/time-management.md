@@ -1,0 +1,37 @@
+---
+type: "concept"
+title: "Time Management"
+description: "Make finite time visible and assign bounded attention to deliberately selected activities."
+tags: ["investing", "personal-development", "resource-allocation"]
+videos: ["i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo"]
+created: "2026-11-16"
+updated: "2026-11-16"
+---
+
+# Time Management
+
+> put a 20-minut timer on your email and then work on your email.
+
+[I'm 46. If You Want to Get Rich With Investing, Watch This:](../sources/i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo.md), 0:11:30.
+
+Srivatsaa treats time as capital whose supply cannot be replenished by earning more money. His emphasis is on making that limit concrete enough to affect choices, then developing a practical sense of how much attention a task consumes.
+
+He describes using a life in weeks chart and an estimated death clock to visualize remaining time. These devices are meant to interrupt the feeling of an unlimited future, not supply a reliable prediction of lifespan. His broader argument is that even a full lifetime contains only a portion with the desired combination of experience, health, energy, and freedom to act.
+
+## Build a relationship with the clock
+
+His operational instruction is simple: set a timer before beginning work. Twenty minutes for email or an hour for a memo creates an explicit container rather than an undefined session. Repeating this practice helps someone calibrate how long activities actually take. The timer therefore provides information about future allocations as well as a boundary for the present task.
+
+He also describes each day as a fresh allowance of spendable minute credits. Watching entertainment, walking, practicing a skill, and exercising all consume the same finite daily supply. The example is an analogy for choice rather than a precise personal schedule everyone should adopt.
+
+Within this framework, refusing an activity is part of investing time, because it preserves capacity for something else. Srivatsaa connects greater awareness of mortality with being more careful about both yes and no. The teaching does not require filling every minute with paid work; its standard is that the allocation reflects what the person values rather than happening unnoticed.
+
+## Related
+
+- [Intentional Resource Allocation](intentional-resource-allocation.md): Investing means deliberately deploying available resources toward a chosen outcome.
+- [Relationship Capital](relationship-capital.md): Build durable support through attention, useful contributions, and trust established before it is needed.
+- [Skill Development](skill-development.md): Acquire and combine useful capabilities through focused learning, practice, and real application.
+
+## Sources
+
+- [I'm 46. If You Want to Get Rich With Investing, Watch This:](../sources/i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo.md) - "[0:11:30] put a 20-minut timer on your email and then work on your email."

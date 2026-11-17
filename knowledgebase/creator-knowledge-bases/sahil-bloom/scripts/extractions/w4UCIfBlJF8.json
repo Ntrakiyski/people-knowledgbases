@@ -1,0 +1,68 @@
+{
+  "youtube_id": "w4UCIfBlJF8",
+  "thesis": "Build a day around energy, meaningful work and protected relationships.",
+  "summary": "A day-in-the-life account moves from morning reading and book writing through lifting and marathon training, afternoon administrative work, recording, family time and evening recovery. Bloom describes daily writing as cumulative progress, aligns creative tasks with morning energy, and changes the afternoon plan to finish lingering tasks. He physically separates his phone during family time. Meals, skincare and supplements are personal routines with commercial and health claims.",
+  "insights": [
+    {
+      "slug": "energy-aligned-work",
+      "title": "Put creative work in your strongest energy window",
+      "explanation": "He moved workouts later because early exercise used the only window in which he felt creative; he explicitly allows other people different windows.",
+      "quote": "try to align the work you're doing to the energy that you feel during different times of the day",
+      "tags": [
+        "time",
+        "energy"
+      ],
+      "character_start": 16590,
+      "character_end": 16686,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "daily-progress",
+      "title": "Small daily work advances long projects",
+      "explanation": "The book-writing block illustrates cumulative progress; he offers 30 minutes as a smaller starting point rather than requiring his full morning.",
+      "quote": "you're not going to write an entire book in a day",
+      "tags": [
+        "writing",
+        "habits"
+      ],
+      "character_start": 2513,
+      "character_end": 2562,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "flexible-structure",
+      "title": "Structure can accommodate momentum",
+      "explanation": "He extends administrative work beyond its planned block when it is finally progressing; the calendar is not portrayed as perfectly obeyed.",
+      "quote": "I think I'm just going to keep going after this momentum",
+      "tags": [
+        "planning",
+        "flexibility"
+      ],
+      "character_start": 16016,
+      "character_end": 16072,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "physical-phone-boundaries",
+      "title": "Remove the phone during family time",
+      "explanation": "Physical distance, grayscale and separation from work are his mechanisms for being present.",
+      "quote": "i'll always just like leave my phone in the car or in my office during this family time",
+      "tags": [
+        "family",
+        "attention"
+      ],
+      "character_start": 19546,
+      "character_end": 19633,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "fa449f3a-0a10-4bee-a840-c1b3ddcf9177",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "An edited personal day with substantial schedule autonomy, home equipment and family support; not a generally feasible timetable. He acknowledges early-career constraints and an imperfect workday. High food intake relates to his reported training load. Skincare absorption, natural-product superiority, supplement, sauna and cold claims are unverified; Wild Roman is his own business.",
+  "review_changes": "Adds flexible reprioritization, privilege/context, and the difference between transferable scheduling principles and personal health/product practices.",
+  "deep_review_date": "2026-11-16T20:48:01.843161+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/w4UCIfBlJF8.json",
+  "previous_draft_sha256": "a43e904d1e095729b2b37da78a00f8d0e90abb3947b1af073bb5945157e546fb"
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "everything-goldman-sachs-taught-me-about-money-in-just-17-mins-luvQRkxM-pQ",
+  "thesis": "Sharran’s Goldman Sachs lessons emphasize value creation, long-term trust, responsiveness, transparent correction, frameworks, internal champions, and shared standards.",
+  "summary": "Sharran presents ten lessons he associates with working at Goldman Sachs. A personal options-trading challenge illustrates proving an ability to create value, and a returned windfall-profit story illustrates protecting lifetime client trust over a short-term gain. He then advocates strong responsiveness and rapid disclosure when something goes wrong, describing a trading error that prompted immediate legal consultation and client contact. These are his anecdotes and reported firm practices rather than independently verified descriptions of Goldman Sachs.\n\nOther lessons concern environments that raise work standards, reusable frameworks such as the investment x-ray, the trust signal of a brand, and senior colleagues who advocate for a coachable employee. He describes a one-firm culture that mobilizes expertise across internal boundaries and recommends creating useful introductions within one’s network. Finally, he links clear expectations and promotion standards with respect and lower resentment, arguing that relationships work better when people understand the rules.",
+  "tags": [
+    "business",
+    "trust",
+    "leadership"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:14",
+      "note": "Proving value creation."
+    },
+    {
+      "ts": "0:01:45",
+      "note": "Long-term greed and client trust."
+    },
+    {
+      "ts": "0:03:48",
+      "note": "Responsiveness."
+    },
+    {
+      "ts": "0:05:08",
+      "note": "Fast disclosure and correction of bad news."
+    },
+    {
+      "ts": "0:08:08",
+      "note": "Framework-based teaching."
+    },
+    {
+      "ts": "0:11:27",
+      "note": "Internal champions and coachability."
+    },
+    {
+      "ts": "0:13:49",
+      "note": "One-firm culture and shared support."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "long-term-trust",
+      "name": "Long-term trust",
+      "one_liner": "Choosing durable relationships over opportunistic short-term transaction gains.",
+      "explanation": "Sharran’s structured-note anecdote has a trader relinquish an unintended extra profit even though the client received the promised outcome. He interprets the decision as long-term greed: preserving confidence, advocacy, and future business matters more than a one-time windfall. He extends the principle beyond finance to earning the right to keep serving a customer. The described transaction and predicted referrals are his account, while the lesson concerns the horizon used to evaluate a relationship.",
+      "tags": [
+        "business",
+        "trust",
+        "leadership"
+      ],
+      "quotes": [
+        {
+          "ts": "0:03:12",
+          "text": "You don't win a client once, you earn their trust repeatedly."
+        }
+      ],
+      "related": [
+        "client-responsiveness",
+        "owning-bad-news"
+      ]
+    },
+    {
+      "slug": "client-responsiveness",
+      "name": "Client responsiveness",
+      "one_liner": "Prompt acknowledgment and follow-through that make valuable clients feel reliably supported.",
+      "explanation": "Sharran recalls a culture of returning client calls except when sleeping or showering and personally answering late-night notifications. He treats responsiveness as a signal of care and certainty rather than an efficiency technique. He also qualifies the practice by saying it cannot be done for everyone and should prioritize the best clients. Claims that this habit generated large fees are his anecdotes; the principle is dependable access as part of perceived advisory trust.",
+      "tags": [
+        "business",
+        "trust",
+        "leadership"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:52",
+          "text": "Responsiveness is a symbol of trust and certainty for your company."
+        }
+      ],
+      "related": [
+        "long-term-trust"
+      ]
+    },
+    {
+      "slug": "owning-bad-news",
+      "name": "Owning bad news",
+      "one_liner": "Disclosing a problem promptly with a clear account and an active remediation plan.",
+      "explanation": "The video’s trading-error story illustrates a colleague stopping, consulting counsel, and contacting the client before a regulator or third party did. Sharran argues that defending the past only delays damage control. His practical instruction is to contact the affected person before they contact you, explain honestly, and describe the response already underway. He links immediate ownership with preserving confidence during failure rather than relying on an error-free image of professional competence.",
+      "tags": [
+        "business",
+        "trust",
+        "leadership"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:08",
+          "text": "Bad news doesn't get better with time."
+        }
+      ],
+      "related": [
+        "long-term-trust",
+        "after-action-review"
+      ]
+    },
+    {
+      "slug": "diagnostic-communication",
+      "name": "Diagnostic communication",
+      "one_liner": "Teaching a reusable decision structure instead of supplying a bare answer.",
+      "explanation": "Sharran says frameworks made complex financial and organizational ideas easier for clients to understand, remember, and trust. He illustrates this with the investment x-ray and a three-part description of the firm’s people, process, and platform. Rather than assuming an adviser’s authority is enough, he recommends organizing the reasoning so another person can see the basis of the answer. The educational effect is part of how an adviser becomes a trusted teacher.",
+      "tags": [
+        "business",
+        "trust",
+        "leadership"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:52",
+          "text": "Build a framework so you can teach the answer."
+        }
+      ],
+      "related": [
+        "investment-x-ray",
+        "long-term-trust"
+      ]
+    },
+    {
+      "slug": "internal-champions",
+      "name": "Internal champions",
+      "one_liner": "Influential colleagues who advocate for a person when that person is absent from the decision.",
+      "explanation": "Sharran describes a short job interview in which asking for a prospecting script demonstrated coachability rather than overconfidence. He says the managing partner then advocated for him during hiring and afterward. The lesson is to make it worthwhile for experienced people to invest in one’s development by showing a willingness to learn. He connects internal relationships with future decisions made in rooms the employee cannot enter or influence directly.",
+      "tags": [
+        "business",
+        "trust",
+        "leadership"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:36",
+          "text": "Your future depends on the conversations that you are not in, on the rooms that you are not in."
+        }
+      ],
+      "related": [
+        "skill-development",
+        "one-firm-culture"
+      ]
+    },
+    {
+      "slug": "one-firm-culture",
+      "name": "One-firm culture",
+      "one_liner": "Coordinating people across internal roles to serve clients as a shared organizational responsibility.",
+      "explanation": "Sharran contrasts colleagues helping regardless of individual profit attribution with a more siloed model of banking. He recalls specialists traveling and contributing to opportunities outside their immediate responsibilities. The value comes from clients sensing an entire organization behind their adviser. He also stresses that prior internal relationships make help easier to mobilize and suggests introducing good contacts to one another as a practical habit for strengthening a network.",
+      "tags": [
+        "business",
+        "trust",
+        "leadership"
+      ],
+      "quotes": [
+        {
+          "ts": "0:14:21",
+          "text": "the real power of culture."
+        }
+      ],
+      "related": [
+        "internal-champions",
+        "long-term-trust"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "subtype": "organization",
+      "one_liner": "Financial-services firm forming the setting for Sharran’s ten professional lessons.",
+      "explanation": "Sharran attributes his approach to client trust, responsiveness, frameworks, networking, effort, and shared standards to his experience at Goldman Sachs. These are personal recollections and interpretations, including his reported client and asset figures.",
+      "resource": "https://www.goldmansachs.com/",
+      "quotes": [
+        {
+          "ts": "0:00:14",
+          "text": "My first lesson at Goldman Sachs"
+        }
+      ]
+    }
+  ]
+}

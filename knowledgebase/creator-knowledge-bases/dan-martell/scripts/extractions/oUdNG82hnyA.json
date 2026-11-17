@@ -1,0 +1,68 @@
+{
+  "youtube_id": "oUdNG82hnyA",
+  "thesis": "Build a clear association with a specific audience, earn trust and then select a monetization path.",
+  "summary": "Five steps define brand association, a focused audience, repeated publishing, trust protection and monetization. Martell links personal experience with a concrete audience problem, suggests one platform and a sustainable stretch schedule, and encourages early imperfect practice plus feedback. He names ad revenue, aligned brand deals and owned products/services, emphasizing one route first and noting that product ownership requires operating ability.",
+  "insights": [
+    {
+      "slug": "brand-association",
+      "title": "Define what the name should evoke",
+      "explanation": "He treats a personal brand as accumulated association rather than just follower volume.",
+      "quote": "what do people think about when they hear your name",
+      "tags": [
+        "brand",
+        "positioning"
+      ],
+      "character_start": 1106,
+      "character_end": 1157,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "specific-audience",
+      "title": "Speak to a person with a problem you can help solve",
+      "explanation": "His template specifies a type of person, desired outcome and avoided pain.",
+      "quote": "you should speak to people that have the problem that you can help them with",
+      "tags": [
+        "audience",
+        "value"
+      ],
+      "character_start": 4244,
+      "character_end": 4320,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trust-before-monetization",
+      "title": "Avoid exhausting trust for immediate deals",
+      "explanation": "He urges giving useful material and responding before attempting to extract every possible sale.",
+      "quote": "trust is the currency that you're trading when you build an audience",
+      "tags": [
+        "trust",
+        "content"
+      ],
+      "character_start": 11352,
+      "character_end": 11420,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "one-monetization-path",
+      "title": "Master a route before adding all of them",
+      "explanation": "Ads, aligned brand deals and owned products have different economics and operating demands.",
+      "quote": "don't try to build them all at once master one and win",
+      "tags": [
+        "monetization",
+        "focus"
+      ],
+      "character_start": 17579,
+      "character_end": 17633,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "7aa488ec-f927-4a83-a644-b71f44d975f3",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Follower totals, revenue attribution, keynote fees, client earnings and book results are unverified. The assertion all billionaires need a brand and the audience-first model are not universal business rules. A hundred posts or thirty live sessions are practice heuristics, not guaranteed growth. Sponsorship and owned-product mentions should not be confused; he advocates alignment while promoting his own businesses.",
+  "review_changes": "Adds trust before monetization, specifics of practice and audience selection, and the operational difficulty behind the highest-upside product route.",
+  "deep_review_date": "2026-11-16T20:57:07.428441+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/oUdNG82hnyA.json",
+  "previous_draft_sha256": "e4db89f10d062932c698231ebe6c4ff31da8670508956d1280b9f705f60dfecb"
+}

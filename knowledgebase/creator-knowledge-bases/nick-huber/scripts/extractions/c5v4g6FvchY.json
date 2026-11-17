@@ -1,0 +1,63 @@
+{
+  "youtube_id": "c5v4g6FvchY",
+  "thesis": "Writing a book required the speaker to relearn structure, tolerate delayed feedback, and edit aggressively.",
+  "summary": "The participant says his ease with short social posts did not transfer directly to a book. An editor rejected the initial approach, prompting a restart and work on storytelling. Unlike immediate online reactions, book writing involved months of uncertainty. He describes drafting chapters, cutting roughly a third, and selecting fewer stories to stay within length limits. The book commitment also overlapped a major acquisition. The interviewer's initial word-count description is inconsistent with the speaker's correction; this note treats the episode as a process account rather than relying on a precise abandoned-draft total.",
+  "insights": [
+    {
+      "slug": "format-specific-craft",
+      "title": "Learn the craft of a new format rather than assuming transfer",
+      "explanation": "The speaker expected to assemble familiar material but found book structure demanded different work. Editorial feedback changed the method rather than merely polishing sentences.",
+      "quote": "I thought it was going to be a combination of me um just putting together my my tweets That is not it",
+      "character_start": 1868,
+      "character_end": 1969,
+      "tags": [
+        "writing",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "delayed-creative-feedback",
+      "title": "Expect uncertainty when feedback arrives slowly",
+      "explanation": "The participant contrasts instant social feedback with months inside a manuscript. The observation explains his experience of doubt without establishing that such doubt measures quality.",
+      "quote": "When I'm writing a book I'm in my own mind for months on end",
+      "character_start": 1204,
+      "character_end": 1264,
+      "tags": [
+        "creativity",
+        "writing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "compression-editing",
+      "title": "Treat cutting as part of making the work useful",
+      "explanation": "The described process dedicates substantial time to shortening chapters and stories. The intended benefit is concise, actionable reading, rather than preserving every drafted word.",
+      "quote": "I would spend two days shrinking that chapter by about 30% word count",
+      "character_start": 4223,
+      "character_end": 4292,
+      "tags": [
+        "editing",
+        "writing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "story-selection",
+      "title": "Choose examples for the space and purpose available",
+      "explanation": "The speaker says 29 of 40 candidate stories made the book. This documents prioritization and permission or anonymity considerations, not proof that excluded stories lacked value.",
+      "quote": "I had to figure out which 11 stories were not as important",
+      "character_start": 6669,
+      "character_end": 6727,
+      "tags": [
+        "editing",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "5eed3f40-b51b-477e-8ad3-0f411b961612",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

@@ -1,0 +1,50 @@
+{
+  "youtube_id": "25ngHHTohRA",
+  "thesis": "Selected consistency practices emphasize identity, accountability, and direction over momentary position.",
+  "summary": "The reviewed passages recommend repeated action, a witness to commitments, and judging the trend over time. Assertions about universal willpower timing and guaranteed improvement are not established here. This note captures a subset of the larger behavioral system.",
+  "insights": [
+    {
+      "slug": "habit-identity",
+      "title": "Reduce repeated negotiation around a chosen habit",
+      "explanation": "The source contrasts daily practice with deciding anew each day. The appropriate frequency still depends on the activity and recovery needs.",
+      "quote": "you can't negotiate with yourself on a daily basis",
+      "character_start": 1246,
+      "character_end": 1296,
+      "tags": [
+        "habits",
+        "identity"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "peer-accountability",
+      "title": "Use a witness rather than requiring elaborate software",
+      "explanation": "The creator offers a simple group chat as an accountability mechanism, not a guaranteed adherence tool.",
+      "quote": "you just need a simple group chat you just need a witness",
+      "character_start": 4609,
+      "character_end": 4666,
+      "tags": [
+        "habits",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trend-over-position",
+      "title": "Inspect direction over a longer interval",
+      "explanation": "The source contrasts improvement trends with discouraging comparisons at one point in time.",
+      "quote": "focus on your trend line not your position",
+      "character_start": 8198,
+      "character_end": 8240,
+      "tags": [
+        "measurement",
+        "mindset"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "47630f5e-0a56-487a-96d6-2715e063f2be",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

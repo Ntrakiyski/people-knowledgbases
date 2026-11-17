@@ -1,0 +1,13 @@
+The investment x-ray is Srivatsaa’s recurring way to make an investment’s tradeoffs visible before committing money. Rather than starting with a promoter’s reputation or a projected return, he asks four questions: how likely is capital to come back, what are the tax consequences, will the holding generate cash flow, and can its value grow?
+
+## Four dimensions, rather than one exciting number
+
+Capital preservation asks what amount is exposed to loss. It does not require every investment to guarantee principal. Tax efficiency asks what treatment or advantage applies, instead of assuming a high gross return translates into the same usable wealth. Yield concerns distributions while the asset is held. Growth concerns a possible increase in the asset’s value over time. Income and appreciation therefore remain separate benefits.
+
+His examples compare cash, Apple, Bitcoin, property, startups, and an energy deal that allegedly failed through fraud. Cash may preserve a nominal balance while providing little growth or tax benefit. A speculative asset may promise growth without supplying income or strong capital protection. The purpose is to name those absences instead of treating all investments as different versions of the same return stream.
+
+## What the score can and cannot tell you
+
+Srivatsaa often assigns up to twenty five points per category for a total of one hundred. The examples use approximate yields, subjective judgments, and occasionally inconsistent spoken arithmetic. In one discussion he explicitly calls the score arbitrary and says it is not the final answer. The transcript does not provide a reproducible rating rubric or probability model.
+
+The useful output is therefore a clearer set of questions. An investor can ask a person pitching a deal to explain repayment protection, tax treatment, distributions, and growth separately. Another recurring question is whether a proposed investment adds a benefit without sacrificing useful existing ones. A large total assembled from optimistic assumptions cannot repair an unacceptable downside, establish that a promoter is honest, or replace diligence about the actual terms.

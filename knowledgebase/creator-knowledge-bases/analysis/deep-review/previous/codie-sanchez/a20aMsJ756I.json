@@ -1,0 +1,50 @@
+{
+  "youtube_id": "a20aMsJ756I",
+  "thesis": "Selected goal advice favors scheduled action and public accountability over waiting for motivation.",
+  "summary": "The reviewed passages urge calendar commitments, beginning without permission, and making progress public. Claims that pressure inevitably propels success are not established. The note records the creator's high-intensity motivational style while leaving room for different accountability preferences and constraints.",
+  "insights": [
+    {
+      "slug": "structure-over-motivation",
+      "title": "Turn an intention into a scheduled commitment",
+      "explanation": "The creator contrasts a plan with waiting for the right feeling.",
+      "quote": "chapter one fuck motivation you need a plan",
+      "character_start": 814,
+      "character_end": 857,
+      "tags": [
+        "habits",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "self-authorization",
+      "title": "Question whether action really requires another person's approval",
+      "explanation": "The source encourages beginning without waiting for a mentor or lucky break. Actual permissions and qualifications still matter where required.",
+      "quote": "stop waiting on permission a mentor a lucky break",
+      "character_start": 2358,
+      "character_end": 2407,
+      "tags": [
+        "agency",
+        "mindset"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "public-accountability",
+      "title": "Treat public commitment as one possible source of pressure",
+      "explanation": "The creator says public building helped her. The effect and costs can differ across people and projects.",
+      "quote": "watch what public accountability does for you",
+      "character_start": 16743,
+      "character_end": 16788,
+      "tags": [
+        "accountability",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "212178c6-76f1-4606-9eb7-766a557f7572",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U",
+  "thesis": "Sharran presents generational wealth as a coordinated system of ownership structure, governance, liquidity, patient investing, and successor training.",
+  "summary": "Sharran describes nine systems intended to preserve wealth across generations. He contrasts direct inheritance with dynasty trusts, discusses holding companies that separate ownership benefits from control, and presents life insurance as a family liquidity mechanism. He adds written family rules, mixed governance boards, and transfer restrictions to reduce forced sales and conflict. The historical family comparisons, tax results, and creditor-protection statements are the speaker’s claims rather than independently established outcomes.\n\nThe later systems emphasize long holding periods, access to cash, and preparing heirs. He describes changing his own investment horizon from five years to a century and lists several credit sources as potential liquidity tools, without establishing that they are substitutes for safe reserves in every situation. Children’s real businesses, paid learning, investment decisions, and philanthropy are his examples of training future stewards. The unifying aim is to preserve compounding while family members benefit from assets under shared rules.",
+  "tags": [
+    "generational-wealth",
+    "governance",
+    "estate-planning"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:21",
+      "note": "Dynasty-trust framework."
+    },
+    {
+      "ts": "0:02:32",
+      "note": "Holding companies and family control."
+    },
+    {
+      "ts": "0:03:40",
+      "note": "Insurance-funded family liquidity."
+    },
+    {
+      "ts": "0:05:41",
+      "note": "Written family constitution."
+    },
+    {
+      "ts": "0:07:27",
+      "note": "Boards and committees."
+    },
+    {
+      "ts": "0:08:35",
+      "note": "Transfer restrictions."
+    },
+    {
+      "ts": "0:15:20",
+      "note": "Next-generation training."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "dynasty-trust",
+      "name": "Dynasty trust",
+      "one_liner": "A multigenerational asset-holding structure designed to preserve family capital and distribute benefits.",
+      "explanation": "Sharran contrasts repeated direct inheritance with placing assets in a continuing trust. In his account, the trust can provide income and lending access while reducing repeated transfer taxes, allowing the principal to compound across generations. He attributes the Rockefeller family’s persistence to this structural difference. His tax and legal outcomes are simplified claims in a US-oriented discussion; the transferable theme is planning how assets are held before wealth passes through multiple estates.",
+      "tags": [
+        "generational-wealth",
+        "governance",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:21",
+          "text": "The first system is the dynasty trust."
+        }
+      ],
+      "related": [
+        "holding-company",
+        "family-governance",
+        "compound-growth"
+      ]
+    },
+    {
+      "slug": "holding-company",
+      "name": "Holding company",
+      "one_liner": "An entity that holds assets and centralizes control rather than leaving each heir to act independently.",
+      "explanation": "The Walton example separates family economic ownership from the voting and transfer structure controlling a major company. Sharran argues that equal direct ownership can create problems when heirs have different goals. A holding company creates a layer through which rights and decisions can be coordinated over generations. The specific ownership percentages he gives are his reporting; the conceptual focus is the distinction between who benefits financially and how strategic control is organized.",
+      "tags": [
+        "generational-wealth",
+        "governance",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:03:04",
+          "text": "the holding company has all the controls, all the rights"
+        }
+      ],
+      "related": [
+        "dynasty-trust",
+        "family-governance"
+      ]
+    },
+    {
+      "slug": "family-governance",
+      "name": "Family governance",
+      "one_liner": "Written rules and decision bodies that align family benefits with preservation of shared assets.",
+      "explanation": "Sharran combines a family constitution, councils, and committees to explain how shared assets survive disagreement. He imagines heirs who disagree about reinvesting and distributions, then argues for advance rules covering loans, access, and ownership. He describes a board including family, independent members, and a corporate trustee to enforce agreements and develop stewardship. He recommends writing rules when the structure starts and while participants are calm, before personal crises force rushed decisions.",
+      "tags": [
+        "generational-wealth",
+        "governance",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:27",
+          "text": "This is called a family constitution."
+        }
+      ],
+      "related": [
+        "holding-company",
+        "transfer-restrictions",
+        "financial-education-for-children"
+      ]
+    },
+    {
+      "slug": "transfer-restrictions",
+      "name": "Transfer restrictions",
+      "one_liner": "Agreed friction around selling ownership so one participant cannot easily disrupt a shared asset.",
+      "explanation": "Sharran uses a private family business and a hypothetical three-partner company to show how unrestricted share sales can introduce an incompatible owner. He recommends making important transfers difficult but possible, rather than permanently preventing needed liquidity. A right of first refusal lets relatives or existing owners consider buying before an outside party enters. His broad creditor and divorce protection statements are speaker claims, while the central idea is preserving an intentional control structure.",
+      "tags": [
+        "generational-wealth",
+        "governance",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:57",
+          "text": "make important things difficult to do but not impossible."
+        }
+      ],
+      "related": [
+        "family-governance",
+        "cash-management"
+      ]
+    },
+    {
+      "slug": "whole-life-banking",
+      "name": "Whole-life policy borrowing",
+      "one_liner": "A family liquidity pool built from insurance policies and lending against accumulated value.",
+      "explanation": "Sharran describes a family bank owning policies on relatives, paying premiums, receiving dividends and cash value, and lending for investment or lifestyle needs. Repayments return to the pool, and death benefits add liquidity. He presents the structure as a shock absorber that could help avoid selling valuable assets when taxes or emergencies arise. These are his product and estate-planning claims, and the video does not supply policy-specific pricing or stress tests.",
+      "tags": [
+        "generational-wealth",
+        "governance",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:12",
+          "text": "The trust becomes a family bank"
+        }
+      ],
+      "related": [
+        "dynasty-trust",
+        "asset-backed-borrowing",
+        "cash-management"
+      ]
+    },
+    {
+      "slug": "financial-education-for-children",
+      "name": "Financial education for children",
+      "one_liner": "Preparing heirs through practical earning, investing, and giving responsibilities.",
+      "explanation": "Sharran says inheritance structures need capable future stewards. He distinguishes chores from useful work and describes his daughter’s e-commerce business and his son receiving investment money for reading books. He organizes development around interests, working and money skills, and character, including philanthropy. The objective is for children to understand creating value and handling assets before they inherit responsibility, rather than learning only to consume resources supplied by the existing family fortune.",
+      "tags": [
+        "generational-wealth",
+        "governance",
+        "estate-planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:16:43",
+          "text": "Our job as parents is to teach our children the skills to be able to take over for us in the next generation."
+        }
+      ],
+      "related": [
+        "family-governance",
+        "skill-development"
+      ]
+    }
+  ],
+  "entities": []
+}

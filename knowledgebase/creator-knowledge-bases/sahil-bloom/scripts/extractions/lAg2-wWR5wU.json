@@ -1,0 +1,66 @@
+{
+  "youtube_id": "lAg2-wWR5wU",
+  "thesis": "Audit four kinds of professional time, then constrain administration to protect making, learning, and thinking.",
+  "summary": "Bloom separates management, creation, consumption, and ideation time. He argues that fast administrative completions can feel productive while displacing work with slower payoffs. His proposed audit colors a recent calendar in half-hour increments, then batches administration and reserves daily windows for creation, learning, and thinking. He treats reading and quiet reflection as inputs to creative work rather than inherently wasted time. Neuroscience explanations and a walking-study statistic are invoked without sufficient detail to assess them. The protocol is a scheduling hypothesis, not proof that management work is unimportant or that the suggested allocation fits every role.",
+  "insights": [
+    {
+      "slug": "four-types-of-time",
+      "title": "Distinguish maintaining work from creating, learning, and thinking",
+      "explanation": "The framework highlights competing modes of attention. It does not show that meetings or emails are always low value.",
+      "quote": "label them red for management time green for creation time blue for consumption time and yellow for ideiation time",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 4153,
+      "character_end": 4267,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "batch-administration",
+      "title": "Constrain reactive work rather than letting it occupy every gap",
+      "explanation": "Batching is proposed to create predictable space for other work. Its suitability depends on response obligations.",
+      "quote": "batch your management time into a few daily blocks instead of letting it bleed out across your entire day",
+      "tags": [
+        "productivity",
+        "operations"
+      ],
+      "character_start": 4410,
+      "character_end": 4515,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "protect-creation",
+      "title": "Reserve making time before administration consumes it",
+      "explanation": "The prescribed creation window excludes messages and meetings. A protected slot is an implementation mechanism, not a measured improvement by itself.",
+      "quote": "block at least one window for creation every single day and protect it like your life depends on it",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 4931,
+      "character_end": 5030,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "learning-and-thinking-time",
+      "title": "Schedule inputs and reflection as well as output",
+      "explanation": "The suggested calendar gives deliberate room to learning and ideation. This qualifies a narrow equation of productivity with immediately completed tasks.",
+      "quote": "block at least 30 minutes per day for consumption and 15 minutes per day for ideiation",
+      "tags": [
+        "learning",
+        "productivity"
+      ],
+      "character_start": 5085,
+      "character_end": 5171,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "89e70f1d-5977-4f64-94bb-d15bf3f79e5b",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The ninety-percent administrative figure, dopamine explanation, Harvard attribution, and walking statistic remain unverified. Managers and frontline roles may have necessary reactive responsibilities. Calendar categories describe activities rather than directly measuring their value.",
+  "review_changes": "Adds the full four-category audit and the distinction between necessary management and habitual administrative grazing.",
+  "deep_review_date": "2026-11-16T19:27:04.640652+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/lAg2-wWR5wU.json",
+  "previous_draft_sha256": "bb9a0165fdfba0d2ba1f467de60881384810b7b2f7779a5e1b642396e7e3e637"
+}

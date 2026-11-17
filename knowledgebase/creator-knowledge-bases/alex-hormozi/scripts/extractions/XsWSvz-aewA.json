@@ -1,0 +1,68 @@
+{
+  "youtube_id": "XsWSvz-aewA",
+  "thesis": "As content becomes cheap, higher-stakes advice requires credible demonstration tied to real work.",
+  "summary": "Hormozi distinguishes entertainment consumed for its own sake from education meant to change behavior, then proposes a continuum of audience risk from entertainment to business advice. He predicts proof matters more as stakes rise, separates past accomplishments from live demonstration, and suggests embedding documented customer work into delivery. Product demonstrations, recorded audits and free public work illustrate a delivery/marketing loop.",
+  "insights": [
+    {
+      "slug": "education-as-behavior",
+      "title": "Evaluate educational content by changed behavior",
+      "explanation": "His definition distinguishes instruction from the entertainment value of merely watching.",
+      "quote": "the point of education is to change behavior",
+      "tags": [
+        "content",
+        "education"
+      ],
+      "character_start": 2090,
+      "character_end": 2134,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "risk-proof-continuum",
+      "title": "Higher perceived stakes increase the demand for credibility",
+      "explanation": "He predicts demonstrated experience becomes more important for costly decisions; this is a model of trust, not a universal risk ranking.",
+      "quote": "we take it as a signal to decrease our own personal risk",
+      "tags": [
+        "trust",
+        "proof"
+      ],
+      "character_start": 7108,
+      "character_end": 7164,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "document-delivery",
+      "title": "Integrate useful demonstration into existing work",
+      "explanation": "Rather than inventing stories, he proposes capturing real customer interactions and outcomes where appropriate.",
+      "quote": "I can document while I deliver",
+      "tags": [
+        "content",
+        "systems"
+      ],
+      "character_start": 13782,
+      "character_end": 13812,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "proof-without-clients",
+      "title": "Public useful work can demonstrate a skill before a large customer base",
+      "explanation": "He suggests documented free audits as a possible trade when a small firm lacks enough customer examples.",
+      "quote": "start doing these these audits for people for free and document them",
+      "tags": [
+        "demonstration",
+        "marketing"
+      ],
+      "character_start": 12415,
+      "character_end": 12483,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2531a60e-68a2-4c3f-aca8-a26895252c95",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Creator-risk categories, AI timelines and audience-response claims are hypotheses. Health and financial advice can both carry substantial real risks despite his ordering. Follower totals and claimed accomplishments are self-reported, not independently verified proof of correctness. A polished demonstration or testimonial does not establish a causal result. Hypothetical sweepstakes are examples, not implemented programs.",
+  "review_changes": "Adds behavior-change definition, within-video variation, proof versus demonstrated expertise distinction and the possibility that evidence signals can mislead.",
+  "deep_review_date": "2026-11-16T20:59:28.057367+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/XsWSvz-aewA.json",
+  "previous_draft_sha256": "e1a25b768d78cd100b375923ae6e1ba6d1dcb655147bf7d5a723bab999fbf9f1"
+}

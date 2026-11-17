@@ -1,0 +1,50 @@
+{
+  "youtube_id": "sL16tsGafcQ",
+  "thesis": "The wealth-path framework distinguishes whose capital is used and whose business is owned or operated.",
+  "summary": "The reviewed passages classify bootstrapping, raising capital, investing, and fund management using two ownership dimensions. Raising capital involves selling a share of the company; investing and fund management concern interests in other businesses. This is an organizing model, not an assessment of suitability, expected returns, or the full regulatory obligations of any route.",
+  "insights": [
+    {
+      "slug": "capital-ownership-matrix",
+      "title": "Separate capital ownership from business ownership",
+      "explanation": "The matrix helps distinguish operational entrepreneurship from allocating money into another organization.",
+      "quote": "your money your business right is a bootstrapped business",
+      "character_start": 655,
+      "character_end": 712,
+      "tags": [
+        "ownership",
+        "capital"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "equity-financing-tradeoff",
+      "title": "Describe outside funding as selling an ownership slice",
+      "explanation": "The source's basic mechanism includes dilution. The reviewed excerpt does not establish that faster growth compensates for that cost.",
+      "quote": "investors who buy a slice of equity to fund the fast growth",
+      "character_start": 8222,
+      "character_end": 8281,
+      "tags": [
+        "fundraising",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fund-management-role",
+      "title": "Distinguish pooled outside capital from personal investing",
+      "explanation": "Fund management is described as investing others' money in others' businesses. The passage is descriptive, not a shortcut around fiduciary or legal duties.",
+      "quote": "you take other people's money and you invest it in other people's businesses",
+      "character_start": 21077,
+      "character_end": 21153,
+      "tags": [
+        "investing",
+        "capital"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6ff58497-8863-4096-88eb-c98c84038b71",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

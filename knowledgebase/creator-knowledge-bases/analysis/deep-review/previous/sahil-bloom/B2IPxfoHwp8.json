@@ -1,0 +1,50 @@
+{
+  "youtube_id": "B2IPxfoHwp8",
+  "thesis": "The source favors changing phone access over relying only on willpower.",
+  "summary": "Reviewed passages describe keeping the phone in another room during chosen work and family windows and using a lockbox to add friction. The creator reports a large reduction in screen time after a month. That is a personal before-and-after claim, not controlled evidence or a guaranteed result. The source's numerical cognitive-effect claim remains unverified, and the routine is not a diagnosis or treatment for addiction.",
+  "insights": [
+    {
+      "slug": "environment-over-willpower",
+      "title": "Change access conditions around a distracting habit",
+      "explanation": "The creator describes willpower as his earlier unsuccessful strategy and shifts attention toward the environment.",
+      "quote": "i was trying to use my willpower",
+      "character_start": 309,
+      "character_end": 341,
+      "tags": [
+        "habits",
+        "attention"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "phone-access-boundaries",
+      "title": "Put physical separation around important windows",
+      "explanation": "The source describes another room and specific creative and family periods. The exact windows are his implementation rather than universal requirements.",
+      "quote": "putting it in another room the protocol is simple specific windows",
+      "character_start": 1050,
+      "character_end": 1116,
+      "tags": [
+        "attention",
+        "family"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "strategic-friction",
+      "title": "Make the unwanted action less convenient",
+      "explanation": "The lockbox is offered as a way to make a chosen boundary easier to maintain. Its value would need to be assessed in the user's own situation.",
+      "quote": "the lockbox adds strategic friction to make it easier to stick",
+      "character_start": 2258,
+      "character_end": 2320,
+      "tags": [
+        "habits",
+        "environment-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "12477849-6389-4bfb-9cfe-82b6084bf556",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

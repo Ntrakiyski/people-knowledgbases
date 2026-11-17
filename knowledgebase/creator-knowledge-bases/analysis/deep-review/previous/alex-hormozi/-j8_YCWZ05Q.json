@@ -1,0 +1,50 @@
+{
+  "youtube_id": "-j8_YCWZ05Q",
+  "thesis": "Selected retention advice uses customer tenure, quick value, and relationships as diagnostic lenses.",
+  "summary": "The source proposes examining when cancellations happen, giving new members an early useful result, and strengthening relationships within a community. A young cohort cannot yet reveal long-term retention. The title's forever promise and claims that retention naturally improves are not guaranteed outcomes.",
+  "insights": [
+    {
+      "slug": "retention-cohort-age",
+      "title": "Interpret churn in light of customer tenure",
+      "explanation": "The source notes that a newly launched offer has not yet observed mature customers. Comparisons need a consistent cohort window.",
+      "quote": "if your community or recurring revenue thing is less than 90 days old",
+      "character_start": 5043,
+      "character_end": 5112,
+      "tags": [
+        "retention",
+        "measurement"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "early-customer-value",
+      "title": "Help a new customer experience useful value promptly",
+      "explanation": "The creator favors a fast win. The passage does not establish a universal deadline or measured retention lift.",
+      "quote": "a way to get people a win fast",
+      "character_start": 15492,
+      "character_end": 15522,
+      "tags": [
+        "customer-experience",
+        "retention"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "community-relationships",
+      "title": "Build connections among members",
+      "explanation": "The source treats one-to-one relationships as part of belonging, rather than relying only on more content or features.",
+      "quote": "You want to build belonging via 101 relationships",
+      "character_start": 19021,
+      "character_end": 19070,
+      "tags": [
+        "community",
+        "retention"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6947d674-f299-447f-bc82-8a9e7c49e8f7",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

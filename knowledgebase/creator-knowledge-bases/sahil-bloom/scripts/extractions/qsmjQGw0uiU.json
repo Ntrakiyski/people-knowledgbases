@@ -1,0 +1,68 @@
+{
+  "youtube_id": "qsmjQGw0uiU",
+  "thesis": "Replace rigid identity and distant plans with reliable action and explicit limits.",
+  "summary": "Thirteen warnings combine a general direction with short action horizons, avoidance of self-inflicted financial mistakes, updating beliefs, physical agency, earning identity through repeated work, less advice gathering, temporary calendar structure, reliability, enjoyment, puzzle-solving and family anti-goals. He accepts personally enjoyable chaos while refusing to make money the only criterion.",
+  "insights": [
+    {
+      "slug": "direction-over-fixed-plan",
+      "title": "Set direction while acting on shorter horizons",
+      "explanation": "He criticizes detailed distant prediction but retains a general vision and roughly one-hundred-day action focus.",
+      "quote": "Set your direction a general vision for the way your life will look",
+      "tags": [
+        "planning",
+        "action"
+      ],
+      "character_start": 1000,
+      "character_end": 1067,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "update-beliefs",
+      "title": "Treat belief revision as useful",
+      "explanation": "He values responding to information over defending prior correctness.",
+      "quote": "The goal isn't to be right It's to find the truth",
+      "tags": [
+        "learning",
+        "beliefs"
+      ],
+      "character_start": 2345,
+      "character_end": 2394,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reliability",
+      "title": "Reliability can accumulate into distinction",
+      "explanation": "The grandfather story supports consistent follow-through; it is advice, not a measured earnings comparison.",
+      "quote": "being consistently reliable than by being occasionally extraordinary",
+      "tags": [
+        "reliability",
+        "career"
+      ],
+      "character_start": 5239,
+      "character_end": 5307,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "family-anti-goals",
+      "title": "Constrain professional ambition with family limits",
+      "explanation": "He gives a maximum travel-nights rule as his own concrete protection against sacrificing relationships.",
+      "quote": "never traveling more than 10 nights a month",
+      "tags": [
+        "family",
+        "anti-goals"
+      ],
+      "character_start": 7749,
+      "character_end": 7792,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "374aa713-bfce-4b81-95e0-660314c9f4b4",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Aphoristic advice with personal success anecdotes and broad causal claims; no independent verification. The title’s twenties framing contains advice offered at age 35. Dismissing a detailed five-year plan is paired with setting direction, not absence of goals. The 5 a.m. claim is motivational hyperbole and differs from his energy-specific scheduling elsewhere.",
+  "review_changes": "Adds the planning horizon distinction, reliability/enjoyment mechanisms and tensions between daily identity, early exercise and context-sensitive routines.",
+  "deep_review_date": "2026-11-16T20:48:01.847476+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/qsmjQGw0uiU.json",
+  "previous_draft_sha256": "b032f0cb828659285d628c37305aadbe32d1994b36713b0613534f20066cb069"
+}

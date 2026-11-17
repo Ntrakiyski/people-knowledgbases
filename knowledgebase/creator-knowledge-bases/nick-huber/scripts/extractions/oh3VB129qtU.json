@@ -1,0 +1,63 @@
+{
+  "youtube_id": "oh3VB129qtU",
+  "thesis": "Rough operating economics and direct selling are presented as practical ways to evaluate service businesses.",
+  "summary": "The discussion estimates job economics using price, crew size, time, materials, and employment costs. The participant encourages curiosity about businesses encountered in daily life, while acknowledging equipment and other costs. A hypothetical about starting without technology reveals that phones and customer access matter to his operating approach. A pest-control example illustrates paid acquisition against expected customer value. The ending returns to the importance of learning sales rather than outsourcing it immediately. Rates, earnings, and acquisition costs are speaker examples, not current benchmarks or complete profitability calculations.",
+  "insights": [
+    {
+      "slug": "rough-job-economics",
+      "title": "Estimate revenue against crew time and full costs",
+      "explanation": "The suggested questions about days and crew size provide a first-pass labor-revenue estimate. Materials, downtime, equipment, taxes, and overhead still matter before inferring profit.",
+      "quote": "how many days is it going to take and how many guys are on your crew",
+      "character_start": 1093,
+      "character_end": 1161,
+      "tags": [
+        "unit-economics",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "business-curiosity",
+      "title": "Use ordinary observation to generate questions about economics",
+      "explanation": "Restaurants and service jobs become prompts to estimate capacity and pricing. Such estimates are hypotheses for further research rather than reliable financial statements.",
+      "quote": "walk around your daily life with a sense of business curiosity",
+      "character_start": 2103,
+      "character_end": 2165,
+      "tags": [
+        "learning",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "retention-acquisition-economics",
+      "title": "Relate acquisition spending to retained customer value",
+      "explanation": "The pest-control story describes payment for contracts that remain active for a minimum period. It illustrates the connection between retention and acquisition economics without validating the quoted costs or payback.",
+      "quote": "we're happy to pay it because the long-term value of our business is there",
+      "character_start": 4884,
+      "character_end": 4958,
+      "tags": [
+        "marketing",
+        "unit-economics"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "founder-sales-learning",
+      "title": "Learn sales before deciding how to delegate it",
+      "explanation": "The participant challenges outsourcing sales as the first move and says he still joins valuable calls. The claim emphasizes founder learning and leverage, not permanent responsibility for every sale.",
+      "quote": "the first thing that people try to outsource is sales that's the last thing I recommend outsourcing",
+      "character_start": 6394,
+      "character_end": 6493,
+      "tags": [
+        "sales",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6c1ff443-1492-4897-9d9a-360eb9f5596a",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

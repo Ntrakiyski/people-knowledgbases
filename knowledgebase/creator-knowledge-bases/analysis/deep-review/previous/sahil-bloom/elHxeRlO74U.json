@@ -1,0 +1,50 @@
+{
+  "youtube_id": "elHxeRlO74U",
+  "thesis": "Selected conversation techniques emphasize visible listening and building on what was heard.",
+  "summary": "The source proposes responses and body language that signal attention, followed by paraphrasing and a contribution that advances the conversation. It also recommends adapting eye contact to listening and speaking. These are communication suggestions, not universally appropriate behavioral rules or validated psychological interventions.",
+  "insights": [
+    {
+      "slug": "visible-listening",
+      "title": "Make attention apparent to the other person",
+      "explanation": "The creator gives brief responses and body language as examples. Cultural and individual preferences still matter.",
+      "quote": "show that you are listening leaning forward and opening up your body language",
+      "character_start": 2080,
+      "character_end": 2157,
+      "tags": [
+        "communication",
+        "listening"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "paraphrase-and-build",
+      "title": "Check understanding before adding an idea",
+      "explanation": "The proposed sequence uses one's own words to reflect the message and then develops the discussion.",
+      "quote": "repeat it back to them in your own words and then follow on",
+      "character_start": 2878,
+      "character_end": 2937,
+      "tags": [
+        "communication",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "situational-eye-contact",
+      "title": "Adapt visual attention to the conversation",
+      "explanation": "The creator distinguishes listening from formulating a reply. This remains a situational suggestion rather than a universal requirement.",
+      "quote": "while the other person is speaking you should be locked in on them",
+      "character_start": 3835,
+      "character_end": 3901,
+      "tags": [
+        "communication",
+        "listening"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "fa3229b5-8dfd-4f67-9bf6-c5494af9d4c1",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

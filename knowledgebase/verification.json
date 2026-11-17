@@ -1,0 +1,43 @@
+{
+  "verified_at": "2026-11-17T07:22:46.725632+00:00",
+  "migration": {
+    "original_files_verified_after_move": 2615,
+    "missing_original_files": 0,
+    "raw_and_export_files_verified_unchanged": 582,
+    "legacy_bundles_kept_separate": true,
+    "previous_local_paths": "compatibility symlinks; not required by the repository"
+  },
+  "skills": {
+    "validated": 4,
+    "names": [
+      "knowledgebase-create",
+      "knowledgebase-update",
+      "knowledgebase-use",
+      "knowledgebase-refresh"
+    ]
+  },
+  "checks": {
+    "peer_selected_scope_validation": "passed; 200 transcripts and 854 exact-quote insights",
+    "sharran_scope_validation": "passed; 40 transcripts and 273 exact quotations",
+    "sharran_lint": "passed; 0 errors and warnings",
+    "unit_tests": "23 passed: 14 incremental, 5 peer, 4 Sharran",
+    "python_compilation": "passed",
+    "raw_and_export_integrity": "passed",
+    "new_documentation_links": "passed",
+    "credential_pattern_scan": "no findings; credentials and session files excluded"
+  },
+  "live_discovery_test": {
+    "mode": "read-only; --dry-run",
+    "creator_slug": "sharran-srivatsaa",
+    "youtube_limit": 5,
+    "anchor_found": true,
+    "newly_queued": 0,
+    "x_status": "not-configured; no request made"
+  },
+  "limits": [
+    "No recurring schedule is installed.",
+    "X capture requires an available connector/API/export and confirmed account identity.",
+    "Incremental updates are a separate layer and are not automatically merged into legacy snapshot datasets.",
+    "Claims remain attributed and are not independently verified."
+  ]
+}

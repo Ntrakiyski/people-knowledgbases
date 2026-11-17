@@ -1,0 +1,67 @@
+{
+  "youtube_id": "kkGr2Er7cEQ",
+  "thesis": "The 30-for-30 protocol turns a chosen improvement goal into a scheduled, visible, accountable practice.",
+  "summary": "Bloom recommends thirty focused minutes each day for thirty days on one meaningful pursuit. He explains the small daily commitment as a way to reduce intimidation, the month as a filter for genuine interest, and repeated effort as accumulation. Examples include health, writing, business, languages, and AI tools. The implementation rules are a fixed time, a visible execution record, and a friend receiving a completion message. Claims that dramatic transformation is available in every field or failure can be made impossible exceed the evidence supplied.",
+  "insights": [
+    {
+      "slug": "small-practice-commitment",
+      "title": "Lower the entry cost of deliberate practice",
+      "explanation": "The prescribed session is short enough to reduce starting friction but requires focused activity rather than distracted proximity to a task.",
+      "quote": "not while checking email or social media or texts You're locked in truly focused for 30 minutes",
+      "tags": [
+        "learning",
+        "productivity"
+      ],
+      "character_start": 880,
+      "character_end": 975,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "commitment-filter",
+      "title": "Choose a pursuit worth repeating",
+      "explanation": "The month-long commitment is presented as a way to distinguish meaningful interests from momentary curiosity. It does not rule out revising an unsuitable goal.",
+      "quote": "The commitment of 30 days acts as a commitment razor It forces you to choose something that actually matters",
+      "tags": [
+        "learning",
+        "life-design"
+      ],
+      "character_start": 1364,
+      "character_end": 1472,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "practice-cues",
+      "title": "Use a fixed cue and visible execution record",
+      "explanation": "Scheduling and a marked calendar reduce repeated decisions and show whether practice occurred. They establish adherence, not the quality of improvement.",
+      "quote": "schedule the 30 minutes at the same time every day to reduce decision-m",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 2315,
+      "character_end": 2386,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "practice-accountability",
+      "title": "Make completion socially visible",
+      "explanation": "A simple completion message supplies light accountability. The video does not evaluate whether such pressure helps every learner.",
+      "quote": "do it with a friend to keep you accountable Send a simple done text each day",
+      "tags": [
+        "learning",
+        "communication"
+      ],
+      "character_start": 2515,
+      "character_end": 2591,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c6b11c67-aae3-4e0e-bb9c-0bce278a3d6e",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The method is a proposed practice protocol. Fifteen accumulated hours do not establish mastery, and time logged alone does not measure practice quality, feedback, or outcomes.",
+  "review_changes": "Adds the three implementation rules and separates compliance tracking from promised transformation.",
+  "deep_review_date": "2026-11-16T19:23:26.476642+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/kkGr2Er7cEQ.json",
+  "previous_draft_sha256": "02d92ab56d99648cd3f717329577c9427b0033e155703a5e92f40eecef2be59f"
+}

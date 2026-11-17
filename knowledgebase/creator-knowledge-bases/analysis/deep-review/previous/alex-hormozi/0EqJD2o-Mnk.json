@@ -1,0 +1,50 @@
+{
+  "youtube_id": "0EqJD2o-Mnk",
+  "thesis": "Selected multi-owner coaching inspects founder time, specialized capability, and the difference between revenue and cash.",
+  "summary": "Reviewed passages propose a short-interval time log, consider hiring experienced marketing leadership, and question the cash consequences of a larger construction business. These are case-dependent diagnostic moves. The selected review does not cover every owner or establish that the proposed hires and changes produced results.",
+  "insights": [
+    {
+      "slug": "founder-time-audit",
+      "title": "Record actual work before deciding where to delegate",
+      "explanation": "The advisor proposes logging activities at short intervals and then comparing their revenue relevance. Attribution and nonrevenue responsibilities still require judgment.",
+      "quote": "you just write what you did in the last 15 minutes",
+      "character_start": 18438,
+      "character_end": 18488,
+      "tags": [
+        "time-management",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "specialist-capability",
+      "title": "Evaluate whether marketing leadership is a missing capability",
+      "explanation": "The source proposes someone who knows the function rather than more founder supervision. The right role and compensation depend on the business.",
+      "quote": "hire a marketer person who actually knows what they're doing",
+      "character_start": 26478,
+      "character_end": 26538,
+      "tags": [
+        "hiring",
+        "marketing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "revenue-cash-distinction",
+      "title": "Inspect margins and distributable cash behind a larger company",
+      "explanation": "The advisor asks about profit and cash rather than assuming higher revenue means a better owner outcome.",
+      "quote": "cash flow sucks and it's a pain",
+      "character_start": 32594,
+      "character_end": 32625,
+      "tags": [
+        "cash-flow",
+        "unit-economics"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "f31ff72a-5ccf-4045-92d7-1a557b41532f",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

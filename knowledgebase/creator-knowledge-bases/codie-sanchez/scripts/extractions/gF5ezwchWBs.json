@@ -1,0 +1,68 @@
+{
+  "youtube_id": "gF5ezwchWBs",
+  "thesis": "Use a salary as a funding engine for options and possible ownership.",
+  "summary": "Sanchez recommends documented salary negotiation, bonuses, upside and written milestone triggers without threats. The financial foundation includes insurance, debt reduction, automatic saving, a budget heuristic and a freedom fund. She proposes separating conventional investing from acquisition savings, then discusses reported community acquisitions and hypothetical listings with leverage.",
+  "insights": [
+    {
+      "slug": "evidence-based-negotiation",
+      "title": "Negotiate using demonstrated incremental value",
+      "explanation": "She names revenue, cost savings and measurable contributions, with market evidence, as the basis for the ask.",
+      "quote": "before you say a number show your numbers",
+      "tags": [
+        "career",
+        "negotiation"
+      ],
+      "character_start": 1893,
+      "character_end": 1934,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "written-milestones",
+      "title": "Negotiate timing and conditions as well as amount",
+      "explanation": "Pre-agreed raises and milestone bonuses aim to turn a vague hope into an explicit review mechanism.",
+      "quote": "negotiate timing not just amount this is written milestone triggers",
+      "tags": [
+        "negotiation",
+        "incentives"
+      ],
+      "character_start": 3214,
+      "character_end": 3281,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "salary-funded-options",
+      "title": "Automate saving before spending expands",
+      "explanation": "Her ownership loop begins by directing part of each paycheck toward savings or investment.",
+      "quote": "set systems that move it before you touch it",
+      "tags": [
+        "income",
+        "systems"
+      ],
+      "character_start": 4754,
+      "character_end": 4798,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "verify-listing-economics",
+      "title": "Treat acquisition examples as diligence starting points",
+      "explanation": "The spectacular percentage returns are hypothetical and she says the underlying figures still need checking.",
+      "quote": "we need to dig in we need to make sure these numbers are real",
+      "tags": [
+        "acquisitions",
+        "diligence"
+      ],
+      "character_start": 13453,
+      "character_end": 13514,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "67ae8bcc-ac8c-4b91-a604-71113e694ec0",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Raises, timelines, case-study profits and listing returns are unverified. A listed cash-flow figure is not necessarily owner take-home after labor, tax, capital needs and contingencies. Leverage amplifies losses as well as equity returns. She explicitly says listing numbers need verification, remote ownership is difficult, and a bad day may call for rest rather than quitting. The three-year-expense target is a heuristic, not a guaranteed career runway.",
+  "review_changes": "Adds salary-alignment mechanics, conventional savings alongside acquisitions, listing diligence and qualifications on remote operation and quitting.",
+  "deep_review_date": "2026-11-16T20:53:08.501981+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/gF5ezwchWBs.json",
+  "previous_draft_sha256": "6b335c885727ffa3858ebc71a98ac81b4ffe71894237db44d77ccc206a2e8f50"
+}

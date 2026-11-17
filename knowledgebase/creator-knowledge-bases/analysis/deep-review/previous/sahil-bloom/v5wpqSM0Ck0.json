@@ -1,0 +1,50 @@
+{
+  "youtube_id": "v5wpqSM0Ck0",
+  "thesis": "Selected wealth habits favor automated investing, income development, and slower expense growth.",
+  "summary": "The reviewed passages promote automatic index-fund investing while developing earning capacity, spending less rapidly than income grows, and building leverage. These are the creator's principles, not individualized financial advice or proof that the habits caused his reported wealth.",
+  "insights": [
+    {
+      "slug": "investment-automation",
+      "title": "Reduce recurring investment decisions",
+      "explanation": "The source favors a simple automatic approach rather than constant complexity. It does not assess portfolio suitability or risk for a particular investor.",
+      "quote": "Set your investments on autopilot and invest your energy in growing your income",
+      "character_start": 2420,
+      "character_end": 2499,
+      "tags": [
+        "investing",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "income-expense-gap",
+      "title": "Track spending growth relative to income",
+      "explanation": "The creator emphasizes widening room for saving. The passage alone does not establish a complete financial plan.",
+      "quote": "Make sure your expenses grow slower than your income",
+      "character_start": 4044,
+      "character_end": 4096,
+      "tags": [
+        "personal-finance",
+        "cash-flow"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "leverage-transition",
+      "title": "Consider how the business can grow beyond direct hours",
+      "explanation": "The creator frames leverage as a later-stage concern. The selected passage does not identify a universally appropriate mechanism.",
+      "quote": "As you grow you need to stop trading time for money",
+      "character_start": 4283,
+      "character_end": 4334,
+      "tags": [
+        "leverage",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "20cd649e-49b1-41dc-badd-c46cb9e0bc32",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

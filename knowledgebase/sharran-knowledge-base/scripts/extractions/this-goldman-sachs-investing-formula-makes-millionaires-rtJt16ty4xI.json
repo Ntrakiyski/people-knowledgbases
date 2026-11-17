@@ -1,0 +1,192 @@
+{
+  "slug": "this-goldman-sachs-investing-formula-makes-millionaires-rtJt16ty4xI",
+  "thesis": "Sharran’s investment x-ray evaluates capital preservation, tax efficiency, cash flow, and growth instead of relying on return projections alone.",
+  "summary": "Sharran introduces an investment x-ray learned from a client: evaluate capital preservation, tax efficiency, yield or cash flow, and growth. He gives each category a subjective twenty-five-point allocation so that investments can be compared on a hundred-point scale. Examples include gold, a friend’s startup, broad-market and dividend ETFs, Bitcoin, and real estate. He explicitly treats the scores as quick judgments rather than definitive answers and notes uncertainty about several product details.\n\nHe uses the framework to ask how an existing investment might activate another benefit, such as adding dividend income or improving property-management practicality. He also separates supporting friends’ businesses from investing in something one does not understand. The discussion includes his personal Bitcoin loss-harvesting practice and his claimed move from single-family homes to multifamily investments. Tax statements, classifications, expected doubling periods, and advantages of particular investments are his assertions or projections and require context; the durable teaching is to examine multiple dimensions before committing capital.",
+  "tags": [
+    "investing",
+    "risk",
+    "tax-efficiency",
+    "cash-flow",
+    "decision-making"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:31",
+      "note": "Introduces capital preservation."
+    },
+    {
+      "ts": "0:01:51",
+      "note": "Explains tax efficiency."
+    },
+    {
+      "ts": "0:04:30",
+      "note": "Distinguishes cash flow from growth."
+    },
+    {
+      "ts": "0:06:32",
+      "note": "Introduces the hundred-point scoring heuristic."
+    },
+    {
+      "ts": "0:09:59",
+      "note": "Separates supporting friends from investing."
+    },
+    {
+      "ts": "0:13:46",
+      "note": "Applies the framework to Bitcoin."
+    },
+    {
+      "ts": "0:17:49",
+      "note": "Explains his move to multifamily property."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "investment-x-ray",
+      "name": "Investment x-ray",
+      "one_liner": "Compare investments across preservation, tax efficiency, cash flow, and growth.",
+      "explanation": "Sharran’s four-part filter asks how much capital can be lost, what tax advantages exist, whether the investment distributes cash, and whether its value can grow. He assigns each dimension up to twenty-five points to compare alternatives quickly, while acknowledging subjective assumptions and incomplete product knowledge. He then asks whether a proposed investment can add another benefit without discarding existing ones. The scores are a decision aid in his approach, not verified ratings or a substitute for diligence.",
+      "tags": [
+        "investing",
+        "decisions",
+        "frameworks"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:18",
+          "text": "Capital preservation, tax efficiency, yield which is cash flow"
+        }
+      ],
+      "related": [
+        "risk-management",
+        "tax-efficiency",
+        "cash-flow-investing"
+      ]
+    },
+    {
+      "slug": "risk-management",
+      "name": "Risk management",
+      "one_liner": "Understand the capital exposed to loss before evaluating upside.",
+      "explanation": "Sharran does not demand that every investment guarantee principal. Instead, he asks what portion of capital is at risk and whether the possible payoff justifies accepting that exposure. He contrasts leaving money idle with taking a bounded loss risk for potential growth. His later gold, startup, ETF, Bitcoin, and property examples use personal judgments, not formal probability estimates. The recurring principle is conscious acceptance of downside rather than assuming a compelling growth story makes an investment suitable.",
+      "tags": [
+        "risk",
+        "capital",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:51",
+          "text": "understanding what amount of your capital is at stake and what is the risk associated with that."
+        }
+      ],
+      "related": [
+        "investment-x-ray"
+      ]
+    },
+    {
+      "slug": "tax-efficiency",
+      "name": "Tax efficiency",
+      "one_liner": "Evaluate what an investment leaves after taxes and how timing affects reinvestment.",
+      "explanation": "Sharran argues that advertised return alone misses tax consequences. He uses retirement-account contributions and sheltered growth, real-estate exchanges, depreciation, and his Bitcoin loss-harvesting practice as examples. His exchange example emphasizes deferring gains so more proceeds remain invested. The transcript offers simplified, sometimes uncertain tax descriptions rather than comprehensive eligibility rules. The durable point is to identify after-tax outcomes and timing explicitly when comparing investments, while treating the claimed benefits as contingent rather than automatic.",
+      "tags": [
+        "tax",
+        "investing",
+        "compounding"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:10",
+          "text": "Most people just think about the ROI on an investment."
+        }
+      ],
+      "related": [
+        "investment-x-ray",
+        "compound-growth"
+      ]
+    },
+    {
+      "slug": "cash-flow-investing",
+      "name": "Cash-flow investing",
+      "one_liner": "Assess whether an investment pays income while it is held, separately from appreciation.",
+      "explanation": "Sharran distinguishes an asset’s distributions from growth in its sale value. He contrasts income from a Treasury with appreciation, describes dividend ETFs as a way to add cash flow, and discusses property distributions. Whether income is needed depends on life stage: his child may not need current payouts, whereas an older investor might. His examples are personal and simplified, but the useful distinction is between paying living costs from investment income and depending on eventual price growth.",
+      "tags": [
+        "cash-flow",
+        "investing",
+        "income"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:46",
+          "text": "is it something that pays you to own it?"
+        }
+      ],
+      "related": [
+        "investment-x-ray",
+        "passive-income"
+      ]
+    },
+    {
+      "slug": "circle-of-competence",
+      "name": "Circle of competence",
+      "one_liner": "Commit capital to investments whose behavior and risks you understand.",
+      "explanation": "Sharran warns against investing in a friend’s startup merely from social pressure. He recommends supporting the friend as a customer, paying full price, and endorsing good work without buying equity in an unfamiliar industry. He also admits limited Bitcoin knowledge and the emotional difficulty of volatility, describing a deliberately limited personal exposure for his children. Understanding an investment matters because uncertainty during stress can produce paralysis or fear-driven decisions, even when the initial story sounds attractive.",
+      "tags": [
+        "investing",
+        "knowledge",
+        "emotions"
+      ],
+      "quotes": [
+        {
+          "ts": "0:15:41",
+          "text": "it's really hard for me to invest in something that I don't know a lot about"
+        }
+      ],
+      "related": [
+        "risk-management",
+        "financial-literacy"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "schd",
+      "name": "Schwab U.S. Dividend Equity ETF (SCHD)",
+      "subtype": "tool",
+      "one_liner": "A dividend ETF Sharran uses as an example of adding investment cash flow.",
+      "explanation": "Sharran says he personally owns SCHD and presents it as combining equity growth with distributions. He asks viewers to assess suitability with their adviser, and his description is a personal comparison rather than a complete fund analysis.",
+      "quotes": [
+        {
+          "ts": "0:13:08",
+          "text": "is SCHD is uh a dividend paying ETF"
+        }
+      ],
+      "resource": "https://www.schwabassetmanagement.com/products/schd"
+    },
+    {
+      "slug": "bitcoin",
+      "name": "Bitcoin",
+      "subtype": "tool",
+      "one_liner": "The cryptocurrency used to illustrate uncertainty, limited exposure, and tax-loss harvesting.",
+      "explanation": "Sharran describes buying one Bitcoin for each child and harvesting losses while maintaining exposure. He expressly admits limited knowledge and uncertainty about future tax legislation. His wash-sale and tax-classification statements are his time-dependent account, not independently established guidance.",
+      "quotes": [
+        {
+          "ts": "0:15:41",
+          "text": "I don't know much about Bitcoin."
+        }
+      ],
+      "resource": "https://bitcoin.org/"
+    },
+    {
+      "slug": "robert-kiyosaki",
+      "name": "Robert Kiyosaki",
+      "subtype": "person",
+      "one_liner": "The author whose real-estate teaching prompts Sharran’s comparison of property investments.",
+      "explanation": "Sharran discusses Rich Dad Poor Dad as encouraging property ownership, then explains why personally owning many single-family homes proved stressful. He uses that experience to motivate comparing a different real-estate structure across the investment x-ray.",
+      "quotes": [
+        {
+          "ts": "0:16:33",
+          "text": "Robert Kiyosaki said was"
+        }
+      ]
+    }
+  ]
+}

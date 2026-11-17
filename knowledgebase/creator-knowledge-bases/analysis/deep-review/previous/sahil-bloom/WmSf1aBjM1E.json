@@ -1,0 +1,24 @@
+{
+  "youtube_id": "WmSf1aBjM1E",
+  "thesis": "The surfing metaphor favors selective participation rather than chasing every opportunity.",
+  "summary": "The reviewed opening describes enjoying the current wave while knowing more will come. Patience and positioning are used as metaphors for choice. The note records that framing without adopting the title's promise of a changed life.",
+  "insights": [
+    {
+      "slug": "selective-opportunity",
+      "title": "Recognize that not every opportunity must be pursued",
+      "explanation": "The source uses the surfer's choice of waves to illustrate attention and patience, not a literal rule for investments or careers.",
+      "quote": "they know they don't have to ride every single wave that comes their way",
+      "character_start": 185,
+      "character_end": 257,
+      "tags": [
+        "focus",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "dfbf0031-0943-4e7b-9cc6-384c088d6af5",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

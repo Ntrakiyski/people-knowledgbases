@@ -1,0 +1,50 @@
+{
+  "youtube_id": "rbjOzoNCmHw",
+  "thesis": "Selected mental habits connect confidence to kept promises and energy to deliberate calendar choices.",
+  "summary": "The reviewed passages describe self-belief as evidence accumulated through action, recommend space for reflection, and propose reviewing activities for their energy effects. The note covers selected practices rather than all seven, and does not validate the claim that they reprogram cognition.",
+  "insights": [
+    {
+      "slug": "confidence-evidence",
+      "title": "Build confidence through completed commitments",
+      "explanation": "The source links self-trust to repeated follow-through rather than declarations alone.",
+      "quote": "you build it by keeping promises to yourself",
+      "character_start": 1044,
+      "character_end": 1088,
+      "tags": [
+        "mindset",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reflection-space",
+      "title": "Make room to inspect direction",
+      "explanation": "The creator proposes intentional pauses rather than assuming busyness supplies clarity.",
+      "quote": "if you want clarity you have to make space for it",
+      "character_start": 7565,
+      "character_end": 7614,
+      "tags": [
+        "reflection",
+        "time-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "energy-audit",
+      "title": "Review activities by their experienced energy effects",
+      "explanation": "Color coding is offered as a prompt to modify draining activities and prioritize energizing ones, not a clinical measure.",
+      "quote": "for each meeting task or activity ask yourself did this energize me or drain me",
+      "character_start": 8283,
+      "character_end": 8362,
+      "tags": [
+        "self-assessment",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "8d6c205e-d0e5-4ed4-8f4a-5020c19c3d19",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

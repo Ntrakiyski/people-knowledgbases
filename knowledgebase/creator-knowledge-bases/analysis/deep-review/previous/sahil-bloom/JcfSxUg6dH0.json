@@ -1,0 +1,50 @@
+{
+  "youtube_id": "JcfSxUg6dH0",
+  "thesis": "The selected AI-career argument focuses on durable human needs and adaptable capabilities.",
+  "summary": "The creator proposes a lighthouse metaphor: identify what may remain stable while technology changes. Reviewed passages emphasize human connection, clear communication, and preparation for uncertainty. Statements that these skills will guarantee relevance or cannot be replicated by AI exceed what the source demonstrates. The note records the proposed priorities, not a labor-market forecast.",
+  "insights": [
+    {
+      "slug": "lighthouse-truths",
+      "title": "Look for relatively stable needs amid technological change",
+      "explanation": "The framework starts with what might stay the same. Its claims of permanence are hypotheses rather than certainties.",
+      "quote": "focus on what will stay the same that's your lighthouse",
+      "character_start": 3041,
+      "character_end": 3096,
+      "tags": [
+        "ai",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "clear-communication",
+      "title": "Develop communication across human and technical contexts",
+      "explanation": "The creator emphasizes expressing ideas clearly to people and computers. The source does not prove that this ensures employment or business success.",
+      "quote": "communicate clearly with humans and computers",
+      "character_start": 4964,
+      "character_end": 5009,
+      "tags": [
+        "communication",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "adaptive-preparation",
+      "title": "Prepare to adapt rather than expecting calm conditions",
+      "explanation": "The explorer metaphor values preparation and adjustment in uncertainty, rather than predicting one fixed career path.",
+      "quote": "they trust their skills their preparation and their ability to adapt",
+      "character_start": 6326,
+      "character_end": 6394,
+      "tags": [
+        "learning",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "24e5fd7e-e75b-4729-818a-93dfe662df73",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

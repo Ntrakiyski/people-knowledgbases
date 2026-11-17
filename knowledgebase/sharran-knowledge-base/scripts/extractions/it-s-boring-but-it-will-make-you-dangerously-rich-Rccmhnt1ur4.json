@@ -1,0 +1,163 @@
+{
+  "slug": "it-s-boring-but-it-will-make-you-dangerously-rich-Rccmhnt1ur4",
+  "thesis": "Sharran argues that long holding periods, a protected savings gap, and behavioral rules matter more than chasing the next investment.",
+  "summary": "Sharran’s wealth time engine combines math, habits, and biology. He uses index investing, a buy-and-hold property example, and a three-decade framework to argue for leaving good investments in place. He presents spending multiplied by twenty-five as a freedom estimate based on a theoretical four-percent withdrawal, and warns that expanding lifestyles and status spending can consume even very high earnings. His return statistics and historical anecdotes are claims made in the video.\n\nHe proposes maintaining a measurable wealth buffer and choosing investments with a rationale and a four-part investment x-ray. The final section addresses fear, loss aversion, and financial media’s attention incentives. Writing down ownership reasons, expected outcomes, holding periods, and exit conditions is his practical defense against panic selling and unnecessary turnover; he also claims a longer horizon improved his own fund’s results.",
+  "tags": [
+    "investing",
+    "behavior",
+    "compound-growth"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:15",
+      "note": "Math and compounding."
+    },
+    {
+      "ts": "0:02:28",
+      "note": "Three-decade holding framework."
+    },
+    {
+      "ts": "0:03:19",
+      "note": "Lifestyle, status, and investment habits."
+    },
+    {
+      "ts": "0:07:37",
+      "note": "Rationale and investment x-ray."
+    },
+    {
+      "ts": "0:08:27",
+      "note": "Wealth-buffer calculation."
+    },
+    {
+      "ts": "0:09:52",
+      "note": "Loss aversion."
+    },
+    {
+      "ts": "0:12:59",
+      "note": "Four investment-rationale questions."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "compound-growth",
+      "name": "Compound growth",
+      "one_liner": "Growth on previously accumulated returns sustained over long holding periods.",
+      "explanation": "Sharran emphasizes time as the engine of wealth rather than superior short-term picks. His examples contrast house flipping with accumulating rental properties and active hedge-fund trading with index ownership. He describes a three-decade progression of building capital, allowing it to compound, and drawing income. Historical return figures and a theoretical four-percent withdrawal are his illustrations, while the behavioral prescription is to avoid repeated sales that interrupt growth through taxes and fees.",
+      "tags": [
+        "investing",
+        "behavior",
+        "compound-growth"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:15",
+          "text": "Money multiplied by time equals wealth."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "investment-rationale"
+      ]
+    },
+    {
+      "slug": "income-margin",
+      "name": "Income margin",
+      "one_liner": "The share of earnings left after spending that can support wealth-building.",
+      "explanation": "The video calls this the wealth buffer and calculates it as income minus expenses, expressed as a percentage of income. Sharran compares a high earner saving five percent with a lower earner saving thirty-five percent to show that salary alone does not determine investment contributions. He describes keeping his family’s baseline spending fixed despite business gains. The buffer protects compounding from status pressure and lifestyle costs that rise with pay.",
+      "tags": [
+        "investing",
+        "behavior",
+        "compound-growth"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:27",
+          "text": "what you earn, subtract what you spend, and that number, expressed as a percentage of your income, is your wealth buffer."
+        }
+      ],
+      "related": [
+        "lifestyle-inflation",
+        "compound-growth"
+      ]
+    },
+    {
+      "slug": "investment-rationale",
+      "name": "Investment rationale",
+      "one_liner": "A written ownership thesis, expected outcome, time horizon, and evidence-based exit rule.",
+      "explanation": "Sharran wants the investor to answer four questions before buying: why own it, what should happen, how long to hold, and what would justify selling. These answers supply default behavior when market losses provoke fear. He offers a waiting rule after a market drop as an example based on his claimed historical backtest, not a proven guarantee. The point is to change decisions when the thesis changes rather than merely when prices become uncomfortable.",
+      "tags": [
+        "investing",
+        "behavior",
+        "compound-growth"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:59",
+          "text": "Before you invest in anything, answer four questions."
+        }
+      ],
+      "related": [
+        "loss-aversion",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "investment-x-ray",
+      "name": "Investment x-ray",
+      "one_liner": "A four-dimension screen assessing preservation, taxes, growth, and yield.",
+      "explanation": "For new opportunities, Sharran proposes a checklist that scores capital preservation, tax efficiency, growth, and yield out of twenty-five each. It complements an investment rationale for holdings already owned. The filter is intended to replace freezing in uncertainty or copying exciting ideas from friends and news. This video introduces the dimensions without supplying a complete scoring rubric, so the extraction preserves it as a decision structure rather than inventing allocation rules.",
+      "tags": [
+        "investing",
+        "behavior",
+        "compound-growth"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:11",
+          "text": "Number one, capital preservation. Number two, tax efficiency. Number three, growth. And number four, yield."
+        }
+      ],
+      "related": [
+        "investment-rationale",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "loss-aversion",
+      "name": "Loss aversion",
+      "one_liner": "The tendency for losses to feel more powerful than equivalent gains and provoke reactive decisions.",
+      "explanation": "Sharran uses loss aversion to explain panic selling despite an investor’s understanding of compounding. He claims a loss hurts roughly twice as much as an equivalent gain pleases and connects threatening financial headlines and red charts with fear responses. His proposed response is to treat fear as information, revisit the original rationale, and use predetermined rules. These psychological and media explanations are the speaker’s framing, not independent neuroscience verification.",
+      "tags": [
+        "investing",
+        "behavior",
+        "compound-growth"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:11",
+          "text": "pain of loss hits you twice as hard as a joy of a similar gain."
+        }
+      ],
+      "related": [
+        "investment-rationale",
+        "compound-growth"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "warren-buffett",
+      "name": "Warren Buffett",
+      "subtype": "person",
+      "one_liner": "Investor used to illustrate patient ownership and acting during market fear.",
+      "explanation": "Sharran invokes Buffett’s index-fund wager, Berkshire compounding, and crisis investing to support long holding periods. Numerical returns and quoted historical interpretations are attributed to Sharran.",
+      "resource": "https://www.berkshirehathaway.com/",
+      "quotes": [
+        {
+          "ts": "0:12:23",
+          "text": "Warren Buffett says his ideal holding period is forever."
+        }
+      ]
+    }
+  ]
+}

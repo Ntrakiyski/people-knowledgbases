@@ -1,0 +1,107 @@
+{
+  "youtube_id": "b4d32pBa3UY",
+  "thesis": "The AI-brain proposal combines portable notes, explicit assistant context, structured extraction, and recurring maintenance.",
+  "summary": "Martell describes a personal knowledge system, favoring Obsidian Markdown while naming Drive and Notion as alternatives. Three files describe the user, assistant behavior, and assistant role. Seven folders organize people, projects, decisions, companies, meetings, daily notes, and reusable knowledge; optional maps of content link related material. Meeting extraction captures decisions, commitments, preferences, and insights while retaining pointers to original material. A nightly process is meant to create missing entity notes, merge duplicates, update links, and flag strategic items. The video promotes a company operating-system playbook. Its accuracy gains, adoption rankings, setup speed, and time savings are not independently established.",
+  "insights": [
+    {
+      "slug": "portable-knowledge",
+      "title": "Store reusable context in inspectable files",
+      "explanation": "The proposed value of Markdown is that both user and tools can read the stored context. A storage format alone does not provide accurate retrieval or reasoning.",
+      "quote": "Obsidian uses what's called markdown files it's free and it's visual",
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "character_start": 1611,
+      "character_end": 1679,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "assistant-context-files",
+      "title": "Separate user context, behavior, and role",
+      "explanation": "The three-file structure distinguishes who the user is from how the assistant should behave and what job it performs. The filenames are conventions in this proposal, not universal requirements.",
+      "quote": "the user MD file is how you are the soul is how it acts",
+      "tags": [
+        "ai",
+        "communication"
+      ],
+      "character_start": 3018,
+      "character_end": 3073,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "decision-provenance",
+      "title": "Record reasoning and alternatives alongside decisions",
+      "explanation": "The decisions category includes what was chosen and how alternatives were evaluated. This can support later analysis better than keeping only a final instruction.",
+      "quote": "what are the decisions you've made in the past how did you decide what the alternatives are",
+      "tags": [
+        "learning",
+        "operations"
+      ],
+      "character_start": 5930,
+      "character_end": 6021,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "maps-of-content",
+      "title": "Add topic maps when information becomes hard to navigate",
+      "explanation": "The optional index links information spread across folders. It is introduced as a response to actual complexity rather than a prerequisite for starting.",
+      "quote": "you don't have to build anc from day one that's why it's a pro tip but you build them when a topic seems to get messy",
+      "tags": [
+        "learning",
+        "ai"
+      ],
+      "character_start": 7185,
+      "character_end": 7302,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "structured-meeting-extraction",
+      "title": "Extract distinct record types rather than one generic meeting summary",
+      "explanation": "The template separates decisions from commitments and preferences. Named actors and deadlines are important to its intended usefulness, though automatic extraction can still err.",
+      "quote": "decisions what did I decide today by whom and why two commitments who promised what by when",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 9012,
+      "character_end": 9103,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "source-linked-context",
+      "title": "Derived notes should retain a route to original material",
+      "explanation": "The speaker distinguishes raw records from extracted context. That supports a source-and-synthesis architecture rather than treating a summary as the original evidence.",
+      "quote": "it doesn't need the raw stuff it's pointed back to it but it does need to synthesize and extract",
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "character_start": 8282,
+      "character_end": 8378,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "knowledge-maintenance",
+      "title": "Maintain the collection through explicit recurring operations",
+      "explanation": "Creating missing notes, consolidating duplicates, and updating topic maps are the actual proposed mechanisms. The brain metaphor does not establish biological equivalence or measured improvement.",
+      "quote": "consolidate duplicates you have to update the relevant map of contents with new links",
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "character_start": 10498,
+      "character_end": 10583,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "bfb43da4-026a-4fa8-a7cd-95e9fc24fc98",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "A graph becoming denser is not proof of better answers or more accurate entity resolution. Choosing the most-linked John does not establish which John was intended. Automated merging, deletion, and file creation require a way to inspect changes and preserve source provenance; the transcript does not demonstrate those controls. Strong-voice instructions against 'maybe' do not eliminate genuine uncertainty. Product capabilities and paid-tier claims are time-dependent and unverified here.",
+  "review_changes": "Adds the full data model, source-versus-extraction distinction, maintenance loop, and entity-resolution risk. Separates a practical Markdown organization proposal from claims of autonomous reasoning and self-improving accuracy.",
+  "deep_review_date": "2026-11-16T19:30:01.060536+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/b4d32pBa3UY.json",
+  "previous_draft_sha256": "a406a9bd5a9419e6fc0d199e833a766742b837412e83655267917128b1b7225b"
+}

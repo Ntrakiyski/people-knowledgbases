@@ -1,0 +1,81 @@
+{
+  "youtube_id": "GWoABwqXl5A",
+  "thesis": "Her SIGNALS framework joins demand testing, industry choice, distribution and systems.",
+  "summary": "SIGNALS combines speed, industry selection, generational transfer, needs-based cash flow, affluent customers, leverage through distribution and AI systems. A trash-service presale illustrates testing willingness to pay before equipment; aging-owner anecdotes support acquisition interest. She describes iterative agent troubleshooting and human escalation, then argues scarce human attention can command a premium and asks whether the owner will want to steward the business through difficulty.",
+  "insights": [
+    {
+      "slug": "presell-demand",
+      "title": "Test willingness to pay before large fixed costs",
+      "explanation": "The reported trash-service story uses presales before a truck; it supports demand testing rather than bypassing obligations.",
+      "quote": "what I mean when I say sell first and build second",
+      "tags": [
+        "validation",
+        "business"
+      ],
+      "character_start": 2035,
+      "character_end": 2085,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "industry-before-glamour",
+      "title": "Consider industry conditions before novelty",
+      "explanation": "She focuses on necessary services and owner succession as potential opportunities; survival is not assured by category.",
+      "quote": "this isn't actually about being sexy it's about being solvent",
+      "tags": [
+        "industry",
+        "cash-flow"
+      ],
+      "character_start": 2737,
+      "character_end": 2798,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "iterative-agent-workflows",
+      "title": "Use a diagnostic loop with escalation",
+      "explanation": "The proposed agent gathers information, tries tools, evaluates results and reports failed attempts if needed.",
+      "quote": "the AI adjusts its approach and it changes ideas",
+      "tags": [
+        "ai",
+        "systems"
+      ],
+      "character_start": 17371,
+      "character_end": 17419,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "human-touch-premium",
+      "title": "Reserve human contact for consequential interactions",
+      "explanation": "She predicts greater value for human connection as automation spreads; this is a forecast.",
+      "quote": "the scarcer human touch becomes the more valuable it gets",
+      "tags": [
+        "ai",
+        "relationships"
+      ],
+      "character_start": 18560,
+      "character_end": 18617,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "business-stewardship",
+      "title": "Ask what persists beyond the founder",
+      "explanation": "The ending connects business choice to legacy and willingness to stay through hard conditions.",
+      "quote": "what story will this business tell when I'm not here to tell it anymore",
+      "tags": [
+        "ownership",
+        "stewardship"
+      ],
+      "character_start": 20731,
+      "character_end": 20802,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "41379f6c-469d-4c8e-8739-30882d3a7efa",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Failure rates vary inconsistently in the narration and are not independently checked. Aging population counts are not business-sale counts; retirement does not ensure a good deal. Preselling is not proof permits or service obligations can be skipped. Domain/SEO and AI capabilities are promotional or illustrative claims. Affluent-client pricing and future human premiums are hypotheses, not guarantees.",
+  "review_changes": "Adds stewardship and human handoff, distinguishes demand evidence from operating readiness, and flags inconsistent base-rate and retirement arithmetic.",
+  "deep_review_date": "2026-11-16T20:53:08.506903+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/GWoABwqXl5A.json",
+  "previous_draft_sha256": "27f36af3c94a3954654522cd790aff2fc374f76df08715b85f8e9d8755b48edc"
+}

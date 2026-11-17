@@ -1,0 +1,67 @@
+{
+  "youtube_id": "gfSVNJZgbOo",
+  "thesis": "A speaker recommends leveraging artificial intelligence as a personal executive coach to establish ambitious life goals, evaluate daily progress, and identify underlying operational bottlenecks.",
+  "summary": "A speaker outlines a structured framework for using artificial intelligence as an executive coach across key personal and professional domains. Rather than accepting passive answers, individuals should instruct software tools to conduct diagnostic interviews, push beyond conservative goal estimates, and establish clear weekly performance benchmarks. Software assists in breaking down long-term objectives into quarterly milestones while identifying root causes behind low activity scores. Integrating rigorous accountability mechanisms accelerates personal growth and strategic progress.",
+  "insights": [
+    {
+      "slug": "ambitious-goal-setting",
+      "title": "Instruct intelligence tools to challenge conservative personal goals",
+      "explanation": "A speaker recommends prompting software to interview users about long-term aspirations and challenge modest assumptions. Forcing aggressive targets prevents self-limiting expectations and establishes ambitious benchmarks across work, health, and personal relationships.",
+      "quote": "you are my ruthless mentor helping me dream bigger interview me about what I want my life to look like in 10 years",
+      "speaker": "Dan",
+      "tags": [
+        "life-design",
+        "productivity",
+        "ai"
+      ],
+      "character_start": 3317,
+      "character_end": 3431
+    },
+    {
+      "slug": "objective-weekly-audit",
+      "title": "Grade weekly performance against strict non-negotiable standards",
+      "explanation": "A speaker advises scoring personal habits weekly against predefined standards to avoid subjective bias. Evaluating health, work, and personal metrics reveals performance gaps and highlights low-scoring areas requiring immediate correction.",
+      "quote": "you're my ruthless coach not my assistant tell me the truth over making me feel good",
+      "speaker": "Dan",
+      "tags": [
+        "productivity",
+        "operations",
+        "ai"
+      ],
+      "character_start": 7141,
+      "character_end": 7225
+    },
+    {
+      "slug": "root-cause-diagnosis",
+      "title": "Conduct diagnostic interviews to uncover primary underlying obstacles",
+      "explanation": "A speaker notes that individuals frequently attempt to solve superficial symptoms rather than root obstacles. Prompting software to conduct iterative diagnostic inquiries reveals hidden operational constraints before executing complex solutions.",
+      "quote": "my two lowest scores are X and Y it would know don't give me anything to do yet interview me about how I handled those two areas today",
+      "speaker": "Dan",
+      "tags": [
+        "operations",
+        "productivity",
+        "ai"
+      ],
+      "character_start": 10169,
+      "character_end": 10303
+    },
+    {
+      "slug": "structured-milestone-breakdown",
+      "title": "Break annual objectives into daily progress indicators and quarterly milestones",
+      "explanation": "A speaker highlights the necessity of converting annual ambitions into specific quarterly milestones and daily progress targets. Structuring clear action steps ensures daily activities align directly with long-term strategic outcomes.",
+      "quote": "break them down further one milestone per quarter and the daily progress that gets me there every level needs a number and a date",
+      "speaker": "Dan",
+      "tags": [
+        "productivity",
+        "operations",
+        "life-design"
+      ],
+      "character_start": 15565,
+      "character_end": 15694
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "61bc30a5-f147-4c00-b283-994a093be0b7",
+  "extraction_response": "extraction-responses/gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE.json"
+}

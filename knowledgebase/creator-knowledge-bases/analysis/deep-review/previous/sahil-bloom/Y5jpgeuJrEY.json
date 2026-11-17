@@ -1,0 +1,50 @@
+{
+  "youtube_id": "Y5jpgeuJrEY",
+  "thesis": "The selected launch reflections prioritize direction and relationships over speed alone.",
+  "summary": "The vlog's reviewed passages contrast fast progress in the wrong pursuit with slower movement toward chosen priorities. They also describe acting promptly on relationship reminders and understanding balance across seasons. These are personal reflections around a book launch, not proof of a universal life-design method.",
+  "insights": [
+    {
+      "slug": "direction-over-speed",
+      "title": "Inspect the destination before accelerating",
+      "explanation": "The mountain metaphor asks whether the pursuit itself is appropriate.",
+      "quote": "it's much better to climb slowly up the right Mountain than to climb fast up the wrong one",
+      "character_start": 7093,
+      "character_end": 7183,
+      "tags": [
+        "strategy",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-follow-through",
+      "title": "Act on a relationship reminder before it fades",
+      "explanation": "The creator describes sending a message when the thought arises rather than relying on later recall.",
+      "quote": "that inspiration that you feel around relationships is totally perishable",
+      "character_start": 10608,
+      "character_end": 10681,
+      "tags": [
+        "relationships",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "seasonal-balance",
+      "title": "Assess balance over a relevant time horizon",
+      "explanation": "The source allows periods of imbalance. That framing does not remove the need to examine their costs or duration.",
+      "quote": "balance is much more of a concept on a season basis",
+      "character_start": 10682,
+      "character_end": 10733,
+      "tags": [
+        "life-design",
+        "time-management"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "cb4e7c95-45c8-49c5-9dd8-bb391ac58814",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

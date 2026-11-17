@@ -1,0 +1,50 @@
+{
+  "youtube_id": "qsmjQGw0uiU",
+  "thesis": "The selected lessons favor adaptable direction, reliability, and preserving family time.",
+  "summary": "The reviewed passages recommend a broad direction with nearer-term action rather than rigid long-range predictions. They emphasize reliability and question career sacrifices that repeatedly displace family relationships. This is a selection from a larger list, not all thirteen lessons. Personal aphorisms and claims about earnings are recorded as advice, not independently established findings.",
+  "insights": [
+    {
+      "slug": "direction-and-action",
+      "title": "Pair a broad direction with nearer-term work",
+      "explanation": "The source distinguishes a general vision from precise predictions about a distant life.",
+      "quote": "Set your direction a general vision for the way your life will look",
+      "character_start": 1000,
+      "character_end": 1067,
+      "tags": [
+        "planning",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reliability",
+      "title": "Value dependable contribution alongside exceptional moments",
+      "explanation": "The creator quotes his grandfather's preference for consistent reliability. This is an attributed principle rather than measured evidence about compensation.",
+      "quote": "being consistently reliable than by being occasionally extraordinary",
+      "character_start": 5239,
+      "character_end": 5307,
+      "tags": [
+        "work",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "family-time-tradeoffs",
+      "title": "Count relationship costs in career choices",
+      "explanation": "The source asks who remembers repeated late work. The point is a values-based warning about missed time, not a universal conclusion about working hours.",
+      "quote": "the only people who will remember that you worked late are your kids",
+      "character_start": 7162,
+      "character_end": 7230,
+      "tags": [
+        "family",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "374aa713-bfce-4b81-95e0-660314c9f4b4",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

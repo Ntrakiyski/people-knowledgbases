@@ -1,0 +1,20 @@
+{
+  "videos": [
+    {
+      "youtube_id": "eq1bnI0JoXU",
+      "title": "8 Entrepreneurs Compete For $100,000",
+      "source_id": "114afd1d-5943-44ca-b0b3-99dc42338199"
+    },
+    {
+      "youtube_id": "21flGkcZO3A",
+      "title": "How to become rich with social media (my exact playbook)",
+      "source_id": "e0452310-3ced-4553-be81-7766c7986c24"
+    },
+    {
+      "youtube_id": "P14HA83uNJE",
+      "title": "a video to watch if you're ambitious and in your 20s or 30s",
+      "source_id": "7cfa714a-e5ef-400f-b11e-6c76344f1940"
+    }
+  ],
+  "error": "Quote not found in 21flGkcZO3A: Broad reach content can depress core commercial metrics"
+}

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "qRa1Dp8JfH0",
+  "thesis": "Reinvention becomes less frightening through small evidence-building actions.",
+  "summary": "Responding to a lawyer who feels trapped by prior investment, Bloom reframes sunk cost with a buy-again question asked on a good day. He maps information and evidence for present and future lives in four quadrants, lists actions to fill gaps, and recommends thirty minutes daily for thirty days. A boat-dragging story introduces releasing outdated self-stories, conditional support and externalized responsibility.",
+  "insights": [
+    {
+      "slug": "reinvention-sunk-cost",
+      "title": "Evaluate the current path on a good day",
+      "explanation": "Prior investment should not alone determine continued commitment; he warns against using a single difficult day to justify exit.",
+      "quote": "don't ask that question on a bad day",
+      "tags": [
+        "reinvention",
+        "decisions"
+      ],
+      "character_start": 2435,
+      "character_end": 2471,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "information-evidence-gap",
+      "title": "Separate knowledge from proof of ability",
+      "explanation": "Learning about a future career and demonstrating ability to pay bills in it are distinct tasks in the proposed matrix.",
+      "quote": "Those two asymmetries information and evidence manifest as fear",
+      "tags": [
+        "career",
+        "experiments"
+      ],
+      "character_start": 4422,
+      "character_end": 4485,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "thirty-for-thirty",
+      "title": "Use a bounded action experiment",
+      "explanation": "Thirty minutes daily for thirty days is meant to reduce activation energy while accumulating concrete experience.",
+      "quote": "30 minutes per day for 30 straight days",
+      "tags": [
+        "habits",
+        "experiments"
+      ],
+      "character_start": 7539,
+      "character_end": 7578,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "boat-dragging",
+      "title": "Reconsider attachments that outlived their role",
+      "explanation": "He includes former mindsets and selectively supportive relationships; release can be gradual.",
+      "quote": "slowly limit the energy you give to those people or beliefs",
+      "tags": [
+        "identity",
+        "relationships"
+      ],
+      "character_start": 12120,
+      "character_end": 12179,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "fb565708-7a95-47da-982d-bbf53a29d383",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The lawyer email, personal career results and guarantees are reported anecdotes/rhetoric. Distinguishes testing a change from impulsively quitting after a bad day; gathering evidence does not remove obligations or guarantee replacement income. Cutting ties may mean gradually reducing attention, not necessarily abrupt separation.",
+  "review_changes": "Restores the explicit good-day safeguard, separate information/evidence gaps, and graduated interpretation of releasing old attachments.",
+  "deep_review_date": "2026-11-16T20:48:01.844442+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/qRa1Dp8JfH0.json",
+  "previous_draft_sha256": "5dfd076d5c764356558b0aa4b2ba062a995069baf145e2e37d3d97595204dc1e"
+}

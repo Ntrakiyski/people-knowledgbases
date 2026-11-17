@@ -1,0 +1,68 @@
+{
+  "youtube_id": "ORgmqtNvYsA",
+  "thesis": "The GAME matrix assigns work by comparative human and computer difficulty.",
+  "summary": "Give covers routine work; accelerate covers difficult research and analysis; integrate covers creative or strategic collaboration; no AI reserves human presence for leadership, persuasion, coaching and networking. For automation Martell asks whether a task repeats, follows rules and returns more time than it costs. For collaborative work he retains human taste, vision and care, illustrating iterative drafting followed by a designer’s work.",
+  "insights": [
+    {
+      "slug": "game-matrix",
+      "title": "Allocate tasks by comparative difficulty",
+      "explanation": "The framework has give, accelerate, integrate and no-AI categories, with human presence as a deliberate outcome.",
+      "quote": "the person who understands the problem the best they'll actually win",
+      "tags": [
+        "ai",
+        "strategy"
+      ],
+      "character_start": 1184,
+      "character_end": 1252,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "automation-payback",
+      "title": "Check the cost of building the automation",
+      "explanation": "He explicitly rejects a long setup for a tiny recurring task.",
+      "quote": "spend 60 hours to build something that takes me less than 2 minutes a week",
+      "tags": [
+        "automation",
+        "time"
+      ],
+      "character_start": 4456,
+      "character_end": 4530,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "human-selection",
+      "title": "Use judgment to choose among generated options",
+      "explanation": "Creative and strategic work retains taste, vision and care in his model.",
+      "quote": "it still takes a human to look at it",
+      "tags": [
+        "ai",
+        "judgment"
+      ],
+      "character_start": 8741,
+      "character_end": 8777,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "presence-as-output",
+      "title": "Some work is valuable because a person shows up",
+      "explanation": "Leadership and consequential relationships are his examples of preserving direct involvement.",
+      "quote": "these are the moments that need your presence not a prompt",
+      "tags": [
+        "leadership",
+        "relationships"
+      ],
+      "character_start": 12550,
+      "character_end": 12608,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "fedcc905-9925-461b-81fb-dc72b7bf5373",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "A heuristic matrix, not a measured capability boundary or proof specialists are unnecessary. Fixed 10/80/10 work shares are suggested roles, not audited time savings. AI pattern analysis, legal review and personal prioritization can be wrong. Some narration says the I quadrant is easy despite its defined hard/hard axis; follow the explicit definition and describe the slip. Claims that AI cannot perform any named interpersonal act are overbroad.",
+  "review_changes": "Adds the setup-cost test, specific boundaries of collaboration and the distinction between idea generation, human selection and final specialist execution.",
+  "deep_review_date": "2026-11-16T20:55:21.059387+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/ORgmqtNvYsA.json",
+  "previous_draft_sha256": "90406764a1c1b2a9233a3cfc47f54f9a99db252a98b59a0a5154fb43b57aaf0c"
+}

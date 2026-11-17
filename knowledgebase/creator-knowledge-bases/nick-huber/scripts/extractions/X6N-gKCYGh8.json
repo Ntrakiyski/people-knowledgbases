@@ -1,0 +1,50 @@
+{
+  "youtube_id": "X6N-gKCYGh8",
+  "thesis": "The interview favors executing established services well and distinguishes later autonomy from passive beginnings.",
+  "summary": "The participant argues that conventional services offer opportunities without a novel invention or venture funding. Unanswered calls to local providers are used as examples of execution gaps, while paid personal work is presented as an early stage of entrepreneurship. Another participant qualifies passive-income language by describing the active work needed to build systems and teams. The discussion promotes The Sweaty Startup and its associated idea list. Claims that established models have much higher success odds or can readily outperform novel businesses are opinions supported by anecdotes, not comparative research.",
+  "insights": [
+    {
+      "slug": "ordinary-business-execution",
+      "title": "Look for execution improvements in established markets",
+      "explanation": "The speaker's preferred strategy is familiar work done unusually well. The argument does not establish that conventional markets lack competition or that novelty is always disadvantageous.",
+      "quote": "almost all of them did something common uncommonly well",
+      "character_start": 1000,
+      "character_end": 1055,
+      "tags": [
+        "strategy",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "service-responsiveness-gap",
+      "title": "Investigate responsiveness as a possible competitive gap",
+      "explanation": "The surveyor and window-company stories describe poor callback experiences. They suggest a question to test locally, rather than proof of low competition or attractive margins throughout an industry.",
+      "quote": "I called 10 surveyors in Athens",
+      "character_start": 3015,
+      "character_end": 3046,
+      "tags": [
+        "customer-experience",
+        "market-research"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "active-before-passive",
+      "title": "Keep the active setup work in passive-income narratives",
+      "explanation": "The conversation says systems and hiring followed substantial personal effort and that income is not entirely passive. This qualification is essential when comparing a mature business with a beginner's starting point.",
+      "quote": "we put in so much active income and active effort in at the beginning",
+      "character_start": 4466,
+      "character_end": 4535,
+      "tags": [
+        "delegation",
+        "ownership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "09dfb36f-fc48-48b5-b72e-468de1989de4",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

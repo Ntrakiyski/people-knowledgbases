@@ -1,0 +1,50 @@
+{
+  "youtube_id": "HGZOxBfnF-E",
+  "thesis": "Selected railing-business coaching favors a clearer sales journey for an already relevant customer segment.",
+  "summary": "The reviewed passages describe a railing company's customer types and propose combining a form, calendar, sales video, and SMS follow-up. The advisor wants fewer unnecessary calls and attention to an existing less price-sensitive segment. These are recommendations; the selected evidence does not establish the guide's claimed follow-up revenue and profit results.",
+  "insights": [
+    {
+      "slug": "segment-led-sales",
+      "title": "Improve the process around customers already showing fit",
+      "explanation": "The advisor proposes concentrating on an existing segment rather than assuming every lead deserves the same approach.",
+      "quote": "leaning into the people that are the least price sensitive",
+      "character_start": 10959,
+      "character_end": 11017,
+      "tags": [
+        "sales",
+        "segmentation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "precall-education",
+      "title": "Use pre-call material to clarify expectations",
+      "explanation": "The proposed video gives price ranges after opt-in. The passage describes a design, not measured conversion improvement.",
+      "quote": "video sales letter mhm and this is like hey this will give them price ranges",
+      "character_start": 8605,
+      "character_end": 8681,
+      "tags": [
+        "sales",
+        "offers"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "sales-content-proof",
+      "title": "Support the promise with evidence in sales content",
+      "explanation": "The source describes proof as part of a sales-video structure. Evidence quality still needs review.",
+      "quote": "we're going to have proof that we can help them",
+      "character_start": 12413,
+      "character_end": 12460,
+      "tags": [
+        "marketing",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "6fafdfcd-ef32-438a-8119-c6242de9fa38",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

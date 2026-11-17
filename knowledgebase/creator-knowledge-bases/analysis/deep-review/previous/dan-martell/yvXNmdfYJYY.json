@@ -1,0 +1,50 @@
+{
+  "youtube_id": "yvXNmdfYJYY",
+  "thesis": "Selected business principles connect reinvestment, customer acquisition cost, and cash visibility.",
+  "summary": "The reviewed passages ask whether profit can improve enterprise value, define customer acquisition cost, and advocate a rhythm for watching cash. The note does not cover every principle or validate the numerical growth illustrations and claims of guaranteed value increases.",
+  "insights": [
+    {
+      "slug": "reinvestment-value",
+      "title": "Evaluate reinvestment by what it builds in the business",
+      "explanation": "The creator poses a question about converting current profit into greater enterprise value. The return is not assured.",
+      "quote": "invest some of that profit back into the business to increase my enterprise value",
+      "character_start": 1804,
+      "character_end": 1885,
+      "tags": [
+        "ownership",
+        "capital-allocation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "customer-acquisition-cost",
+      "title": "Know the cost of obtaining a customer",
+      "explanation": "The source links growth pricing to acquisition cost. Full measurement needs a consistent scope for sales and marketing expenditure.",
+      "quote": "the metric that tracks how much a client costs is called the customer acquisition cost",
+      "character_start": 9635,
+      "character_end": 9721,
+      "tags": [
+        "unit-economics",
+        "marketing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "cash-review-rhythm",
+      "title": "Review cash on a recurring basis",
+      "explanation": "The creator describes a pulse on cash rather than relying solely on revenue. The excerpt does not specify a universally suitable cadence.",
+      "quote": "create a rhythm or a pulse on my cash",
+      "character_start": 16266,
+      "character_end": 16303,
+      "tags": [
+        "cash-flow",
+        "measurement"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "f9b26768-59a2-4e82-ae18-eb93cadd7cc9",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "fr78adfAnuA",
+  "thesis": "Apply business knowledge and technical understanding to improve an existing process with AI.",
+  "summary": "Hormozi compares AI adoption with internet adoption: a business can use it without becoming a technology vendor. He argues business and technical understanding must meet, cautions that a partly configured agent is not comparable to a mature human process, and offers task decomposition and iterative training. Examples span support, content, sales nurture, scheduling and legal work, with customer benefits framed as better, faster, cheaper or less risky.",
+  "insights": [
+    {
+      "slug": "ai-as-business-tool",
+      "title": "Use AI without changing the business’s core offer",
+      "explanation": "His analogy treats AI as enabling infrastructure rather than a required new company identity.",
+      "quote": "you don't have to be an internet business",
+      "tags": [
+        "ai",
+        "strategy"
+      ],
+      "character_start": 823,
+      "character_end": 864,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "business-technical-knowledge",
+      "title": "Combine domain understanding with implementation understanding",
+      "explanation": "His cloud-to-dirt argument is that a technician alone may not see valuable business applications.",
+      "quote": "business acumen getting overlaid on top of technical acumen",
+      "tags": [
+        "ai",
+        "expertise"
+      ],
+      "character_start": 2663,
+      "character_end": 2722,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fair-process-comparison",
+      "title": "Allow configuration and training before judging output",
+      "explanation": "He warns against comparing a partial automation with years of human-process optimization.",
+      "quote": "compare it to something that's been optimized over the last 6 years",
+      "tags": [
+        "ai",
+        "evaluation"
+      ],
+      "character_start": 3914,
+      "character_end": 3981,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "outcome-over-tools",
+      "title": "Explain customer benefits rather than the internal tool stack",
+      "explanation": "The proposal emphasizes speed, cost, quality and reduced risk; these must still be demonstrated.",
+      "quote": "we use the tools to get the outcomes",
+      "tags": [
+        "ai",
+        "value"
+      ],
+      "character_start": 13483,
+      "character_end": 13519,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "5a7da841-158f-4c4f-af0d-55548ae3fba4",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Portfolio revenue, support resolution, large-company savings and AI performance claims are self-reported or cited without independent checks. Examples mix described deployments with proposed applications and omit many costs. The export ends mid-thought in a legal example; complete local reading is not proof the export contains all original speech. Repeated feedback does not guarantee durable model learning. The eighteen-month opportunity window is a forecast.",
+  "review_changes": "Adds the apples-to-apples maturity caveat, knowledge integration and incomplete-export limitation; distinguishes using AI internally from proving net savings.",
+  "deep_review_date": "2026-11-16T20:59:28.059015+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/fr78adfAnuA.json",
+  "previous_draft_sha256": "ce39bc084a8fe3ecafde1cb303dddde698e0968fdcf9378cac4d55936a859be0"
+}

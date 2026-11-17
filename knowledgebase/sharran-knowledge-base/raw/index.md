@@ -1,0 +1,44 @@
+# Raw Transcripts
+
+Immutable, timestamped transcripts (the source of truth); never hand-edit. Synthesized summaries live in [sources/](../sources/index.md).
+
+- [31 Years of Wealth Knowledge in 18 Minutes](31-years-of-wealth-knowledge-in-18-minutes-1VyRTwodPhY.md) - 0:18:24
+- [After 31 Years of Investing, THIS Is My Exact System (Copy Me)](after-31-years-of-investing-this-is-my-exact-system-copy-me-e7jNOBjblwk.md) - 0:21:22
+- [Being Around The Top 0.01% Teaches You This](being-around-the-top-0-01-teaches-you-this-BZrgkgCF79g.md) - 0:15:25
+- [Buy, Borrow, Die: The Top 0.01% Strategy to Avoid Taxes](buy-borrow-die-the-top-0-01-strategy-to-avoid-taxes-9EF3R3JR5Wk.md) - 0:12:58
+- [ChatGPT's Deal Can Make You a Millionaire (Here's How)](chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM.md) - 0:22:05
+- [Everything Goldman Sachs Taught Me About Money In Just 17 Mins](everything-goldman-sachs-taught-me-about-money-in-just-17-mins-luvQRkxM-pQ.md) - 0:17:25
+- [Exactly How I Built a $3B+ Business in My 30s (3 Pillars)](exactly-how-i-built-a-3b-business-in-my-30s-3-pillars-7OSLclpwAkI.md) - 0:18:46
+- [Hit These Money Milestones, You'll Become Financially Free](hit-these-money-milestones-you-ll-become-financially-free-8vrK7txs8zU.md) - 0:23:42
+- [How to Actually Buy a House in 2026 (My Exact System)](how-to-actually-buy-a-house-in-2026-my-exact-system-4RGSx3mklcc.md) - 0:16:26
+- [How to Speak Like the Top 0.01% (Copy This)](how-to-speak-like-the-top-0-01-copy-this-Vx_sSMAJjNg.md) - 0:16:20
+- [I have big news…](i-have-big-news-Tdhbhvsdnsg.md) - 0:01:03
+- [I’ll Delete Your Financial Anxiety, Just Give Me 18 Mins](i-ll-delete-your-financial-anxiety-just-give-me-18-mins-OcH0864CLPs.md) - 0:18:01
+- [I’m 46. Here Are 5 Assets I Wish I Invested In 30 Years Ago:](i-m-46-here-are-5-assets-i-wish-i-invested-in-30-years-ago-_IcxFpixAHA.md) - 0:13:30
+- [I'm 46. If You Want to Get Rich With Investing, Watch This:](i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo.md) - 0:22:56
+- [If You Give Me 12 Minutes, You’ll Become Financially Free](if-you-give-me-12-minutes-you-ll-become-financially-free-wgvB_oMFHmI.md) - 0:12:34
+- [If You Master Bonds, You Master Money](if-you-master-bonds-you-master-money-si8ISgvTczc.md) - 0:16:38
+- [If You Only Watch One Business Video, Make It This](if-you-only-watch-one-business-video-make-it-this-wXhUtIvnr9U.md) - 0:25:33
+- [If You Only Watch One Money Video, Make It This](if-you-only-watch-one-money-video-make-it-this-OWorFLIbRoo.md) - 0:18:15
+- [In 18 Minutes, You'll Understand Generational Wealth](in-18-minutes-you-ll-understand-generational-wealth-UMiAzkNEM4U.md) - 0:17:59
+- [It's Boring, But It Will Make You Dangerously Rich](it-s-boring-but-it-will-make-you-dangerously-rich-Rccmhnt1ur4.md) - 0:14:16
+- [It's Boring, But This Is The BEST Way to Build Wealth in 2026](it-s-boring-but-this-is-the-best-way-to-build-wealth-in-2026-V_SpICYLUo4.md) - 0:14:19
+- [It’s Brutal, But If You Want to Get Rich You Need to Watch This](it-s-brutal-but-if-you-want-to-get-rich-you-need-to-watch-this-DLubmS-kX4Q.md) - 0:11:27
+- [It Took Me 30 Years To Learn What I’ll Tell You In 19 Minutes](it-took-me-30-years-to-learn-what-i-ll-tell-you-in-19-minutes-yU1YFrzeHSc.md) - 0:19:06
+- [It Took Me 31 Years to Learn This About Getting Rich](it-took-me-31-years-to-learn-this-about-getting-rich-o3L2xWA4hF0.md) - 0:14:32
+- [Lionel Messi’s $1.5B Deal Can Make You Rich (Here’s How)](lionel-messi-s-1-5b-deal-can-make-you-rich-here-s-how-FBZxj9CGk00.md) - 0:15:18
+- [Millionaire Advice I'm Giving My Kids I Wish I Knew in My 20s](millionaire-advice-i-m-giving-my-kids-i-wish-i-knew-in-my-20s-ISQkh8bu6EU.md) - 0:23:20
+- [Once I Hit These Money Milestones, I Became Financially Free](once-i-hit-these-money-milestones-i-became-financially-free-aetr9LovwE4.md) - 0:16:23
+- [Once I Learned This at Goldman Sachs, My Life Changed](once-i-learned-this-at-goldman-sachs-my-life-changed-4aYxXWC5DGQ.md) - 0:11:20
+- [Once I Understood This About Money, My Life Changed](once-i-understood-this-about-money-my-life-changed-XoWE1QPMFek.md) - 0:20:20
+- [Passive Income Is Simple, Once You Have a Plan Like THIS:](passive-income-is-simple-once-you-have-a-plan-like-this-qi4gqXD4t-g.md) - 0:08:35
+- [Pokémon’s $140B Deal Will Make You Rich (Here’s How)](pok-mon-s-140b-deal-will-make-you-rich-here-s-how-YHigza2n5wU.md) - 0:25:35
+- [Starting From $1000 in 2026? Here’s Exactly How I’d Invest.](starting-from-1000-in-2026-here-s-exactly-how-i-d-invest-5A7uHZd1aGw.md) - 0:14:21
+- [The Louisiana Purchase Tactic to Buy a Business for $0](the-louisiana-purchase-tactic-to-buy-a-business-for-0-Bd7nAa1jckw.md) - 0:21:39
+- [The Most Underrated Skill That Could Make You Rich](the-most-underrated-skill-that-could-make-you-rich-cLyDlUG55mk.md) - 0:13:13
+- [This Goldman Sachs Investing Formula Makes Millionaires](this-goldman-sachs-investing-formula-makes-millionaires-rtJt16ty4xI.md) - 0:19:55
+- [This Money Mistake Is Costing You Millions in 2026 (Avoid THIS)](this-money-mistake-is-costing-you-millions-in-2026-avoid-this-6TpYYgMCc3E.md) - 0:21:43
+- [This Warren Buffett Rule Can Make You Rich (Copy THIS)](this-warren-buffett-rule-can-make-you-rich-copy-this-tzUvZijbpjY.md) - 0:11:53
+- [Warner Bros. $110B Deal Can Make You Rich (Here's How)](warner-bros-110b-deal-can-make-you-rich-here-s-how-agq0mKUVrEg.md) - 0:18:01
+- [When I Understood This About Investing. My Life Changed.](when-i-understood-this-about-investing-my-life-changed-_Kpi8HgzKw8.md) - 0:15:23
+- [You'll Become Debt Free, Just Give Me 11 Minutes](you-ll-become-debt-free-just-give-me-11-minutes-LSZU0jeZnXo.md) - 0:11:03

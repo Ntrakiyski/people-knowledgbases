@@ -1,0 +1,50 @@
+{
+  "youtube_id": "Cl7EgF-XIPc",
+  "thesis": "The selected lessons favor execution and durable routines over potential, novelty, and motivation.",
+  "summary": "The reviewed passages shift attention from unused potential toward delivered work, warn that constant novelty can undermine durable pursuits, and recommend calendar structure instead of waiting for motivation. These are selected lessons from a larger list; the note does not assess every habit or establish causal effects.",
+  "insights": [
+    {
+      "slug": "execution-over-potential",
+      "title": "Judge progress through delivery",
+      "explanation": "The creator distinguishes having potential from acting on it.",
+      "quote": "stop focusing on your potential start focusing on your action",
+      "character_start": 1010,
+      "character_end": 1071,
+      "tags": [
+        "agency",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "novelty-cost",
+      "title": "Notice novelty competing with durable commitments",
+      "explanation": "The source warns about the desire for new pursuits. This does not imply exploration is always harmful.",
+      "quote": "desire for novelty is the single greatest risk to building the life you want",
+      "character_start": 4718,
+      "character_end": 4794,
+      "tags": [
+        "focus",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "structure-over-motivation",
+      "title": "Use structure when excitement fades",
+      "explanation": "Calendar commitments are offered as a practical alternative to relying on transient enthusiasm.",
+      "quote": "create structure add it to your calendar and execute",
+      "character_start": 6005,
+      "character_end": 6057,
+      "tags": [
+        "habits",
+        "productivity"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "4a88915c-53f4-4d23-82b7-4b1b66316f54",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

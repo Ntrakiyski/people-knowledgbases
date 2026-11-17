@@ -1,0 +1,68 @@
+{
+  "youtube_id": "BVk2VBggxe4",
+  "thesis": "Diagnose financial behavior patterns and choose a small corrective action.",
+  "summary": "Six archetypes are martyr, speculator, avoider, hoarder, trapped employee and apathetic. Suggested exercises include auditing unwanted sacrifices, committing to one opportunity, reviewing abandoned projects, a five-minute financial check, a small investment, a six-month exit fund and a thirty-day learning focus. She rejects suffering as a wealth mechanism while endorsing interest-driven effort. Newsletter promotion sits within the discussion.",
+  "insights": [
+    {
+      "slug": "suffering-audit",
+      "title": "Audit whether sacrifices serve anyone",
+      "explanation": "Her martyr exercise asks who requested a sacrifice and whether it creates wealth, then suggests delegating, deleting or changing it.",
+      "quote": "suffering itself will not make you money",
+      "tags": [
+        "burnout",
+        "work"
+      ],
+      "character_start": 2196,
+      "character_end": 2236,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "financial-avoidance",
+      "title": "Begin with a small honest look at money",
+      "explanation": "The five-minute exercise opens balances, debt and spending before identifying an action.",
+      "quote": "the fear of looking is usually way worse than the reality",
+      "tags": [
+        "finances",
+        "avoidance"
+      ],
+      "character_start": 9794,
+      "character_end": 9851,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "runway-before-exit",
+      "title": "Build an exit fund rather than abruptly quitting",
+      "explanation": "A separate savings account and basic-expense runway are proposed to make work more voluntary.",
+      "quote": "i'm not saying quit your job tomorrow",
+      "tags": [
+        "career",
+        "cash"
+      ],
+      "character_start": 15848,
+      "character_end": 15885,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "commitment-versus-speculation",
+      "title": "Notice the pattern of abandoning opportunities",
+      "explanation": "The graveyard list examines repeated quitting; the twelve-month contract is her heuristic, not a reason to ignore new adverse evidence.",
+      "quote": "shiny doesn't really compound and there's actually incredible studies on this",
+      "tags": [
+        "focus",
+        "commitment"
+      ],
+      "character_start": 5521,
+      "character_end": 5598,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6873f0b6-8669-4b23-8346-f2984fd21ce2",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Archetypes are editorial devices, not diagnoses or proof poverty is caused by beliefs. Historical, psychological, trading-study and biography claims are unverified. She explicitly says employment is acceptable and does not advise quitting tomorrow. The hoarder exercise includes buying education, not solely financial securities; her cash allocation is personal.",
+  "review_changes": "Restores the anti-burnout message, exit-runway safeguard and difference between obsession and generic overwork.",
+  "deep_review_date": "2026-11-16T20:51:51.294685+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/BVk2VBggxe4.json",
+  "previous_draft_sha256": "7a170c6b60e74e337ee1678850af815c550fd32f9d17bd52fe1c42b7ac5c5671"
+}

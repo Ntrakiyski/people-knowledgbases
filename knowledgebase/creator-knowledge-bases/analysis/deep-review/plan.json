@@ -1,0 +1,401 @@
+{
+  "scope": "Deepen the 99 selected-passage reviews by reading each complete local transcript; no parallel agents.",
+  "videos": [
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "yb2cLMMuMdQ"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "8C_6qojTA78"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "fr78adfAnuA"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "9q5ojtkqsBs"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "0EqJD2o-Mnk"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "hHkdbr6_JJs"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "Q8xXSMe8E4Q"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "sL16tsGafcQ"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "BYpTRiRqS1Y"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "EonibwnAEME"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "-j8_YCWZ05Q"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "3fsJFUvA6Ts"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "OQf2Ba-Lp_4"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "XsWSvz-aewA"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "k5-57282taI"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "HGZOxBfnF-E"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "Z5rKn1ZIp3A"
+    },
+    {
+      "creator_slug": "alex-hormozi",
+      "youtube_id": "zzleYxkf39k"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "NyVBWIW6vbk"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "D2umgh70Kis"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "GWoABwqXl5A"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "BVk2VBggxe4"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "06IVFAiHV9Y"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "rMvTyvbLoy0"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "crMQX981PYU"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "m5N4KEpAG-s"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "mseVr7PBOl0"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "olaz2NJeUUI"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "r9U0il9zD9Q"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "yBefMa8LydA"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "gF5ezwchWBs"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "nOlFdbMaIk8"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "SU3DRpmW5qM"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "f9OptlMJwTQ"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "a20aMsJ756I"
+    },
+    {
+      "creator_slug": "codie-sanchez",
+      "youtube_id": "pD7TO-Pwlzk"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "K8Ros5RhJW4"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "mydzICwDb6c"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "wZeOwqmSw84"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "Gqoez9-Ij8w"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "W3qOS2h_MBM"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "7KLDM--MI6Q"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "ORgmqtNvYsA"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "yvXNmdfYJYY"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "sL5hPovH1vU"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "oB5zo5G7KRg"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "-T4OMgeLWTY"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "oUdNG82hnyA"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "Aq6kt7qaylw"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "qZJS1yOaw_U"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "b4d32pBa3UY"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "np6CwvTYTAM"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "FXXhxepEsuA"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "TWuzAO7ukk0"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "b3yuAekDS4U"
+    },
+    {
+      "creator_slug": "dan-martell",
+      "youtube_id": "dpO4mv9xHw0"
+    },
+    {
+      "creator_slug": "nick-huber",
+      "youtube_id": "C-xsAtAWsDs"
+    },
+    {
+      "creator_slug": "nick-huber",
+      "youtube_id": "acCBdQ423Do"
+    },
+    {
+      "creator_slug": "nick-huber",
+      "youtube_id": "7_wq5V7-cB4"
+    },
+    {
+      "creator_slug": "nick-huber",
+      "youtube_id": "xJNEOoebbDM"
+    },
+    {
+      "creator_slug": "nick-huber",
+      "youtube_id": "PV3FS0M00T4"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "v5wpqSM0Ck0"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "Cl7EgF-XIPc"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "HpDe9yuyLKM"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "Fj8HsHqyMA0"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "RYLrfpMSkoY"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "elHxeRlO74U"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "MvDvncmy2dA"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "LCBdKzfS578"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "0eR-Hv6zg-c"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "TfPHTdD8yv8"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "EvMEBzrDQVA"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "vvMaFyr_214"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "2PRg-wvn2uY"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "B2IPxfoHwp8"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "55QLv6XIwrs"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "f45B1hWi2s4"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "2kS_yZhFKXY"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "w4UCIfBlJF8"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "lAg2-wWR5wU"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "jrN-f2wEcOw"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "qsmjQGw0uiU"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "WmSf1aBjM1E"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "Y5jpgeuJrEY"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "qONyYfpI-5Y"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "qRa1Dp8JfH0"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "9JpbWkZPh5c"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "rbjOzoNCmHw"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "yTp2EhSUwmo"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "d2Ws2SfhW-c"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "kkGr2Er7cEQ"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "JcfSxUg6dH0"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "gHyFapFm6FE"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "AHb_AFtC-Yk"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "6tjldo4yXCQ"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "aA3OUCVSo8Y"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "25ngHHTohRA"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "gP3QmGssISw"
+    },
+    {
+      "creator_slug": "sahil-bloom",
+      "youtube_id": "C81xLRbtqyk"
+    }
+  ]
+}

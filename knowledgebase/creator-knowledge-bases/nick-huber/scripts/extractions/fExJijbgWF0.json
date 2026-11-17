@@ -1,0 +1,50 @@
+{
+  "youtube_id": "fExJijbgWF0",
+  "thesis": "The speaker pairs entrepreneurial confidence with humility about blind spots, spending, and the interpersonal effects of a provocative public voice.",
+  "summary": "The interview distinguishes earning money from keeping it, with the participant warning against ignoring criticism and uncontrolled lifestyle spending. He describes small quality-of-life purchases while wanting to protect what he has built. Asked about his Twitter persona, he acknowledges harshness, real-life offense, and an intention to reduce attacks on doctors and lawyers. The final discussion expresses strong personal preferences about family timing and regret. These are his values and self-descriptions, not representative evidence about wealth loss, fertility decisions, or what all audiences want from creators.",
+  "insights": [
+    {
+      "slug": "wealth-retention-humility",
+      "title": "Preserve feedback after achieving financial success",
+      "explanation": "The participant identifies lost humility and ignored blind spots as possible ways to lose wealth. The statement is a practical warning rather than substantiated data on the most common causes of wealth loss.",
+      "quote": "making money and keeping money are different skills",
+      "character_start": 545,
+      "character_end": 596,
+      "tags": [
+        "personal-finance",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "public-voice-costs",
+      "title": "Include real relationships in the cost of provocative content",
+      "explanation": "The speaker acknowledges that a harsh online style has offended people he knows. The account is useful for understanding his creator voice and its tradeoffs, not evidence that provocation is necessary for growth.",
+      "quote": "i've offended people in real life on Twitter",
+      "character_start": 2150,
+      "character_end": 2194,
+      "tags": [
+        "creator-strategy",
+        "communication"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "stated-family-priorities",
+      "title": "Record family preferences as preferences",
+      "explanation": "The speaker argues for prioritizing children earlier and worries about later regret. His anecdotes and assumptions about affordability do not establish that the same timing or choice fits another person's circumstances.",
+      "quote": "we live in a world now where people have a lot of priorities outside of kids",
+      "character_start": 3317,
+      "character_end": 3393,
+      "tags": [
+        "family",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "89e93483-4468-4741-ade2-ed21dedeb7e2",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

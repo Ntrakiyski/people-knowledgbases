@@ -1,0 +1,70 @@
+{
+  "youtube_id": "xj5gZq159lM",
+  "thesis": "Scaling a service venture demands establishing clear unit pricing, packaging services like standardized products, and running parallel inbound content and outbound sales engines.",
+  "summary": "A speaker outlines a step-by-step roadmap to scale a service business to substantial monthly revenue. The strategy begins with mathematical planning to determine optimal price points and target client volume. Packaging services into standardized products with tiered pricing decoys simplifies sales conversations and protects profit margins. To generate demand, founders give away educational insights through content while executing direct phone and chat outreach. Securing upfront client payments and waitlist deposits validates buyer demand before expanding service delivery infrastructure.",
+  "insights": [
+    {
+      "slug": "outcome-focused-messaging",
+      "title": "Emphasize tangible business outcomes over service deliverables in sales",
+      "explanation": "A speaker highlights that prospective buyers purchase specific commercial outcomes rather than technical service features. Framing proposals around clear improvements like lead generation or saved time drives higher sales conversion.",
+      "quote": "Features tell people what it is but outcomes actually sell let's look at the offer okay cuz there's two parts to this",
+      "speaker": "Dan",
+      "tags": [
+        "sales",
+        "marketing"
+      ],
+      "character_start": 6147,
+      "character_end": 6264
+    },
+    {
+      "slug": "pre-launch-waitlist-validation",
+      "title": "Build pre-launch waitlists to validate market demand before delivery",
+      "explanation": "The speaker proposes marketing and calls before building an offering with a long lead time. A waitlist can help test expressed interest while limiting premature delivery work. Expressed interest is not a completed sale, and pre-launch validation does not eliminate execution or financial risk.",
+      "quote": "you can just do the marketing and the calls to build a weight list you can say \"Look we're just starting to call people in your area",
+      "speaker": "Dan",
+      "tags": [
+        "sales",
+        "operations",
+        "cash-flow"
+      ],
+      "original_extracted_quote": "you can just do the marketing and the calls to build a weight list you can say Look we're just starting to call people in your area",
+      "quote_review": "Restored quotation punctuation from the source passage after reading the surrounding text.",
+      "character_start": 23103,
+      "character_end": 23235,
+      "original_extracted_explanation": "A speaker recommends creating waitlists and collecting initial deposits to confirm market interest prior to building complex delivery systems. Securing financial commitments upfront eliminates risk and funds operational development.",
+      "interpretation_review": "Removed categorical outcome claims; retained attributed recommendation and evidence limits."
+    },
+    {
+      "slug": "freemium-content-strategy",
+      "title": "Share detailed educational content freely to generate qualified inbound leads",
+      "explanation": "A speaker advocates sharing detailed instructional content openly online to demonstrate deep domain expertise. Educating prospective clients establishes authority, attracting qualified inbound leads who pay for structured execution.",
+      "quote": "the information of how you do what you do should be free",
+      "speaker": "Dan",
+      "tags": [
+        "marketing",
+        "sales",
+        "communication"
+      ],
+      "character_start": 14482,
+      "character_end": 14538
+    },
+    {
+      "slug": "productized-service-packaging",
+      "title": "Package custom services into standardized productized offers with clear guarantees",
+      "explanation": "A speaker advises transforming custom service work into standardized packages featuring fixed deliverables, clear pricing, and risk-reversal guarantees. Standardizing operations enables scalable execution and higher operating margins.",
+      "quote": "build the offer for my productized service including every element of a great offer",
+      "speaker": "Dan",
+      "tags": [
+        "operations",
+        "sales",
+        "cash-flow"
+      ],
+      "character_start": 8213,
+      "character_end": 8296
+    }
+  ],
+  "review_status": "machine-extracted; cited correction reviewed",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "5e7adfdb-30ae-4177-b112-f1b79180218c",
+  "extraction_response": "extraction-responses/gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE.json"
+}

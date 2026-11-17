@@ -1,0 +1,54 @@
+{
+  "youtube_id": "WmSf1aBjM1E",
+  "thesis": "The surfer metaphor combines present enjoyment, selective patience, and participation.",
+  "summary": "Bloom uses surfing as a metaphor for a life with rewarding moments, quiet intervals, and setbacks. Enjoying the current wave does not require catching every opportunity. Patience is paired with positioning according to personal values and goals, while entering the water represents taking action. The video promotes an excerpt from his book. It supplies a perspective on opportunity and attention rather than a tested behavioral intervention.",
+  "insights": [
+    {
+      "slug": "selective-opportunity",
+      "title": "You need not accept every opportunity",
+      "explanation": "The metaphor explicitly permits passing on waves. Presence is compatible with selective participation rather than constant pursuit.",
+      "quote": "they know they don't have to ride every single wave that comes their way",
+      "tags": [
+        "life-design",
+        "strategy"
+      ],
+      "character_start": 185,
+      "character_end": 257,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "values-based-positioning",
+      "title": "Prepare for opportunities according to your own goals",
+      "explanation": "Preparation and patience are linked to personal direction, which qualifies a generic message to say yes to everything.",
+      "quote": "position yourself for future waves according to your values and goals",
+      "tags": [
+        "life-design"
+      ],
+      "character_start": 712,
+      "character_end": 781,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "participation",
+      "title": "Opportunity requires some exposure to action",
+      "explanation": "Entering the water represents participating despite uncertainty. The metaphor gives no threshold for acceptable risk.",
+      "quote": "they can't catch any waves sitting on the shore",
+      "tags": [
+        "risk",
+        "life-design"
+      ],
+      "character_start": 458,
+      "character_end": 505,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "dfbf0031-0943-4e7b-9cc6-384c088d6af5",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "This is an extended metaphor and book promotion, not empirical evidence or a guarantee of happiness.",
+  "review_changes": "Adds selectivity and preparation to the initial participation lesson.",
+  "deep_review_date": "2026-11-16T19:23:26.474686+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/WmSf1aBjM1E.json",
+  "previous_draft_sha256": "ceedb48f335be6dc2e04b5134130c536654ebf491b4d4930c5567bdd0d4234ba"
+}

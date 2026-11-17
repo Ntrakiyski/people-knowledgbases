@@ -1,0 +1,37 @@
+{
+  "youtube_id": "acCBdQ423Do",
+  "thesis": "An early mowing story presents the first invoice as a concrete encounter with service-business economics.",
+  "summary": "The selected passages describe taking over commercial mowing jobs as a teenager, wanting to quit, and being encouraged to wait until billing the customer. The speaker says seeing the payment and comparing alternatives changed his perspective. It is a personal origin story, not evidence that self-employment is always preferable or that persistence is always safe.",
+  "insights": [
+    {
+      "slug": "paid-market-learning",
+      "title": "Use the full delivery-and-payment cycle as learning",
+      "explanation": "The father's advice in the story was to experience invoicing before deciding to quit. This is an attributed event rather than a universal rule.",
+      "quote": "Nick you can quit you can quit but not until you send your first invoice",
+      "character_start": 2964,
+      "character_end": 3036,
+      "tags": [
+        "entrepreneurship",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "service-economics-comparison",
+      "title": "Compare alternatives using actual work and compensation",
+      "explanation": "The speaker says basic arithmetic after invoicing changed his judgment. Complete comparisons would also require costs, taxes, and risk.",
+      "quote": "I got that invoice and did some basic math",
+      "character_start": 3064,
+      "character_end": 3106,
+      "tags": [
+        "unit-economics",
+        "career"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "f2f01df9-f616-4a29-95bb-93ed51301439",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

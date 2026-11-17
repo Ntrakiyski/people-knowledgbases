@@ -1,0 +1,50 @@
+{
+  "youtube_id": "hHkdbr6_JJs",
+  "thesis": "The selected business-model explanation distinguishes current advisory services from possible future relationships.",
+  "summary": "The creator describes hands-on workshops within an advisory practice and outlines possible later relationships involving services, investment, or real estate. Much of the expansion language is conditional. This note does not convert proposed offerings into verified current revenue streams or validate the overall flywheel's economics.",
+  "insights": [
+    {
+      "slug": "advisory-service-model",
+      "title": "Identify the paid service described as current",
+      "explanation": "The source names workshops with associates and directors helping business owners. That is more specific than assuming all media itself produces the revenue.",
+      "quote": "these are the workshops that we actually hold in Vegas",
+      "character_start": 3796,
+      "character_end": 3850,
+      "tags": [
+        "business-models",
+        "education"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "conditional-offer-expansion",
+      "title": "Keep future possibilities distinct from present operations",
+      "explanation": "The repeated use of may and might describes optional later relationships, not confirmed activity or outcomes.",
+      "quote": "maybe we buy the company maybe we invest",
+      "character_start": 17242,
+      "character_end": 17282,
+      "tags": [
+        "business-models",
+        "provenance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "education-mission",
+      "title": "Record the company's stated mission as a stated mission",
+      "explanation": "The source frames the business around access to education. A mission statement is not independent evidence of access or impact.",
+      "quote": "make real business education accessible for everyone",
+      "character_start": 443,
+      "character_end": 495,
+      "tags": [
+        "creator-strategy",
+        "education"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "f588b9c5-fe19-47ac-85a0-5ef3923571a3",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "sL5hPovH1vU",
+  "thesis": "He describes progression from isolated chat to contextual workspaces, scheduled workflows and agent orchestration.",
+  "summary": "Six user levels move from question answering through projects, connectors, human-approved operators, custom software and orchestrated agents. Martell distinguishes role context from workflow instructions, suggests packaging repeated work as skills, describes chaining and scheduling, and recommends planning before code. The final level uses a main coordinator, specialist agents and a critic; he promotes his Apex platform and a free playbook.",
+  "insights": [
+    {
+      "slug": "role-versus-workflow-context",
+      "title": "Separate context from workflow instructions",
+      "explanation": "His ingredients/recipe analogy distinguishes who the user is from the procedure and desired output.",
+      "quote": "the master prompt is like your ingredients",
+      "tags": [
+        "ai",
+        "context"
+      ],
+      "character_start": 3842,
+      "character_end": 3884,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "repeat-work-as-skills",
+      "title": "Package recurring useful work",
+      "explanation": "His three-times-a-week threshold is a personal heuristic for identifying a repeatable skill.",
+      "quote": "if I'm doing it more than three times a week",
+      "tags": [
+        "ai",
+        "skills"
+      ],
+      "character_start": 8392,
+      "character_end": 8436,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "plan-before-code",
+      "title": "Review a plan before software generation",
+      "explanation": "He argues planning reduces wasted iteration and token cost; no measured saving is supplied.",
+      "quote": "a whole completed plan that you approve first before it writes any code",
+      "tags": [
+        "ai",
+        "planning"
+      ],
+      "character_start": 12441,
+      "character_end": 12512,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "orchestrator-specialists",
+      "title": "Give distinct agents distinct workflows",
+      "explanation": "The main agent delegates; specialist agents own work and a critic provides another model review loop.",
+      "quote": "each sub aent owns a workflow",
+      "tags": [
+        "ai",
+        "agents"
+      ],
+      "character_start": 14192,
+      "character_end": 14221,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "b8e5773e-04ce-40b1-88c2-862651f13a26",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Feature names, commands, availability, security and autonomous-performance claims are descriptions in this video, not tested product documentation. A model checking itself is not independent verification. Projects provide selected context, not guaranteed complete or accurate memory. Production software and company-launch claims are unverified anecdotes; percentages and universal-quality statements are rhetoric.",
+  "review_changes": "Adds the approval-versus-oversight distinction, coordinator/specialist design, plan-first cost rationale and explicit limits on self-critique and memory.",
+  "deep_review_date": "2026-11-16T20:55:21.057481+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/sL5hPovH1vU.json",
+  "previous_draft_sha256": "4e6791c430022655426065bd450dceec6e7a2af85740b33bab55fba99f491120"
+}

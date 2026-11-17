@@ -1,0 +1,80 @@
+{
+  "youtube_id": "TfPHTdD8yv8",
+  "thesis": "Recovering momentum is framed as rest plus small sustainable action, flexible targets, and simple accountability.",
+  "summary": "Bloom describes four responses to a rut: stop deepening exhaustion and self-criticism, create a small amount of movement, maintain flexible consistency, and use peer accountability. Rest comes before the action advice, qualifying any reading that the video simply recommends pushing harder. The ABC targets range from a strong effort to merely showing up. Missing a day is not supposed to trigger compensatory overwork. A completion text to a friend is his example of low-overhead accountability. Neuroscience language and promises of quick lasting change are not substantiated, and persistent low mood or fatigue cannot be diagnosed from this framework.",
+  "insights": [
+    {
+      "slug": "rest-before-pushing",
+      "title": "Stop using harder effort to deepen exhaustion",
+      "explanation": "The first stage explicitly permits rest in several forms. This precedes the advice to take action and is necessary context for it.",
+      "quote": "pushing harder is not the answer more talk on rest coming soon but the first step stop digging take rest",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 2060,
+      "character_end": 2164,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "minimum-viable-progress",
+      "title": "Restart at a deliberately small scale",
+      "explanation": "Walking or a short work session are examples of reducing the entry threshold. Small steps are proposed for momentum rather than as proof of immediate transformation.",
+      "quote": "start with minimum viable progress don't worry about perfection just take the smallest step",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 2845,
+      "character_end": 2936,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "flexible-consistency",
+      "title": "Adjust the amount without abandoning the activity",
+      "explanation": "The ABC framework makes room for lower-capacity days. It differs from requiring a fixed high output every day.",
+      "quote": "your A goal crush it your B goal just stay steady and your C goal just show up",
+      "tags": [
+        "productivity",
+        "learning"
+      ],
+      "character_start": 4588,
+      "character_end": 4666,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "missed-day-recovery",
+      "title": "Do not turn a missed day into a punishment cycle",
+      "explanation": "Bloom explicitly discourages compensatory extra work. The preferred reset is returning to the routine.",
+      "quote": "if you miss a day don't try to make up for it and do extra the next day",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 4862,
+      "character_end": 4933,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "lightweight-accountability",
+      "title": "A witness can matter more than elaborate tracking",
+      "explanation": "The reported book-work habit used a simple done message. The story supports an implementation idea, not a causal estimate of its effectiveness.",
+      "quote": "texting my friend done every time I finished a book related task",
+      "tags": [
+        "communication",
+        "productivity"
+      ],
+      "character_start": 5677,
+      "character_end": 5741,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "73da1aaf-8fd9-4573-92ee-6084faba570d",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "This is self-management advice, not a diagnosis or treatment. The video acknowledges exhaustion and rest but does not assess other medical, psychological, or contextual causes of reduced capacity. Attribution of the compounding quote is unverified.",
+  "review_changes": "Adds rest, ABC targets, and the instruction not to punish missed days, preventing a relentless-discipline interpretation.",
+  "deep_review_date": "2026-11-16T19:27:04.644854+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/TfPHTdD8yv8.json",
+  "previous_draft_sha256": "b11ebe693c8ecfb368089ec7e97c63dfe41b1d5840edfe1e118ea471e73f30f0"
+}

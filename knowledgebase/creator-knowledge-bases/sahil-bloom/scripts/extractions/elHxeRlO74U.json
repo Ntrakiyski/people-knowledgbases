@@ -1,0 +1,64 @@
+{
+  "youtube_id": "elHxeRlO74U",
+  "thesis": "Conversation momentum comes from story-inviting questions, visible listening, paraphrase with follow-up, and adaptive eye contact.",
+  "summary": "Bloom presents four conversational practices. Doorknob questions invite stories rather than short factual answers; visible listening uses responses and body language to show interest; repeat-and-follow paraphrases what was heard before adding a question or thought; and situational eye contact changes with who is speaking. The examples concern both personal and professional relationships. The video credits loud listening to David Brooks and promotes Bloom's book. It does not demonstrate that the practices work uniformly across cultures, disabilities, or conversational preferences.",
+  "insights": [
+    {
+      "slug": "story-inviting-questions",
+      "title": "Ask questions that invite a story",
+      "explanation": "The wedding-location example changes a factual question into a question about how a decision was made, opening paths for follow-up.",
+      "quote": "doorknobs are questions that invite the other person to tell a story in response",
+      "tags": [
+        "communication"
+      ],
+      "character_start": 289,
+      "character_end": 369,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "visible-listening",
+      "title": "Show engagement while the other person speaks",
+      "explanation": "Brief responses and body language are proposed to make listening perceptible. Visible performance should not be mistaken for proof of comprehension.",
+      "quote": "show the other person that you are listening with your actions body language or with simple sounds",
+      "tags": [
+        "communication"
+      ],
+      "character_start": 1902,
+      "character_end": 2000,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "repeat-and-follow",
+      "title": "Paraphrase before adding the next conversational move",
+      "explanation": "The sequence encourages processing what was said before introducing an observation or another question.",
+      "quote": "repeat it back to them in your own words and then follow on with some new idea",
+      "tags": [
+        "communication"
+      ],
+      "character_start": 2878,
+      "character_end": 2956,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "situational-eye-contact",
+      "title": "Adapt eye contact to the exchange",
+      "explanation": "The speaker recommends engaged attention while listening and less rigid staring while formulating a response. Individual comfort remains relevant.",
+      "quote": "deep and engaged while the other person is speaking but then more casual while you are speaking",
+      "tags": [
+        "communication"
+      ],
+      "character_start": 3658,
+      "character_end": 3753,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "fa3229b5-8dfd-4f67-9bf6-c5494af9d4c1",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The techniques are advice, not a validated psychological intervention. Body language and eye-contact preferences vary. The named attribution is reported by the video and not independently traced.",
+  "review_changes": "Adds the four-step interaction sequence and distinguishes adaptive eye contact from constant staring.",
+  "deep_review_date": "2026-11-16T19:23:26.481732+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/elHxeRlO74U.json",
+  "previous_draft_sha256": "25d8853b801843b30351d58c10ba4d81f026868a1be2861a090664317e80c392"
+}

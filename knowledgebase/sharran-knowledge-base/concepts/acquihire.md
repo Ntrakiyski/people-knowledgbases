@@ -1,0 +1,40 @@
+---
+type: "concept"
+title: "Acquihire"
+description: "A deal can prioritize acquiring a team’s capabilities and attention over buying its product."
+tags: ["acquisitions", "ai", "talent"]
+videos: ["chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM"]
+created: "2026-11-16"
+updated: "2026-11-16"
+---
+
+# Acquihire
+
+> ownership of Peter Steinberger's full attention, his experience
+
+[ChatGPT's Deal Can Make You a Millionaire (Here's How)](../sources/chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM.md), 0:12:16.
+
+An acquihire is discussed here as a deal whose strategic attraction is the people and their capabilities rather than only the product or company being purchased. Srivatsaa uses Peter Steinberger and OpenClaw to explore how that distinction can change both negotiation and the risks that remain after an agreement.
+
+## Buy focused capability rather than assume product ownership
+
+In Srivatsaa’s account, Steinberger joins OpenAI while OpenClaw remains independent and open source. The benefit to the hiring company is the creator’s attention, experience, and connection to a user community. The video acknowledges that the actual compensation and participation details are not public, so its possible cash payout and performance participation discussion are speculative.
+
+The transcript also says an open source project was unavailable to acquire. That is the speaker’s characterization of this particular arrangement, not a general rule that open source businesses or intellectual property can never be acquired. The analytical distinction is which rights and services the deal actually delivers.
+
+## Value tied to a person can leave with that person
+
+If expertise and future work are the main assets, retention and knowledge transfer become central execution dependencies. Srivatsaa says the advantage could disappear if the creator leaves before helping develop the next product. An appealing initial payment does not establish that the strategic outcome has been secured.
+
+He further raises continuing compute costs and possible regulatory scrutiny of hiring arrangements that resemble acquisitions. These are his interpretations of the case rather than a verified legal conclusion or operating forecast.
+
+The deal therefore illustrates why transaction labels deserve examination. Calling an arrangement a hire, partnership, or acquisition does not by itself explain its economic substance. The relevant questions are what capability becomes available, for how long, under which terms, and what must still happen to turn that capability into value.
+
+## Related
+
+- [Deal structure](deal-structure.md): A transaction’s terms distribute control, ownership, obligations, and future upside.
+- [Risk Management](risk-management.md): Evaluate downside, obligations, behavioral errors, and execution dependence before and after committing resources.
+
+## Sources
+
+- [ChatGPT's Deal Can Make You a Millionaire (Here's How)](../sources/chatgpt-s-deal-can-make-you-a-millionaire-here-s-how-sv3I4Wa1UhM.md) - "[0:12:16] ownership of Peter Steinberger's full attention, his experience"

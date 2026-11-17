@@ -1,0 +1,50 @@
+{
+  "youtube_id": "f45B1hWi2s4",
+  "thesis": "The selected life lessons emphasize reliability, standards, and emotional response.",
+  "summary": "Reviewed passages from the larger list connect reliability to following through, describe how repeated exceptions can erode standards, and frame emotional control as a form of growth. These are the creator's personal principles rather than validated universal rules.",
+  "insights": [
+    {
+      "slug": "reliability",
+      "title": "Close the commitments you make",
+      "explanation": "The source condenses reliability into doing what was promised, rather than merely declaring intentions.",
+      "quote": "closing loops by doing what you said you'd do",
+      "character_start": 3105,
+      "character_end": 3150,
+      "tags": [
+        "trust",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "performance-standards",
+      "title": "Notice small exceptions becoming the norm",
+      "explanation": "The creator argues that repeated concessions train lower expectations. The appropriate standard remains a contextual judgment.",
+      "quote": "every time you let something slide just this once you train yourself to accept less",
+      "character_start": 4481,
+      "character_end": 4564,
+      "tags": [
+        "standards",
+        "habits"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "emotional-response",
+      "title": "Avoid adding unsupported stories to minor setbacks",
+      "explanation": "The source's emotional-control principle includes resisting false narratives about everyday slights.",
+      "quote": "avoid assigning false narratives to everyday sllights",
+      "character_start": 7772,
+      "character_end": 7825,
+      "tags": [
+        "mindset",
+        "relationships"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "27a7a9cb-bcdd-472c-bf51-553278eff38e",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

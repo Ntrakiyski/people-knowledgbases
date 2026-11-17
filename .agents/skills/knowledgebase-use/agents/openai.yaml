@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research the people knowledge base"
+  short_description: "Answer questions with evidence and context"
+  default_prompt: "Use $knowledgebase-use to answer my question from the saved evidence, preserving attribution and disagreements."

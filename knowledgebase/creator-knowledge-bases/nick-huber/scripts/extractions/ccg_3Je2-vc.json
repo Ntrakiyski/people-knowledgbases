@@ -1,0 +1,50 @@
+{
+  "youtube_id": "ccg_3Je2-vc",
+  "thesis": "Competitive choice and execution matter more to the speaker than earning prestige for a difficult idea.",
+  "summary": "The participant contrasts his early paid storage work with classmates' novel startup pitches. He says an existing local competitor demonstrated demand and that better execution was his intended advantage. A sports analogy argues for choosing a market where the founder has a plausible competitive position. The story is retrospective and includes dismissive characterizations of others' outcomes, so it should not be read as a representative comparison of venture-backed and conventional entrepreneurship. The useful framework is to assess the competition and desired result rather than treating difficulty as valuable by itself.",
+  "insights": [
+    {
+      "slug": "existing-market-evidence",
+      "title": "Use existing customer spending as a starting signal",
+      "explanation": "The participant identified an operating storage company and believed its service could improve. Existing revenue suggests a market to investigate; it does not establish room for a profitable entrant.",
+      "quote": "there's a company in Ithaca that makes $400 plus thousand dollars a year",
+      "character_start": 1547,
+      "character_end": 1619,
+      "tags": [
+        "market-research",
+        "entrepreneurship"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "difficulty-not-value",
+      "title": "Do not assume harder work automatically earns more",
+      "explanation": "The gymnastics analogy rejects difficulty as its own economic reward. Market value and execution remain the relevant questions in the speaker's framing.",
+      "quote": "You don't get extra money and extra points for doing really hard things",
+      "character_start": 3168,
+      "character_end": 3239,
+      "tags": [
+        "strategy",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "competition-selection",
+      "title": "Choose the competitive arena deliberately",
+      "explanation": "The basketball comparison emphasizes relative capabilities and the competitors a founder elects to face. Its numerical odds are rhetorical and not validated estimates of business success.",
+      "quote": "in in business You get to choose your competition",
+      "character_start": 3655,
+      "character_end": 3704,
+      "tags": [
+        "strategy",
+        "competition"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "fb5c6423-c5f2-44af-905c-40869de0bd66",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

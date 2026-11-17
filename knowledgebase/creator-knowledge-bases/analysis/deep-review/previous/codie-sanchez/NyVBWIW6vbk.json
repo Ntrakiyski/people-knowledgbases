@@ -1,0 +1,50 @@
+{
+  "youtube_id": "NyVBWIW6vbk",
+  "thesis": "The selected argument contrasts public-market access with ownership opportunities in private companies.",
+  "summary": "Reviewed passages argue that private financing can let firms remain private and point to ordinary service businesses outside public indexes. The creator also discusses debt-funded private-equity acquisitions. The title's rejection of dollar-cost averaging and claims of superior private returns are not established by this selected review. Historical figures and transaction examples require independent verification.",
+  "insights": [
+    {
+      "slug": "private-capital-access",
+      "title": "Distinguish financing access from a requirement to list publicly",
+      "explanation": "The source argues that additional private funding can reduce a firm's need for a stock-market listing. This does not establish better returns for a buyer.",
+      "quote": "no longer had to go public to get it",
+      "character_start": 7711,
+      "character_end": 7747,
+      "tags": [
+        "investing",
+        "capital"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "private-operating-universe",
+      "title": "Include ordinary businesses in the private-market category",
+      "explanation": "The source names local services rather than only venture-funded firms. Access, liquidity, concentration, and operating risk remain separate questions.",
+      "quote": "they're plumbing shops HVAC landscaping but let me tell you",
+      "character_start": 9335,
+      "character_end": 9394,
+      "tags": [
+        "ownership",
+        "investing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "acquisition-leverage-context",
+      "title": "Keep borrowing conditions in an acquisition narrative",
+      "explanation": "The creator describes cheap credit as part of an earlier buying environment. Past financing conditions should not be assumed to persist.",
+      "quote": "interest rates were basically zero credit was cheap",
+      "character_start": 11639,
+      "character_end": 11690,
+      "tags": [
+        "acquisitions",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "ca7e3678-a2f7-475b-a82c-c898f1f8c83d",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

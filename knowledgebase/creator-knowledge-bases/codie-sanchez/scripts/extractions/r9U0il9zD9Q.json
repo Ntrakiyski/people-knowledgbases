@@ -1,0 +1,68 @@
+{
+  "youtube_id": "r9U0il9zD9Q",
+  "thesis": "Her post-labor scenario motivates converting temporary income into ownership and durable networks.",
+  "summary": "Sanchez extrapolates compute growth and automation into a possible economy with less labor demand, weaker consumer relevance and concentrated infrastructure control. The proposed response is AI skill development, higher earnings, investment in businesses or other scarce assets, owned distribution and relationships inside durable firms. She promotes a newsletter provider she has invested in, acquisition events and her own company as a model for AI-enabled employment.",
+  "insights": [
+    {
+      "slug": "convert-income-to-ownership",
+      "title": "Turn income spikes into longer-lived stakes",
+      "explanation": "She recommends reducing lifestyle expansion and purchasing assets rather than relying only on hourly income.",
+      "quote": "spend less on our lifestyle more converting spikes of income into boring ownership",
+      "tags": [
+        "ownership",
+        "income"
+      ],
+      "character_start": 12129,
+      "character_end": 12211,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "durable-networks",
+      "title": "Combine assets with operating relationships",
+      "explanation": "Her proposed defense includes firms and coalitions able to operate assets, not only a personal brand.",
+      "quote": "embed ourselves into durable networks not just personal brands",
+      "tags": [
+        "networks",
+        "ownership"
+      ],
+      "character_start": 12581,
+      "character_end": 12643,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ai-skill-income-assets",
+      "title": "Sequence skill development before asset accumulation",
+      "explanation": "The proposed formula goes from AI capability to earnings and then investment.",
+      "quote": "increase your earnings then you're going to increase your investment in assets",
+      "tags": [
+        "ai",
+        "wealth"
+      ],
+      "character_start": 14097,
+      "character_end": 14175,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ai-supported-employment",
+      "title": "Ask employers to fund learning and tools",
+      "explanation": "She describes subscriptions and a company hackathon as practical requests; access alone does not establish capability.",
+      "quote": "ask them can I get a subscription to AI",
+      "tags": [
+        "ai",
+        "employment"
+      ],
+      "character_start": 13653,
+      "character_end": 13692,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c01bfd1d-361b-4c8e-88ba-d4fe238f600d",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Speculative narrative rather than established economic destiny. Job-exposure estimates are not equivalent to eliminated jobs; compute, energy-price, labor-share and timeline claims are unverified. Extreme-environment industry and managed-underclass descriptions are scenarios. Ownership is risky and no specific asset is demonstrated to be immune; newsletter ownership still relies on providers.",
+  "review_changes": "Separates practical skill/income/asset sequence from catastrophic extrapolation, and preserves her preference for coalitions over unsupported solopreneur claims.",
+  "deep_review_date": "2026-11-16T20:51:51.295751+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/r9U0il9zD9Q.json",
+  "previous_draft_sha256": "778769603134bcb34bdaf06afe228341db6dcc0d9288da31be9331f28b70635d"
+}

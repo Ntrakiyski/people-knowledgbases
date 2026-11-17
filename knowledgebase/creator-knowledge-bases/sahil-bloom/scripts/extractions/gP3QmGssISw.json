@@ -1,0 +1,68 @@
+{
+  "youtube_id": "gP3QmGssISw",
+  "thesis": "A retreat supplies lessons on earned judgment, changing course and shared vulnerability.",
+  "summary": "Bloom reports co-hosting a Branson island retreat. He describes intuition as accumulated reps, partially agrees with Adam Grant on quality peaks but argues quantity helps early, and uses an assisted open-water swim to illustrate looking back at progress. He audits desired outcomes, warns against escalating a losing commitment, attributes alternative explanations of behavior to Blake Eastman, and distinguishes peer vulnerability from vulnerability across a power gap. Branson becomes his aspirational illustration of several forms of wealth.",
+  "insights": [
+    {
+      "slug": "sums-before-peaks",
+      "title": "Quantity may precede selective quality",
+      "explanation": "Responding to Adam Grant, Bloom proposes many attempts early and concentrating on high-potential work later.",
+      "quote": "think of it as sums first peaks later",
+      "tags": [
+        "learning",
+        "quality"
+      ],
+      "character_start": 3024,
+      "character_end": 3061,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "audit-desires",
+      "title": "Ask what the money and goals are for",
+      "explanation": "He questions copied aspirations and the assumption that successful people know what life they want.",
+      "quote": "what is the money for what are you going and chasing",
+      "tags": [
+        "wealth",
+        "goals"
+      ],
+      "character_start": 6636,
+      "character_end": 6688,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "alternative-explanations",
+      "title": "Generate other explanations before judging intent",
+      "explanation": "Bloom attributes to Blake Eastman an exercise of imagining five reasons for another person’s communication.",
+      "quote": "create five versions of why the person actually might be communicating that way",
+      "tags": [
+        "communication",
+        "empathy"
+      ],
+      "character_start": 9865,
+      "character_end": 9944,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "peer-vulnerability",
+      "title": "Choose trusted peers for early vulnerability",
+      "explanation": "He qualifies the vulnerability lesson by acknowledging risk with people significantly above you.",
+      "quote": "you should be vulnerable with the people that are in your peer group",
+      "tags": [
+        "relationships",
+        "trust"
+      ],
+      "character_start": 12271,
+      "character_end": 12339,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "43f9e51e-49ee-4b2b-8df4-82b9f5a10b3f",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Retreat observations and attributed conversations are unverified, selective and shaped by access to wealthy participants. The swim included safety craft and optional flotation. Branson’s apparent balance is Bloom’s impression, not a complete life audit. Grant and Eastman ideas must retain their attribution.",
+  "review_changes": "Restores sums-first/peaks-later disagreement, the early-career vulnerability caveat, safety context and the anecdotal status of the have-it-all conclusion.",
+  "deep_review_date": "2026-11-16T20:48:57.268427+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/gP3QmGssISw.json",
+  "previous_draft_sha256": "99dbf6d544bda7bae3afef8a52b3551f92a1419e028cfceb691d4d7669e1d7ca"
+}

@@ -1,0 +1,67 @@
+{
+  "youtube_id": "9Cf416w4JJI",
+  "thesis": "Scaling a stalled enterprise requires systematically identifying primary operational bottlenecks, deploying targeted team resources, and applying rigorous experimental testing.",
+  "summary": "Unblocking enterprise growth requires identifying and resolving the single primary bottleneck constraining workflow throughput. The speaker presents a four-step framework: mapping business processes with conversion metrics, surging team resources onto the identified constraint, running controlled single-variable experiments, and empowering employees with financial decision authority. By testing hypotheses against statistical data and establishing clear metric ownership, business leaders eliminate operational drag and expand organizational capacity predictably.",
+  "insights": [
+    {
+      "slug": "bottleneck-identification",
+      "title": "Systemic growth depends on resolving primary workflow constraints",
+      "explanation": "Dan Martell explains that business expansion remains limited by its narrowest operational point, meaning that accelerating non-bottleneck steps wastes effort without increasing overall output.",
+      "quote": "throughput is the narrowest point of any workflow the mistake is making the other steps faster",
+      "speaker": "Dan Martell",
+      "tags": [
+        "operations",
+        "productivity",
+        "leadership"
+      ],
+      "character_start": 1941,
+      "character_end": 2035
+    },
+    {
+      "slug": "resource-surging",
+      "title": "Focusing cross-functional resources onto bottlenecks accelerates resolution",
+      "explanation": "Dan Martell advises reallocating team members temporarily to attack identified constraints, ensuring that operational bottlenecks receive immediate, concentrated, and effective team effort.",
+      "quote": "it's one bottleneck one area of focus and we fix it fast i think the biggest challenge that you might be doing to yourself and your team",
+      "speaker": "Dan Martell",
+      "tags": [
+        "operations",
+        "leadership",
+        "productivity"
+      ],
+      "character_start": 11517,
+      "character_end": 11653
+    },
+    {
+      "slug": "controlled-testing",
+      "title": "Isolating variables ensures accurate operational evaluation",
+      "explanation": "Dan Martell highlights that modifying single variables during process testing enables teams to evaluate whether specific changes genuinely improved business performance.",
+      "quote": "the key is is we want to isolate what we're measuring and change one variable at a time",
+      "speaker": "Dan Martell",
+      "tags": [
+        "operations",
+        "learning",
+        "risk"
+      ],
+      "character_start": 18755,
+      "character_end": 18842
+    },
+    {
+      "slug": "delegated-authority",
+      "title": "Granting structured spending authority prevents leadership bottlenecks",
+      "explanation": "Dan Martell suggests establishing tiered financial approval limits so team members can resolve operational issues rapidly without waiting for executive sign-off.",
+      "quote": "depending on the role of the business they can either spend $50 to fix it they can spend $500 so this would be like team leads",
+      "speaker": "Dan Martell",
+      "tags": [
+        "leadership",
+        "operations",
+        "hiring"
+      ],
+      "character_start": 24765,
+      "character_end": 24891
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "17ace2c2-919b-4e47-bd60-fc497f059bdf",
+  "extraction_response": "extraction-responses/TSr_qLZ-8YY-nsFKkeQg-V0-SJywU4UQryQ-9Cf416w4JJI-Hgd1rxrIYGM-8R4rmc9NYpA-wtaRjOFqdyU-aPSbZbOzB4s-4_urJ17Rx8s-_rBsOP658YA.json"
+}

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "FXXhxepEsuA",
+  "thesis": "His money laws join financial slack, time leverage, ownership, expertise and giving.",
+  "summary": "Martell emphasizes the income/spending gap, buying time before status purchases, a calendar audit and productive refilling of recovered hours. He distinguishes work-dependent income from assets, discusses saleable business equity, advocates investing within competence, and illustrates failure with a Detroit property story. Giving and community contribution complete his account of wealth.",
+  "insights": [
+    {
+      "slug": "wealth-gap",
+      "title": "Preserve room between earnings and living costs",
+      "explanation": "His ratio language focuses on financial slack rather than using income alone as a status score.",
+      "quote": "you need a bigger gap between what you make and what you spend",
+      "tags": [
+        "finances",
+        "spending"
+      ],
+      "character_start": 1124,
+      "character_end": 1186,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "refill-recovered-time",
+      "title": "Delegation alone is not his wealth mechanism",
+      "explanation": "He requires using recovered hours for growth activities such as sales, relationships and hiring.",
+      "quote": "if you don't fill your time back with things that make you more money",
+      "tags": [
+        "time",
+        "leverage"
+      ],
+      "character_start": 4490,
+      "character_end": 4559,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "competence-and-explanation",
+      "title": "Test both knowledge and explainability",
+      "explanation": "He uses a failed property deal to warn against trusting a compelling pitch outside one’s expertise.",
+      "quote": "trusting without knowing is not a great way to invest",
+      "tags": [
+        "investing",
+        "risk"
+      ],
+      "character_start": 13704,
+      "character_end": 13757,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "giving-as-value",
+      "title": "Giving forms part of his definition of wealth",
+      "explanation": "He connects contribution with his own purpose; guaranteed financial reciprocity remains a belief.",
+      "quote": "if you don't have money give your time",
+      "tags": [
+        "giving",
+        "purpose"
+      ],
+      "character_start": 16703,
+      "character_end": 16741,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e51d3100-9c8e-4545-92f6-7d6a0aa06301",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "These are beliefs and heuristics, not inviolable laws. A primary home remains an asset in ordinary accounting even though it costs money and may not produce income; his definition is a cash-flow lens. Equity does not guarantee distributions or liquidity. Borrowing, insurance and tax descriptions are simplified and unverified. Reported returns, donations, stock examples and giveaway results are not independently checked.",
+  "review_changes": "Adds accounting-versus-cashflow terminology, explicit productive-reinvestment requirement and the downside anecdote that qualifies his equity enthusiasm.",
+  "deep_review_date": "2026-11-16T20:57:07.427622+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/FXXhxepEsuA.json",
+  "previous_draft_sha256": "5deee09e0256a765489d97b7d7081a89c9c0066da7d35f4683230ee64d8309b6"
+}

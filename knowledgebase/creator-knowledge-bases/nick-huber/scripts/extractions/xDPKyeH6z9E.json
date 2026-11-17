@@ -1,0 +1,63 @@
+{
+  "youtube_id": "xDPKyeH6z9E",
+  "thesis": "Fear-setting and explicit lifestyle priorities are presented as aids to entrepreneurial decisions.",
+  "summary": "The participant recommends a practice attributed to Tim Ferriss: writing out what failure would actually mean, including financial losses, work, and housing. The conversation recognizes the importance of fallback resources such as employability and family support. The interviewer describes moving closer to family to make a preferred work and parenting arrangement more feasible. The participant recounts choosing Athens after listing household priorities and budget constraints. This is not a claim that everyone has comparable safety nets or that bankruptcy lacks serious consequences. Confidence is paired with openness to information that contradicts a plan.",
+  "insights": [
+    {
+      "slug": "confidence-with-revision",
+      "title": "Pair willingness to act with willingness to change your mind",
+      "explanation": "The participant explicitly says confidence without humility can be dangerous. That qualification matters when interpreting his stronger claims about insecurity and success.",
+      "quote": "if you don't have the humility to change your mind",
+      "character_start": 399,
+      "character_end": 449,
+      "tags": [
+        "mindset",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "fear-setting",
+      "title": "Write out the practical consequences of failure",
+      "explanation": "The exercise asks about losses, future earnings, and where the person would live. Its usefulness depends on realistic assumptions rather than automatically concluding the worst case is harmless.",
+      "quote": "I write down the absolute worst case scenario",
+      "character_start": 1840,
+      "character_end": 1885,
+      "tags": [
+        "decision-making",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "safety-net-awareness",
+      "title": "Include actual fallback resources in risk assessment",
+      "explanation": "The speaker mentions an available room with his parents. That support changes his downside and should not be assumed for another founder.",
+      "quote": "they got a bedroom open for me",
+      "character_start": 2415,
+      "character_end": 2445,
+      "tags": [
+        "risk",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "location-priority-fit",
+      "title": "Choose location against explicit household priorities",
+      "explanation": "The couple's list combines weather, recreation, family environment, airport access, and housing cost. The example treats location as a design variable with tradeoffs.",
+      "quote": "my wife and I made a list of shit we loved",
+      "character_start": 6336,
+      "character_end": 6378,
+      "tags": [
+        "life-design",
+        "family"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e5c5d5bd-9dd7-4823-b90a-b275ce639a9a",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

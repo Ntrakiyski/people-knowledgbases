@@ -1,0 +1,68 @@
+{
+  "youtube_id": "25ngHHTohRA",
+  "thesis": "Consistency relies on a flexible minimum and recovery after inevitable misses.",
+  "summary": "Seven strategies combine a daily identity, ABC effort levels, earlier scheduling, peer accountability, gradual increases, restarting after missed days and tracking trend rather than relative position. Bloom recommends changing only one major lifestyle habit at a time. His daily-action ideal is explicitly moderated by a low-effort C level and a ban on punitive catch-up.",
+  "insights": [
+    {
+      "slug": "abc-habits",
+      "title": "Vary amount while preserving a minimum",
+      "explanation": "A, B and C represent best, baseline and difficult-day versions of the same habit.",
+      "quote": "fire in the act grace in the amount",
+      "tags": [
+        "habits",
+        "consistency"
+      ],
+      "character_start": 1432,
+      "character_end": 1467,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "progressive-habit-change",
+      "title": "Increase demands gradually",
+      "explanation": "He recommends incremental changes and one major lifestyle change at a time rather than wholesale reinvention overnight.",
+      "quote": "only focus on a one lifestyle change at a time",
+      "tags": [
+        "habits",
+        "progression"
+      ],
+      "character_start": 6078,
+      "character_end": 6124,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "no-punitive-catchup",
+      "title": "Restart normally after a missed day",
+      "explanation": "Extra compensating work can create burnout or injury; restart the usual routine instead.",
+      "quote": "don't try to make up for a miss",
+      "tags": [
+        "recovery",
+        "consistency"
+      ],
+      "character_start": 7316,
+      "character_end": 7347,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trend-over-position",
+      "title": "Judge direction rather than comparison",
+      "explanation": "The suggested comparison is the trajectory of progress instead of one’s current rank against others.",
+      "quote": "focus on the trend not the position",
+      "tags": [
+        "progress",
+        "comparison"
+      ],
+      "character_start": 7571,
+      "character_end": 7606,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "47630f5e-0a56-487a-96d6-2715e063f2be",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "A habit-building model, not clinical or experimental proof. Claims about daily versus most days, morning willpower and the first ten days are broad guidance. Do not interpret daily exercise as required despite illness or treat missing a day as failure.",
+  "review_changes": "Preserves the full ABC method, one-change-at-a-time limit and restart rule that qualify the provocative title.",
+  "deep_review_date": "2026-11-16T20:50:23.342254+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/25ngHHTohRA.json",
+  "previous_draft_sha256": "df55bb4f655258c634490dbbc2779681fc6eaff6556b987ab821689f2fe44436"
+}

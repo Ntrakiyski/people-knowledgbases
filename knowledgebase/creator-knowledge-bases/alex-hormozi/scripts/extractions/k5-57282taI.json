@@ -1,0 +1,81 @@
+{
+  "youtube_id": "k5-57282taI",
+  "thesis": "Hormozi models trust through vulnerability, reliability, incentives, and whether disclosed information is later used to harm.",
+  "summary": "Hormozi proposes a behavioral account of trust based on who is exposed to harm and whether harm comes from another person or consequences of failed action or advice. He recommends looking at a person's record and incentives before disclosing something material. The relational benefit is greater shared context, which can enable better help. Trustworthiness then requires both a safe immediate response and not weaponizing the disclosure later. He separately emphasizes keeping commitments and giving reliable advice. The model is his conceptual framework, illustrated with hypothetical family examples and a planned company disclosure, not a validated psychology taxonomy.",
+  "insights": [
+    {
+      "slug": "trust-and-vulnerability",
+      "title": "Trust exposes something valued to possible harm",
+      "explanation": "The model treats disclosure, delegated responsibility, and following advice as different ways of becoming vulnerable. It should not be mistaken for an exhaustive definition of human trust.",
+      "quote": "if I trust someone it means that I make myself punishable by them",
+      "tags": [
+        "communication",
+        "leadership"
+      ],
+      "character_start": 1100,
+      "character_end": 1165,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "trust-record-and-incentives",
+      "title": "Evaluate both behavior and incentives",
+      "explanation": "The proposed filter asks whether the person previously protected confidences and whether betrayal is attractive to them. Good incentives alone are not supplied as sufficient proof.",
+      "quote": "do they have a track record of protecting what they've been given",
+      "tags": [
+        "risk",
+        "communication"
+      ],
+      "character_start": 3781,
+      "character_end": 3846,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "context-enables-help",
+      "title": "More context can improve the help a relationship permits",
+      "explanation": "The benefit of disclosure is not vulnerability for its own sake. The speaker argues that knowing more about another person can make assistance more relevant.",
+      "quote": "there's a limit to how much I can help someone if I don't know anything about them",
+      "tags": [
+        "communication",
+        "leadership"
+      ],
+      "character_start": 4535,
+      "character_end": 4617,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "confidentiality-over-time",
+      "title": "Do not weaponize a confidence later",
+      "explanation": "A warm initial response is only part of trustworthiness. The framework also excludes later use in arguments or sharing it with someone else who causes harm.",
+      "quote": "the second thing is that it doesn't get used in the future against them",
+      "tags": [
+        "communication",
+        "family"
+      ],
+      "character_start": 6805,
+      "character_end": 6876,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reliability-trust",
+      "title": "Distinguish safe confidences from reliable action and advice",
+      "explanation": "Keeping a promise and giving useful advice build a different kind of confidence from not exploiting secrets. The transcript distinguishes these mechanisms rather than treating trust as one undifferentiated trait.",
+      "quote": "If you say \"I'm going to pick up the kid,\" and then you do the likelihood that they'll trust you pick up the kid in the future goes up",
+      "tags": [
+        "leadership",
+        "communication"
+      ],
+      "character_start": 8946,
+      "character_end": 9080,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "244ea574-71fd-4054-bcee-eb82f9138fef",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The four-type model and the claim that one betrayal can end trust are the speaker's generalizations. His wife/mother example is explicitly made up. The company presentation is planned for the next day, not a completed trust-building outcome. Strategic vulnerability does not establish that all disclosure is prudent.",
+  "review_changes": "Adds the two-axis model, confidentiality versus competence distinction, delayed misuse risk, and hypothetical/planned status of the examples.",
+  "deep_review_date": "2026-11-16T19:24:21.686531+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/k5-57282taI.json",
+  "previous_draft_sha256": "e8cde75c176d02e0a49a6a25472a600255f27c2361bfa90097ec0286c0f589ff"
+}

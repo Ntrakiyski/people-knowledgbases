@@ -1,0 +1,193 @@
+{
+  "slug": "i-m-46-if-you-want-to-get-rich-with-investing-watch-this-tT_Gp5e8vbo",
+  "thesis": "Srivatsaa broadens investing into intentional allocation of money, skill, time, relationships, and reputation toward a chosen life.",
+  "summary": "Srivatsaa defines investing as intentionally allocating resources toward a specific goal and identifies five forms of capital: money, skill, time, relationships, and brand. To establish agency, he describes imagining current, alternative, and unconstrained life paths, then choosing deliberately rather than remaining on autopilot. For money he discusses compounding and the rule of 72; some spoken examples misstate the arithmetic, including associating 7% with a seven year doubling period. For skill he stresses practice repetitions, using Kobe Bryant as an anecdotal illustration.\n\nTime is treated as finite capital made visible through life calendars and task timers. For relationships he proposes investing deeply in ten people over ten years, combined with full attention to whoever is present. His claim that seven relationships produced 95% of his net worth is autobiographical. Finally, brand means the associations others form from behavior, including reliability or lateness, rather than only an online audience. He recommends choosing three to five desired associations and demonstrating them through actions, tangible work, and proof rather than promises. The argument connects resource choices across everyday life rather than prescribing a particular security or portfolio.",
+  "tags": [
+    "resource-allocation",
+    "personal-development",
+    "investing",
+    "relationships",
+    "reputation"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:36",
+      "note": "Defines investing as intentional resource allocation."
+    },
+    {
+      "ts": "0:01:51",
+      "note": "Introduces three possible life paths."
+    },
+    {
+      "ts": "0:06:09",
+      "note": "Explains the rule of 72 and doubling time."
+    },
+    {
+      "ts": "0:08:11",
+      "note": "Connects practice repetitions to skill improvement."
+    },
+    {
+      "ts": "0:11:14",
+      "note": "Recommends timers for a practical relationship with time."
+    },
+    {
+      "ts": "0:14:46",
+      "note": "Introduces the ten ten forever relationship rule."
+    },
+    {
+      "ts": "0:19:55",
+      "note": "Explains proof over promise in reputation building."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "intentional-resource-allocation",
+      "name": "Intentional Resource Allocation",
+      "one_liner": "Investing means deliberately deploying available resources toward a chosen outcome.",
+      "explanation": "Srivatsaa expands investing beyond securities to five stores of value: money, skill, time, relationships, and brand. He argues people already allocate these resources through habits even without a conscious plan. An exercise imagining a current path, an alternate profession, and an unconstrained life is used to demonstrate personal agency. The video asks viewers to choose the next allocation deliberately, making goals and tradeoffs explicit instead of treating investment as only a financial transaction.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:00:36",
+          "text": "Investing is the intentional allocation of resources to hit a specific goal."
+        }
+      ],
+      "related": [
+        "compound-growth",
+        "time-management",
+        "relationship-investing"
+      ]
+    },
+    {
+      "slug": "compound-growth",
+      "name": "Compound Growth",
+      "one_liner": "Returns reinvested over time can increase an invested balance and shorten the path to a goal.",
+      "explanation": "For monetary capital, Srivatsaa assigns each dollar the job of earning more money rather than remaining idle. He introduces the rule of 72 as a rough way to estimate doubling time by dividing seventy two by an annual percentage return. The transcript’s later 7% and seven year example conflicts with that rule, so it should not be repeated as correct arithmetic. His core instruction is to evaluate how money compounds toward the intended goal.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:09",
+          "text": "rule in finance called the rule of 72."
+        }
+      ],
+      "related": [
+        "intentional-resource-allocation",
+        "long-term-investing"
+      ]
+    },
+    {
+      "slug": "deliberate-practice",
+      "name": "Deliberate Practice",
+      "one_liner": "Repeated focused practice invests in the skill that creates future value.",
+      "explanation": "Srivatsaa treats existing ability as capital that improves when practiced rather than merely possessed. He recounts Kobe Bryant adding an early session to a two practice day, producing many additional repetitions over a year. The story is his illustration rather than a verified training record. The lesson for doctors, designers, creators, and salespeople is to allocate time to repetitions of the actual capability that earns results, extending the investment idea to skill development.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:40",
+          "text": "the way you invest in a skill is to practice it."
+        }
+      ],
+      "related": [
+        "skill-development",
+        "time-management"
+      ]
+    },
+    {
+      "slug": "time-management",
+      "name": "Time Management",
+      "one_liner": "Make finite time visible and assign bounded attention to deliberately selected activities.",
+      "explanation": "The time section uses a life in weeks chart and an estimated death clock to make remaining time emotionally concrete. Srivatsaa then gives an operational step: set a timer before working, such as twenty minutes for email or an hour for a memo. Measuring tasks improves calibration about how long work takes. His daily credits analogy emphasizes that unused or poorly allocated minutes cannot be recovered, encouraging careful refusals as well as purposeful commitments.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:30",
+          "text": "put a 20-minut timer on your email and then work on your email."
+        }
+      ],
+      "related": [
+        "intentional-resource-allocation",
+        "relationship-investing"
+      ]
+    },
+    {
+      "slug": "relationship-investing",
+      "name": "Relationship Investing",
+      "one_liner": "Sustained support and present attention build a limited number of durable relationships.",
+      "explanation": "Srivatsaa’s ten ten forever rule asks which ten people deserve wholehearted support over the next ten years. He illustrates investing with introductions, purchasing their products, celebrating milestones, and supporting family. He says the list began with one person and grew gradually. A second rule, being where one’s feet are, means giving full attention in the current interaction. The framework also limits energy spent on hostile online strangers who are outside the chosen relationship priorities.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:14:46",
+          "text": "What 10 relationships can I invest in wholeheartedly for the next 10 years"
+        }
+      ],
+      "related": [
+        "intentional-resource-allocation",
+        "time-management"
+      ]
+    },
+    {
+      "slug": "personal-brand",
+      "name": "Personal Brand",
+      "one_liner": "A reputation consists of the associations others form from repeated behavior.",
+      "explanation": "Srivatsaa emphasizes that everyone has a brand with family, colleagues, and friends, even without public content. Reliability, humor, lateness, or dropped commitments become accumulated associations. He recommends selecting three to five qualities one wants others to associate with oneself and identifying their observable behaviors. Showing up on time, finishing work, or treating people carefully then becomes an investment in reputation. The video treats personal brand as daily conduct rather than merely online visibility.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:18:25",
+          "text": "Brand is association."
+        }
+      ],
+      "related": [
+        "proof-over-promise",
+        "brand-trust"
+      ]
+    },
+    {
+      "slug": "proof-over-promise",
+      "name": "Proof Over Promise",
+      "one_liner": "Concrete evidence of capability and follow-through earns credibility more effectively than unsupported assurances.",
+      "explanation": "To explain how to invest in brand, Srivatsaa contrasts saying a grill works with showing it cook and demonstrating its features. He also describes asking his son for a written plan, reviewing it, and seeing revisions as evidence of thinking. Professionals can teach or show outcomes that establish their competence. The common action is making intended qualities visible through artifacts and behavior so other people need less faith in a verbal promise.",
+      "tags": [
+        "resource-allocation",
+        "personal-development",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:19:55",
+          "text": "What is more important is proof over promise."
+        }
+      ],
+      "related": [
+        "personal-brand",
+        "brand-trust"
+      ]
+    }
+  ],
+  "entities": []
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "if-you-only-watch-one-money-video-make-it-this-OWorFLIbRoo",
+  "thesis": "Sharran organizes money decisions around timely action, patient ownership, financing structure, asymmetric upside, bet sizing, and informed diversification.",
+  "summary": "Sharran’s seven laws are grouped under momentum, structure, and asymmetry. He distinguishes acting quickly on an opportunity from expecting quick results, argues that buyers and builders can capture long-term ownership value, and describes leverage as a multiplier. He then separates cash flow that pays current bills from equity that may create future wealth. The acquisition valuations, business outcomes, tax claims, and portfolio arithmetic are the speaker’s examples rather than verified financial facts.\n\nThe later laws concern survival. A venture-style payoff illustration shows how winners can offset losses, but he warns against putting an entire lifetime’s savings into one attractive deal. He argues for reducing risk while maintaining return and uses understanding and control as the dimensions for concentration versus diversification. His final checklist asks whether an asset can compound, who controls it, what happens on failure, whether upside exceeds downside, and whether the investor understands the risks.",
+  "tags": [
+    "investing",
+    "ownership",
+    "risk-management"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:47",
+      "note": "Speed of action versus time held."
+    },
+    {
+      "ts": "0:03:16",
+      "note": "Buying and building as ownership strategy."
+    },
+    {
+      "ts": "0:06:27",
+      "note": "Leverage multiplies outcomes."
+    },
+    {
+      "ts": "0:09:59",
+      "note": "Cash flow and equity have different jobs."
+    },
+    {
+      "ts": "0:11:49",
+      "note": "Nonlinear risk and reward."
+    },
+    {
+      "ts": "0:13:13",
+      "note": "Position sizing and survival."
+    },
+    {
+      "ts": "0:15:47",
+      "note": "Diversification, understanding, and control."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "compound-growth",
+      "name": "Compound growth",
+      "one_liner": "Allowing a sound ownership decision to accumulate value over an extended period.",
+      "explanation": "Sharran separates speed from time: speed means shortening the interval between recognizing an opportunity and acting, while time means continuing to hold a good decision. His property comparison contrasts frequent flipping with growing a rental portfolio, and Buffett supplies another patient-ownership example. The key distinction is that fast action does not imply fast results. Historical performance numbers are his illustrations, while the principle links decision speed with the patience needed afterward.",
+      "tags": [
+        "investing",
+        "ownership",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:23",
+          "text": "Fast action is not equal to fast results."
+        }
+      ],
+      "related": [
+        "ownership-over-salary",
+        "position-sizing"
+      ]
+    },
+    {
+      "slug": "financial-leverage",
+      "name": "Financial leverage",
+      "one_liner": "Using borrowed capital or collateral to magnify exposure relative to the investor’s own equity.",
+      "explanation": "Sharran compares an all-cash house purchase with a financed one to show how the same appreciation can create a larger percentage change on invested equity. He extends the idea to private equity, commercial property, and borrowing against securities. He acknowledges that leverage magnifies what already exists and urges education about collateral and risk. His examples simplify financing costs and legal terms, so their arithmetic illustrates exposure rather than establishing guaranteed investment returns.",
+      "tags": [
+        "investing",
+        "ownership",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:27",
+          "text": "Leverage multiplies everything."
+        }
+      ],
+      "related": [
+        "asset-backed-borrowing",
+        "risk-management",
+        "capital-stack"
+      ]
+    },
+    {
+      "slug": "cash-flow-and-equity",
+      "name": "Cash flow and equity",
+      "one_liner": "Cash flow supports current spending while equity ownership provides participation in future value.",
+      "explanation": "The video gives cash flow and ownership different jobs. Current income pays housing, transport, vacations, and bills, whereas equity represents a claim on a business’s longer-term value. Sharran says viewers can own their own enterprise or shares in someone else’s if entrepreneurship is unsuitable. His McDonald’s discussion illustrates distinct operating, royalty, and property sources, with numerical values attributed to him. The prescription is to convert some present cash into enduring ownership.",
+      "tags": [
+        "investing",
+        "ownership",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:59",
+          "text": "cash flow keeps you alive and equity makes"
+        }
+      ],
+      "related": [
+        "income-to-assets",
+        "cash-flow-investing"
+      ]
+    },
+    {
+      "slug": "asymmetric-risk-reward",
+      "name": "Asymmetric risk and reward",
+      "one_liner": "Seeking potential upside substantially larger than a deliberately limited downside.",
+      "explanation": "Sharran illustrates asymmetry with several venture investments where a few large winners compensate for losses. His numerical narration should be treated as an illustrative claim rather than precise portfolio accounting. He immediately warns that asymmetry does not justify going all in. The objective is to protect the opportunity-producing base while taking selected bets with bounded loss, asking what happens on failure and whether the upside is meaningful compared with the downside.",
+      "tags": [
+        "investing",
+        "ownership",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:00",
+          "text": "maximize the upside, which is the reward, and to cap the risk, which is the downside."
+        }
+      ],
+      "related": [
+        "position-sizing",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "position-sizing",
+      "name": "Position sizing",
+      "one_liner": "Limiting each investment so a single loss cannot destroy the investor’s financial base.",
+      "explanation": "Sharran recounts a friend losing roughly fifteen years of savings in one oil-and-gas investment. He identifies the central error as the size of the bet rather than merely the attractiveness of the deal or the promoter’s friendship. His empire metaphor prioritizes surviving to pursue future opportunities. He links sizing with seeking lower risk for similar return, making protection of the core portfolio a condition for taking ambitious upside bets.",
+      "tags": [
+        "investing",
+        "ownership",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:14:02",
+          "text": "It's about sizing the bet."
+        }
+      ],
+      "related": [
+        "asymmetric-risk-reward",
+        "risk-management",
+        "asset-allocation"
+      ]
+    },
+    {
+      "slug": "risk-and-control",
+      "name": "Risk and control",
+      "one_liner": "A framework linking concentration decisions to how well an investor understands and influences an asset.",
+      "explanation": "Sharran uses two dimensions: understanding risk and having control. He says informed operators may concentrate in their own business, informed minority investors can hold outside companies, and owners lacking operating knowledge may need a capable operator. When neither understanding nor control exists, he recommends diversifying. This is his investing framework rather than an endorsement of concentrated portfolios; it must be read alongside his warning not to risk the entire financial base on one deal.",
+      "tags": [
+        "investing",
+        "ownership",
+        "risk-management"
+      ],
+      "quotes": [
+        {
+          "ts": "0:16:06",
+          "text": "When you understand risk and you have control, it tells you whether you can concentrate or diversify."
+        }
+      ],
+      "related": [
+        "position-sizing",
+        "asset-allocation",
+        "risk-management"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "acquisition-com",
+      "name": "Acquisition.com",
+      "subtype": "organization",
+      "one_liner": "Business-building platform Sharran uses to illustrate a buy-and-build strategy.",
+      "explanation": "Sharran describes the firm as using its brand to attract businesses and support advisory, education, venture, private-equity, and real-estate activities, with a stated intention to keep building rather than sell.",
+      "resource": "https://www.acquisition.com/",
+      "quotes": [
+        {
+          "ts": "0:05:27",
+          "text": "We are a business that builds businesses."
+        }
+      ]
+    }
+  ]
+}

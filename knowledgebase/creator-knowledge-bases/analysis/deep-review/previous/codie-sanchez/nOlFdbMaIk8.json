@@ -1,0 +1,37 @@
+{
+  "youtube_id": "nOlFdbMaIk8",
+  "thesis": "The selected micro-decision framework draws attention to recurring choices made automatically.",
+  "summary": "The source frames small repeated choices as consequential and gives scheduling, meal preparation, and financial reviews as examples. Claims about the number of daily decisions and guaranteed financial compounding are not established. The selected review records a habit-design perspective rather than a prediction of millions in wealth.",
+  "insights": [
+    {
+      "slug": "micro-decision-awareness",
+      "title": "Notice repeated choices that are easy to overlook",
+      "explanation": "The creator distinguishes apparently automatic behavior from deliberate major decisions. Its effects depend on the activity and context.",
+      "quote": "Most people don't even register these as decisions",
+      "character_start": 2354,
+      "character_end": 2404,
+      "tags": [
+        "habits",
+        "attention"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "recurring-review-routines",
+      "title": "Use a repeatable schedule for important maintenance",
+      "explanation": "The examples include financial reviews and focused-work blocks. The passage's surrounding caption contains an inconsistent positive/negative label, so no complete classification is inferred.",
+      "quote": "scheduling deep work blocks prepping meals once a week reviewing bank accounts on Sunday",
+      "character_start": 11309,
+      "character_end": 11397,
+      "tags": [
+        "habits",
+        "planning"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "63b460cc-ad0c-4841-83d7-cab1919a424c",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

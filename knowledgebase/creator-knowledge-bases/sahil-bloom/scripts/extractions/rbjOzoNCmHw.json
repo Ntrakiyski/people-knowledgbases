@@ -1,0 +1,79 @@
+{
+  "youtube_id": "rbjOzoNCmHw",
+  "thesis": "The seven habits combine evidence-based self-belief in the ordinary sense, commitment, clear weekly outcomes, energy audits, and action.",
+  "summary": "Bloom recommends building confidence by keeping small promises, reinterpreting some discomfort, reducing imagined scrutiny, committing long enough to develop depth, making space for reflection, protecting energy, and acting without waiting for validation. Concrete mechanisms include thirty minutes of daily practice, a weekly card with three to five desired outcomes, and a monthly energy review of recent calendar entries. The content strongly opposes novelty chasing, but also recommends regular reflection on direction. Brain-rewiring language, exceptional-outcome multipliers, and claims that nearly everyone quits are unsupported. The prescriptions should not be read as proof that all discomfort is beneficial or that changing paths erases all learning.",
+  "insights": [
+    {
+      "slug": "confidence-receipts",
+      "title": "Build confidence with observable follow-through",
+      "explanation": "The source treats self-belief as a consequence of keeping promises rather than merely repeating affirmations. The thirty-day protocol is a suggested experiment, not a guarantee.",
+      "quote": "you build it by keeping promises to yourself by creating evidence through consistent action",
+      "tags": [
+        "learning",
+        "productivity"
+      ],
+      "character_start": 1044,
+      "character_end": 1135,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "depth-versus-novelty",
+      "title": "Commit long enough to develop depth",
+      "explanation": "The critique targets constant restarting before useful repetition. The claim that every restart returns progress to zero is overstated and should not erase transferable learning.",
+      "quote": "mastery doesn't come from dabbling it comes from depth and depth only happens when you commit",
+      "tags": [
+        "learning"
+      ],
+      "character_start": 5179,
+      "character_end": 5272,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "weekly-win-card",
+      "title": "Define a few outcomes before the week becomes reactive",
+      "explanation": "The card is meant to provide a visible reminder of intended progress during interruptions. It tracks desired outcomes, not simply all tasks completed.",
+      "quote": "just three to five outcomes i write them on a simple card my weekly win card",
+      "tags": [
+        "productivity"
+      ],
+      "character_start": 7068,
+      "character_end": 7144,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "reflection-with-commitment",
+      "title": "Keep a direction check alongside persistence",
+      "explanation": "The recommendation to ask what a win looks like qualifies an otherwise absolute commitment message. The video does not provide a threshold for changing course.",
+      "quote": "if you don't pause to ask where you're going you might waste your whole life going nowhere",
+      "tags": [
+        "life-design",
+        "strategy"
+      ],
+      "character_start": 7623,
+      "character_end": 7713,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "energy-calendar-audit",
+      "title": "Use recent activities to identify drains and sources of energy",
+      "explanation": "The monthly exercise reviews lived experience rather than assigning a permanent identity to an entire job. Adjusting or tweaking draining activities is included alongside cutting.",
+      "quote": "adjust cut or tweak the red reduce the yellow prioritize the green",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 8456,
+      "character_end": 8522,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "8d6c205e-d0e5-4ed4-8f4a-5020c19c3d19",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Self-belief from one's own action receipts is not scientific validation of a broader efficacy claim. Discomfort can indicate harm, not growth. Commitment without hedging is rhetoric, not a general financial or career-risk rule. The instruction to act without permission does not override actual obligations or another person's consent.",
+  "review_changes": "Adds the weekly win card and monthly energy audit, and retains the tension between one-path commitment and periodic reassessment.",
+  "deep_review_date": "2026-11-16T19:30:37.979321+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/rbjOzoNCmHw.json",
+  "previous_draft_sha256": "96f4da25c2ac93edd9a0dc187ae5f63117dc0a068abafb1e2e22166215efafe1"
+}

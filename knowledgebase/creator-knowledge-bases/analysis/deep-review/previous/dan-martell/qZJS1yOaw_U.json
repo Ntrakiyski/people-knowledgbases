@@ -1,0 +1,50 @@
+{
+  "youtube_id": "qZJS1yOaw_U",
+  "thesis": "Selected business lessons emphasize demand evidence and developing people rather than permanent founder dependence.",
+  "summary": "The creator favors preselling, training others, and investing in personal capability. The source also makes broad claims about wealth and self-investment that are not established here. This selected review records the operating ideas without treating mindset as sufficient for financial success.",
+  "insights": [
+    {
+      "slug": "presale-demand-evidence",
+      "title": "Test willingness to pay before extensive construction",
+      "explanation": "The source identifies building something unwanted as a major risk. A presale still creates delivery obligations and is not complete validation.",
+      "quote": "the biggest risk to your life is building something that nobody wants",
+      "character_start": 6982,
+      "character_end": 7051,
+      "tags": [
+        "validation",
+        "sales"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "people-development",
+      "title": "Build capability in the team rather than remaining essential",
+      "explanation": "The creator emphasizes coaching and training. Delegation quality and role fit still affect the outcome.",
+      "quote": "build the people the people build the business",
+      "character_start": 7814,
+      "character_end": 7860,
+      "tags": [
+        "leadership",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "self-investment",
+      "title": "Consider capability development as an investment category",
+      "explanation": "The creator favors investing in oneself. That preference does not justify abandoning diversification or assuming every course has a return.",
+      "quote": "the first place you should be investing your money is in yourself",
+      "character_start": 3782,
+      "character_end": 3847,
+      "tags": [
+        "learning",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "03ac5870-0ebd-47f7-92a0-456ef09e1b87",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

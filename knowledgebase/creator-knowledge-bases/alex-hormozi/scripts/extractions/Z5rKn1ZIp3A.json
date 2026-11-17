@@ -1,0 +1,42 @@
+{
+  "youtube_id": "Z5rKn1ZIp3A",
+  "thesis": "This is a competition trailer describing a proposed coaching format, not evidence that the contestants scaled.",
+  "summary": "Hormozi introduces a competition featuring eight business owners, coaching sessions, a ninety-day scaling period, and a prize that includes further guidance. Brief snippets show owners explaining businesses and an advisor challenging hourly selling and price competition. The trailer announces the format and stakes; it does not provide complete diagnoses, implemented changes, or contestant outcomes. Portfolio revenue and the origin story are promotional self-reports. The substantive analytical role of this source is context for the longer competition episodes.",
+  "insights": [
+    {
+      "slug": "competition-format",
+      "title": "Separate the announced experiment from its eventual results",
+      "explanation": "The trailer describes coaching followed by a period in which contestants try to scale. The statement establishes intended format, not achieved growth.",
+      "quote": "I'll give them a road map to scale their business as much as they can in 90 days",
+      "tags": [
+        "strategy",
+        "learning"
+      ],
+      "character_start": 936,
+      "character_end": 1016,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "teaser-evidence",
+      "title": "Outcomes remain explicitly unresolved in the trailer",
+      "explanation": "The promotional contrast between scaling and failing confirms that success is not established by appearing in the program.",
+      "quote": "some will scale this is awesome some will fail only one will win the grand prize",
+      "tags": [
+        "risk",
+        "learning"
+      ],
+      "character_start": 1454,
+      "character_end": 1534,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "75c6e73c-5dd5-4c45-b44d-d7bb3d3ee1d1",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Do not code the teaser's promised roadmap as a delivered result. Aggregate portfolio revenue is neither personal earnings nor profit. Editing removes the surrounding conditions of coaching snippets.",
+  "review_changes": "Corrects the temptation to extract a complete business framework or successful scaling result from a trailer.",
+  "deep_review_date": "2026-11-16T19:24:21.683722+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/Z5rKn1ZIp3A.json",
+  "previous_draft_sha256": "4ee75444c83e730695563a67d088fa19fb73bb6dd2854378f5f24209ef6a81d6"
+}

@@ -1,0 +1,33 @@
+---
+type: "concept"
+title: "Borrowed language"
+description: "Capturing effective expressions, translating them into one’s own words, and saving them for reuse."
+tags: ["communication", "leadership", "storytelling"]
+videos: ["how-to-speak-like-the-top-0-01-copy-this-Vx_sSMAJjNg"]
+created: "2026-11-16"
+updated: "2026-11-16"
+---
+
+# Borrowed language
+
+> translating someone else's clarity into your own vocabulary.
+
+[How to Speak Like the Top 0.01% (Copy This)](../sources/how-to-speak-like-the-top-0-01-copy-this-Vx_sSMAJjNg.md), 0:14:15.
+
+Borrowed language is Sharran’s practice of collecting clear ways to express ideas, then adapting them into a personal vocabulary. It addresses a familiar communication failure: understanding what one means while being unable to find the words when a useful conversation arrives.
+
+He traces the habit to listening to Tony Robbins recordings while working as a janitor. His initial aim was to change how clearly others understood his speech. Paying attention to delivery also revealed that effective explanations could be studied rather than treated as a mysterious quality possessed by charismatic people.
+
+The process has three parts. Capture an expression immediately when it makes something unusually clear. Rephrase the underlying concept in one’s own words and style. Save the result in a simple notes app or document so it remains available. The capture step prevents a good insight from disappearing; rewriting makes it usable in the speaker’s own voice.
+
+He distinguishes this from maintaining a collection of quotations. The result should be an internal dictionary of explanations that matter to the person’s work and conversations. An admired phrase is a starting point for understanding and translation, rather than a line to repeat without adaptation.
+
+In the wider communication framework, this habit supplies better language for structures such as why-what-how-now or diagnostic explanations. Its contribution is incremental: attentive listening, recording, and rehearsal enlarge the set of clear expressions available under pressure. Sharran presents speaking as a capability that can be practiced, with borrowed language one concrete way to improve it over time.
+
+## Related
+
+- [Skill Development](skill-development.md): Acquire and combine useful capabilities through focused learning, practice, and real application.
+
+## Sources
+
+- [How to Speak Like the Top 0.01% (Copy This)](../sources/how-to-speak-like-the-top-0-01-copy-this-Vx_sSMAJjNg.md) - "[0:14:15] translating someone else's clarity into your own vocabulary."

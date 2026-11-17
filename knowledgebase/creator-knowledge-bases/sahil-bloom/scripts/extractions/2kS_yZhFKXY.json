@@ -1,0 +1,68 @@
+{
+  "youtube_id": "2kS_yZhFKXY",
+  "thesis": "Use repeatable meals and flexible principles to support a personal training goal.",
+  "summary": "Bloom walks through a high-protein day, home cooking, lifting and running. Five habits are protein, daily movement, concentrating carbs near workouts, a ninety/ten flexibility rule and a protein-rich sweet dessert. Convenience, repetitive meals and pre-cooked ingredients reduce preparation time. He tracks macros approximately and ends by acknowledging a carb-counting error.",
+  "insights": [
+    {
+      "slug": "diet-convenience",
+      "title": "Reduce preparation friction",
+      "explanation": "Single-pan meals and purchased cooked chicken support his wish to keep nutrition from consuming his day.",
+      "quote": "I prioritize ease over just about everything",
+      "tags": [
+        "nutrition",
+        "systems"
+      ],
+      "character_start": 522,
+      "character_end": 566,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "protein-centered-meals",
+      "title": "Organize his meals around protein",
+      "explanation": "Protein is the recurring anchor of his personal meal plan; numerical targets are his guidance, not independently established here.",
+      "quote": "protein is at the center of every single plate",
+      "tags": [
+        "nutrition",
+        "training"
+      ],
+      "character_start": 2321,
+      "character_end": 2367,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ninety-ten-flexibility",
+      "title": "Reserve room for enjoyment",
+      "explanation": "He combines a usually consistent pattern with deliberate flexibility rather than demanding perfect adherence.",
+      "quote": "10% of the time we're going to give ourselves the flexibility",
+      "tags": [
+        "habits",
+        "flexibility"
+      ],
+      "character_start": 9200,
+      "character_end": 9261,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "approximate-tracking",
+      "title": "Macro tracking remains fallible",
+      "explanation": "He admits forgetting yogurt carbohydrates, illustrating that his tracked day was not exact.",
+      "quote": "I forgot that Greek yogurt has carbs in it",
+      "tags": [
+        "nutrition",
+        "measurement"
+      ],
+      "character_start": 13734,
+      "character_end": 13776,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a08ac701-95c3-42b9-8a31-3dbdf0ad2ae8",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Personal diet and reported body-fat change do not establish effectiveness or suitability for others. Protein targets, fat-loss mechanisms, timing, heat exposure and digestion claims are unverified. His high training load and available resources matter. The spoken ground-beef fat/protein ratio appears reversed; do not normalize it into nutrition advice.",
+  "review_changes": "Adds implementation convenience, explicit flexibility and tracking imperfection; keeps training-specific intake and heat practices separate from general recommendations.",
+  "deep_review_date": "2026-11-16T20:48:57.270596+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/2kS_yZhFKXY.json",
+  "previous_draft_sha256": "45f40237c1519e1c240593e02bc2ed70b9e05d60fad51c224bacbd6ef9187007"
+}

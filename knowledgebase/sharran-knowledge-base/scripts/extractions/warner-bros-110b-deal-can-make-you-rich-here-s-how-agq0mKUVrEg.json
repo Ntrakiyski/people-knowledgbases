@@ -1,0 +1,242 @@
+{
+  "slug": "warner-bros-110b-deal-can-make-you-rich-here-s-how-agq0mKUVrEg",
+  "thesis": "Sharran uses a Warner–Paramount bidding narrative to teach iterative offers, certainty, financing structure, and treating rejection as information.",
+  "summary": "Sharran analyzes a purported Paramount acquisition of Warner Bros. through his Deal DNA framework, contrasting it with Netflix’s competing proposal. In his account, Paramount won by improving more than the headline price: an all-cash structure, financing assurances, delay compensation, covering a breakup fee, and accepting the whole business removed obstacles for the seller. He maps debt, equity, and guarantees and contrasts the seller’s reduced closing uncertainty with the buyer’s heavy execution burden. Transaction details, dates, guarantees, and financial figures are his account, including inconsistent breakup-fee descriptions within the transcript.\n\nHe names the negotiating pattern the Ellison squeeze: make an opening offer, use rejection as data, approach shareholders directly, remove legal obstacles, establish certainty, and generate enough pressure for a board reversal. He extends the pattern to job seeking through adjusted timing and a trial project. The transferable lesson is to learn what prevents agreement and change the offer accordingly, while his claims about getting almost anything or outperforming 99% are promotional. He closes by separating a completed ownership transaction from the unresolved question of whether the resulting business will produce better stories.",
+  "tags": [
+    "deal-analysis",
+    "negotiation",
+    "acquisitions",
+    "certainty",
+    "iteration"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:04:57",
+      "note": "Separates price from the other deal terms."
+    },
+    {
+      "ts": "0:05:12",
+      "note": "Explains cash certainty and financing proof."
+    },
+    {
+      "ts": "0:06:42",
+      "note": "Discusses covering a breakup fee."
+    },
+    {
+      "ts": "0:07:51",
+      "note": "Maps the capital stack."
+    },
+    {
+      "ts": "0:09:22",
+      "note": "Examines debt service and execution risk."
+    },
+    {
+      "ts": "0:11:08",
+      "note": "Introduces the Ellison squeeze."
+    },
+    {
+      "ts": "0:14:28",
+      "note": "Treats rejection as data for iteration."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "deal-structure",
+      "name": "Deal structure",
+      "one_liner": "Change the terms that prevent agreement rather than competing on price alone.",
+      "explanation": "Sharran’s Warner–Paramount narrative highlights six layers: price, all-cash certainty, proof of financing, delay compensation, a covered breakup fee, and taking the whole business. He argues that these solve different seller concerns. Specific amounts and historical claims are his account, and the transcript is inconsistent about the breakup fee. The general lesson is to identify the actual barrier to a yes and allocate it explicitly rather than assuming a higher price repairs every issue.",
+      "tags": [
+        "deals",
+        "terms",
+        "negotiation"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:57",
+          "text": "the terms are the hidden layers of the deal"
+        }
+      ],
+      "related": [
+        "offer-certainty",
+        "capital-stack"
+      ]
+    },
+    {
+      "slug": "offer-certainty",
+      "name": "Offer certainty",
+      "one_liner": "Reduce the other party’s doubts about payment, timing, and execution.",
+      "explanation": "Sharran argues that an attractive offer must also be believable. In his case study, cash consideration, financing evidence, a personal guarantee, and compensation for delays each address a different uncertainty. He extends this to job seeking by suggesting a trial project that demonstrates ability before a larger commitment. His narrative sometimes calls the guarantees bulletproof, but that is his characterization; the transferable practice is to make the sources of uncertainty visible and provide relevant evidence or contractual protection.",
+      "tags": [
+        "offers",
+        "risk",
+        "proof"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:12",
+          "text": "they needed to put together an all-cash offer"
+        }
+      ],
+      "related": [
+        "proof-stack",
+        "deal-structure"
+      ]
+    },
+    {
+      "slug": "capital-stack",
+      "name": "Capital stack",
+      "one_liner": "Identify the debt, equity, and other commitments that finance a transaction.",
+      "explanation": "Sharran maps new borrowing, existing obligations, equity issuance, and a personal guarantee in his account of Paramount’s bid. He emphasizes that owners committing their own capital helps make a lender’s participation possible. The exact classifications and amounts are his assertions rather than a verified financing statement. The concept separates who supplies purchase money from who carries existing liabilities and who ultimately absorbs operating and repayment risk after the transaction.",
+      "tags": [
+        "capital",
+        "debt",
+        "equity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:51",
+          "text": "The capital stack is just a money map for ownership and operations"
+        }
+      ],
+      "related": [
+        "deal-structure",
+        "skin-in-the-game",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "risk-management",
+      "name": "Risk management",
+      "one_liner": "A transaction can shift risk between parties rather than remove it.",
+      "explanation": "Sharran contrasts the seller’s cash price and closing assurances with the buyer’s combined debt, interest burden, declining cable exposure, and need to integrate and grow the business. The specific numbers are claims in the video, but the distinction is clear: winning a bid is different from making the acquisition economically successful. His ending reinforces that a change in ownership does not settle future product quality. Risk analysis must continue beyond the moment an agreement is signed.",
+      "tags": [
+        "risk",
+        "acquisitions",
+        "debt"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:16",
+          "text": "Paramount got an insane amount of execution risk."
+        }
+      ],
+      "related": [
+        "capital-stack",
+        "offer-certainty"
+      ]
+    },
+    {
+      "slug": "ellison-squeeze",
+      "name": "Ellison squeeze",
+      "one_liner": "An iterative negotiation pattern combines pressure, obstacle removal, and increasing certainty.",
+      "explanation": "Sharran names six stages: opening offer, iterative squeeze, board bypass, legal-wall removal, certainty weapon, and internal collapse. He presents the sequence as a repeated acquisition playbook and then adapts it to a job search. The useful underlying behavior is adjusting terms based on objections and demonstrating commitment. The hostile-tender and board-pressure components are specific to his acquisition story and should not be treated as universally appropriate interpersonal tactics or as guaranteed routes to agreement.",
+      "tags": [
+        "negotiation",
+        "offers",
+        "iteration"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:08",
+          "text": "It is called the Ellison squeeze"
+        }
+      ],
+      "related": [
+        "rejection-as-data",
+        "offer-certainty"
+      ]
+    },
+    {
+      "slug": "rejection-as-data",
+      "name": "Rejection as data",
+      "one_liner": "Use objections to learn what must change in an offer.",
+      "explanation": "Sharran interprets repeated rejected bids as information about price, financing credibility, legal barriers, and what the seller actually wants. His job-search example adjusts a start date or offers a trial project instead of repeating the same request unchanged. The lesson is to revise the proposal to reduce a concrete concern. His claim that someone may be seven refusals from success is motivational; the concept does not imply that every rejection should be overridden or that persistence guarantees acceptance.",
+      "tags": [
+        "iteration",
+        "negotiation",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:14:28",
+          "text": "each time they got rejected, they used it as data"
+        }
+      ],
+      "related": [
+        "ellison-squeeze",
+        "persistence"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "paramount",
+      "name": "Paramount",
+      "subtype": "organization",
+      "one_liner": "The bidder in Sharran’s Warner acquisition and offer-design case.",
+      "explanation": "Sharran portrays Paramount as repeatedly adjusting its proposal until the combination of terms, financing assurances, and whole-business scope persuaded the seller. He also emphasizes the buyer’s debt and execution risk. The acquisition status, financial details, and timeline are claims in the transcript, not independently verified transaction reporting.",
+      "quotes": [
+        {
+          "ts": "0:03:51",
+          "text": "Paramount won because they built an offer Warner Brothers could not refuse."
+        }
+      ],
+      "resource": "https://www.paramount.com/"
+    },
+    {
+      "slug": "warner-bros-discovery",
+      "name": "Warner Bros. Discovery",
+      "subtype": "organization",
+      "one_liner": "The seller in Sharran’s competing-offers analysis.",
+      "explanation": "Sharran describes Warner as facing debt and declining cable economics, then compares how two offers distribute uncertainty and unwanted assets. The company is the setting for lessons about certainty, liabilities, and negotiation. Specific financial losses and transaction facts remain attributed to his narration.",
+      "quotes": [
+        {
+          "ts": "0:01:44",
+          "text": "Warner Brothers announced a review of strategic alternatives"
+        }
+      ],
+      "resource": "https://www.wbd.com/"
+    },
+    {
+      "slug": "netflix",
+      "name": "Netflix",
+      "subtype": "organization",
+      "one_liner": "The competing bidder used to contrast acquisition terms and asset scope.",
+      "explanation": "Sharran describes Netflix as seeking selected studio, streaming, and intellectual-property assets while leaving cable assets outside its proposal. The contrast supports his argument that the whole package and breakup obligations can matter alongside headline price. This is his account of the competition.",
+      "quotes": [
+        {
+          "ts": "0:07:17",
+          "text": "Netflix only wanted the good parts."
+        }
+      ],
+      "resource": "https://www.netflix.com/"
+    },
+    {
+      "slug": "larry-ellison",
+      "name": "Larry Ellison",
+      "subtype": "person",
+      "one_liner": "The financier linked to the personal guarantee and named negotiation playbook.",
+      "explanation": "Sharran credits Larry Ellison with the earlier PeopleSoft playbook and describes his guarantee as a source of financing certainty for Paramount’s bid. Guarantee amounts, legal characterizations, and historical parallels are the speaker’s claims. The substantive role is illustrating how credible backing changes an offer.",
+      "quotes": [
+        {
+          "ts": "0:05:48",
+          "text": "Larry Ellison, the founder of Oracle"
+        }
+      ],
+      "resource": "https://www.oracle.com/corporate/executives/ellison/"
+    },
+    {
+      "slug": "david-ellison",
+      "name": "David Ellison",
+      "subtype": "person",
+      "one_liner": "The Paramount figure in Sharran’s acquisition-financing account.",
+      "explanation": "Sharran describes David Ellison contributing equity and obtaining family backing as part of the bid. His role illustrates the relationship between owner commitment, lender confidence, and control. Ownership labels and financing details should be preserved as the video’s account rather than independently established facts.",
+      "quotes": [
+        {
+          "ts": "0:08:41",
+          "text": "David Ellison and RedBird Capital were the buyers."
+        }
+      ]
+    }
+  ]
+}

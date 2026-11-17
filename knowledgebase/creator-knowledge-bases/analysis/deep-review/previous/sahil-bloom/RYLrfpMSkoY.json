@@ -1,0 +1,50 @@
+{
+  "youtube_id": "RYLrfpMSkoY",
+  "thesis": "Selected lessons favor energy, action with feedback, and a personally chosen comparison set.",
+  "summary": "The reviewed passages question searching for an abstract passion, urge acting on advice and adjusting, and describe comparing against one's previous self rather than peers. Strong claims about luck and winners are rhetoric rather than demonstrated causal findings. This note captures a subset of the larger lesson list.",
+  "insights": [
+    {
+      "slug": "energy-led-exploration",
+      "title": "Notice energy rather than waiting for a single passion",
+      "explanation": "The creator presents sustained energy as a useful personal signal. It does not by itself establish commercial demand or career fit.",
+      "quote": "Don't follow your passion Follow your energy and follow it consistently",
+      "character_start": 2031,
+      "character_end": 2102,
+      "tags": [
+        "life-design",
+        "self-assessment"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "action-feedback",
+      "title": "Combine advice with action and adjustment",
+      "explanation": "The source favors trying and revising over accumulating theory indefinitely.",
+      "quote": "Take some advice act on it adjust accordingly",
+      "character_start": 3495,
+      "character_end": 3540,
+      "tags": [
+        "learning",
+        "agency"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "self-comparison",
+      "title": "Choose a comparison set that supports useful progress",
+      "explanation": "The creator reports less distress after comparing with his own past. This remains a personal account rather than evidence for all people.",
+      "quote": "Now I compete with who I was last year",
+      "character_start": 5211,
+      "character_end": 5249,
+      "tags": [
+        "mindset",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "13e078bb-76af-4d0c-ba91-6f3f83322fca",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

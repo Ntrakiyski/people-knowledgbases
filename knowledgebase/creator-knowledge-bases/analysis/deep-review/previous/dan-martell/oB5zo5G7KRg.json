@@ -1,0 +1,50 @@
+{
+  "youtube_id": "oB5zo5G7KRg",
+  "thesis": "Selected buyback advice begins with a time audit and contextual questions before reallocating work.",
+  "summary": "The reviewed passages propose comparing a calendar with quarterly goals and asking an AI assistant to clarify context before recommending changes. The purpose is to redirect time toward work that matters. Claimed hours saved are not verified, and calendar access or automation does not itself justify changing commitments or sending messages.",
+  "insights": [
+    {
+      "slug": "time-audit",
+      "title": "Inspect existing work before deciding what to remove",
+      "explanation": "The source makes the audit the first step of its buyback loop.",
+      "quote": "the first step is to audit your time",
+      "character_start": 2296,
+      "character_end": 2332,
+      "tags": [
+        "time-management",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "goal-context-audit",
+      "title": "Evaluate the calendar against a stated objective",
+      "explanation": "The suggested prompt includes quarterly goals rather than judging every meeting without context.",
+      "quote": "audit the last two weeks of my calendar based on my quarterly goals",
+      "character_start": 3780,
+      "character_end": 3847,
+      "tags": [
+        "planning",
+        "ai"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "clarify-before-advice",
+      "title": "Ask for missing context before making recommendations",
+      "explanation": "The creator explicitly suggests better questions as a precursor to the audit.",
+      "quote": "ask me better questions first to get a better context",
+      "character_start": 3984,
+      "character_end": 4037,
+      "tags": [
+        "ai",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "9769091a-53c3-4bfc-855e-3fee875c70e7",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,3 @@
+TIP appears both as an example of accessing inflation-protected Treasury exposure through a fund and as a component of Sharran’s four-fund income portfolio. He describes owning it and connects it to protecting purchasing power.
+
+The videos simplify the relationship between the underlying securities and the fund. They do not comprehensively explain market pricing, real interest rates, taxes, or the effect of selling before a particular horizon. An account of CPI-linked securities therefore does not establish that the ETF’s sale price or total return is protected. The fund’s role here is the speaker’s implementation example, with those limits preserved.

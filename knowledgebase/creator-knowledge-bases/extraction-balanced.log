@@ -1,0 +1,50 @@
+Extracting 2 videos: WttZ6b-KUP4-j2TZMFkj71Q
+Extracting 8 videos: mRlSb0O5QNU-OHu1FY1R-x0-ZTSI3DDP_4A-138y93ywE_g-B-ogfFiQpXg-fj5uxdv_j5Y-aRVv5NLVRwE-8VqSFBMMS4M
+  Saved alex-hormozi/WttZ6b-KUP4: 4 exact quotations.
+  Saved alex-hormozi/j2TZMFkj71Q: 4 exact quotations.
+Extracting 10 videos: 1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s
+  Saved alex-hormozi/mRlSb0O5QNU: 4 exact quotations.
+  Saved alex-hormozi/OHu1FY1R-x0: 4 exact quotations.
+  Saved alex-hormozi/ZTSI3DDP_4A: 4 exact quotations.
+  Batch failed: ValueError. Checkpoint retained; continuing with other sources.
+Extracting 10 videos: 4XQ50qWSRO4-yveLqk3DCNs-DZNhrv5sv_0-ZvAwqGH_79Q-1CLeSVVDqFg-NOxLzAh-gUc-ksRcFGLPoSk-nSlZZ7TxNM8-PVb0YJVZp2c-PbBdBpBsP_s
+  Saved codie-sanchez/4XQ50qWSRO4: 4 exact quotations.
+  Saved codie-sanchez/yveLqk3DCNs: 4 exact quotations.
+  Saved codie-sanchez/DZNhrv5sv_0: 4 exact quotations.
+  Batch failed: ValueError. Checkpoint retained; continuing with other sources.
+Extracting 10 videos: gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE
+  Saved codie-sanchez/1hk_VMEeoPQ: 4 exact quotations.
+  Saved codie-sanchez/v2jRsAFnqXY: 4 exact quotations.
+  Saved codie-sanchez/_IwYLXAXzx8: 4 exact quotations.
+  Saved codie-sanchez/cCOhT7oWIew: 4 exact quotations.
+  Saved codie-sanchez/kMV3vvZPk6Q: 4 exact quotations.
+  Saved codie-sanchez/NViWUwkXizo: 4 exact quotations.
+  Saved codie-sanchez/mnhhwBiFshA: 4 exact quotations.
+  Saved codie-sanchez/8wbjlHuLGA8: 4 exact quotations.
+  Saved codie-sanchez/MkP37sMi4KY: 4 exact quotations.
+  Saved codie-sanchez/oRpjoHJcX4s: 4 exact quotations.
+Extracting 1 videos: LDPE3wa9f2k
+  Saved codie-sanchez/LDPE3wa9f2k: 4 exact quotations.
+Extracting 10 videos: TSr_qLZ-8YY-nsFKkeQg-V0-SJywU4UQryQ-9Cf416w4JJI-Hgd1rxrIYGM-8R4rmc9NYpA-wtaRjOFqdyU-aPSbZbOzB4s-4_urJ17Rx8s-_rBsOP658YA
+  Saved dan-martell/gfSVNJZgbOo: 4 exact quotations.
+  Saved dan-martell/DlQyXhjH2jE: 4 exact quotations.
+  Saved dan-martell/1BApLicRt1w: 4 exact quotations.
+  Saved dan-martell/1MMqPTiWfSc: 4 exact quotations.
+  Batch failed: ValueError. Checkpoint retained; continuing with other sources.
+Extracting 10 videos: msHqw2aRIjQ-3QAV1Avmg9Y-UApJWuKFtH4-O0wGm4Lrk94-apdZbtQjSCI-uflyGsDqoYk-9H3vF7qCs88-fExJijbgWF0-D2Oek_YVIFA-GamOfEftPUA
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.
+Extracting 10 videos: qsmjQGw0uiU-kkGr2Er7cEQ-Cl7EgF-XIPc-f45B1hWi2s4-EvMEBzrDQVA-Fj8HsHqyMA0-gP3QmGssISw-55QLv6XIwrs-AHb_AFtC-Yk-2kS_yZhFKXY
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.
+  Saved dan-martell/TSr_qLZ-8YY: 4 exact quotations.
+  Saved dan-martell/nsFKkeQg-V0: 4 exact quotations.
+  Batch failed: ValueError. Checkpoint retained; continuing with other sources.
+Extracting 2 videos: W3qOS2h_MBM-Gqoez9-Ij8w
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.
+Extracting 10 videos: vlCxkzhFmFk--69Z1BpZ5cM-1yQqd7B4g4Q-SzSLhO1D4xY-H1GTRcbuSGg-AqvklznvMLw-elvH4as1Qzs-mKUlWUQqn9I-08AHhPFf7TU-El0u9vl0dy8
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.
+Extracting 2 videos: ObVoq3pHBAo-FtBNIKC74rw
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.
+Extracting 10 videos: WpXndHBtvCQ-y1fK-0oDG7I-w4UCIfBlJF8-qRa1Dp8JfH0-2PRg-wvn2uY-qONyYfpI-5Y-lAg2-wWR5wU-aA3OUCVSo8Y-jrN-f2wEcOw-B2IPxfoHwp8
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.
+Extracting 1 videos: RYLrfpMSkoY
+  Batch failed: RuntimeError. Checkpoint retained; continuing with other sources.

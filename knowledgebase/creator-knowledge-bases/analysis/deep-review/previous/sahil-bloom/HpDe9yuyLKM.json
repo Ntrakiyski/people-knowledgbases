@@ -1,0 +1,50 @@
+{
+  "youtube_id": "HpDe9yuyLKM",
+  "thesis": "The selected habits combine personally chosen desires, imperfect consistency, and independence from applause.",
+  "summary": "Reviewed passages question copied aspirations, define consistency as managing imperfection, and warn that useful work may receive little recognition. These are personal-development principles; the video's larger promises about escaping mediocrity are not demonstrated by the selected evidence.",
+  "insights": [
+    {
+      "slug": "borrowed-desires",
+      "title": "Check whose desires are guiding the decision",
+      "explanation": "The creator warns that copying others' wants can displace one's own priorities.",
+      "quote": "when you copy someone else's desires you lose touch with your own",
+      "character_start": 851,
+      "character_end": 916,
+      "tags": [
+        "life-design",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "imperfect-consistency",
+      "title": "Treat consistency as managing imperfection",
+      "explanation": "The source favors repeated achievable action over flawless execution.",
+      "quote": "being consistent is about managing your imperfection",
+      "character_start": 1873,
+      "character_end": 1925,
+      "tags": [
+        "habits",
+        "agency"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "external-validation",
+      "title": "Keep work standards separate from expected applause",
+      "explanation": "The creator argues that useful work can go unnoticed. This is a warning about expectations, not a reason to ignore feedback.",
+      "quote": "much of your best work will go unnoticed especially early on",
+      "character_start": 3346,
+      "character_end": 3406,
+      "tags": [
+        "mindset",
+        "work"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "458d8352-11b4-43f1-8608-7be6ad19b2c0",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

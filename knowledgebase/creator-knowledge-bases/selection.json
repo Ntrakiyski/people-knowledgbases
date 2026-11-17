@@ -1,0 +1,8 @@
+{
+  "strategy": "newest-first",
+  "videos_per_creator": 40,
+  "total_selected": 200,
+  "archive_total": 2394,
+  "user_confirmed": true,
+  "scope": "Newest 40 public Videos-tab uploads per creator; Shorts and Streams excluded."
+}

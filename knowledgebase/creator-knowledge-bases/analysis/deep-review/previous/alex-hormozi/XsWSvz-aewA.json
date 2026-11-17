@@ -1,0 +1,50 @@
+{
+  "youtube_id": "XsWSvz-aewA",
+  "thesis": "The selected AI-content argument emphasizes observable proof within ordinary service delivery.",
+  "summary": "The creator argues that higher-stakes business content may require more credible operating proof than easily replicated statements. He proposes building documentation into existing customer work and demonstrating expertise publicly. This is a strategic hypothesis about AI and trust, not an established prediction that particular content categories are protected from automation.",
+  "insights": [
+    {
+      "slug": "proof-in-delivery",
+      "title": "Build evidence capture into the work already being done",
+      "explanation": "The proposed process starts with how customers are served rather than adding unsupported claims to content.",
+      "quote": "within your existing business motion which is how do you service customers",
+      "character_start": 10488,
+      "character_end": 10562,
+      "tags": [
+        "creator-strategy",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "public-demonstration",
+      "title": "Show the work behind expertise claims",
+      "explanation": "The source favors documenting demonstrated service quality. A demonstration still needs to be representative and honestly presented.",
+      "quote": "we demonstrate our expertise and the quality of our products and services",
+      "character_start": 13022,
+      "character_end": 13095,
+      "tags": [
+        "trust",
+        "marketing"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "risk-sensitive-proof",
+      "title": "Relate the required proof to the stakes of the advice",
+      "explanation": "The creator distinguishes higher-risk business claims from lower-stakes content. The proposed AI advantage remains uncertain.",
+      "quote": "the proof required for B2B and higher risk types of content",
+      "character_start": 8383,
+      "character_end": 8442,
+      "tags": [
+        "ai",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2531a60e-68a2-4c3f-aca8-a26895252c95",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

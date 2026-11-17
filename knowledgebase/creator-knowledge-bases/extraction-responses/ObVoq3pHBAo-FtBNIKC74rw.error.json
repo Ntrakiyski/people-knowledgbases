@@ -1,0 +1,15 @@
+{
+  "videos": [
+    {
+      "youtube_id": "ObVoq3pHBAo",
+      "title": "The Hidden Cost of Building an Empire",
+      "source_id": "e89478b2-7fcb-44e0-ae44-2439799dc8d0"
+    },
+    {
+      "youtube_id": "FtBNIKC74rw",
+      "title": "You Can't Fake This Online",
+      "source_id": "f254547a-e651-4e88-a15a-9aaa700af0c4"
+    }
+  ],
+  "error": "NotebookLM extraction command failed (exit 1)"
+}

@@ -1,0 +1,37 @@
+{
+  "youtube_id": "C-xsAtAWsDs",
+  "thesis": "The selected crisis account exposes customer responsibility, staffing failures, and severe personal distress.",
+  "summary": "The participant recounts a seasonal storage operation, an abandoned truck containing customer belongings, constant calls, and a panic attack. These are his reported experiences. The story is evidence of the burdens described, not a prescription to push through acute distress or proof that suffering causes business success.",
+  "insights": [
+    {
+      "slug": "delivery-responsibility",
+      "title": "Include customer custody and continuity in operational risk",
+      "explanation": "The abandoned truck story illustrates obligations that remain even when staff leave unexpectedly.",
+      "quote": "left a truck full of 30 students items sitting on the side of the road",
+      "character_start": 1932,
+      "character_end": 2002,
+      "tags": [
+        "operations",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ownership-emotional-cost",
+      "title": "Preserve distress in the success narrative",
+      "explanation": "The speaker reports contacting his mother and partner during a panic attack. This qualifies a purely glamorous portrayal of ownership.",
+      "quote": "I had a panic attack like I called my mom crying",
+      "character_start": 2599,
+      "character_end": 2647,
+      "tags": [
+        "entrepreneurship",
+        "health"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6716e696-f517-4174-92c9-3d37abb73500",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

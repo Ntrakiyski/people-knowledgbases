@@ -1,0 +1,65 @@
+{
+  "youtube_id": "8wbjlHuLGA8",
+  "thesis": "Codie Sanchez outlines a four-step sales methodology, demonstrating how developing confident mindsets, uncovering customer problem gaps, providing specific proof, and targeting ideal avatars drives revenue.",
+  "summary": "Mastering sales operations requires shifting from needy, wallet-constrained thinking to confident problem-solving. Sellers must avoid underpricing their offerings or projecting personal financial limitations onto prospective buyers, recognizing that solutions derive value from the magnitude of problems solved. Effective sales conversations involve asking structured questions that guide prospects to articulate their own gap between current challenges and desired outcomes. Presenting concrete, named proof alongside anti-selling filters builds undeniable credibility. Ultimately, revenue expansion relies on discovering pre-disposed, ideal client avatars facing urgent operational needs.",
+  "insights": [
+    {
+      "slug": "conviction-in-value",
+      "title": "Selling requires absolute conviction in product value",
+      "explanation": "Codie Sanchez contends that sales representatives must fully believe in their product's efficacy and pricing. Lacking conviction causes sellers to project personal financial doubts onto prospective clients.",
+      "quote": "if you do not believe in what you sell quit get out of the company",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "leadership"
+      ],
+      "character_start": 1043,
+      "character_end": 1109
+    },
+    {
+      "slug": "wallet-independence",
+      "title": "Avoid pricing offerings based on personal budget limitations",
+      "explanation": "Codie Sanchez warns against evaluating service prices against one's personal bank account. Pricing should reflect the commercial value of the problem being solved for the customer.",
+      "quote": "do not sell based on what is in your wallet you are not rich enough",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "cash-flow"
+      ],
+      "character_start": 1323,
+      "character_end": 1390
+    },
+    {
+      "slug": "self-generated-gap",
+      "title": "Guiding buyers to articulate their own problem gap increases persuasion",
+      "explanation": "Codie Sanchez notes that prospective buyers are more persuaded by arguments they generate themselves. Asking structured questions leads clients to recognize their own operational needs.",
+      "quote": "you don't actually tell the buyer that their gap is there you get them to tell you",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "communication",
+        "marketing"
+      ],
+      "character_start": 8040,
+      "character_end": 8122
+    },
+    {
+      "slug": "avatar-predisposition",
+      "title": "Targeting predisposed buyers outperforms trying to convince uninterested prospects",
+      "explanation": "Codie Sanchez asserts that successful sales strategies focus on identifying customer profiles already experiencing urgent problems. Matching solutions to predisposed buyers eliminates the friction of forced persuasion.",
+      "quote": "you don't sell anyone anything you find the people already predisposed to want the thing that you are selling",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "marketing",
+        "operations"
+      ],
+      "character_start": 20861,
+      "character_end": 20970
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "4e714ea2-2e03-46e5-afc4-a62038c97077",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

@@ -1,0 +1,180 @@
+---
+type: "overview"
+title: "Concepts"
+---
+
+# Concepts
+
+- [Record what was stopped as well as added](abandonment.md): 1 cited treatment(s).
+- [Curate recent high-quality learning resources to accelerate domain mastery](accelerated-topic-curation.md): 1 cited treatment(s).
+- [Make the commitment visible](accountability-stakes.md): 1 cited treatment(s).
+- [Separate speed of execution from speed of results](action-and-patience.md): 1 cited treatment(s).
+- [Imperfect execution beats unexecuted planning](action-over-perfection.md): 1 cited treatment(s).
+- [Active study and rapid application accelerate skill mastery](active-learning.md): 1 cited treatment(s).
+- [Prioritize active wealth creation over passive capital preservation](active-wealth-creation.md): 1 cited treatment(s).
+- [Configure detailed soul, identity, and user files for each agent](agent-identity-configuration.md): 1 cited treatment(s).
+- [Open agents also require maintenance and security expertise](agent-operating-costs.md): 1 cited treatment(s).
+- [Monitor and reset longer agent runs](agent-oversight.md): 1 cited treatment(s).
+- [Review and reshape outputs rather than accepting a first draft](ai-output-review.md): 1 cited treatment(s).
+- [Instruct intelligence tools to challenge conservative personal goals](ambitious-goal-setting.md): 1 cited treatment(s).
+- [Reinvest surplus earnings into income-generating financial assets](asset-reinvestment-discipline.md): 1 cited treatment(s).
+- [Separate user context, behavior, and role](assistant-context-files.md): 1 cited treatment(s).
+- [He endorses Goddard’s assumed-future identity](assumed-identity.md): 1 cited treatment(s).
+- [Turn diagnosis into an explicit change plan](audit-to-action.md): 1 cited treatment(s).
+- [Perform personalized outreach directly without delegating to automated tools](authentic-personal-outreach.md): 1 cited treatment(s).
+- [Sharing personal struggles builds authentic connection and trust](authentic-vulnerability.md): 1 cited treatment(s).
+- [Construct automated monitoring dashboards for real-time portfolio tracking](automated-portfolio-monitoring.md): 1 cited treatment(s).
+- [Choose work where automation effort can pay back](automation-economics.md): 2 cited treatment(s).
+- [Assign a person to maintain each workflow](automation-owner.md): 1 cited treatment(s).
+- [Check the cost of building the automation](automation-payback.md): 1 cited treatment(s).
+- [Distinguish autonomous workflow execution from basic conversational interfaces](autonomous-agent-distinction.md): 1 cited treatment(s).
+- [Identify which stage limits actual growth](binding-constraint.md): 1 cited treatment(s).
+- [Inter-agent communication automates multi-step workflows](bot-coordination.md): 1 cited treatment(s).
+- [Systemic growth depends on resolving primary workflow constraints](bottleneck-identification.md): 1 cited treatment(s).
+- [Define what the name should evoke](brand-association.md): 1 cited treatment(s).
+- [Audit energy and replacement cost together](buyback-audit.md): 1 cited treatment(s).
+- [Estimate a conservative delegation threshold](buyback-rate.md): 1 cited treatment(s).
+- [Financing growth depends on recovery speed](cac-payback.md): 1 cited treatment(s).
+- [Compare calendar allocation with stated goals](calendar-goal-audit.md): 1 cited treatment(s).
+- [Pre-loading personal priorities into schedules protects key relationships](calendar-preloading.md): 1 cited treatment(s).
+- [Record action and reasoning before transfer](camcorder-handoff.md): 1 cited treatment(s).
+- [Document decisions while demonstrating the work](capture-task-reasoning.md): 1 cited treatment(s).
+- [Centralizing company context enables team self-service](centralized-knowledge.md): 1 cited treatment(s).
+- [Leaders must challenge teams to adopt innovative operational tools](chief-instigator.md): 1 cited treatment(s).
+- [Use an edge or a broad low-cost default](circle-of-competence.md): 1 cited treatment(s).
+- [Securing immediate commitments validates commercial agreement](closing-commitments.md): 1 cited treatment(s).
+- [Reducing simultaneous priorities restores operational focus](commitment-reduction.md): 1 cited treatment(s).
+- [Test both knowledge and explainability](competence-and-explanation.md): 1 cited treatment(s).
+- [Supply comprehensive background context to eliminate generic software responses](comprehensive-context-prompting.md): 1 cited treatment(s).
+- [Deliver value before investing in core technology](concierge-before-product.md): 1 cited treatment(s).
+- [A specialist tool may not fit every business](conditional-tool-fit.md): 1 cited treatment(s).
+- [Positioning sales as service builds trust and clarity](consultative-selling.md): 1 cited treatment(s).
+- [Compare the actual calendar with stated goals](context-aware-audit.md): 1 cited treatment(s).
+- [Isolating variables ensures accurate operational evaluation](controlled-testing.md): 1 cited treatment(s).
+- [Initiating projects demonstrates courage and breaks hesitation](courageous-initiation.md): 1 cited treatment(s).
+- [Creative direction may outlast manual editing tasks](creative-judgment.md): 1 cited treatment(s).
+- [Centralizing company memory prevents software platform lock-in](data-ownership.md): 1 cited treatment(s).
+- [Sharing organizational context empowers decentralized decision making](decision-delegation.md): 1 cited treatment(s).
+- [Automate routine daily decisions to conserve mental energy](decision-fatigue-elimination.md): 1 cited treatment(s).
+- [Automating administrative tasks protects executive focus](decision-leverage.md): 1 cited treatment(s).
+- [Record reasoning and alternatives alongside decisions](decision-provenance.md): 1 cited treatment(s).
+- [Define the desired result before AI execution](definition-of-done.md): 1 cited treatment(s).
+- [Granting structured spending authority prevents leadership bottlenecks](delegated-authority.md): 1 cited treatment(s).
+- [Adopting a delegative mindset maximizes software leverage](delegative-mindset.md): 1 cited treatment(s).
+- [Use resources to help while alive](die-empty.md): 1 cited treatment(s).
+- [Record what worked as implementation input](document-before-mvp.md): 1 cited treatment(s).
+- [Restrict investment activity to domains of deep personal expertise](domain-expertise-boundary.md): 1 cited treatment(s).
+- [Human editorial oversight preserves brand trust and authenticity](editorial-control.md): 1 cited treatment(s).
+- [Reduce the number of hard decisions needed](environment-before-willpower.md): 1 cited treatment(s).
+- [Convert financial capital into meaningful personal experiences](experience-capital-conversion.md): 1 cited treatment(s).
+- [Avoid an investment you cannot explain](explain-investments.md): 1 cited treatment(s).
+- [Track whether growth requires less founder intervention](founder-dependence.md): 1 cited treatment(s).
+- [Build capabilities that survive the founder's absence](founder-independent-value.md): 1 cited treatment(s).
+- [Share detailed educational content freely to generate qualified inbound leads](freemium-content-strategy.md): 1 cited treatment(s).
+- [Design physical spaces to make positive choices effortless](frictionless-environment-design.md): 1 cited treatment(s).
+- [Find the specific failing transition](funnel-stage-diagnosis.md): 1 cited treatment(s).
+- [Allocate tasks by comparative difficulty](game-matrix.md): 1 cited treatment(s).
+- [Giving forms part of his definition of wealth](giving-as-value.md): 1 cited treatment(s).
+- [Separate delivery economics from total profit](gross-margin-versus-profit.md): 1 cited treatment(s).
+- [Daily physical fitness directly supports business execution and energy](health-prioritization.md): 1 cited treatment(s).
+- [A failed automation attempt can still produce human training material](human-fallback-playbook.md): 1 cited treatment(s).
+- [Human judgment must direct strategic content inception](human-inception.md): 1 cited treatment(s).
+- [Automate repetitive tasks while retaining relationship work](human-moments.md): 1 cited treatment(s).
+- [Use judgment to choose among generated options](human-selection.md): 1 cited treatment(s).
+- [Extract specific observable industry frustrations using diagnostic prompts](industry-pain-extraction.md): 1 cited treatment(s).
+- [Connect with experienced individuals to inherit proven solutions](inheriting-proven-solutions.md): 1 cited treatment(s).
+- [Separate preparation from uncontrollable outcomes](input-control.md): 1 cited treatment(s).
+- [A contact list is not the same as interested demand](interest-not-scraped-list.md): 1 cited treatment(s).
+- [Prioritize just-in-time learning to solve immediate operational challenges](just-in-time-learning.md): 1 cited treatment(s).
+- [Apply learning to a current problem](just-in-time-study.md): 1 cited treatment(s).
+- [Continuous documentation builds an authentic knowledge foundation](knowledge-documentation.md): 1 cited treatment(s).
+- [Maintain the collection through explicit recurring operations](knowledge-maintenance.md): 1 cited treatment(s).
+- [Refine existing routines through strategic edits rather than complete overhaul](lifestyle-refinement-editing.md): 1 cited treatment(s).
+- [Validate buyer demand through rapid low-cost market testing](low-cost-market-testing.md): 1 cited treatment(s).
+- [Inspect the metrics behind an expectation](management-inspection.md): 1 cited treatment(s).
+- [Solve the customer problem before automating it](manual-validation.md): 1 cited treatment(s).
+- [Add topic maps when information becomes hard to navigate](maps-of-content.md): 1 cited treatment(s).
+- [Specify mission, task, constraints and output form](maps-prompting.md): 1 cited treatment(s).
+- [Market demand must validate personal passion](market-validation.md): 1 cited treatment(s).
+- [Sustain deliberate practice until flawless execution becomes instinctual](mastery-through-repetition.md): 1 cited treatment(s).
+- [Tie adoption to an operating outcome](measurable-ai-value.md): 1 cited treatment(s).
+- [Connecting goals to a service mission sustains long term drive](mission-alignment.md): 1 cited treatment(s).
+- [Choose future work using both economic contribution and energy](money-and-energy.md): 1 cited treatment(s).
+- [Turn a distant plan into a near action](most-important-next-step.md): 1 cited treatment(s).
+- [He finds no easy, protected, highly paid option](no-perfect-skill.md): 1 cited treatment(s).
+- [Grade weekly performance against strict non-negotiable standards](objective-weekly-audit.md): 1 cited treatment(s).
+- [Start with one relevant feature](one-feature-practice.md): 1 cited treatment(s).
+- [Master a route before adding all of them](one-monetization-path.md): 1 cited treatment(s).
+- [Evaluate earning potential alongside competition and duration](opportunity-three-criteria.md): 1 cited treatment(s).
+- [Give distinct agents distinct workflows](orchestrator-specialists.md): 1 cited treatment(s).
+- [Emphasize tangible business outcomes over service deliverables in sales](outcome-focused-messaging.md): 1 cited treatment(s).
+- [Price a solved problem rather than ownership of a tool](outcome-not-tool.md): 1 cited treatment(s).
+- [Consider pricing a defined result rather than hours](outcome-pricing.md): 1 cited treatment(s).
+- [Ask whether people will pay now](paid-validation.md): 1 cited treatment(s).
+- [Focus business development on urgent high-value market pain](painkiller-market-focus.md): 1 cited treatment(s).
+- [Partner with people already reaching the intended buyers](partner-distribution.md): 1 cited treatment(s).
+- [Review a plan before software generation](plan-before-code.md): 1 cited treatment(s).
+- [Store reusable context in inspectable files](portable-knowledge.md): 1 cited treatment(s).
+- [Keep ownership visible alongside endorsements](portfolio-interest-disclosure.md): 1 cited treatment(s).
+- [Build pre-launch waitlists to validate market demand before delivery](pre-launch-waitlist-validation.md): 1 cited treatment(s).
+- [Test whether someone will pay before building extensively](presale-validation.md): 1 cited treatment(s).
+- [Some work is valuable because a person shows up](presence-as-output.md): 1 cited treatment(s).
+- [Maintain proactive outreach habits to cultivate valuable peer relationships](proactive-relationship-building.md): 1 cited treatment(s).
+- [Uncovering underlying challenges stretches the value gap](problem-diagnosis.md): 1 cited treatment(s).
+- [Curate learning resources specifically tailored to current business struggles](problem-driven-curation.md): 1 cited treatment(s).
+- [Package custom services into standardized productized offers with clear guarantees](productized-service-packaging.md): 1 cited treatment(s).
+- [Continuous progress creates lasting personal fulfillment](progress-fulfillment.md): 1 cited treatment(s).
+- [Start with limited assistance when full handoff is unsuitable](progressive-automation.md): 1 cited treatment(s).
+- [Structured prompting frameworks improve automated execution accuracy](prompt-structuring.md): 1 cited treatment(s).
+- [Sharing personal lessons transforms past adversity into utility](purposeful-teaching.md): 1 cited treatment(s).
+- [Execute new insights rapidly to prevent knowledge decay](rapid-action-execution.md): 1 cited treatment(s).
+- [Delegation alone is not his wealth mechanism](refill-recovered-time.md): 1 cited treatment(s).
+- [The video's chosen destination for time savings is growth](reinvest-recovered-time.md): 1 cited treatment(s).
+- [Building strategic relationships provides essential operational support](relational-investment.md): 1 cited treatment(s).
+- [Close the loop after receiving advice](relationship-follow-through.md): 1 cited treatment(s).
+- [Select context rather than treating volume as quality](relevant-context.md): 1 cited treatment(s).
+- [Package recurring useful work](repeat-work-as-skills.md): 1 cited treatment(s).
+- [Focusing cross-functional resources onto bottlenecks accelerates resolution](resource-surging.md): 1 cited treatment(s).
+- [A missed day need not end the effort](restart-after-miss.md): 1 cited treatment(s).
+- [Investigate churn before buying more leads](retention-before-acquisition.md): 1 cited treatment(s).
+- [Separate context from workflow instructions](role-versus-workflow-context.md): 1 cited treatment(s).
+- [Conduct diagnostic interviews to uncover primary underlying obstacles](root-cause-diagnosis.md): 1 cited treatment(s).
+- [Monitor cash rather than only retrospective profit](runway-cash-awareness.md): 1 cited treatment(s).
+- [Schedule one concrete instance](scheduled-next-action.md): 1 cited treatment(s).
+- [Account for the computer running the task](scheduled-runtime.md): 1 cited treatment(s).
+- [Build something that could transfer beyond you](sellable-company.md): 1 cited treatment(s).
+- [Generate vivid visual depictions of long-term strategic goals](sensory-goal-visualization.md): 1 cited treatment(s).
+- [Reduce competing offerings before scaling complexity](simplicity-and-focus.md): 1 cited treatment(s).
+- [Mastering high value market skills unlocks early earning potential](skill-development.md): 1 cited treatment(s).
+- [Compare learnability, durability and commercial value](skill-evaluation-criteria.md): 1 cited treatment(s).
+- [Audit social connections to align relationships with long-term ambitions](social-environment-audit.md): 1 cited treatment(s).
+- [Derived notes should retain a route to original material](source-linked-context.md): 1 cited treatment(s).
+- [Restrict each agent to an individual specialist operational lane](specialist-operational-lane.md): 1 cited treatment(s).
+- [Dedicated software bots perform focused tasks more effectively](specialized-agents.md): 1 cited treatment(s).
+- [Assign narrow specialized task scopes to individual subagents](specialized-subagent-architecture.md): 1 cited treatment(s).
+- [Speak to a person with a problem you can help solve](specific-audience.md): 1 cited treatment(s).
+- [Operationalize the fix before moving on](stabilize-bottlenecks.md): 1 cited treatment(s).
+- [Stabilize a process before trying to automate it](stable-before-automated.md): 1 cited treatment(s).
+- [Establishing clear operational standards enables task delegation](standard-setting.md): 1 cited treatment(s).
+- [Extract distinct record types rather than one generic meeting summary](structured-meeting-extraction.md): 1 cited treatment(s).
+- [Break annual objectives into daily progress indicators and quarterly milestones](structured-milestone-breakdown.md): 1 cited treatment(s).
+- [A studio requires capabilities beyond building an app](studio-prerequisites.md): 1 cited treatment(s).
+- [Prescribing solutions specifically to identified pain points prevents confusion](tailored-prescription.md): 1 cited treatment(s).
+- [Match model effort to task requirements](task-model-fit.md): 1 cited treatment(s).
+- [Delegating repetitive administrative work restores strategic capacity](time-buyback.md): 1 cited treatment(s).
+- [Balance completing a workflow against exploring models](tool-exploration-tension.md): 1 cited treatment(s).
+- [Evaluate a tool against the relevant workflow](tool-roi-context.md): 1 cited treatment(s).
+- [Combining specialized tools outperforms relying on single software platforms](tool-stacking.md): 1 cited treatment(s).
+- [Avoid exhausting trust for immediate deals](trust-before-monetization.md): 1 cited treatment(s).
+- [Subject investment hypotheses to unbiased diagnostic red-teaming](unbiased-deal-redteaming.md): 1 cited treatment(s).
+- [Generate authentic goodwill by providing value without transactional tracking](unconditional-goodwill-creation.md): 1 cited treatment(s).
+- [Identify overlapping areas where personal edge solves acute market pain](unfair-advantage-overlap.md): 1 cited treatment(s).
+- [He advocates retraining while also consolidating roles](upskill-before-displacement.md): 1 cited treatment(s).
+- [A long vision can be provisional](vision-as-direction.md): 1 cited treatment(s).
+- [Maintain visual scorecards to build momentum through visible wins](visual-scorecard-momentum.md): 1 cited treatment(s).
+- [Explicit style guides prevent generic automated messaging](voice-guidelines.md): 1 cited treatment(s).
+- [Rising needs can absorb rising income](wealth-and-needs.md): 1 cited treatment(s).
+- [Preserve room between earnings and living costs](wealth-gap.md): 1 cited treatment(s).
+- [Weekly pillar scoring prevents silent life imbalances](weekly-evaluation.md): 1 cited treatment(s).
+- [Assign a human owner to the output](workflow-accountability.md): 1 cited treatment(s).
+- [Automate recurring operational tasks immediately when repeated](workflow-automation-rule.md): 1 cited treatment(s).

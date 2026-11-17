@@ -1,0 +1,37 @@
+{
+  "youtube_id": "8C_6qojTA78",
+  "thesis": "Selected e-commerce coaching distinguishes an owner's diagnosis from the advisor's view of core value.",
+  "summary": "One owner describes the restructuring thought necessary to make a business sellable. A later advisory passage questions whether logistics should consume attention when distribution and sales create the relevant advantage. This selected review does not cover all coaching cases or validate the owner's general claims about service-business multiples.",
+  "insights": [
+    {
+      "slug": "owner-dependence-diagnosis",
+      "title": "Track who is making a claim about saleability",
+      "explanation": "The restructuring and owner-dependence statement is part of an owner's question. It should not automatically become the advisor's conclusion.",
+      "quote": "reducing owner dependence and building systems",
+      "character_start": 22049,
+      "character_end": 22095,
+      "tags": [
+        "ownership",
+        "provenance"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "core-versus-logistics",
+      "title": "Evaluate outsourcing against where value is actually created",
+      "explanation": "The advisor proposes concentrating on distribution and sales rather than personally operating a warehouse. Suitability depends on service quality and full outsourcing economics.",
+      "quote": "the value is in the distribution and the sales",
+      "character_start": 33860,
+      "character_end": 33906,
+      "tags": [
+        "operations",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2dc47c71-7a95-48d4-808d-dce56ffb51ff",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,69 @@
+{
+  "youtube_id": "b6aLGChngnE",
+  "thesis": "Utilizing artificial intelligence for investment management involves discovering non-obvious market opportunities, subjecting deal hypotheses to rigorous stress testing, and monitoring asset performance through live dashboards.",
+  "summary": "A speaker outlines an advanced strategy for deploying software tools to optimize investment capital. Investors deploy analytical prompts to uncover indirect market beneficiaries and adjacent supply chain opportunities missed by conventional research. Subjecting investment theses to rigorous red-teaming identifies potential failure points and economic risks before committing capital. Creating automated monitoring dashboards provides real-time tracking across asset classes, enabling timely portfolio adjustments. Combining deep domain expertise with automated analysis maximizes capital allocation efficiency.",
+  "insights": [
+    {
+      "slug": "active-wealth-creation",
+      "title": "Prioritize active wealth creation over passive capital preservation",
+      "explanation": "The speaker encourages allocating resources toward new opportunities instead of treating protection of existing capital as the only goal. This expresses a capital-allocation preference. It does not demonstrate that active strategies universally outperform conservative ones, and the same discussion emphasizes expertise and risk scrutiny.",
+      "quote": "wealth preservation sucks wealth creation is super fun preserving wealth is like building a wall around your money",
+      "speaker": "Dan",
+      "tags": [
+        "investing",
+        "cash-flow",
+        "ownership"
+      ],
+      "character_start": 505,
+      "character_end": 619,
+      "original_extracted_explanation": "A speaker asserts that active wealth creation yields superior long-term returns compared to conservative capital hoarding. Deploying capital strategically into growth opportunities puts resources to work generating expanded wealth.",
+      "interpretation_review": "Removed categorical outcome claims; retained attributed recommendation and evidence limits."
+    },
+    {
+      "slug": "unbiased-deal-redteaming",
+      "title": "Subject investment hypotheses to unbiased diagnostic red-teaming",
+      "explanation": "A speaker demonstrates using software tools to red-team investment proposals without personal bias. Prompting software to identify worst-case scenarios exposes hidden risks and helps investors avoid costly capital losses.",
+      "quote": "i want AI to have no ego no agenda and just tell me everything about my thesis that might be wrong",
+      "speaker": "Dan",
+      "tags": [
+        "investing",
+        "risk",
+        "ai"
+      ],
+      "character_start": 4108,
+      "character_end": 4206
+    },
+    {
+      "slug": "automated-portfolio-monitoring",
+      "title": "Construct automated monitoring dashboards for real-time portfolio tracking",
+      "explanation": "A speaker recommends building automated tracking dashboards to monitor valuations, market signals, and asset health. Real-time visibility ensures investors manage assets actively and address emerging risks promptly.",
+      "quote": "build me a live dashboard that tracks paste the list for each one of them show me how healthy it is",
+      "speaker": "Dan",
+      "tags": [
+        "investing",
+        "operations",
+        "ai"
+      ],
+      "character_start": 7752,
+      "character_end": 7851
+    },
+    {
+      "slug": "domain-expertise-boundary",
+      "title": "Restrict investment activity to domains of deep personal expertise",
+      "explanation": "A speaker cautions against investing in industries lacking genuine domain knowledge and information advantages. Confining capital allocation to familiar sectors prevents costly missteps and protects long-term returns.",
+      "quote": "the biggest risk isn't losing money it's wasting it on things you don't understand",
+      "speaker": "Dan",
+      "tags": [
+        "investing",
+        "risk",
+        "learning"
+      ],
+      "character_start": 9721,
+      "character_end": 9803
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a1a369f2-01a2-4dc8-a770-220b5abc2014",
+  "extraction_response": "extraction-responses/gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE.json"
+}

@@ -1,0 +1,68 @@
+{
+  "youtube_id": "6poBPhfB-WY",
+  "thesis": "Achieving true self-education requires transitioning from passive media consumption to just-in-time learning paired with immediate practical execution and active teaching.",
+  "summary": "A speaker presents a structured framework for mastering complex subjects using artificial intelligence tools. Passive content consumption creates an illusion of progress without producing tangible skills, making just-in-time learning essential for real-world application. Learners should extract core principles by studying manageable daily selections, rewriting insights in their own words, and taking immediate practical action within tight timeframes. Explaining concepts to peers or diagnostic software verifies comprehension. Sustained dedication over extended periods transforms basic learning into deep domain mastery.",
+  "insights": [
+    {
+      "slug": "just-in-time-learning",
+      "title": "Prioritize just-in-time learning to solve immediate operational challenges",
+      "explanation": "A speaker contrasts passive information gathering with just-in-time learning targeted at current business challenges. Acquiring skills directly applicable to active projects maximizes focus, recall, and immediate practical results.",
+      "quote": "we either learn just in case meaning in case something happens or we learn just in time which is the thing we need today",
+      "speaker": "Dan",
+      "tags": [
+        "learning",
+        "productivity"
+      ],
+      "character_start": 1940,
+      "character_end": 2060
+    },
+    {
+      "slug": "rapid-action-execution",
+      "title": "Execute new insights rapidly to prevent knowledge decay",
+      "explanation": "A speaker emphasizes that newly acquired information decays rapidly unless implemented promptly. Translating concepts into scheduled calendar actions within short windows converts theoretical ideas into permanent operational habits.",
+      "quote": "if you learn something and you didn't act on it within 48 hours then you're doing shelf help because everything you learn has a shelf life",
+      "speaker": "Dan",
+      "tags": [
+        "learning",
+        "productivity",
+        "operations"
+      ],
+      "character_start": 14003,
+      "character_end": 14141
+    },
+    {
+      "slug": "problem-driven-curation",
+      "title": "Curate learning resources specifically tailored to current business struggles",
+      "explanation": "A speaker recommends prompting software to generate customized resource lists based on active struggles. Filtering out generic popular content ensures educational time focuses on materials addressing immediate operational constraints.",
+      "quote": "i want to self-educate myself on topics that'll help me solve the biggest problems I'm currently facing",
+      "speaker": "Dan",
+      "tags": [
+        "learning",
+        "ai",
+        "productivity"
+      ],
+      "character_start": 3670,
+      "character_end": 3773
+    },
+    {
+      "slug": "mastery-through-repetition",
+      "title": "Sustain deliberate practice until flawless execution becomes instinctual",
+      "explanation": "The speaker advocates repeated deliberate practice aimed at reliable execution rather than one-time exposure to an idea. This is a training recommendation. It does not establish that any amount of practice makes errors impossible or guarantees mastery.",
+      "quote": "they get it once and then they move on but the pros they practice until they can't get it wrong",
+      "speaker": "Dan",
+      "tags": [
+        "learning",
+        "productivity",
+        "leadership"
+      ],
+      "character_start": 19040,
+      "character_end": 19135,
+      "original_extracted_explanation": "A speaker highlights that true mastery involves practicing core skills until failure becomes impossible. Committing to prolonged focus and repeated deliberate practice builds exceptional competence that distinguishes top performers.",
+      "interpretation_review": "Removed categorical outcome claims; retained attributed recommendation and evidence limits."
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "57e7aed1-64a8-4cc7-b637-f611f95f5d20",
+  "extraction_response": "extraction-responses/gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE.json"
+}

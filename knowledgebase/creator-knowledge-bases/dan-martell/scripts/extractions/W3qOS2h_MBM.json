@@ -1,0 +1,68 @@
+{
+  "youtube_id": "W3qOS2h_MBM",
+  "thesis": "The skills ranking weighs entry difficulty, defensibility and earning potential under uncertain AI change.",
+  "summary": "Nineteen skills span social management, speaking, trades, project management, sales, SEO/AEO, data analysis, media buying, design, security, prompting, email, editing, lead generation, trading, copywriting, development and automation. Martell favors speaking, sales and demand generation, treats media judgment as useful despite execution pressure, and explicitly assigns no S tier. He repeatedly revises placements and encourages choosing one skill rather than all.",
+  "insights": [
+    {
+      "slug": "skill-evaluation-criteria",
+      "title": "Compare learnability, durability and commercial value",
+      "explanation": "The three criteria expose tradeoffs rather than supplying a single objective score.",
+      "quote": "barrier of entry is it something you can learn quickly",
+      "tags": [
+        "skills",
+        "career"
+      ],
+      "character_start": 916,
+      "character_end": 970,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "interest-not-scraped-list",
+      "title": "A contact list is not the same as interested demand",
+      "explanation": "He explicitly distinguishes scraping addresses from a person raising a hand about a problem.",
+      "quote": "I have that problem and I'm interested in learning your solution",
+      "tags": [
+        "leads",
+        "sales"
+      ],
+      "character_start": 19307,
+      "character_end": 19371,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "creative-judgment",
+      "title": "Creative direction may outlast manual editing tasks",
+      "explanation": "His unusually favorable video-editing placement is justified by storytelling and ideation rather than indefinite protection of execution.",
+      "quote": "way more on the creative input and the story lines",
+      "tags": [
+        "media",
+        "taste"
+      ],
+      "character_start": 18700,
+      "character_end": 18750,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "no-perfect-skill",
+      "title": "He finds no easy, protected, highly paid option",
+      "explanation": "The closing no-S-tier explanation rejects the combination of all three desirable properties.",
+      "quote": "there's no world where it's easy to learn defensible against AI",
+      "tags": [
+        "skills",
+        "uncertainty"
+      ],
+      "character_start": 26203,
+      "character_end": 26266,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2fff8fd0-e3f3-44fa-b9f0-b1c0ec0ad052",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "A subjective ranking from his hiring/spending experience, not a labor-market study. Salary, displacement, model and technical claims are unverified forecasts or anecdotes. He distinguishes trade employment from owning a scalable trade business. Low entry barriers do not imply competence; generated code is not demonstrated production engineering. Some placements value strategic learning despite lower expected pay, so the criteria are not consistently weighted.",
+  "review_changes": "Restores no-S-tier conclusion, live revisions, his specific interested-lead definition and differences between execution, taste and scalable ownership.",
+  "deep_review_date": "2026-11-16T20:58:22.938307+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/W3qOS2h_MBM.json",
+  "previous_draft_sha256": "b6bdf1205493c41b9e25b531569038a32dc902d9c0984e4922453319551e72f1"
+}

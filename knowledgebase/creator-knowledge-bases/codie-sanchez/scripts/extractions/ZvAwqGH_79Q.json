@@ -1,0 +1,68 @@
+{
+  "youtube_id": "ZvAwqGH_79Q",
+  "thesis": "Building a resilient media business requires focusing deeply on platform mastery, native presentation, and constructing a multi-tiered monetization ladder.",
+  "summary": "A speaker outlines a framework for transforming social media presence into a sustainable business enterprise. Winning online requires dominating a primary distribution platform before expanding to secondary channels. Creating platform-native content without excessive production polish builds genuine audience trust and engagement. Creators should mine audience comments and search trends to generate relevant educational content. Finally, establishing a tiered offer ladder converts viewer attention into newsletter subscriptions, digital products, and high-ticket service sales.",
+  "insights": [
+    {
+      "slug": "single-platform-mastery",
+      "title": "Focus resources on dominating a specific distribution channel",
+      "explanation": "A speaker advises creators to achieve strong audience traction on an individual platform before expanding elsewhere. Spreading effort across multiple platforms dilutes content quality and slows audience growth.",
+      "quote": "You win on the internet by not being everywhere You win by being undeniable in one place",
+      "speaker": "Codie",
+      "tags": [
+        "marketing",
+        "productivity",
+        "operations"
+      ],
+      "character_start": 646,
+      "character_end": 734
+    },
+    {
+      "slug": "authentic-native-content",
+      "title": "Publish unpolished native content to establish genuine trust",
+      "explanation": "A speaker observes that highly produced studio content often performs worse than casual, authentic videos. Matching the native formatting of each platform establishes immediate credibility with viewers.",
+      "quote": "Across the board we found the more produced we try to make content the worse it performs",
+      "speaker": "Codie",
+      "tags": [
+        "marketing",
+        "communication"
+      ],
+      "character_start": 13790,
+      "character_end": 13878
+    },
+    {
+      "slug": "audience-mining-content-creation",
+      "title": "Mine audience feedback and questions to generate relevant topics",
+      "explanation": "A speaker recommends reviewing comment sections and community forums to identify pressing audience problems. Addressing specific user questions ensures content directly solves real viewer needs.",
+      "quote": "If a video on buying a business has a million views and the comments scream \"But how do I do this with no money?\"",
+      "speaker": "Codie",
+      "tags": [
+        "marketing",
+        "communication",
+        "learning"
+      ],
+      "original_extracted_quote": "Comment section subreddits Discords If a video on buying a business has a million views and the comments scream But how do I do this with no money",
+      "quote_review": "Exact source wording selected after reading the surrounding passage; omitted punctuation and changed pronouns restored.",
+      "character_start": 20637,
+      "character_end": 20750
+    },
+    {
+      "slug": "tiered-monetization-ladder",
+      "title": "Construct a tiered offer ladder to monetize audience trust",
+      "explanation": "A speaker details a monetization ladder that guides followers from free content into low-cost guides, community memberships, and high-ticket services. Structuring products by depth maximizes lifetime value.",
+      "quote": "You build a ladder that solves people's problems at different depths It's not random like this video did Well let's sell them a hoodie with a dog on it",
+      "speaker": "Codie",
+      "tags": [
+        "sales",
+        "marketing",
+        "cash-flow"
+      ],
+      "character_start": 26869,
+      "character_end": 27020
+    }
+  ],
+  "review_status": "machine-extracted; quote wording checked",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "88a1a09c-c220-41ca-9be3-75d9bb46f243",
+  "extraction_response": "extraction-responses/4XQ50qWSRO4-yveLqk3DCNs-DZNhrv5sv_0-ZvAwqGH_79Q-1CLeSVVDqFg-NOxLzAh-gUc-ksRcFGLPoSk-nSlZZ7TxNM8-PVb0YJVZp2c-PbBdBpBsP_s.json"
+}

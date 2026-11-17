@@ -1,0 +1,81 @@
+{
+  "youtube_id": "-T4OMgeLWTY",
+  "thesis": "His four book recommendations connect constraints, subtraction, identity and detachment from outcomes.",
+  "summary": "Martell favors just-in-time study with learn/do/teach. His reading of The Goal identifies and stabilizes a bottleneck; The Effective Executive supports time auditing and abandonment; Feeling Is the Secret supplies assumed-identity and visualization exercises; Inner Excellence shifts attention from gripping outcomes to prepared, present performance. He offers concrete flow-mapping, calendar and pre-performance exercises.",
+  "insights": [
+    {
+      "slug": "just-in-time-study",
+      "title": "Apply learning to a current problem",
+      "explanation": "He distinguishes using an idea from collecting finished books and offers learn/do/teach as the study loop.",
+      "quote": "See studying means learn do teach",
+      "tags": [
+        "learning",
+        "books"
+      ],
+      "character_start": 937,
+      "character_end": 970,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "stabilize-bottlenecks",
+      "title": "Operationalize the fix before moving on",
+      "explanation": "His constraint discussion includes documentation, an owner and a dashboard to avoid recurring firefighting.",
+      "quote": "Document it Give it to somebody Create a dashboard for the problem",
+      "tags": [
+        "constraints",
+        "systems"
+      ],
+      "character_start": 5410,
+      "character_end": 5476,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "abandonment",
+      "title": "Record what was stopped as well as added",
+      "explanation": "He credits Drucker’s work for subtraction and concentrated effectiveness.",
+      "quote": "make a list of everything you remove this year",
+      "tags": [
+        "focus",
+        "books"
+      ],
+      "character_start": 7484,
+      "character_end": 7530,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "assumed-identity",
+      "title": "He endorses Goddard’s assumed-future identity",
+      "explanation": "Affirmations and pre-sleep visualization are presented as his belief-based practice, not proof of material causation.",
+      "quote": "speak from the identity not towards it",
+      "tags": [
+        "identity",
+        "beliefs"
+      ],
+      "character_start": 14504,
+      "character_end": 14542,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "input-control",
+      "title": "Separate preparation from uncontrollable outcomes",
+      "explanation": "His interpretation of Inner Excellence emphasizes presence, gratitude and practiced inputs.",
+      "quote": "You can only control those inputs",
+      "tags": [
+        "performance",
+        "books"
+      ],
+      "character_start": 20389,
+      "character_end": 20422,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "0fd6888b-7dae-4e41-a74a-4fe838ecb392",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "These are Martell’s interpretations, not a review of the books themselves. Author names are imperfectly transcribed; titles identify the works without claiming all quoted passages were checked against editions. Wealth/reading totals, celebrity stories and exact productivity shares are unverified. Goddard’s thought-to-outcome claims are belief, not demonstrated causality. Just-in-time business study differs from a universal judgment against leisure reading.",
+  "review_changes": "Restores the substantial Goddard identity/manifestation section and its evidentiary status, plus the complementary input-control versus outcome-attachment lesson.",
+  "deep_review_date": "2026-11-16T20:58:22.936216+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/-T4OMgeLWTY.json",
+  "previous_draft_sha256": "9ef5f44ca7ed6c81209454c5690de6c313677a08ab8a7788ed8ec363f3afd492"
+}

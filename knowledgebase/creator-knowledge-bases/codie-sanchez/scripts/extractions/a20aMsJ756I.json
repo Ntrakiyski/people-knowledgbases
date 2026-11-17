@@ -1,0 +1,68 @@
+{
+  "youtube_id": "a20aMsJ756I",
+  "thesis": "Use a decision deadline, focused effort and public accountability to act on a chosen goal.",
+  "summary": "Sanchez urges setting a calendar deadline for an avoided decision, offering honest rather than merely agreeable client advice, cutting distractions, using technology and pursuing cash flow. She describes observing successive mentors, shifting weekend routines and publicly announcing a difficult book goal. The close includes failed ventures and adverse experiences alongside ambition.",
+  "insights": [
+    {
+      "slug": "decision-deadline",
+      "title": "Put a date on an avoided decision",
+      "explanation": "The action is to choose a deadline and keep the promise to make a decision by then.",
+      "quote": "make a decision by that date",
+      "tags": [
+        "decisions",
+        "accountability"
+      ],
+      "character_start": 1922,
+      "character_end": 1950,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "mentor-observation",
+      "title": "Learn by observing people ahead of you",
+      "explanation": "Her career narrative emphasizes watching actions, incentives and leadership rather than merely requesting a mentor title.",
+      "quote": "i watched her listen took notes took action",
+      "tags": [
+        "mentors",
+        "learning"
+      ],
+      "character_start": 14161,
+      "character_end": 14204,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "public-accountability",
+      "title": "Use a public goal as pressure",
+      "explanation": "She explicitly advocates building publicly and illustrates it with her book launch; another source advocates secrecy.",
+      "quote": "building in public is pressure and that pressure will propel you forward",
+      "tags": [
+        "goals",
+        "accountability"
+      ],
+      "character_start": 16501,
+      "character_end": 16573,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "focused-subtraction",
+      "title": "Cut before adding more effort",
+      "explanation": "She argues limited resources require removing commitments and considering whether the current game is right.",
+      "quote": "your job is actually to cut things not add them",
+      "tags": [
+        "focus",
+        "strategy"
+      ],
+      "character_start": 7282,
+      "character_end": 7329,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "212178c6-76f1-4606-9eb7-766a557f7572",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Motivational rhetoric is not proof obsession ensures wealth or critics are always less successful. Client results, career stories and bestseller probabilities are unverified. A deadline is a commitment to decide, not evidence a particular exit is financially or relationally sound. Public accountability conflicts with the silence recommendation in D2umgh70Kis; no explicit reconciliation is given.",
+  "review_changes": "Adds the decision-versus-action distinction, admitted failures, focused subtraction and a source-linked contradiction about public commitments.",
+  "deep_review_date": "2026-11-16T20:54:08.585237+00:00",
+  "previous_draft": "analysis/deep-review/previous/codie-sanchez/a20aMsJ756I.json",
+  "previous_draft_sha256": "fffd898ce45b8dd542af2799bee7772c1fde1c42aff19eb11a69699baaa9e955"
+}

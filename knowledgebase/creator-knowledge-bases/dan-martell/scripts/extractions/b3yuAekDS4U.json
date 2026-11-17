@@ -1,0 +1,68 @@
+{
+  "youtube_id": "b3yuAekDS4U",
+  "thesis": "Aim AI at the binding constraint, then document and refine work while retaining human judgment.",
+  "summary": "Martell maps attention, leads, sales, delivery and retention to find the point limiting cash flow. He proposes AI for prospecting, qualification, pitching, follow-up, upsells and delivery, using a ten/eighty/ten division of ideation, execution and review. A camcorder method records screen, narration and transcript before iterative handoff. Company tool examples and a hackathon illustrate his push to reduce founder dependence.",
+  "insights": [
+    {
+      "slug": "binding-constraint",
+      "title": "Identify which stage limits actual growth",
+      "explanation": "He tests whether expanding a stage would increase revenue or merely move the bottleneck.",
+      "quote": "if I 10x this tomorrow would my revenue actually go up",
+      "tags": [
+        "bottlenecks",
+        "ai"
+      ],
+      "character_start": 2992,
+      "character_end": 3046,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "definition-of-done",
+      "title": "Define the desired result before AI execution",
+      "explanation": "The first ten percent includes agreeing on what completion looks like; the final ten percent retains review and human touches.",
+      "quote": "this is where you create the definition of done",
+      "tags": [
+        "ai",
+        "quality"
+      ],
+      "character_start": 9430,
+      "character_end": 9477,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "camcorder-handoff",
+      "title": "Record action and reasoning before transfer",
+      "explanation": "His method captures the screen and spoken explanation, transcribes it, and iterates toward a useful repeatable process.",
+      "quote": "record ourselves doing the task my favorite way is just get on a Zoom session",
+      "tags": [
+        "documentation",
+        "delegation"
+      ],
+      "character_start": 12489,
+      "character_end": 12566,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "founder-dependence",
+      "title": "Track whether growth requires less founder intervention",
+      "explanation": "His stated scaling criterion is declining personal necessity, not simply more AI-generated output.",
+      "quote": "as the business grows and you're less needed",
+      "tags": [
+        "systems",
+        "ownership"
+      ],
+      "character_start": 12034,
+      "character_end": 12078,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a264b45a-de86-447d-a492-319cb35041d2",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The zero-employees/$10M title is not substantiated by an audited case; the transcript repeatedly features teams, founders, operators and human closers. Broad 80%/10x output and eighteen-month urgency claims are unverified. AI has capacity, cost and failure constraints despite absolute rhetoric. Self-checking is not independent validation. Named tools include his own portfolio interests.",
+  "review_changes": "Restores human and team involvement behind the title, the binding-constraint question and the recorded-process handoff rather than automatic income.",
+  "deep_review_date": "2026-11-16T20:57:07.425652+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/b3yuAekDS4U.json",
+  "previous_draft_sha256": "2630c37817cbc2377d2771a24c100448424287bdbed8c5e44f4d695cd2118fed"
+}

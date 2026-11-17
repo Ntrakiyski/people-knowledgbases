@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Build scratch (intermediate artifacts from the bulk ingest; not part of the bundle)
+scripts/canon/
+scripts/candidates.json
+scripts/clusters.txt
+scripts/slugs.txt
+scripts/slug_index.json
+scripts/aggregate_candidates.py
+scripts/fan_out.py
+scripts/authored_pages.txt
+scripts/entity_pages.txt
+scripts/sample_slugs.txt
+scripts/gaps/
+scripts/add_manifest.json
+
+# Keep credentials and temporary caption downloads out of the bundle.
+.env
+.env.*
+!.env.example
+*.cookies.txt
+raw/.subs_tmp/

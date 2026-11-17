@@ -1,0 +1,68 @@
+{
+  "youtube_id": "qONyYfpI-5Y",
+  "thesis": "Choose an evening routine for a good life as well as next-day performance.",
+  "summary": "Bloom closes work loops and prepares the morning before family dinner and bedtime activities. He describes sauna/cold exposure, a protein dessert, supplements and skincare, then explains why he dropped blue-light glasses and kept television with his wife. His final boundary is leaving the phone outside the bedroom and using a watch alarm.",
+  "insights": [
+    {
+      "slug": "close-open-loops",
+      "title": "Create a deliberate work shutdown",
+      "explanation": "A short list covers email, messages, quick tasks and morning preparation to reduce lingering concerns.",
+      "quote": "the open loops that I'm going to attempt to close",
+      "tags": [
+        "routines",
+        "attention"
+      ],
+      "character_start": 1169,
+      "character_end": 1218,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "life-over-optimization",
+      "title": "Preserve rituals with relational value",
+      "explanation": "He keeps television with his wife because shared enjoyment matters more to him than possible marginal sleep gains.",
+      "quote": "i'm optimizing for having a great life",
+      "tags": [
+        "relationships",
+        "tradeoffs"
+      ],
+      "character_start": 9370,
+      "character_end": 9408,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "personal-experimentation",
+      "title": "Evaluate routine costs against experienced benefits",
+      "explanation": "He stopped blue-light glasses after finding little personal benefit and disliking their social cost; that is an individual observation.",
+      "quote": "I never experienced the benefit to compensate for the cost",
+      "tags": [
+        "experiments",
+        "routines"
+      ],
+      "character_start": 8652,
+      "character_end": 8710,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "bedroom-phone-boundary",
+      "title": "Keep the phone outside the bedroom",
+      "explanation": "A watch alarm permits physical separation overnight and through his initial morning hours.",
+      "quote": "my phone is not going anywhere near my bed",
+      "tags": [
+        "sleep",
+        "attention"
+      ],
+      "character_start": 9893,
+      "character_end": 9935,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "1d938b53-3743-4d26-8d54-0f888fa21fa7",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Personal experience rather than substantiation of scientific, fertility, sleep or supplement claims. He owns the promoted skincare brand. Dinner timing and pre-bed dessert are explicitly in tension; he notes imperfection. TV is a relational preference, not proof screens improve sleep.",
+  "review_changes": "Adds the rejected optimizations, explicit food-timing inconsistency and distinction between personally valued routine and medical guidance.",
+  "deep_review_date": "2026-11-16T20:48:01.846571+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/qONyYfpI-5Y.json",
+  "previous_draft_sha256": "36b380e6559a7c9bbabf0f6de22160ba71de826cc11b863c3883f0df12dfde41"
+}

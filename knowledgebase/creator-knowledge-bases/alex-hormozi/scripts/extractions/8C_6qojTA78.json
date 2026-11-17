@@ -1,0 +1,94 @@
+{
+  "youtube_id": "8C_6qojTA78",
+  "thesis": "Durable e-commerce growth requires product-backed differentiation, suitable talent and cash discipline beyond ad arbitrage.",
+  "summary": "A custom-table seller is advised to test broader keywords and bridge pages matched to buyer awareness. A young multi-product advertiser is first offered fractional contractors for sporadic work, then challenged to build one defensible brand rather than a portfolio dependent on temporary ad spreads. A hair-extension owner considering self-funded salon software is urged to confront existing acquisition and margin constraints instead of assuming software is easier. In live handbag sales, Alex revises a logistics-outsourcing suggestion after learning each unique item must be shown and shipped, then concentrates on recruiting, financial forecasts and observable presentation training. He separates a strong seller from a people manager.",
+  "insights": [
+    {
+      "slug": "awareness-matched-ad-journey",
+      "title": "Match the journey to what the buyer already knows",
+      "explanation": "Broader keywords can reach less-aware buyers who need intermediate explanation before a product page. Lower click prices do not by themselves establish better acquisition economics.",
+      "quote": "we have to start with where they're at and then lead them through the journey",
+      "tags": [
+        "advertising",
+        "awareness"
+      ],
+      "character_start": 8356,
+      "character_end": 8433,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "contractor-bench-for-sporadic-work",
+      "title": "Match occasional work to fractional capacity",
+      "explanation": "He suggests trained contractors for specialized tasks that do not justify permanent full-time roles, with a later coordinator if management becomes the bottleneck.",
+      "quote": "I'm fine just having a suite or a bench of contractors that I can turn on and off",
+      "tags": [
+        "delegation",
+        "staffing"
+      ],
+      "character_start": 12573,
+      "character_end": 12654,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "product-completes-brand",
+      "title": "Delivery reinforces or destroys brand promises",
+      "explanation": "Advertising associations alone are insufficient in his model: the purchased product must confirm them. The claim that all arbitrage businesses hit one revenue ceiling is unverified.",
+      "quote": "the product either reinforces the brand or destroys the brand",
+      "tags": [
+        "brand",
+        "product"
+      ],
+      "character_start": 18647,
+      "character_end": 18708,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "sunk-cost-and-new-ventures",
+      "title": "Prior spending does not justify continued investment",
+      "explanation": "He challenges a software pivot motivated by an assumed easier business, even after the owner has paid for development. Distribution access does not remove a new business's operating demands.",
+      "quote": "some of the best money you ever spend is deciding to stop spending bad money",
+      "tags": [
+        "sunk-cost",
+        "focus"
+      ],
+      "character_start": 25539,
+      "character_end": 25615,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "inventory-cash-forecasting",
+      "title": "Forecast inventory commitments beyond cash in the bank",
+      "explanation": "A profitable live-sale business can still experience cash shortages when inventory purchasing outruns available capital. He recommends stronger financial planning as it grows.",
+      "quote": "it's not just like how much cash we have in the bank account",
+      "tags": [
+        "cash-flow",
+        "inventory"
+      ],
+      "character_start": 36766,
+      "character_end": 36826,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "observable-presentation-training",
+      "title": "Translate presentation qualities into actions",
+      "explanation": "Instead of asking for charisma or energy, he proposes coaching pace, voice and posture that a trainee can observe and practice. A gifted seller need not become a manager.",
+      "quote": "you have to describe things that people can see",
+      "tags": [
+        "training",
+        "sales"
+      ],
+      "character_start": 39629,
+      "character_end": 39676,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "2dc47c71-7a95-48d4-808d-dce56ffb51ff",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "All cases are recommendations without measured follow-up. Ad-test budgets, market-size assertions, the claimed 10–12 million arbitrage ceiling and seven-year software loss period are heuristics or forecasts, not established industry laws. A four-month business's 3 million figure is an annualized run rate, not completed-year revenue. The hair owner's sales/profit figures and interpretation of subscription economics remain unverified. Training does not eliminate product, supply-chain, finance or workplace risks. Alex's own launch and exit claims are attributed.",
+  "review_changes": "Adds the awareness-to-landing-page logic, the run-rate distinction, product experience as part of brand, sunk-cost reasoning, a visible revision of the logistics diagnosis, and the difference between cash balance and profitable growth.",
+  "deep_review_date": "2026-11-16T21:03:39.153549+00:00",
+  "previous_draft": "analysis/deep-review/previous/alex-hormozi/8C_6qojTA78.json",
+  "previous_draft_sha256": "3f4d8b8c8e691647a046b82a37bccff56f2957a264fa087fbe1cc89c0b84adb6"
+}

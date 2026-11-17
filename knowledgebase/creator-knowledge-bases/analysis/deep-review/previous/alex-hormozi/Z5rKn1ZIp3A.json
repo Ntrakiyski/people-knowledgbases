@@ -1,0 +1,37 @@
+{
+  "youtube_id": "Z5rKn1ZIp3A",
+  "thesis": "The short source announces a founder-coaching competition and its selection premise.",
+  "summary": "The announcement describes eight owners competing for a cash prize and a year of guidance. The stated selection question is whether the host wants to work with the business for a year. This is promotional context for a series, not evidence that the program produces particular growth outcomes.",
+  "insights": [
+    {
+      "slug": "coaching-series-format",
+      "title": "Recognize the competition as a teaching and promotional format",
+      "explanation": "The program makes founder assessment visible through a prize-based series. The announced terms are source claims.",
+      "quote": "I brought eight business owners together to compete",
+      "character_start": 524,
+      "character_end": 575,
+      "tags": [
+        "creator-strategy",
+        "education"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "advisor-fit",
+      "title": "Distinguish advisor fit from a universal business ranking",
+      "explanation": "The closing question includes willingness to work together. Selection therefore need not mean the winning company is objectively best on every dimension.",
+      "quote": "do I want to spend a year working with you",
+      "character_start": 1551,
+      "character_end": 1593,
+      "tags": [
+        "partnerships",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "75c6e73c-5dd5-4c45-b44d-d7bb3d3ee1d1",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

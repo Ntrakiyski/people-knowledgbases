@@ -1,0 +1,64 @@
+{
+  "youtube_id": "UvDgL8ShgXs",
+  "thesis": "Transforming personal outcomes requires making intentional edits across core life domains, removing draining social influences, and tracking non-negotiable daily habits.",
+  "summary": "A speaker details an iterative framework to reset personal productivity and achieve major goals. The process begins with defining a specific vision across health, finances, time allocation, and personal relationships. Next, individuals audit daily time use to eliminate distractions and reduce contact with unsupportive social circles. Installing supportive environments, friction-free daily habits, and clear accountability stakes ensures consistent execution. Finally, logging core performance metrics weekly provides visual feedback, building momentum for long-term progress.",
+  "insights": [
+    {
+      "slug": "lifestyle-refinement-editing",
+      "title": "Refine existing routines through strategic edits rather than complete overhaul",
+      "explanation": "A speaker suggests making deliberate operational edits rather than attempting overwhelming lifestyle overhauls. Removing minor inefficiencies and focusing on high-return routines produces dramatic progress over sustained periods.",
+      "quote": "you don't need to burn your whole life down you just need to edit",
+      "speaker": "Dan",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "character_start": 602,
+      "character_end": 667
+    },
+    {
+      "slug": "social-environment-audit",
+      "title": "Audit social connections to align relationships with long-term ambitions",
+      "explanation": "A speaker cautions that surrounding oneself with negative or unmotivated peers quietly restricts personal potential. Auditing social circles and spending time with supportive, ambitious individuals elevates personal standards and achievement.",
+      "quote": "you are the byproduct of who you spend the most time with and they quietly set your ceiling",
+      "speaker": "Dan",
+      "tags": [
+        "life-design",
+        "leadership",
+        "communication"
+      ],
+      "character_start": 9679,
+      "character_end": 9770
+    },
+    {
+      "slug": "frictionless-environment-design",
+      "title": "Design physical spaces to make positive choices effortless",
+      "explanation": "A speaker recommends structuring physical environments so healthy, productive actions require minimal friction. Placing essential tools directly in daily activity paths ensures consistent habit execution without relying on willpower.",
+      "quote": "make the good stuff easy stuff and we got to put it right in the path",
+      "speaker": "Dan",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 14605,
+      "character_end": 14674
+    },
+    {
+      "slug": "visual-scorecard-momentum",
+      "title": "Maintain visual scorecards to build momentum through visible wins",
+      "explanation": "A speaker notes that tracking daily habits in a visible scorecard provides immediate feedback and psychological momentum. Measuring key activities consistently prevents premature quitting and reinforces positive identity growth.",
+      "quote": "seeing the proof stack up is what keeps you going and what motivates you",
+      "speaker": "Dan",
+      "tags": [
+        "productivity",
+        "operations"
+      ],
+      "character_start": 21165,
+      "character_end": 21237
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "067ab9a4-18d2-44fd-ba3d-a5da4dd16a2b",
+  "extraction_response": "extraction-responses/gfSVNJZgbOo-DlQyXhjH2jE-1BApLicRt1w-1MMqPTiWfSc-n7t68A0NQQM-6poBPhfB-WY-UvDgL8ShgXs-xj5gZq159lM-Bm84BAtOfQw-b6aLGChngnE.json"
+}

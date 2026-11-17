@@ -1,0 +1,68 @@
+{
+  "youtube_id": "6tjldo4yXCQ",
+  "thesis": "Choose a wealth path with eyes open to its required effort and sacrifices.",
+  "summary": "An interview-style video makes problem-solving and value capture the core money model, followed by sales, excellence and reliability. Bloom explicitly validates an excellent career inside someone else’s company, warns against beach/lifestyle entrepreneurship marketing and emphasizes relationship building. He describes trading time for capabilities early, concentrating on better opportunities later, testing a thirty-for-thirty project, maintaining value creation and limiting lifestyle expectations. He says choosing a less financially extreme life is also acceptable.",
+  "insights": [
+    {
+      "slug": "value-before-payment",
+      "title": "Solve real problems and scale the solution",
+      "explanation": "His operational definition of value is identifying problems for colleagues, bosses or customers and actually delivering a solution.",
+      "quote": "identify their problems develop a solution and then scale that solution",
+      "tags": [
+        "business",
+        "value"
+      ],
+      "character_start": 1748,
+      "character_end": 1819,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "employment-as-path",
+      "title": "Excellence within a company is a legitimate route",
+      "explanation": "He explicitly resists treating entrepreneurship as the only respectable way to wealth.",
+      "quote": "the best path they can take is to be excellent within someone else's company",
+      "tags": [
+        "career",
+        "employment"
+      ],
+      "character_start": 4663,
+      "character_end": 4739,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "hard-before-selective",
+      "title": "Use early effort to accumulate later leverage",
+      "explanation": "He describes initially trading time for knowledge and networks, then choosing opportunities where those assets align.",
+      "quote": "you work hard first and then you work smart later",
+      "tags": [
+        "career",
+        "leverage"
+      ],
+      "character_start": 11240,
+      "character_end": 11289,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "price-of-ambition",
+      "title": "Choose whether the costs fit the desired life",
+      "explanation": "The closing frame is informed choice, including declining extreme financial ambition.",
+      "quote": "you have to decide whether you are willing to pay that price",
+      "tags": [
+        "tradeoffs",
+        "wealth"
+      ],
+      "character_start": 18177,
+      "character_end": 18237,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "ddc78505-4376-47fe-9d3b-9a7c64a32a58",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Strong universals about money reflecting value ignore counterexamples and are the speaker’s model. Tim Cook, Apple forecasts, anecdotes and investment causality are unverified. Advice to sacrifice sleep/health for networking is a tradeoff he advocates, not established health guidance, and sits in tension with other routines. Entrepreneurship is optional, and extraordinary financial ambition is a preference, not an obligation.",
+  "review_changes": "Restores the employed-career alternative, explicit choice of sacrifices, the health/networking tension and early-hard/later-selective sequencing.",
+  "deep_review_date": "2026-11-16T20:50:23.348369+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/6tjldo4yXCQ.json",
+  "previous_draft_sha256": "5ef57c7cb78a35e33cf625a1eea7bcedf29e196d4958331108be22d6e93ae8f4"
+}

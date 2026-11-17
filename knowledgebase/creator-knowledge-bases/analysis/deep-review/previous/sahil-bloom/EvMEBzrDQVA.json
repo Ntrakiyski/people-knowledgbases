@@ -1,0 +1,50 @@
+{
+  "youtube_id": "EvMEBzrDQVA",
+  "thesis": "Anti-goals identify unacceptable paths and costs alongside desired results.",
+  "summary": "The selected passages frame anti-goals as boundaries around how an ambition is pursued. Examples protect meaningful connection and ask whether chasing money sacrifices freedom or happiness. The source also acknowledges chaos as a planning concern. Claimed improvements in success probability are not measured here.",
+  "insights": [
+    {
+      "slug": "anti-goals",
+      "title": "Define the pitfalls as well as the destination",
+      "explanation": "The framework asks what must be avoided during pursuit. It is a planning aid, not a guarantee of success.",
+      "quote": "these anti- goals map out the pitfalls to avoid",
+      "character_start": 6465,
+      "character_end": 6512,
+      "tags": [
+        "planning",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-time-boundary",
+      "title": "Put meaningful connection on the calendar",
+      "explanation": "The source makes relationship time an explicit constraint rather than an intention left to spare capacity.",
+      "quote": "never allow a week to go by without blocking time on your calendar",
+      "character_start": 9177,
+      "character_end": 9243,
+      "tags": [
+        "relationships",
+        "time-management"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "success-path-cost",
+      "title": "Evaluate the way money is earned alongside the total",
+      "explanation": "The creator includes freedom in the definition of success. This is a values-based criterion rather than a universal financial formula.",
+      "quote": "It's about the freedom you created while earning it",
+      "character_start": 14524,
+      "character_end": 14575,
+      "tags": [
+        "life-design",
+        "personal-finance"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "cee67c85-9f5c-424b-9a08-6d215874c660",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

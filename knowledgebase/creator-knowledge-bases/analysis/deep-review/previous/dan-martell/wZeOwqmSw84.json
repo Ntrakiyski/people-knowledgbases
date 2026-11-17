@@ -1,0 +1,50 @@
+{
+  "youtube_id": "wZeOwqmSw84",
+  "thesis": "The selected Claude tutorial describes matching tools to tasks and includes the creator's own product promotion.",
+  "summary": "Reviewed passages compare model options, describe design drafts, and promote Apex as the creator's platform. Product availability, interface details, rankings, and claimed time savings are source-era assertions, not independently verified current documentation. The note keeps educational recommendations and commercial interest visible.",
+  "insights": [
+    {
+      "slug": "task-model-fit",
+      "title": "Choose capability according to the job",
+      "explanation": "The creator describes different model levels rather than assuming one is best for every task. Current features and pricing require separate checking.",
+      "quote": "pick the right one for the right job",
+      "character_start": 1217,
+      "character_end": 1253,
+      "tags": [
+        "ai",
+        "tool-selection"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "draft-versus-finished-work",
+      "title": "Treat generated design output as a draft",
+      "explanation": "The source itself uses draft language. It does not show production readiness or tested functionality.",
+      "quote": "Claude will build you a draft in minutes",
+      "character_start": 15269,
+      "character_end": 15309,
+      "tags": [
+        "ai",
+        "design"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "tool-commercial-context",
+      "title": "Notice when a tutorial promotes the creator's product",
+      "explanation": "The source explicitly identifies Apex as his platform. This interest is relevant when interpreting comparisons.",
+      "quote": "that's why I built my own platform called Apex",
+      "character_start": 13720,
+      "character_end": 13766,
+      "tags": [
+        "creator-strategy",
+        "tools"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "c9311f0f-e227-44a9-869d-84f6aeaad3ed",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

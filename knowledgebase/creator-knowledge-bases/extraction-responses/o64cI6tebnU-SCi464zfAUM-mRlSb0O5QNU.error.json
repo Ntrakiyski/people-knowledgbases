@@ -1,0 +1,20 @@
+{
+  "videos": [
+    {
+      "youtube_id": "o64cI6tebnU",
+      "title": "How I Would Build a $10M Service Business (If I Had to Start Over)",
+      "source_id": "2af0a869-4b95-43c6-80fc-eed684a084bc"
+    },
+    {
+      "youtube_id": "SCi464zfAUM",
+      "title": "If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton",
+      "source_id": "511226fc-55f4-4f2d-bb30-c38ec1294dc8"
+    },
+    {
+      "youtube_id": "mRlSb0O5QNU",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "source_id": "7260d555-5fcd-436e-93cc-601686710327"
+    }
+  ],
+  "error": "TimeoutExpired"
+}

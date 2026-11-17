@@ -1,0 +1,50 @@
+{
+  "youtube_id": "zzleYxkf39k",
+  "thesis": "Selected moving-business coaching distinguishes differentiation from competing primarily on price.",
+  "summary": "The reviewed passages describe a residential moving company charging hourly and a discussion of matching offers on scope before matching prices. The advisor favors a value-based position unless low cost is the deliberate business strategy. This selected review does not substantiate all growth tactics or outcomes described in the automatic guide.",
+  "insights": [
+    {
+      "slug": "comparable-offers",
+      "title": "Compare the offer's scope before comparing prices",
+      "explanation": "The discussion includes materials and a cap as relevant conditions, rather than treating every quoted price as equivalent.",
+      "quote": "includes materials you know and has a cap",
+      "character_start": 22881,
+      "character_end": 22922,
+      "tags": [
+        "pricing",
+        "offers"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "value-differentiation",
+      "title": "Choose whether the strategy is low cost or differentiated value",
+      "explanation": "The advisor favors offering things a particular customer values rather than defaulting to price matching. This depends on demand and credible delivery.",
+      "quote": "i'd rather just be in the value surpassing game",
+      "character_start": 23028,
+      "character_end": 23075,
+      "tags": [
+        "pricing",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "low-cost-strategy",
+      "title": "Make a commodity-price strategy deliberate",
+      "explanation": "The source distinguishes a business designed for lowest cost from a service that merely underprices competitors.",
+      "quote": "you built your whole business to be cheaper than everyone else",
+      "character_start": 46031,
+      "character_end": 46093,
+      "tags": [
+        "strategy",
+        "competition"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a32be700-d438-40d9-8901-e7eabb0ceacd",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

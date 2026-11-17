@@ -1,0 +1,67 @@
+{
+  "youtube_id": "wtaRjOFqdyU",
+  "thesis": "Humanizing artificial intelligence requires capturing extensive personal material, defining explicit voice guidelines, maintaining human editorial control, and placing authentic taste above automated generation.",
+  "summary": "Generating authentic, personalized content with artificial intelligence requires constructing a central repository of recorded thoughts, meeting transcripts, and past writings. Analyzing these inputs allows creators to generate tone style guides that capture distinct phrasing, sentence structures, and banned vocabulary. Connecting software tools directly to email and communication channels enables drafting messages in a personalized voice. However, creators must review all automated drafts to preserve brand credibility. Ultimately, artificial intelligence should assist ideation and drafting while human judgment retains control over final publishing decisions.",
+  "insights": [
+    {
+      "slug": "knowledge-documentation",
+      "title": "Continuous documentation builds an authentic knowledge foundation",
+      "explanation": "Dan Martell emphasizes that recording daily calls, meetings, and decisions creates a rich repository of original context necessary to train personalized software tools.",
+      "quote": "the value isn't in one thing you record today it's in the 10 years of stacked up documented cataloged information",
+      "speaker": "Dan Martell",
+      "tags": [
+        "ai",
+        "learning",
+        "productivity"
+      ],
+      "character_start": 1288,
+      "character_end": 1401
+    },
+    {
+      "slug": "voice-guidelines",
+      "title": "Explicit style guides prevent generic automated messaging",
+      "explanation": "Dan Martell suggests analyzing sentence lengths, preferred punctuation, and forbidden words across communication channels to create guidelines that prevent generic automated phrasing.",
+      "quote": "break down each one separately the length of my sentences the words I use the words I never use how I open how I close how I sign off",
+      "speaker": "Dan Martell",
+      "tags": [
+        "ai",
+        "communication",
+        "marketing"
+      ],
+      "character_start": 10812,
+      "character_end": 10945
+    },
+    {
+      "slug": "editorial-control",
+      "title": "Human editorial oversight preserves brand trust and authenticity",
+      "explanation": "Dan Martell warns that publishing unreviewed automated outputs damages audience trust, stressing that creators must edit drafts to ensure message quality.",
+      "quote": "i would never let something go out that was written by AI that makes no sense to me but will I get to a draft faster 100%",
+      "speaker": "Dan Martell",
+      "tags": [
+        "ai",
+        "communication",
+        "risk"
+      ],
+      "character_start": 12584,
+      "character_end": 12705
+    },
+    {
+      "slug": "human-inception",
+      "title": "Human judgment must direct strategic content inception",
+      "explanation": "Dan Martell contends that creators should use automated software to extract and polish human ideas rather than allowing technology to dictate overall strategic messaging.",
+      "quote": "my number one rule is that we have to use the AI to pull from you not push onto you",
+      "speaker": "Dan Martell",
+      "tags": [
+        "ai",
+        "productivity",
+        "leadership"
+      ],
+      "character_start": 16435,
+      "character_end": 16518
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "4a37bd5e-f2ed-40ae-9bd9-cf853932f4ad",
+  "extraction_response": "extraction-responses/TSr_qLZ-8YY-nsFKkeQg-V0-SJywU4UQryQ-9Cf416w4JJI-Hgd1rxrIYGM-8R4rmc9NYpA-wtaRjOFqdyU-aPSbZbOzB4s-4_urJ17Rx8s-_rBsOP658YA.json"
+}

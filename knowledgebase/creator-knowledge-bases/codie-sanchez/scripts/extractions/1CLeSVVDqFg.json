@@ -1,0 +1,67 @@
+{
+  "youtube_id": "1CLeSVVDqFg",
+  "thesis": "Unchecked lifestyle inflation, convenient recurring expenses, and emotional spending quietly erode financial independence unless disciplined spending controls are established.",
+  "summary": "A speaker identifies major subtle expenditure traps that drain personal and business capital over time. Evaluating purchases solely by monthly payment size obscures total interest charges and future opportunity costs. Convenience purchases, emotional shopping, and unmonitored subscriptions accumulate into substantial financial leaks. To counter these habits, individuals should implement strict friction audits, establish automated allocation frameworks for new earnings, and consciously assign surplus capital toward income-producing assets.",
+  "insights": [
+    {
+      "slug": "sticker-price-evaluation",
+      "title": "Evaluate purchases by total cost rather than monthly payments",
+      "explanation": "A speaker cautions against assessing affordability through monthly payment terms. Calculating full sticker prices, total interest costs, and lost investment potential reveals the true expense of financed purchases.",
+      "quote": "The trap works because the pain arrives in these tiny little small doses And there's actually a bunch of research on this",
+      "speaker": "Codie",
+      "tags": [
+        "cash-flow",
+        "investing",
+        "risk"
+      ],
+      "character_start": 1247,
+      "character_end": 1368
+    },
+    {
+      "slug": "automated-raise-allocation",
+      "title": "Allocate new income increases to investment before spending",
+      "explanation": "A speaker highlights that rising income often leads to subtle lifestyle inflation without increasing wealth. Automating allocations of new raises toward investment accounts prevents personal expenses from absorbing financial gains.",
+      "quote": "If your old habits were broke at 60k then you just become like premium broke luxury broke at 160k",
+      "speaker": "Codie",
+      "tags": [
+        "life-design",
+        "investing",
+        "cash-flow"
+      ],
+      "character_start": 10075,
+      "character_end": 10172
+    },
+    {
+      "slug": "emotional-spending-awareness",
+      "title": "Identify emotional triggers behind impulse purchasing habits",
+      "explanation": "A speaker explains that impulse shopping often functions as a coping mechanism for stress or boredom. Naming underlying emotional states helps individuals pause and select healthy non-monetary remedies.",
+      "quote": "Instead of just letting myself mindlessly buy stuff online I might say something like \"Ah I think uh I'm not feeling like I look my best right now",
+      "speaker": "Codie",
+      "tags": [
+        "life-design",
+        "productivity"
+      ],
+      "original_extracted_quote": "Instead of just letting myself mindlessly buy stuff online I might say something like Ah I think uh I'm not feeling like I look my best right now",
+      "quote_review": "Exact source wording selected after reading the surrounding passage; omitted punctuation and changed pronouns restored.",
+      "character_start": 12390,
+      "character_end": 12536
+    },
+    {
+      "slug": "subscription-friction-audit",
+      "title": "Conduct regular friction audits to remove recurring expenses",
+      "explanation": "A speaker recommends reviewing bank statements regularly to eliminate forgotten recurring subscriptions and automated charges. Introducing billing friction prevents passive capital leakage across personal and business accounts.",
+      "quote": "He found literally hundreds of subscriptions charging anywhere from 10 bucks to 200 bucks a month",
+      "speaker": "Codie",
+      "tags": [
+        "operations",
+        "cash-flow"
+      ],
+      "character_start": 14688,
+      "character_end": 14785
+    }
+  ],
+  "review_status": "machine-extracted; quote wording checked",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "0c6d61bc-12ea-4319-b041-b590b49a0ce6",
+  "extraction_response": "extraction-responses/4XQ50qWSRO4-yveLqk3DCNs-DZNhrv5sv_0-ZvAwqGH_79Q-1CLeSVVDqFg-NOxLzAh-gUc-ksRcFGLPoSk-nSlZZ7TxNM8-PVb0YJVZp2c-PbBdBpBsP_s.json"
+}

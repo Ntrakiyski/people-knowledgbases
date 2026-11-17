@@ -1,0 +1,107 @@
+{
+  "youtube_id": "EvMEBzrDQVA",
+  "thesis": "Anti-goals supplement ordinary goals with boundaries against harmful success and routines that tolerate imperfect days.",
+  "summary": "Bloom's framework keeps traditional goals: choose an arena, set the desired result, imagine both failure and success that damages life, then define anti-goals to avoid those outcomes. Worked examples cover weight, family and friends, dating, and money. The rules protect sustainable routines, meaningful presence, values, flexibility, and health. A closing section addresses chaos with a two-day rule, tiny beneficial action, and A/B/C versions of daily effort. Despite the title, he does not tell viewers to abandon goals. The distinctive idea is to define acceptable means and protected priorities alongside a target, then build a flexible process.",
+  "insights": [
+    {
+      "slug": "goals-plus-boundaries",
+      "title": "Anti-goals supplement rather than eliminate the target",
+      "explanation": "Setting traditional goals is explicitly the second step. The framework adds constraints on the climb rather than discarding the summit.",
+      "quote": "Step two establish traditional goals Think of these as the summit of the mountain",
+      "tags": [
+        "life-design",
+        "strategy"
+      ],
+      "character_start": 2437,
+      "character_end": 2518,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "harmful-success",
+      "title": "Evaluate achieving the metric at an unacceptable cost",
+      "explanation": "The inversion asks about both failing the target and meeting it while becoming miserable. This is broader than identifying obstacles to success.",
+      "quote": "What would actually be winning the battle but losing the much bigger picture war on this journey",
+      "tags": [
+        "life-design",
+        "risk"
+      ],
+      "character_start": 3171,
+      "character_end": 3267,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "protected-priorities",
+      "title": "Write down what the pursuit must not consume",
+      "explanation": "The mountain metaphor defines anti-goals as protected interests. This supplies a decision constraint rather than simply another performance target.",
+      "quote": "anti- goals are the things you are not willing to sacrifice during that climb",
+      "tags": [
+        "life-design",
+        "family"
+      ],
+      "character_start": 3819,
+      "character_end": 3896,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "meaningful-presence",
+      "title": "Distinguish time together from check-the-box contact",
+      "explanation": "In the relationship example, more scheduled encounters are insufficient if they are distracted or draining. Quality of connection remains part of the desired result.",
+      "quote": "never allow yourself to have check the box time with family or friends",
+      "tags": [
+        "family",
+        "communication"
+      ],
+      "character_start": 9402,
+      "character_end": 9472,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "financial-freedom-constraints",
+      "title": "Do not buy income growth by destroying flexibility and health",
+      "explanation": "The financial examples constrain fixed costs and overwork. They should be analyzed as the creator's boundaries, not guaranteed instructions for greater earnings.",
+      "quote": "never work so hard that I lose touch with my joy rest family or health",
+      "tags": [
+        "cash-flow",
+        "life-design"
+      ],
+      "character_start": 14168,
+      "character_end": 14238,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "plan-for-chaos",
+      "title": "Include imperfect days in the system design",
+      "explanation": "The ending explicitly rejects expecting uninterrupted perfection. The two-day and minimum-action rules are proposed recovery mechanisms, not demonstrated universal thresholds.",
+      "quote": "we need systems that allow us to navigate those ups and downs",
+      "tags": [
+        "productivity",
+        "life-design"
+      ],
+      "character_start": 14873,
+      "character_end": 14934,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "graded-daily-targets",
+      "title": "Set strong, baseline, and minimum versions of a habit",
+      "explanation": "A/B/C goals make the routine adjustable when time or energy changes. This connects the anti-goal framework with Bloom's other advice about flexible consistency.",
+      "quote": "set an A B and C level for that daily system",
+      "tags": [
+        "productivity",
+        "learning"
+      ],
+      "character_start": 16551,
+      "character_end": 16595,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "cee67c85-9f5c-424b-9a08-6d215874c660",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "The ninety-two-percent failure claim and scientific certainty about missing two days are not verified. Boundaries phrased as 'never' may need revision under real obligations and changing circumstances. Health and financial examples are general illustrations, not personalized plans. The framework cannot guarantee happiness or intact relationships.",
+  "review_changes": "Adds the full four-step structure, the two distinct failure scenarios, domain-specific examples, and chaos-handling routines. Corrects the title-level implication that goals should be replaced entirely.",
+  "deep_review_date": "2026-11-16T19:28:37.899516+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/EvMEBzrDQVA.json",
+  "previous_draft_sha256": "17b0b2d4f55c2ef5e60a0fca08275f0c58eee8810431b2edb1c179a652bd7c8e"
+}

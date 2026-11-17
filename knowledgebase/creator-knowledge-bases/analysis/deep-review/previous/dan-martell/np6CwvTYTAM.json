@@ -1,0 +1,50 @@
+{
+  "youtube_id": "np6CwvTYTAM",
+  "thesis": "The selected tool ranking includes implementation constraints, use-case fit, and commercial interests.",
+  "summary": "Reviewed passages acknowledge that some owners lack technical and security knowledge, describe setup requirements for automation, and condition a product recommendation on a particular sales workflow. The creator also refers to a Martell Ventures product. Rankings, claimed profits, and current tool capabilities are not independently validated by this note.",
+  "insights": [
+    {
+      "slug": "adoption-capability",
+      "title": "Include operator capability in a tool recommendation",
+      "explanation": "The source notes technical and security gaps rather than assuming every owner can deploy agents effectively.",
+      "quote": "most business owners are not technical enough",
+      "character_start": 3963,
+      "character_end": 4008,
+      "tags": [
+        "ai",
+        "tool-selection"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "automation-setup",
+      "title": "Keep implementation effort visible in automation claims",
+      "explanation": "The creator mentions templates but also setup. An available template is not proof of fit or reliability.",
+      "quote": "does take some setup but a lot of outofthe-box templates",
+      "character_start": 17348,
+      "character_end": 17404,
+      "tags": [
+        "ai",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "use-case-boundary",
+      "title": "Retain the explicit limit of a product recommendation",
+      "explanation": "The source says the recommendation depends on selling through chat. This narrows the claim instead of making it universal.",
+      "quote": "if you're not probably won't work for you",
+      "character_start": 19332,
+      "character_end": 19373,
+      "tags": [
+        "tools",
+        "sales"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "94decc99-30c9-40f7-bfe4-9cdd471f17e0",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

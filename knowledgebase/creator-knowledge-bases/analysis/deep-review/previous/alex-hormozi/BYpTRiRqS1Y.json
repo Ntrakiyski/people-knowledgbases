@@ -1,0 +1,50 @@
+{
+  "youtube_id": "BYpTRiRqS1Y",
+  "thesis": "Selected education-business coaching inspects local dependence and what functions create customer value.",
+  "summary": "The reviewed passages include an owner's concern about geographic limits, a distinction between core and ancillary functions, and an emphasis on learning with an open mind. The note preserves the owner's problem separately from the advisor's response and does not reconstruct all four coaching cases from the guide.",
+  "insights": [
+    {
+      "slug": "local-model-constraints",
+      "title": "Identify dependencies behind a geographic growth limit",
+      "explanation": "The owner describes team, resources, and coaching tied to one location. This is the owner's stated constraint, not a universal defect of local business.",
+      "quote": "my team is there my resources my companies the coaching program only makes sense because it's local",
+      "character_start": 2191,
+      "character_end": 2290,
+      "tags": [
+        "strategy",
+        "operations"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "core-value-functions",
+      "title": "Distinguish necessary administration from core value creation",
+      "explanation": "The advisor's distinction asks what creates value for the customer, while recognizing that ancillary work must still occur.",
+      "quote": "not things that are core for the value to be created",
+      "character_start": 17707,
+      "character_end": 17759,
+      "tags": [
+        "operations",
+        "delegation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "learning-openness",
+      "title": "Approach unfamiliar bottlenecks with room to revise",
+      "explanation": "The creator describes breakthroughs as beginning with acknowledging unknowns. This is a learning stance, not demonstrated causality.",
+      "quote": "I don't know what I don't know",
+      "character_start": 26827,
+      "character_end": 26857,
+      "tags": [
+        "learning",
+        "mindset"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "6584b4de-3837-4539-a17d-7ff94b8a67ad",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

@@ -1,0 +1,37 @@
+{
+  "youtube_id": "Q8xXSMe8E4Q",
+  "thesis": "The retrospective exposes early marketing artifacts and their practical sales functions.",
+  "summary": "Selected passages show the creator revisiting old fitness marketing, onboarding, and tracking material. The archive illustrates the less polished starting point behind a later public presence. This selected review does not substantiate all lessons attributed to the video by its automatic guide.",
+  "insights": [
+    {
+      "slug": "early-work-visibility",
+      "title": "Retain early artifacts when assessing a creator's development",
+      "explanation": "The source explicitly identifies the material as old clips. Comparing stages requires more than the polished present.",
+      "quote": "watching old clips of my own content like 10 13 years ago",
+      "character_start": 100,
+      "character_end": 157,
+      "tags": [
+        "creator-strategy",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "customer-onboarding-voice",
+      "title": "Notice reassurance in early customer communication",
+      "explanation": "An old introduction welcomes clients and acknowledges the opportunity to serve them. It is an artifact of messaging, not proof of effectiveness.",
+      "quote": "thank you for the opportunity to earn your business",
+      "character_start": 2391,
+      "character_end": 2442,
+      "tags": [
+        "communication",
+        "customer-experience"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "a0c30a00-787b-4b3d-b633-c3ceeecad230",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

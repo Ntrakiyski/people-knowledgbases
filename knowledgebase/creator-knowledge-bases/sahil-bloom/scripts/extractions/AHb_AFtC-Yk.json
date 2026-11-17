@@ -1,0 +1,68 @@
+{
+  "youtube_id": "AHb_AFtC-Yk",
+  "thesis": "AI creates a coordination problem when private incentives ignore shared long-term costs.",
+  "summary": "Using the tragedy-of-the-commons analogy, Bloom separates nations, AI builders, adopting businesses and individuals. He argues each may rationally race for advantage while jointly creating unemployment, inequality, malicious use and lost meaning; he additionally entertains loss-of-control scenarios. He proposes lowering the cost of long-term thinking while recognizing possible major AI benefits. He invites criticism rather than offering a concrete regulatory design.",
+  "insights": [
+    {
+      "slug": "ai-incentive-coordination",
+      "title": "Individual optimization can impose common costs",
+      "explanation": "The four-actor model links competitive pressure to speed, adoption and displacement.",
+      "quote": "everyone acts in their own rational self-interest",
+      "tags": [
+        "ai",
+        "incentives"
+      ],
+      "character_start": 5648,
+      "character_end": 5697,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "productivity-without-employment",
+      "title": "Separate company gains from worker outcomes",
+      "explanation": "He imagines rising profits alongside rising unemployment; this is a scenario, not an observed numerical result.",
+      "quote": "companies are going to be growing but they're going to need fewer employees",
+      "tags": [
+        "ai",
+        "employment"
+      ],
+      "character_start": 8616,
+      "character_end": 8691,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "meaningful-struggle",
+      "title": "Efficiency may remove personally meaningful work",
+      "explanation": "His creator concern is that the struggle itself supplies meaning, even where automation increases output.",
+      "quote": "it is possible to optimize the life out of your life",
+      "tags": [
+        "ai",
+        "meaning"
+      ],
+      "character_start": 12021,
+      "character_end": 12073,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "long-term-incentives",
+      "title": "Reduce the cost of long-term decisions",
+      "explanation": "The concluding question is how to make socially beneficial longer-horizon choices rational for each actor.",
+      "quote": "how can we lower the cost of long-term thinking",
+      "tags": [
+        "governance",
+        "incentives"
+      ],
+      "character_start": 17074,
+      "character_end": 17121,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "1e3fa177-09ac-4e00-a876-c14e461752c1",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "Scenario argument from a non-specialist, not a measured prediction. Twenty-percent unemployment, election effects, timelines, AGI and loss-of-control stories are forecasts or possibilities. Attributed Amodei quotations, polling percentages and historical characterizations are not independently checked. Analogy alone does not establish inevitability; no implemented policy solution is supplied.",
+  "review_changes": "Clarifies actor-specific incentives, separates four risks, and preserves his explicit aim of progress compatible with human flourishing rather than technological paralysis.",
+  "deep_review_date": "2026-11-16T20:48:57.269620+00:00",
+  "previous_draft": "analysis/deep-review/previous/sahil-bloom/AHb_AFtC-Yk.json",
+  "previous_draft_sha256": "50ed67575e3d2fbcfe0848b546e81657aa2cf7bf966877e2ea403b61e9efbe19"
+}

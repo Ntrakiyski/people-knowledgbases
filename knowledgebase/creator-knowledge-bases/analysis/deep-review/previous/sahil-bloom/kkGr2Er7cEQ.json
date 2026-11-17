@@ -1,0 +1,50 @@
+{
+  "youtube_id": "kkGr2Er7cEQ",
+  "thesis": "The thirty-for-thirty protocol combines a small daily block with visible tracking and commitment.",
+  "summary": "The selected passages describe thirty minutes of focused effort each day for a month. The creator says the bounded duration reduces starting resistance and encourages choosing something worth sustained attention. Scheduling at a consistent time and visibly marking execution are practical supports. Claims that this makes failure impossible or transforms any skill overstate what the source demonstrates; this note records the routine without those guarantees.",
+  "insights": [
+    {
+      "slug": "thirty-for-thirty",
+      "title": "Choose a small enough block to start",
+      "explanation": "The proposal uses a limited daily commitment to make action approachable. Its feasibility depends on actual responsibilities and resources.",
+      "quote": "you can carve out 30 minutes of focus for something you want",
+      "character_start": 1270,
+      "character_end": 1330,
+      "tags": [
+        "habits",
+        "learning"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "commitment-filter",
+      "title": "Use duration as a test of what matters",
+      "explanation": "The source treats the month-long promise as a reason to choose deliberately, rather than collecting many casual goals.",
+      "quote": "It forces you to choose something that actually matters",
+      "character_start": 1417,
+      "character_end": 1472,
+      "tags": [
+        "focus",
+        "decision-making"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "visible-habit-tracking",
+      "title": "Track execution and reduce scheduling decisions",
+      "explanation": "The source recommends a fixed daily time and a visible mark. These are adherence aids, not an assurance of mastery or success.",
+      "quote": "track your daily execution visibly with a calendar or simple system",
+      "character_start": 2398,
+      "character_end": 2465,
+      "tags": [
+        "habits",
+        "measurement"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "c6b11c67-aae3-4e0e-bb9c-0bce278a3d6e",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

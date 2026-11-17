@@ -1,0 +1,50 @@
+{
+  "youtube_id": "Lwzsq8GzHWI",
+  "thesis": "Entrepreneurial attention shifts by season, and local geography can shape the competitive opportunity.",
+  "summary": "The participant describes periods of maintaining existing businesses, operational sprints, and searching for acquisitions. At the time of this discussion he prefers improving three current companies, while leaving future acquisitions possible. He promotes a local business idea list and argues that geography can narrow competition. A local newsletter example, supplied by the interviewer, connects digital distribution with offline services. The sports comparison restates his preference for choosing a manageable competitive arena. Claims that waiting improves all real estate and that competition is easy are overbroad; the source does not establish those outcomes.",
+  "insights": [
+    {
+      "slug": "entrepreneurial-seasons",
+      "title": "Distinguish maintaining, improving, and expanding",
+      "explanation": "The speaker describes different uses of attention at different stages. His current preference for existing businesses is contingent rather than a permanent ban on acquisitions.",
+      "quote": "there's different seasons of an entrepreneur's journey",
+      "character_start": 351,
+      "character_end": 405,
+      "tags": [
+        "focus",
+        "strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "local-competitive-scope",
+      "title": "Investigate how geography changes the competitor set",
+      "explanation": "The participant frames a town's service needs as a more bounded market than a global software category. Geography can create constraints and opportunities; it does not guarantee a durable moat.",
+      "quote": "looking at the opportunity in my town is actually a really good moat",
+      "character_start": 2482,
+      "character_end": 2550,
+      "tags": [
+        "competition",
+        "market-research"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "digital-local-combination",
+      "title": "Consider digital distribution for a local service",
+      "explanation": "The interviewer's newsletter-to-real-estate example illustrates a combination of local trust and online reach. The reported sales are one person's account, not established marketing attribution.",
+      "quote": "combining like a sweaty startup almost with like the digital",
+      "character_start": 3479,
+      "character_end": 3539,
+      "tags": [
+        "distribution",
+        "marketing"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "047acb2d-a932-44a7-b2bf-7a79439bd15e",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

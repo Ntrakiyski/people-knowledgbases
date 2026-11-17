@@ -1,0 +1,50 @@
+{
+  "youtube_id": "apdZbtQjSCI",
+  "thesis": "Two near-quitting stories show how rapid growth and project overruns can create severe operational and emotional strain.",
+  "summary": "The participant recounts a student-storage peak season with vehicle accidents, customer complaints, and inadequate delegation. A separate ground-up storage development exceeded its budget and schedule, requiring difficult requests for additional bank and investor funding. The stories qualify a simple success narrative by describing fear, reputational exposure, and the burden of responsibility. The interview also names the emotional cost of letting a long-serving employee go. Claims linking income directly to stress tolerance and estimating who should become an entrepreneur are opinions, not demonstrated general relationships.",
+  "insights": [
+    {
+      "slug": "growth-capacity-risk",
+      "title": "Test delivery capacity alongside demand generation",
+      "explanation": "The speaker's successful local marketing produced more customers than the existing warehouse and staffing setup could comfortably handle. The episode illustrates that more demand can expose operating weaknesses.",
+      "quote": "i had to rent 20,000 extra feet to put them in",
+      "character_start": 2185,
+      "character_end": 2231,
+      "tags": [
+        "operations",
+        "growth"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "development-contingency",
+      "title": "Allow for financing consequences of overruns",
+      "explanation": "The reported project rose from a 1.7 million budget to about 2.45 million and ran late. The consequence described is returning to both investors and the bank for more funding, not merely an accounting variance.",
+      "quote": "I had to go back to my investors and ask for 20% more money",
+      "character_start": 4050,
+      "character_end": 4109,
+      "tags": [
+        "real-estate",
+        "risk"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "ownership-emotional-cost",
+      "title": "Include emotional costs when assessing entrepreneurship",
+      "explanation": "The participant describes anxiety before investor conversations and distress over employee departures. His eventual success does not erase those experiences or establish that everyone should accept them.",
+      "quote": "I have been humbled by entrepreneurship",
+      "character_start": 4518,
+      "character_end": 4557,
+      "tags": [
+        "entrepreneurship",
+        "leadership"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "85d8252b-aae2-4beb-a294-08bc040f3fb5",
+  "review_status": "Codex editorial draft; complete local transcript read",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally"
+}

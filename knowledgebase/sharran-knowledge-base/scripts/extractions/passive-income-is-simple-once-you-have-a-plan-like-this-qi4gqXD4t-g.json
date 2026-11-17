@@ -1,0 +1,188 @@
+{
+  "slug": "passive-income-is-simple-once-you-have-a-plan-like-this-qi4gqXD4t-g",
+  "thesis": "Srivatsaa proposes starting small with income producing assets to move gradually from wages covering expenses to investment income covering them.",
+  "summary": "Srivatsaa argues that idle low interest cash loses purchasing power to inflation, then defines passive income as income prefunded with money or effort. His examples are working upfront in exchange for future payments and investing capital in real estate that produces rent. The two lane merge describes keeping active income while adding a passive income lane, with the longer term goal of covering the same expenses without trading current hours for money.\n\nHe introduces tiny income generating assets, or TIGAs, to make the first step more approachable. Examples include an equally weighted portfolio of SCHO, SCHD, TIP, and SGOV, affiliate commissions for products an audience uses, and pooling capital with friends to buy real estate. He recounts an Arnold Schwarzenegger property story to illustrate starting with a small asset, but does not independently establish its historical details. Returns, risk reduction through group investing, and claims that cash is always irresponsible are the speaker’s framing; the video does not compare the risks, fees, liquidity needs, or ongoing effort of these different arrangements.",
+  "tags": [
+    "passive-income",
+    "cash-flow",
+    "investing",
+    "financial-freedom",
+    "inflation"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:54",
+      "note": "Explains inflation as loss of purchasing power."
+    },
+    {
+      "ts": "0:01:56",
+      "note": "Defines passive income as prefunded income."
+    },
+    {
+      "ts": "0:04:09",
+      "note": "Introduces active and passive income as two lanes."
+    },
+    {
+      "ts": "0:05:52",
+      "note": "Defines a tiny income generating asset."
+    },
+    {
+      "ts": "0:06:20",
+      "note": "Names the four funds in his example portfolio."
+    },
+    {
+      "ts": "0:06:38",
+      "note": "Explains affiliate commission income."
+    },
+    {
+      "ts": "0:07:32",
+      "note": "Describes pooling capital for a property purchase."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "passive-income",
+      "name": "Passive Income",
+      "one_liner": "Future payments can be prefunded through prior work or invested capital.",
+      "explanation": "Srivatsaa rejects the idea that passive income appears without an earlier contribution. He gives an effort funded example of working unpaid for a future monthly payment, and a capital funded example of buying a real estate interest that produces rental income. His two lane merge adds this cash flow while wages still cover living costs. The desired transition is to keep expenses stable until the prefunded income can replace the active work requirement.",
+      "tags": [
+        "passive-income",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:56",
+          "text": "Passive income is pre-funded income."
+        }
+      ],
+      "related": [
+        "financial-freedom",
+        "tiny-income-generating-assets"
+      ]
+    },
+    {
+      "slug": "tiny-income-generating-assets",
+      "name": "Tiny Income Generating Assets",
+      "one_liner": "Small productive assets offer an initial practical step toward recurring investment income.",
+      "explanation": "The video calls a first small productive holding a TIGA. An Arnold Schwarzenegger duplex anecdote illustrates that someone need not begin with a very large property. Srivatsaa offers three entry routes: a distribution paying fund portfolio, affiliate arrangements, and a property bought with other investors. These have different risks and work requirements, which he does not fully analyze. Their shared role is creating a first recurring cash flow rather than waiting for enough capital to own everything alone.",
+      "tags": [
+        "passive-income",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:52",
+          "text": "a tiny income generating asset, a Tiga."
+        }
+      ],
+      "related": [
+        "passive-income",
+        "cash-management-portfolio",
+        "affiliate-income"
+      ]
+    },
+    {
+      "slug": "cash-management-portfolio",
+      "name": "Cash Management Portfolio",
+      "one_liner": "A selected fund allocation can put surplus cash into distribution producing investments.",
+      "explanation": "Srivatsaa says his own portfolio divides equally across SCHO, SCHD, TIP, and SGOV, framing it as a starter income producing asset. He contrasts it with leaving cash in a low interest bank balance while prices rise. The video identifies the holdings and equal weights without explaining each fund’s exposures, price behavior, or tax effects. Consequently this is an attributed portfolio example, not evidence that these funds are interchangeable with insured cash or suitable for every reserve.",
+      "tags": [
+        "passive-income",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:07:47",
+          "text": "That's exactly my portfolio and it's divided equally."
+        }
+      ],
+      "related": [
+        "tiny-income-generating-assets",
+        "passive-income",
+        "asset-allocation"
+      ]
+    },
+    {
+      "slug": "affiliate-income",
+      "name": "Affiliate Income",
+      "one_liner": "A referral arrangement pays commissions when recommended products generate qualifying purchases.",
+      "explanation": "Srivatsaa describes discovering affiliate revenue after recommending a software subscription to his email audience. He then uses an Amazon product link to explain the mechanism: a person purchases through a referral and the recommender receives compensation. The video treats the initial recommendation as effort that can generate later payments. It does not show conversion rates, acquisition costs, or maintenance work. Its substantive role is an alternative to funding every income producing asset with substantial financial capital.",
+      "tags": [
+        "passive-income",
+        "cash-flow",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:06:55",
+          "text": "you could take your affiliate link and give it to"
+        }
+      ],
+      "related": [
+        "passive-income",
+        "tiny-income-generating-assets"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "schwab-short-term-us-treasury-etf",
+      "name": "Schwab Short-Term U.S. Treasury ETF (SCHO)",
+      "subtype": "tool",
+      "one_liner": "Treasury bond fund included in the speaker’s example cash management portfolio.",
+      "explanation": "Srivatsaa names SCHO as one of four equally weighted holdings in his own starter portfolio. The transcript does not separately analyze the fund’s duration, expenses, or risks.",
+      "resource": "https://www.schwabassetmanagement.com/products/scho",
+      "quotes": [
+        {
+          "ts": "0:07:47",
+          "text": "SCHO, SCHD, TIP, and SGOV."
+        }
+      ]
+    },
+    {
+      "slug": "schwab-us-dividend-equity-etf",
+      "name": "Schwab U.S. Dividend Equity ETF (SCHD)",
+      "subtype": "tool",
+      "one_liner": "Dividend equity fund included in the speaker’s example income portfolio.",
+      "explanation": "Srivatsaa names SCHD alongside three other funds and later specifies equal weights. The video does not claim a fund specific yield or provide a separate holdings analysis.",
+      "resource": "https://www.schwabassetmanagement.com/products/schd",
+      "quotes": [
+        {
+          "ts": "0:07:47",
+          "text": "SCHO, SCHD, TIP, and SGOV."
+        }
+      ]
+    },
+    {
+      "slug": "ishares-tips-bond-etf",
+      "name": "iShares TIPS Bond ETF (TIP)",
+      "subtype": "tool",
+      "one_liner": "Inflation protected bond fund included in the speaker’s portfolio example.",
+      "explanation": "TIP is named as one of four equally allocated portfolio components. The transcript supplies the ticker and portfolio role but does not explain the fund’s sensitivity to real interest rates.",
+      "resource": "https://www.ishares.com/us/products/239467/ishares-tips-bond-etf",
+      "quotes": [
+        {
+          "ts": "0:07:47",
+          "text": "SCHO, SCHD, TIP, and SGOV."
+        }
+      ]
+    },
+    {
+      "slug": "ishares-0-3-month-treasury-bond-etf",
+      "name": "iShares 0-3 Month Treasury Bond ETF (SGOV)",
+      "subtype": "tool",
+      "one_liner": "Short maturity Treasury fund included in the speaker’s income portfolio.",
+      "explanation": "SGOV appears as one component of an equally divided four fund portfolio. Srivatsaa uses the group as a tiny income generating asset example without separately evaluating this fund.",
+      "resource": "https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf",
+      "quotes": [
+        {
+          "ts": "0:07:47",
+          "text": "SCHO, SCHD, TIP, and SGOV."
+        }
+      ]
+    }
+  ]
+}

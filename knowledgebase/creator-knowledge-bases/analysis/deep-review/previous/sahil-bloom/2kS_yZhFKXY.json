@@ -1,0 +1,50 @@
+{
+  "youtube_id": "2kS_yZhFKXY",
+  "thesis": "The selected diet passages describe a personal routine that balances consistency with flexibility.",
+  "summary": "The creator discusses repeated meals, strength work, and timing carbohydrates according to how he feels, then proposes a 90/10 flexibility rule. These are personal practices. The title's body-fat figure, metabolic claims, and suitability of the routine for other people are not validated by this selected review.",
+  "insights": [
+    {
+      "slug": "repeatable-meals",
+      "title": "Use repetition to simplify a personal routine",
+      "explanation": "The speaker reports eating similar breakfasts. This records his practice without prescribing the quantities or foods to others.",
+      "quote": "Basically the same thing every single day",
+      "character_start": 1198,
+      "character_end": 1239,
+      "tags": [
+        "habits",
+        "health"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "personal-response",
+      "title": "Keep subjective food responses attributed",
+      "explanation": "The creator says later carbohydrates affect how he feels and sleeps. An individual report does not establish a general nutritional rule.",
+      "quote": "what feels best for me I feel like when I eat carbs later",
+      "character_start": 7719,
+      "character_end": 7776,
+      "tags": [
+        "health",
+        "self-observation"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "flexible-consistency",
+      "title": "Leave deliberate room for enjoyment",
+      "explanation": "The 90/10 framing is the creator's way to combine principles with flexibility, not a clinically validated ratio.",
+      "quote": "we're going to give ourselves the flexibility to have fun to enjoy ourselves",
+      "character_start": 9216,
+      "character_end": 9292,
+      "tags": [
+        "habits",
+        "life-design"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "a08ac701-95c3-42b9-8a31-3dbdf0ad2ae8",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

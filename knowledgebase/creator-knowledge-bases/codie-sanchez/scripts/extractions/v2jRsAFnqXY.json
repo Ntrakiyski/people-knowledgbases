@@ -1,0 +1,67 @@
+{
+  "youtube_id": "v2jRsAFnqXY",
+  "thesis": "Codie Sanchez advises a service business owner to scale revenue by narrowing target client personas, raising prices, structuring recurring service tiers, and implementing systematic referral requests.",
+  "summary": "Scaling a specialized service enterprise requires focusing operational resources on ideal client personas while explicitly declining low-margin prospects. Defining clear client boundaries allows service providers to tailor marketing messages without diluting brand positioning. Overcoming growth bottlenecks involves shifting to category wallet share pricing, raising fees until a portion of prospective buyers decline. Establishing ascending service stacks with recurring options provides predictable cash flow while offering clients an upgrade path. Furthermore, small enterprises expand customer acquisition by establishing systematic referral requests with existing high-value clients.",
+  "insights": [
+    {
+      "slug": "target-exclusion",
+      "title": "Excluding unaligned customer segments improves enterprise profitability",
+      "explanation": "Codie Sanchez suggests that service businesses increase profitability by explicitly defining and declining client profiles that demand heavy customization on restricted budgets. Concentrating exclusively on ideal client avatars improves operational efficiency.",
+      "quote": "Nailing your main people and excluding the ones who are not right will make you more money",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "marketing",
+        "sales",
+        "operations"
+      ],
+      "character_start": 4555,
+      "character_end": 4645
+    },
+    {
+      "slug": "pricing-strategy",
+      "title": "Exceptionally high proposal close rates signal underpriced services",
+      "explanation": "Codie Sanchez notes that experiencing an unusually high proposal acceptance rate indicates that service prices are set too low. Increasing prices until a portion of prospective buyers decline optimizes profit margins.",
+      "quote": "i believe if you're closing at an 83% rate you're too cheap They're not saying no to you enough",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "cash-flow",
+        "operations"
+      ],
+      "character_start": 15150,
+      "character_end": 15245
+    },
+    {
+      "slug": "wallet-share",
+      "title": "Increasing category wallet share expands customer revenue",
+      "explanation": "Codie Sanchez recommends evaluating how much target clients spend within a service category and designing offerings to capture a larger share of that budget. Expanding services to address related client needs increases overall revenue.",
+      "quote": "Analyze how much your customer spends then increase the percentage you are of that customer spend That's how you make more money",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "marketing",
+        "cash-flow"
+      ],
+      "character_start": 16847,
+      "character_end": 16975
+    },
+    {
+      "slug": "ascension-ladder",
+      "title": "Structuring tiered service progression drives natural client expansion",
+      "explanation": "Codie Sanchez advocates for creating an ascending ladder of service packages ranging from entry-level offerings to premium recurring tiers. Providing a clear upgrade path enables existing clients to expand their commitments naturally over time.",
+      "quote": "There should be a natural progression from the things you do that are the cheapest to the things you do that are the most expensive",
+      "speaker": "Codie Sanchez",
+      "tags": [
+        "sales",
+        "operations",
+        "cash-flow"
+      ],
+      "character_start": 17636,
+      "character_end": 17767
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "e3f358e0-eba0-4bed-9aab-1cd84d471867",
+  "extraction_response": "extraction-responses/1hk_VMEeoPQ-v2jRsAFnqXY-_IwYLXAXzx8-cCOhT7oWIew-kMV3vvZPk6Q-NViWUwkXizo-mnhhwBiFshA-8wbjlHuLGA8-MkP37sMi4KY-oRpjoHJcX4s.json"
+}

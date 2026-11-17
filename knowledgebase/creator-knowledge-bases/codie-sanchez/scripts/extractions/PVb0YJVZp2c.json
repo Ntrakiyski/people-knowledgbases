@@ -1,0 +1,67 @@
+{
+  "youtube_id": "PVb0YJVZp2c",
+  "thesis": "Achieving exceptional wealth requires adopting unconventional mental habits, aggressively eliminating anchors, and simplifying complex business strategies.",
+  "summary": "A speaker outlines uncommon personal habits that accelerate financial freedom. Overcoming instinctual comfort-seeking requires writing down primary daily revenue tasks before engaging in passive distractions. Practicing goal inversion by defining unwanted outcomes clarifies necessary trade-offs. Moving away from static hometown environments prevents social anchoring to past identities and encourages growth among high-achieving peers. Furthermore, rejecting overly complex financial schemes in favor of simple, execution-focused business models eliminates operational excuses.",
+  "insights": [
+    {
+      "slug": "revenue-task-prioritization",
+      "title": "Identify and execute key revenue tasks daily",
+      "explanation": "A speaker recommends writing down the primary task that directly generates revenue every morning before checking phone messages. Focusing on primary financial levers prevents passive task completion from substituting for progress.",
+      "quote": "every morning before you pick up your phone I want you to write one line The one task that if done and done only it actually makes you money",
+      "speaker": "Codie",
+      "tags": [
+        "productivity",
+        "operations",
+        "life-design"
+      ],
+      "character_start": 1922,
+      "character_end": 2062
+    },
+    {
+      "slug": "anti-goal-inversion",
+      "title": "Define unwanted anti-goals to clarify strategic trade-offs",
+      "explanation": "A speaker presents goal inversion as defining non-negotiable negative outcomes before listing positive ambitions. Identifying unwanted situations forces individuals to confront trade-offs and select winning priorities.",
+      "quote": "writing down the don't want list forces you to see something Your wants and your don't wants are on a seessaw Both can't sit at the top",
+      "speaker": "Codie",
+      "tags": [
+        "life-design",
+        "leadership",
+        "risk"
+      ],
+      "character_start": 3191,
+      "character_end": 3326
+    },
+    {
+      "slug": "relocating-social-anchors",
+      "title": "Distance oneself from social anchors that restrict personal growth",
+      "explanation": "A speaker observes that hometown social circles often anchor individuals to past identities. Relocating to new environments allows creators to build fresh narratives alongside ambitious peers.",
+      "quote": "If you want to do highlevel things in life if you want to make a ton of money you have to be around people who have already done those things",
+      "speaker": "Codie",
+      "tags": [
+        "life-design",
+        "leadership",
+        "learning"
+      ],
+      "character_start": 5330,
+      "character_end": 5471
+    },
+    {
+      "slug": "killing-strategic-complexity",
+      "title": "Eliminate strategic complexity in favor of simple execution",
+      "explanation": "A speaker warns that complex financial schemes often conceal high fees and unnecessary friction. Adopting simple, boring business execution removes excuses and drives reliable commercial results.",
+      "quote": "every time you're tempted by something complex ask yourself what is the boring obvious version of this then do that instead",
+      "speaker": "Codie",
+      "tags": [
+        "productivity",
+        "operations",
+        "investing"
+      ],
+      "character_start": 8857,
+      "character_end": 8980
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "cdb6912d-4799-4ef7-98dc-6dc79184f864",
+  "extraction_response": "extraction-responses/4XQ50qWSRO4-yveLqk3DCNs-DZNhrv5sv_0-ZvAwqGH_79Q-1CLeSVVDqFg-NOxLzAh-gUc-ksRcFGLPoSk-nSlZZ7TxNM8-PVb0YJVZp2c-PbBdBpBsP_s.json"
+}

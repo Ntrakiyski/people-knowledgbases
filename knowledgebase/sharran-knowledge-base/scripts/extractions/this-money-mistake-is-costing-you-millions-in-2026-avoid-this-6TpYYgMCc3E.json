@@ -1,0 +1,227 @@
+{
+  "slug": "this-money-mistake-is-costing-you-millions-in-2026-avoid-this-6TpYYgMCc3E",
+  "thesis": "Sharran identifies inflation, taxes, investment interruption, and fees as four recurring drains on retained wealth.",
+  "summary": "Sharran argues that earning more and trimming small purchases can miss four larger drains: inflation, taxes, interruption, and fees. He describes idle cash losing purchasing power and proposes comparing cash accounts and inflation-linked securities. His discussion of TIPS and the TIP ETF is simplified, and his suggestion that these or high-yield savings necessarily preserve purchasing power should remain attributed to him. He next advocates deliberate tax planning, including account location, holding periods, and attention to legal incentives rather than treating tax filing as a complete strategy.\n\nHe distinguishes a tax preparer’s compliance role from a strategist’s forward planning and suggests having the strategist coordinate with the preparer. Interruption refers to withdrawing or trading from a long-term portfolio because of fear, headlines, or consumption, thereby disrupting compounding. The final section illustrates recurring fee drag, compares QQQ with QQQM using the speaker’s claimed fee figures, and offers a practical adviser question: explain how everyone gets paid. His numerical return gaps, tax percentages, and ETF comparisons are examples or assertions in the video, not independently verified current facts.",
+  "tags": [
+    "wealth",
+    "inflation",
+    "taxes",
+    "fees",
+    "investing-behavior"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:01:34",
+      "note": "Introduces inflation and purchasing power."
+    },
+    {
+      "ts": "0:04:15",
+      "note": "Discusses inflation-protected securities."
+    },
+    {
+      "ts": "0:06:36",
+      "note": "Calls for a tax strategy."
+    },
+    {
+      "ts": "0:09:36",
+      "note": "Distinguishes asset location from allocation."
+    },
+    {
+      "ts": "0:12:37",
+      "note": "Separates tax preparation from strategy."
+    },
+    {
+      "ts": "0:14:22",
+      "note": "Introduces investment interruption."
+    },
+    {
+      "ts": "0:21:24",
+      "note": "Suggests asking how every participant gets paid."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "inflation-protection",
+      "name": "Inflation protection",
+      "one_liner": "Keep purchasing-power erosion visible when choosing how to hold money.",
+      "explanation": "Sharran uses a rising coffee price and idle bank balances to explain that unchanged nominal dollars can buy less over time. His instruction that every dollar needs a job motivates considering yield-bearing cash and inflation-linked securities. He describes high-yield savings, TIPS, and TIP in simplified terms that should not be read as guaranteeing any particular after-tax real return. The durable decision principle is to compare purchasing power, not only the number printed on an account statement.",
+      "tags": [
+        "inflation",
+        "cash",
+        "purchasing-power"
+      ],
+      "quotes": [
+        {
+          "ts": "0:02:45",
+          "text": "every dollar needs a job."
+        }
+      ],
+      "related": [
+        "risk-management",
+        "tax-efficiency"
+      ]
+    },
+    {
+      "slug": "tax-efficiency",
+      "name": "Tax efficiency",
+      "one_liner": "Plan legal tax consequences before treating gross income or returns as spendable wealth.",
+      "explanation": "Sharran treats tax planning as an investing priority and describes tax law as an incentive system. His examples include geographic residence, employer retirement matches, holding securities beyond a year, and selected investment incentives. The rates and sweeping claims about the tax code are his assertions rather than comprehensive legal guidance. He emphasizes retaining money already earned, but frames the process as knowing rules and documenting reality, not concealing income or assuming every claimed deduction applies.",
+      "tags": [
+        "tax",
+        "wealth",
+        "planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:54",
+          "text": "we do know the law and the follow the rules and document the truth"
+        }
+      ],
+      "related": [
+        "asset-location",
+        "tax-planning"
+      ]
+    },
+    {
+      "slug": "asset-location",
+      "name": "Asset location",
+      "one_liner": "Choose the account or legal setting in which an investment is held.",
+      "explanation": "Sharran explicitly distinguishes location from allocation: deciding between stocks and bonds is different from deciding which account holds them. He uses an employer-matched 401(k) as an example where contribution incentives and tax treatment affect the decision. Residence in a state with different income taxes is another contextual consideration, although he says his family accepts California’s cost for lifestyle reasons. The concept requires evaluating the container and circumstances alongside the investment itself.",
+      "tags": [
+        "accounts",
+        "tax",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:09:36",
+          "text": "I call this asset location. It's not about allocation"
+        }
+      ],
+      "related": [
+        "tax-efficiency",
+        "asset-allocation"
+      ]
+    },
+    {
+      "slug": "tax-planning",
+      "name": "Tax planning",
+      "one_liner": "Forward-looking tax strategy is a different service from preparing compliant returns.",
+      "explanation": "Sharran says a professional who only files returns may not be providing the planning he wants. He recommends explicitly engaging a strategist to identify lawful options, document them, and explain proposed treatment to the tax preparer. This shifts coordination away from a client trying to persuade an accountant about unfamiliar ideas. His sharp division is a service-role distinction in his approach, not proof that all accountants lack planning expertise or that a strategist can guarantee savings.",
+      "tags": [
+        "tax",
+        "advisers",
+        "planning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:12:37",
+          "text": "They are a tax preparer. They do compliance."
+        }
+      ],
+      "related": [
+        "tax-efficiency"
+      ]
+    },
+    {
+      "slug": "uninterrupted-compounding",
+      "name": "Uninterrupted compounding",
+      "one_liner": "Avoid unnecessary withdrawals and reactive trading that undermine a long-term investment plan.",
+      "explanation": "Sharran compares investing consistency with maintaining a fitness regimen: repeatedly stopping interferes with the intended process. He lists fear, news, market timing, and luxury purchases as reasons investors interrupt positions. His cited gap between market and investor returns is a claim in the video. He briefly mentions borrowing against portfolios for liquidity but defers detailed treatment, so this transcript does not substantively establish that borrowing is riskless or suitable. The core lesson is aligning behavior with the chosen horizon.",
+      "tags": [
+        "compounding",
+        "behavior",
+        "time"
+      ],
+      "quotes": [
+        {
+          "ts": "0:16:49",
+          "text": "Interruption crushes long-term returns."
+        }
+      ],
+      "related": [
+        "compound-growth",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "investment-fee-drag",
+      "name": "Investment fee drag",
+      "one_liner": "Small recurring charges can create substantial gaps in long-term investment value.",
+      "explanation": "Sharran contrasts a hypothetical 10% return with 9% after fees to show how ongoing charges and forgone growth accumulate. He also uses his claimed QQQ-to-QQQM comparison to encourage checking expense structures even for familiar ETFs. Those specific figures are not independently validated here. To reduce discomfort when speaking to an adviser, he suggests asking how the client, adviser, and funds each get paid, making incentives and costs a normal part of informed evaluation.",
+      "tags": [
+        "fees",
+        "investing",
+        "transparency"
+      ],
+      "quotes": [
+        {
+          "ts": "0:21:24",
+          "text": "help me understand how everybody gets paid?"
+        }
+      ],
+      "related": [
+        "investment-incentives",
+        "financial-literacy"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "tips",
+      "name": "Treasury Inflation-Protected Securities (TIPS)",
+      "subtype": "tool",
+      "one_liner": "US Treasury securities used to discuss inflation-linked cash management.",
+      "explanation": "Sharran describes TIPS as adjusting with CPI and says he uses them in managing cash. The explanation is simplified and sometimes describes the adjustment as an interest-rate feature. It should be retained as his teaching, without implying a guarantee about sale price or after-tax purchasing power.",
+      "quotes": [
+        {
+          "ts": "0:04:15",
+          "text": "Treasury inflation protection security, TIPS."
+        }
+      ],
+      "resource": "https://www.treasurydirect.gov/marketable-securities/tips/"
+    },
+    {
+      "slug": "tip-etf",
+      "name": "iShares TIPS Bond ETF (TIP)",
+      "subtype": "tool",
+      "one_liner": "An ETF Sharran presents as an accessible way to obtain TIPS exposure.",
+      "explanation": "Sharran names TIP as a fund alternative to directly purchasing inflation-protected Treasury securities and says he owns it. His characterization that it does the same thing is a simplification; the knowledge-base treatment should distinguish his example from a complete explanation of fund pricing and inflation protection.",
+      "quotes": [
+        {
+          "ts": "0:05:57",
+          "text": "there is actually a ETF called TIP."
+        }
+      ],
+      "resource": "https://www.ishares.com/us/products/239467/ishares-tips-bond-etf"
+    },
+    {
+      "slug": "qqq",
+      "name": "Invesco QQQ Trust (QQQ)",
+      "subtype": "tool",
+      "one_liner": "An ETF used as Sharran’s example of checking ongoing fund costs.",
+      "explanation": "Sharran says he invested in QQQ for technology-oriented equity exposure and later examined its fee structure. He contrasts it with QQQM to make investment expenses concrete. His stated percentage fee difference is a claim in the transcript, not a verified current expense comparison.",
+      "quotes": [
+        {
+          "ts": "0:19:36",
+          "text": "one of my favorite ETFs to invest in is called the Q's QQQ."
+        }
+      ],
+      "resource": "https://www.invesco.com/qqq-etf/en/home.html"
+    },
+    {
+      "slug": "qqqm",
+      "name": "Invesco NASDAQ 100 ETF (QQQM)",
+      "subtype": "tool",
+      "one_liner": "A fund Sharran compares with QQQ for long-term investing expenses.",
+      "explanation": "Sharran presents QQQM as providing similar exposure with lower costs for a long holding period. The stated seventy-five-percent reduction and description of identical structure should remain attributed to the speaker. The substantive role is illustrating why investors should inspect fees rather than assume familiar funds are cost equivalent.",
+      "quotes": [
+        {
+          "ts": "0:20:12",
+          "text": "there was another fund called the QQQM"
+        }
+      ],
+      "resource": "https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-QQQM"
+    }
+  ]
+}

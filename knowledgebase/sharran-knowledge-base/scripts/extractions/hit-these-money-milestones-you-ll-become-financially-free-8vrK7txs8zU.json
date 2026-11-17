@@ -1,0 +1,230 @@
+{
+  "slug": "hit-these-money-milestones-you-ll-become-financially-free-8vrK7txs8zU",
+  "thesis": "Sharran’s five financial milestones build income stability, money routing, tax-aware asset location, cash management, and investing infrastructure in sequence.",
+  "summary": "Sharran replaces status-driven financial targets with five operating milestones. First, active income should exceed monthly expenses; he illustrates increasing earnings through a marketable certification. Second, money should enter a quarterback account and be routed into separate lifestyle, tax, and surplus destinations. Third, asset location considers whether money sits in taxable or tax-advantaged accounts and, more broadly in his terminology, the tax consequences of residence. His simplified tax examples and security claims are presented as his approach rather than guarantees.\n\nThe fourth milestone gives cash a job through deliberate liquidity and return choices. He discusses high-yield savings, staggered CD maturities, and his personal mix of SCHO, SCHD, TIP, and SGOV. Those instruments have different risks; his quarter allocations and projected yields are personal examples. Only after these foundations does he discuss investing for ownership, naming broad-company and real-estate funds as accessible starting points. His TIGA approach emphasizes small income-generating positions and learning before large commitments, with VOO and VNQ used as family examples.",
+  "tags": [
+    "financial-milestones",
+    "income",
+    "cash-management",
+    "investing",
+    "taxes"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:01:13",
+      "note": "Introduces income exceeding expenses."
+    },
+    {
+      "ts": "0:05:12",
+      "note": "Builds a money distribution system."
+    },
+    {
+      "ts": "0:08:13",
+      "note": "Distinguishes asset location from allocation."
+    },
+    {
+      "ts": "0:13:21",
+      "note": "Introduces deliberate cash management."
+    },
+    {
+      "ts": "0:16:12",
+      "note": "Explains staggered CD maturities."
+    },
+    {
+      "ts": "0:17:25",
+      "note": "Describes his personal four-fund mix."
+    },
+    {
+      "ts": "0:21:11",
+      "note": "Uses small company and real-estate fund positions as investing examples."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "income-margin",
+      "name": "Income margin",
+      "one_liner": "Earned income must consistently exceed recurring living expenses to create a usable surplus.",
+      "explanation": "Sharran makes income exceeding monthly expenses the first milestone because it establishes day-to-day stability before more complex investing. His roommate’s project-management certificate illustrates improving earning ability after unexpected family medical costs. The claimed salary increase is an anecdote, not a promise about certifications. The essential task is to compare actual income with the lifestyle it funds and address a deficit, rather than beginning with prestige targets or investments that cannot repair ongoing negative cash flow.",
+      "tags": [
+        "income",
+        "expenses",
+        "stability"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:30",
+          "text": "your active income is greater than your monthly expenses."
+        }
+      ],
+      "related": [
+        "skill-development",
+        "money-distribution-system"
+      ]
+    },
+    {
+      "slug": "money-distribution-system",
+      "name": "Money distribution system",
+      "one_liner": "Route incoming money into distinct destinations for spending, taxes, and surplus.",
+      "explanation": "Sharran calls the intake account the quarterback because its job is distribution rather than holding all family money. He proposes moving a fixed lifestyle amount to a separate spending account and reserving taxes when they are not withheld, leaving surplus visible. He also says keeping little money in the public-facing account limits exposure if details leak; that is his limited security rationale, not comprehensive fraud protection. The primary lesson is explicit money flow instead of one commingled balance.",
+      "tags": [
+        "cash-flow",
+        "accounts",
+        "budgeting"
+      ],
+      "quotes": [
+        {
+          "ts": "0:05:43",
+          "text": "job of a quarterback is to distribute the ball."
+        }
+      ],
+      "related": [
+        "income-margin",
+        "cash-management"
+      ]
+    },
+    {
+      "slug": "asset-location",
+      "name": "Asset location",
+      "one_liner": "Choose the account and tax setting in which assets are held.",
+      "explanation": "Sharran contrasts deciding what to buy with deciding where holdings live. He discusses taxable brokerage accounts, employer-matched retirement plans, other retirement arrangements, and a donor-advised fund. He also extends location to physical residence and state income taxes. The tax descriptions are simplified and conditional, and family lifestyle can outweigh a lower-tax address in his own case. The durable practice is to make the container decision deliberately before assuming two otherwise similar investment positions have identical economics.",
+      "tags": [
+        "tax",
+        "accounts",
+        "investing"
+      ],
+      "quotes": [
+        {
+          "ts": "0:08:29",
+          "text": "the before you do any magic formula, you want to think about asset location"
+        }
+      ],
+      "related": [
+        "tax-efficiency",
+        "asset-allocation"
+      ]
+    },
+    {
+      "slug": "cash-management",
+      "name": "Cash management",
+      "one_liner": "Assign liquid money a deliberate role while balancing access, return, and risk.",
+      "explanation": "Sharran argues that cash should do more than sit in a low-yield checking account. He compares high-yield savings, CDs, and a personal four-fund portfolio intended to combine distributions, Treasury exposure, inflation linkage, and some equity growth. His approach is described transparently as his own, with encouragement to assess fit with an adviser. The examples are not equivalent substitutes for insured cash, and claimed yields or inflation protection should remain attributed to him.",
+      "tags": [
+        "cash",
+        "liquidity",
+        "allocation"
+      ],
+      "quotes": [
+        {
+          "ts": "0:13:54",
+          "text": "every dollar should have a job."
+        }
+      ],
+      "related": [
+        "cd-ladder",
+        "asset-allocation",
+        "inflation-protection"
+      ]
+    },
+    {
+      "slug": "cd-ladder",
+      "name": "CD ladder",
+      "one_liner": "Stagger deposit maturities to create recurring opportunities for liquidity.",
+      "explanation": "Sharran explains a ladder as dividing money among CDs maturing at different dates rather than locking everything into a single term. His example assigns equal portions to three-, six-, nine-, twelve-, and fifteen-month maturities, making a tranche available every three months. He uses the technique to balance interest and access. His description of CDs as completely inaccessible during a term is simplified; the concept itself concerns scheduled maturities and avoiding dependence on one distant liquidity date.",
+      "tags": [
+        "cash",
+        "liquidity",
+        "deposits"
+      ],
+      "quotes": [
+        {
+          "ts": "0:16:40",
+          "text": "every 3 months, I have an option for liquidity."
+        }
+      ],
+      "related": [
+        "cash-management",
+        "risk-management"
+      ]
+    },
+    {
+      "slug": "tiny-income-generating-assets",
+      "name": "Tiny income-generating assets",
+      "one_liner": "Small ownership positions build investing habits without requiring an entire business or property.",
+      "explanation": "After the first four milestones, Sharran introduces investing as gaining equity in companies and real estate. He describes his son buying a small piece of VOO after reading a book and identifies VNQ as an accessible real-estate fund. These are his family examples rather than individualized recommendations. TIGA makes the ownership step practical with small sums, linking established cash-flow infrastructure to asset accumulation rather than leaping immediately to a large rental property or speculative stock tip.",
+      "tags": [
+        "investing",
+        "equity",
+        "learning"
+      ],
+      "quotes": [
+        {
+          "ts": "0:22:10",
+          "text": "A tiny income generating asset. TIGA, tiny income generating asset."
+        }
+      ],
+      "related": [
+        "cash-flow-investing",
+        "ownership-upside",
+        "wealth-ladder"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "voo",
+      "name": "Vanguard S&P 500 ETF (VOO)",
+      "subtype": "tool",
+      "one_liner": "A broad-company fund used in Sharran’s family investing example.",
+      "explanation": "Sharran says his son uses book-reading rewards to purchase fractional exposure to VOO. He uses it to explain that a person can own a small piece of many businesses without operating one. This is a practical ownership illustration, not a claim that the fund is suitable for every goal.",
+      "quotes": [
+        {
+          "ts": "0:21:25",
+          "text": "VOO is the Vanguard index that allows you to invest in the entire S&P 500."
+        }
+      ],
+      "resource": "https://investor.vanguard.com/investment-products/etfs/profile/voo"
+    },
+    {
+      "slug": "vnq",
+      "name": "Vanguard Real Estate ETF (VNQ)",
+      "subtype": "tool",
+      "one_liner": "The real-estate fund Sharran uses to illustrate accessible property exposure.",
+      "explanation": "Sharran describes VNQ as a way for himself and his son to invest in real estate without buying or managing an individual rental. It serves the TIGA teaching of starting with small equity positions. His broad characterization of geographic exposure is attributed to the video.",
+      "quotes": [
+        {
+          "ts": "0:21:54",
+          "text": "the investment ticker that we use is VNQ"
+        }
+      ],
+      "resource": "https://investor.vanguard.com/investment-products/etfs/profile/vnq"
+    },
+    {
+      "slug": "schd",
+      "name": "Schwab U.S. Dividend Equity ETF (SCHD)",
+      "subtype": "tool",
+      "one_liner": "The equity-income component of Sharran’s personal cash-management mix.",
+      "explanation": "Sharran includes SCHD alongside Treasury-related funds in his personal four-part allocation and describes it as providing dividends plus some equity growth. Its presence does not make the entire portfolio equivalent to an insured savings account; the video offers a personal allocation for suitability discussion.",
+      "quotes": [
+        {
+          "ts": "0:17:25",
+          "text": "SCHD is a fund of"
+        }
+      ],
+      "resource": "https://www.schwabassetmanagement.com/products/schd"
+    },
+    {
+      "slug": "tip-etf",
+      "name": "iShares TIPS Bond ETF (TIP)",
+      "subtype": "tool",
+      "one_liner": "An inflation-linked bond fund included in Sharran’s personal portfolio.",
+      "explanation": "Sharran includes TIP in a quarter-weighted personal mix and describes it as protection against inflation. This is his simplified characterization of a fund holding inflation-protected securities, not a guarantee about market value or real returns at every sale date.",
+      "quotes": [
+        {
+          "ts": "0:17:46",
+          "text": "The third is TIP, which is a Treasury Inflation Protected Security."
+        }
+      ],
+      "resource": "https://www.ishares.com/us/products/239467/ishares-tips-bond-etf"
+    }
+  ]
+}

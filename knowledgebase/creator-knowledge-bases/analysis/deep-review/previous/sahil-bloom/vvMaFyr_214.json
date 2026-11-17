@@ -1,0 +1,37 @@
+{
+  "youtube_id": "vvMaFyr_214",
+  "thesis": "The launch vlog contrasts external achievement with anxiety and the value of relationships.",
+  "summary": "Selected passages show acute anxiety before a bestseller announcement, a reported number-two result, and reflection on relationships as a source of business opportunities and fulfillment. The result and causal interpretation are self-reported. This selected review does not substantiate all personal-history themes in the automatic guide.",
+  "insights": [
+    {
+      "slug": "achievement-pressure",
+      "title": "Include emotional experience in achievement narratives",
+      "explanation": "The creator describes severe stress even while expecting a strong launch. The milestone does not by itself establish inner security.",
+      "quote": "I was in the worst like Panic anxiety stress fear",
+      "character_start": 144,
+      "character_end": 193,
+      "tags": [
+        "mindset",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "relationship-investment",
+      "title": "Treat relationships as more than transactions",
+      "explanation": "The creator credits people with meaningful business opportunities. The attribution is his retrospective interpretation, not measured causality.",
+      "quote": "it wasn't about identifying businesses it was about the right people",
+      "character_start": 10115,
+      "character_end": 10183,
+      "tags": [
+        "relationships",
+        "business"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "95e883c7-c7ff-45da-82cf-c031ba5935e8",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}

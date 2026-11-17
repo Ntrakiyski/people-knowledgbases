@@ -1,0 +1,66 @@
+{
+  "youtube_id": "mRlSb0O5QNU",
+  "thesis": "Service companies accelerate growth by standardizing baseline pricing models, creating dynamic cost calculators, and conducting structured daily sales role-play training.",
+  "summary": "In a strategic coaching discussion, Alex guides Joey on transforming an event planning enterprise through operational discipline and sales optimization. Alex identifies arbitrary pricing as a key barrier to scaling and recommends constructing dynamic cost calculators that establish consistent profit margins. To eliminate cash-flow delays, Alex advises implementing upfront payment discounts alongside structured price guarantees. The strategy restructures sales representatives into dedicated booking roles, allowing executive leadership to close high-value opportunities. Implementing these operational adjustments demonstrates that combining standardized pricing tools with disciplined sales coaching creates scalable revenue growth.",
+  "insights": [
+    {
+      "slug": "standardized-dynamic-pricing",
+      "title": "Establish standardized dynamic pricing to protect operating margins",
+      "explanation": "Alex advises service owners to build dynamic cost models that calculate exact project expenses before quoting clients. Standardizing pricing rules prevents arbitrary estimates, shortens sales delays, and protects gross profit margins.",
+      "quote": "we'll fix how we're selling it and then uh if we're selling it well we can price it the way we want to price it",
+      "speaker": "Alex",
+      "tags": [
+        "operations",
+        "sales",
+        "cash-flow"
+      ],
+      "character_start": 4546,
+      "character_end": 4657
+    },
+    {
+      "slug": "live-sales-invoicing",
+      "title": "Present proposals live during calls to handle client objections",
+      "explanation": "Alex emphasizes that sales teams must review invoices directly during live conversations rather than sending static emails. Presenting terms live allows representatives to address immediate concerns and resolve prospect hesitations.",
+      "quote": "never present an invoice via email should always be over the phone because they're going to have questions and you want to be the person who can answer those questions",
+      "speaker": "Alex",
+      "tags": [
+        "sales",
+        "communication"
+      ],
+      "character_start": 8645,
+      "character_end": 8812
+    },
+    {
+      "slug": "daily-sales-roleplay",
+      "title": "Implement daily role-play training to accelerate feedback loops",
+      "explanation": "Alex notes that sales teams improve through frequent practice rather than passive instruction. Conducting daily check-ins and interactive role-play exercises establishes clear feedback loops that refine messaging and boost conversion rates.",
+      "quote": "you have to get them to try and so that you can correct them and have more feedback loops",
+      "speaker": "Alex",
+      "tags": [
+        "hiring",
+        "leadership",
+        "sales"
+      ],
+      "character_start": 19556,
+      "character_end": 19645
+    },
+    {
+      "slug": "ruthless-operational-focus",
+      "title": "Focus resources on proven channels by eliminating operational distractions",
+      "explanation": "Alex explains that entrepreneurs limit business potential by pursuing excessive initiatives simultaneously. Achieving substantial scale requires selecting high-return acquisition channels and ruthlessly removing secondary activities that dilute team focus.",
+      "quote": "a lot of things can work but none of them will work if you try to do them all",
+      "speaker": "Alex",
+      "tags": [
+        "productivity",
+        "operations",
+        "leadership"
+      ],
+      "character_start": 41483,
+      "character_end": 41560
+    }
+  ],
+  "review_status": "machine-extracted",
+  "notebook_id": "d365d84e-d246-4769-9937-d336cf2d0d63",
+  "source_id": "7260d555-5fcd-436e-93cc-601686710327",
+  "extraction_response": "extraction-responses/mRlSb0O5QNU-OHu1FY1R-x0-ZTSI3DDP_4A-138y93ywE_g-B-ogfFiQpXg-fj5uxdv_j5Y-aRVv5NLVRwE-8VqSFBMMS4M.json"
+}

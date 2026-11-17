@@ -1,0 +1,173 @@
+{
+  "slug": "once-i-learned-this-at-goldman-sachs-my-life-changed-4aYxXWC5DGQ",
+  "thesis": "Sharran explains leaving Goldman Sachs through lessons about advisory fees, ownership upside, operating sacrifice, and choosing work that fits.",
+  "summary": "Sharran recounts joining Goldman Sachs after business school and later reconsidering the economics and purpose of advisory work. He criticizes recurring fees, illustrates their compounding effect, and explains why he preferred structured notes that he believed gave clients more predictable outcomes. His product descriptions are simplified personal examples. A client’s business sale then made the contrast between transaction fees and ownership proceeds concrete for him.\n\nHe describes an investor-client introducing him to a struggling real-estate company, discovering alleged embezzlement during diligence, and backing his move into operating ownership. He says he extracted home equity through a private arrangement to buy his stake, received mentorship, and took no salary for an extended period while learning the job. The account includes his claimed growth and exit of Telus Properties. He closes by separating personal vocation from status: employment, professional services, and entrepreneurship can all be valid paths, but becoming excellent at work one hates is a poor goal.",
+  "tags": [
+    "entrepreneurship",
+    "ownership",
+    "fees",
+    "career",
+    "mentorship"
+  ],
+  "key_moments": [
+    {
+      "ts": "0:00:35",
+      "note": "Explains concern about fees."
+    },
+    {
+      "ts": "0:02:44",
+      "note": "Describes structured notes."
+    },
+    {
+      "ts": "0:04:25",
+      "note": "Contrasts ownership proceeds with fees."
+    },
+    {
+      "ts": "0:06:18",
+      "note": "Recounts diligence and an operating opportunity."
+    },
+    {
+      "ts": "0:09:52",
+      "note": "Discusses unpaid work and personal exposure."
+    },
+    {
+      "ts": "0:10:31",
+      "note": "Reframes career choice as finding fit."
+    }
+  ],
+  "concepts": [
+    {
+      "slug": "investment-fee-drag",
+      "name": "Investment fee drag",
+      "one_liner": "Recurring investment fees reduce returns and future compounding.",
+      "explanation": "Sharran says discomfort with financial-industry fees helped motivate his career change. He compares a hypothetical million-dollar investment compounding at 10% with a 9% return after a one-percentage-point fee over twenty years. His claimed cumulative cost includes lost growth as well as fees. He describes charging for cash management as particularly troubling, while acknowledging that asset management can be a lucrative business whose clients trust the advisers.",
+      "tags": [
+        "fees",
+        "investing",
+        "compound-growth"
+      ],
+      "quotes": [
+        {
+          "ts": "0:01:14",
+          "text": "the fees over time significantly started to add up."
+        }
+      ],
+      "related": [
+        "compound-growth",
+        "investment-incentives"
+      ]
+    },
+    {
+      "slug": "risk-management",
+      "name": "Risk management",
+      "one_liner": "Investment choices can deliberately exchange upside for a more bounded outcome.",
+      "explanation": "Sharran describes structured notes as products he favored for clients who had already built and sold businesses and wanted greater certainty. His examples trade capped participation in a rising market for reduced exposure to a falling one. This is a simplified description of his advisory approach, with inconsistent phrasing about numerical bounds in the transcript, rather than a complete product specification. The teaching is to align risk and upside with a client’s goals.",
+      "tags": [
+        "risk",
+        "investing",
+        "certainty"
+      ],
+      "quotes": [
+        {
+          "ts": "0:03:48",
+          "text": "they were okay with not getting all the upside on things but they wanted to protect themselves from the downside."
+        }
+      ],
+      "related": [
+        "investment-fee-drag"
+      ]
+    },
+    {
+      "slug": "ownership-upside",
+      "name": "Ownership upside",
+      "one_liner": "Business ownership has a different economic payoff from earning service fees.",
+      "explanation": "A client’s claimed hundred-million-dollar sale prompts Sharran to compare the owner’s proceeds with Goldman’s million-dollar transaction fee. He says the client suggested he would need many advisory transactions to equal one ownership outcome. The anecdote does not establish that entrepreneurship reliably pays more: Sharran later emphasizes the personal capital, unpaid work, and operating risk he accepted. Ownership is a different economic position with exposure to both growth and business failure.",
+      "tags": [
+        "ownership",
+        "entrepreneurship",
+        "equity"
+      ],
+      "quotes": [
+        {
+          "ts": "0:04:57",
+          "text": "you're going to have to do a hundred of these deals to get to what I made in one deal."
+        }
+      ],
+      "related": [
+        "skin-in-the-game",
+        "career-fit"
+      ]
+    },
+    {
+      "slug": "skin-in-the-game",
+      "name": "Skin in the game",
+      "one_liner": "Ownership opportunities can require personal capital, unpaid effort, and exposure to failure.",
+      "explanation": "Sharran counters the idea that an investor simply handed him a business opportunity. He says he used a private home-equity arrangement to fund his stake, entered an unfamiliar industry, and worked without compensation for eighteen to twenty-four months. An experienced chairman supplied mentorship, but did not remove the need to develop operating skill. His account uses these sacrifices to explain the real price of the opportunity rather than recommend copying the financing.",
+      "tags": [
+        "risk",
+        "ownership",
+        "entrepreneurship"
+      ],
+      "quotes": [
+        {
+          "ts": "0:10:13",
+          "text": "there was also a massive amount of skin in the game and sacrifice to learn."
+        }
+      ],
+      "related": [
+        "ownership-upside",
+        "skill-development"
+      ]
+    },
+    {
+      "slug": "career-fit",
+      "name": "Career fit",
+      "one_liner": "Choose work that matches personal fit rather than professional status alone.",
+      "explanation": "Sharran frames leaving banking as discovering which work suited him, not proving entrepreneurship universally superior. He explicitly says people can make money as bankers, lawyers, employees, or entrepreneurs. His distinction is between a personally appropriate role and becoming skilled at something one dislikes. Operating a company also exposed how little he initially knew, so fit did not eliminate daily learning, mistakes, and mentorship. The lesson is to choose a direction worth developing competence in.",
+      "tags": [
+        "career",
+        "self-knowledge",
+        "work"
+      ],
+      "quotes": [
+        {
+          "ts": "0:11:06",
+          "text": "you don't want to get good at something that you hate."
+        }
+      ],
+      "related": [
+        "skill-development",
+        "ownership-upside"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "slug": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "subtype": "organization",
+      "one_liner": "The bank where Sharran’s advisory experience shaped his career decision.",
+      "explanation": "Goldman provides the setting for lessons about investment fees, client certainty, and the difference between advising owners and being one. He recounts hiring and client interactions as personal experience rather than an independent evaluation of the firm.",
+      "quotes": [
+        {
+          "ts": "0:00:01",
+          "text": "In 2008, I joined Goldman Sachs as a banker on Wall Street"
+        }
+      ],
+      "resource": "https://www.goldmansachs.com/"
+    },
+    {
+      "slug": "telus-properties",
+      "name": "Telus Properties",
+      "subtype": "organization",
+      "one_liner": "The real-estate business Sharran describes acquiring and operating.",
+      "explanation": "Sharran says this business began his operating career with one office and twenty-eight agents. He recounts funding a stake, learning under an investor-chairman, taking no salary for a period, and eventually growing and selling the company. Growth figures and prior-management allegations are his account.",
+      "quotes": [
+        {
+          "ts": "0:07:56",
+          "text": "the company's name was Telus Properties."
+        }
+      ]
+    }
+  ]
+}

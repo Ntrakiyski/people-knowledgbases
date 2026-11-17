@@ -1,0 +1,68 @@
+{
+  "youtube_id": "np6CwvTYTAM",
+  "thesis": "The tool ranking is a subjective business-use assessment with substantial portfolio interests.",
+  "summary": "Martell rates tools by his perceived money, time and energy invested versus returned. He favors Claude, his Apex product, Gemini and workflow tools; discusses learning, dictation, video, finance, coaching, social selling and voice use cases; and makes several rankings conditional on business type. He discloses ownership in Apex, Frank, BuddyPro, Social Sweep, Revio and Atlas and closes with directing work and checking the loop.",
+  "insights": [
+    {
+      "slug": "tool-roi-context",
+      "title": "Evaluate a tool against the relevant workflow",
+      "explanation": "His stated criterion includes time, effort and cost, but the evaluations remain subjective.",
+      "quote": "money time and energy into the tool the cost everything versus how much it gives you back",
+      "tags": [
+        "ai",
+        "tools"
+      ],
+      "character_start": 911,
+      "character_end": 1000,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "portfolio-interest-disclosure",
+      "title": "Keep ownership visible alongside endorsements",
+      "explanation": "Apex is explicitly identified as his business before receiving his highest placement.",
+      "quote": "this is one of my companies within martell ventures",
+      "tags": [
+        "ai",
+        "commercial-interests"
+      ],
+      "character_start": 4458,
+      "character_end": 4509,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "conditional-tool-fit",
+      "title": "A specialist tool may not fit every business",
+      "explanation": "He limits the social-selling recommendation to companies actually selling through chat.",
+      "quote": "if you're doing sell by chat this is the product if you're not probably won't work for you",
+      "tags": [
+        "tools",
+        "fit"
+      ],
+      "character_start": 19283,
+      "character_end": 19373,
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "agent-operating-costs",
+      "title": "Open agents also require maintenance and security expertise",
+      "explanation": "His OpenClaw discussion acknowledges that users struggle to keep an instance working.",
+      "quote": "it creates massive security issues and support issues",
+      "tags": [
+        "agents",
+        "operations"
+      ],
+      "character_start": 4304,
+      "character_end": 4357,
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "94decc99-30c9-40f7-bfe4-9cdd471f17e0",
+  "review_status": "Codex editorial draft; complete local transcript read; claims not independently verified",
+  "synthesis_method": "Direct Codex extraction from complete local transcript; exact quotations verified locally",
+  "context_and_limits": "No systematic benchmark, controlled comparison or independently verified ROI is supplied, despite the 500-tool title. Rankings depend on his workflows and commercial interests. Perfect recall/security/accuracy claims, model revenues and forecasts are unverified. The opening S-tier transcription says bad while subsequent choices clearly treat it as highest; the ending ChatGPT reversal is explicitly a joke. Silent recording is described as his practice, not generalized permission.",
+  "review_changes": "Adds use-case dependency, disclosed ownership, evaluation limits and satire handling; does not convert an opinion list into a neutral best-tools catalog.",
+  "deep_review_date": "2026-11-16T20:58:22.937227+00:00",
+  "previous_draft": "analysis/deep-review/previous/dan-martell/np6CwvTYTAM.json",
+  "previous_draft_sha256": "f722ce5a8218abe284cd95032fb66d9375dc82c990f58af9af475d80dff98741"
+}

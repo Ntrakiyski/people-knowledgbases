@@ -1,0 +1,50 @@
+{
+  "youtube_id": "oUdNG82hnyA",
+  "thesis": "Selected creator advice protects audience trust and develops one monetization approach at a time.",
+  "summary": "The reviewed passages criticize promoting unused products and extracting revenue from every interaction. The creator favors generous information, paid implementation, replying to comments, and focusing on one revenue strategy. These are his commercial and editorial principles, not demonstrated guarantees of growth or a required ratio of free to paid work.",
+  "insights": [
+    {
+      "slug": "trust-monetization-tradeoff",
+      "title": "Inspect what a promotion costs in audience trust",
+      "explanation": "The source criticizes selling products the creator does not use. This is a stated standard rather than evidence about all sponsorships.",
+      "quote": "they're selling stuff that they don't even use themselves",
+      "character_start": 10912,
+      "character_end": 10969,
+      "tags": [
+        "creator-strategy",
+        "trust"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "information-implementation-model",
+      "title": "Distinguish free education from paid execution",
+      "explanation": "The source describes information and implementation as different offers. It does not establish that the model fits every audience.",
+      "quote": "then people pay you for implementation",
+      "character_start": 15748,
+      "character_end": 15786,
+      "tags": [
+        "business-models",
+        "education"
+      ],
+      "speaker": "unresolved"
+    },
+    {
+      "slug": "monetization-focus",
+      "title": "Develop one revenue mechanism before adding several",
+      "explanation": "The creator proposes choosing a strategy rather than simultaneously building every possible channel.",
+      "quote": "don't try to build them all at once master one",
+      "character_start": 17579,
+      "character_end": 17625,
+      "tags": [
+        "focus",
+        "creator-strategy"
+      ],
+      "speaker": "unresolved"
+    }
+  ],
+  "notebook_id": "3fbc2cd7-c4fa-4d66-af45-c63f5edeb34b",
+  "source_id": "7aa488ec-f927-4a83-a644-b71f44d975f3",
+  "review_status": "Codex editorial draft; selected source passages reviewed; not exhaustive",
+  "synthesis_method": "Codex analysis of automatic source guide and selected original transcript passages; exact quotations verified locally; complete transcript not exhaustively reviewed"
+}
